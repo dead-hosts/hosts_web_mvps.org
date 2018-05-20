@@ -1,0 +1,32 @@
+env:
+  global:
+    - secure: D+NL5qyVkanCdrrjMuRoQbuBvB9ttGIaR1fl6E1mFZSs7zrnAPAWMsKpdGgZXXuvWKVZqVIK/g9AaIgpHPWv7fTTzgmBHc3Eg+GVFvf7fL5cYqrT4ePjvDB+T2zWmWmgZqewxy+gVwNYVaN/EbGHt2iKTBHgJBT9yRmtDk2W7wCB6LlZDkrpSJie+IeBaLnfbhJsG5nm7bCh3b8gujcveLU/3OFkgDWnt8FtDRGopNYZbpfBUO/ThG3hEMqsMVmyWRnBt0n0UTC7jx9/McMXygJqYnTequiFfGAhrrUgJkFA5BrGtmuzVUg+YOKMYKE691O+kU7MfTBIdrQmp8fzHRZhBCkYQD0Rtcd6j8LqsRmpfvCLJT5wUGZsDIIoTL2pEi1m1mzFjX5RAXbsv6hCdcpzWtY4GbwwcGjQdI5RNOA6t3NoLLJTzLa3Vf3/BUel0ZrxVW4hEZ6DIzYBO5BppHUquqJP2h/HEnWiK39neNga3ajGLy1++vFlnneyqsl4klQM/Y84FfIj5a/8R2fa6S1hHtNqQg+Np1sd5ocBiA9w35JNpallbCX1w+XobCudpBSD4wOCpXJTYZXbOz6vnqCHPv8rix8euJQJATUBk3EdBM1nH95sOW3LVb7EgqYML7fUjt0c9sObmhQXw0VMtMt37h2+zwR+EwrzqSolcNk=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: funilrys@outlook.com
+    - TRAVIS_REPO_SLUG: dead-hosts/hosts_web_mvps.org
+    - GIT_BRANCH: master
+
+language: python
+
+python:
+  - "3.6"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - apt
+  - pip
+
+sudo: required
+
+install:
+  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble
+  - sudo apt-get -y install dos2unix
+
+script:
+  - python3 ./update_me.py
+
+notifications:
+  on_success:   change
+  on_failure:   always
