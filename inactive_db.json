@@ -8,9 +8,7 @@
             "adimages.scrippsnetworks.com",
             "admin.ads.t-online.de",
             "ads.asia1.com.sg",
-            "ads.healthline.com"
-        ],
-        "to_test": [
+            "ads.healthline.com",
             "ads.linuxjournal.com",
             "ads.popfolkstars.com",
             "ads.reviewcentre.com",
@@ -20,7 +18,9 @@
             "adserv.roundrockmedia.com",
             "adserver.finditquick.com",
             "adserver.gallerytrafficservice.com",
-            "adserver.omroepflevoland.nl",
+            "adserver.omroepflevoland.nl"
+        ],
+        "to_test": [
             "adtag.asiaone.com",
             "adtags-core-03-eu.adtags.pro",
             "adv.casinopays.com",
