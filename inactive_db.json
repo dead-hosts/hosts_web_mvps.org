@@ -1,9 +1,11 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
-        "1527299785": [
+        "1527472549": [
             "___id___.c.mystat-in.net",
             "a.jumptap.com",
-            "ad.amiadogroup.com",
+            "ad.amiadogroup.com"
+        ],
+        "to_test": [
             "adbcache.brandreachsys.com",
             "adimages.scrippsnetworks.com",
             "admin.ads.t-online.de",
@@ -119,9 +121,7 @@
             "www.tangabilder.to",
             "www.themexp.org",
             "www.traficmax.fr",
-            "ycv.clearshieldredirect.com"
-        ],
-        "to_test": [
+            "ycv.clearshieldredirect.com",
             "222-33544_999.pub.adfirmative.com"
         ]
     }
