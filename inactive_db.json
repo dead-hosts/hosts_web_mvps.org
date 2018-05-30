@@ -25,9 +25,7 @@
             "adtags-core-03-eu.adtags.pro",
             "adv.casinopays.com",
             "api.bizographics.com",
-            "avalon.topbucks.com"
-        ],
-        "to_test": [
+            "avalon.topbucks.com",
             "bannerads.mantecabulletin.com",
             "banners.audioholics.com",
             "banners.lativio.com",
@@ -35,7 +33,9 @@
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
             "botw.topbucks.com",
-            "bw.ads.t-online.de",
+            "bw.ads.t-online.de"
+        ],
+        "to_test": [
             "cdn.adplxmd.com",
             "cdn.qbaka.net",
             "cdn1.clkmon.com",
