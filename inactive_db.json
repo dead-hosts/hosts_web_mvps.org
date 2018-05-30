@@ -14,9 +14,7 @@
             "ads.linuxjournal.com",
             "ads.popfolkstars.com",
             "ads.reviewcentre.com",
-            "ads.tripican.com"
-        ],
-        "to_test": [
+            "ads.tripican.com",
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
             "adserv.roundrockmedia.com",
@@ -25,7 +23,9 @@
             "adserver.omroepflevoland.nl",
             "adtag.asiaone.com",
             "adtags-core-03-eu.adtags.pro",
-            "adv.casinopays.com",
+            "adv.casinopays.com"
+        ],
+        "to_test": [
             "api.bizographics.com",
             "avalon.topbucks.com",
             "bannerads.mantecabulletin.com",
