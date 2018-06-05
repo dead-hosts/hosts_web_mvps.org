@@ -52,9 +52,7 @@
             "img.ads.mocean.mobi",
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
-            "js.cybermonitor.com"
-        ],
-        "to_test": [
+            "js.cybermonitor.com",
             "o.sa.aol.com",
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
@@ -85,7 +83,9 @@
             "p.adframesrc.com",
             "partner.finditquick.com",
             "philadelphia_cbslocal.us.intellitxt.com",
-            "ping.qbaka.net",
+            "ping.qbaka.net"
+        ],
+        "to_test": [
             "pr.realvu.net",
             "red.ads.t-online.de",
             "rotator.axiatraders.com",
