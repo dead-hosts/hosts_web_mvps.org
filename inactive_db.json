@@ -2,15 +2,14 @@
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
         "1528803795": [
             "sscdn.banners.advidi.com",
-            "stat-tracker.net"
-        ],
-        "to_test": [
+            "stat-tracker.net",
             "themexp.ezthemes.com",
             "top.gde.ru",
             "topdesktop.ezthemes.com",
-            "track.www.zazzle.com",
             "tradefx.advertserve.com",
-            "u.optorb.com",
+            "u.optorb.com"
+        ],
+        "to_test": [
             "utsdpp.persgroep.net",
             "video.od.visiblemeasures.com",
             "vra.outbrain.com",
