@@ -8,9 +8,7 @@
             "ad.where.com",
             "adimages.scrippsnetworks.com",
             "admin.ads.t-online.de",
-            "ads.asia1.com.sg"
-        ],
-        "to_test": [
+            "ads.asia1.com.sg",
             "ads.fresh.bg",
             "ads.healthline.com",
             "ads.linuxjournal.com",
@@ -18,6 +16,9 @@
             "ads.reviewcentre.com",
             "ads.trafficpimps.com",
             "ads.tripican.com",
+            "ads1.cricbuzz.com"
+        ],
+        "to_test": [
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
             "adserver.finditquick.com",
