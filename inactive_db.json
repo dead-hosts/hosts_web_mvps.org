@@ -28,9 +28,7 @@
             "banners.audioholics.com",
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
-            "beacon.thred.woven.com"
-        ],
-        "to_test": [
+            "beacon.thred.woven.com",
             "bw.ads.t-online.de",
             "cc.webpower.com",
             "cdn.adplxmd.com",
@@ -39,7 +37,9 @@
             "cdn1.clkads.com",
             "cdn1.clkcln.com",
             "cdn1.clkmon.com",
-            "click.readme.ru",
+            "click.readme.ru"
+        ],
+        "to_test": [
             "cv.bsvideos.com",
             "data.ads.t-online.de",
             "delivery.optimatic.com",
