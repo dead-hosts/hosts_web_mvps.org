@@ -60,9 +60,7 @@
             "mb.datingadzone.com",
             "metrics.mercola.com",
             "n.targetbtracker.com",
-            "n.targetctracker.com"
-        ],
-        "to_test": [
+            "n.targetctracker.com",
             "o.sa.aol.com",
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
@@ -102,7 +100,9 @@
             "philadelphia_cbslocal.us.intellitxt.com",
             "ping.qbaka.net",
             "pmetrics.performancing.com",
-            "pr.realvu.net",
+            "pr.realvu.net"
+        ],
+        "to_test": [
             "red.ads.t-online.de",
             "rotator.axiatraders.com",
             "s.ads.t-online.de",

@@ -1,8 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
-        "down": 81,
-        "invalid": 3,
-        "tested": 7503,
-        "up": 7419
+        "down": 123,
+        "invalid": 4,
+        "tested": 8373,
+        "up": 8246
     }
 }
