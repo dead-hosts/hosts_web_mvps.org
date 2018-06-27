@@ -22,9 +22,7 @@
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
             "adserver.finditquick.com",
-            "adserver.omroepflevoland.nl"
-        ],
-        "to_test": [
+            "adserver.omroepflevoland.nl",
             "adtag.asiaone.com",
             "adtags-core-03-eu.adtags.pro",
             "adverserve.austriacomplus.at",
@@ -32,6 +30,10 @@
             "api.bizographics.com",
             "aus.laola1.tv",
             "austria1.adverserve.net",
+            "b-aws.aol.com",
+            "b-aws.huffingtonpost.com"
+        ],
+        "to_test": [
             "bannerads.mantecabulletin.com",
             "banners.audioholics.com",
             "beacon.mediahuis.be",
