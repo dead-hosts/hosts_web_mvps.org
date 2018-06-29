@@ -20,9 +20,7 @@
             "ads.tripican.com",
             "ads1.cricbuzz.com",
             "ads56-us-east.stickyadstv.com",
-            "adserv.bulletinmarketing.com"
-        ],
-        "to_test": [
+            "adserv.bulletinmarketing.com",
             "adserver.finditquick.com",
             "adserver.omroepflevoland.nl",
             "adtag.asiaone.com",
@@ -31,7 +29,9 @@
             "advrts-1.revenue-tracker.com",
             "api.bizographics.com",
             "aus.laola1.tv",
-            "austria1.adverserve.net",
+            "austria1.adverserve.net"
+        ],
+        "to_test": [
             "b-aws.aol.com",
             "b-aws.huffingtonpost.com",
             "bannerads.mantecabulletin.com",
