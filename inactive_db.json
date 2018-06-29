@@ -159,9 +159,7 @@
             "www.counter4you.net",
             "www.ezthemes.com",
             "www.findit-quick.com",
-            "www.gpr.hu"
-        ],
-        "to_test": [
+            "www.gpr.hu",
             "www.herbalsmokeshops.com",
             "www.livestat.com",
             "www.myclickbankads.com",
@@ -169,7 +167,9 @@
             "www.tangabilder.to",
             "www.themexp.org",
             "www.top300.ro",
-            "www.trafficflame.com",
+            "www.trafficflame.com"
+        ],
+        "to_test": [
             "123.ichkoche.at"
         ]
     }
