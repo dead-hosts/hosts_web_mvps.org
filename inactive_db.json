@@ -159,9 +159,7 @@
             "w10.localadbuy.com",
             "wateristian.com",
             "wba.wirtschaftsblatt.at",
-            "werbung.diepresse.com"
-        ],
-        "to_test": [
+            "werbung.diepresse.com",
             "www.accuserveadsystem.com",
             "www.adroz.com",
             "www.adtactics.com",
@@ -175,7 +173,9 @@
             "www.findit-quick.com",
             "www.gpr.hu",
             "www.herbalsmokeshops.com",
-            "www.livestat.com",
+            "www.livestat.com"
+        ],
+        "to_test": [
             "www.myclickbankads.com",
             "www.onlinewebservice3.de",
             "www.ranking-charts.de",
