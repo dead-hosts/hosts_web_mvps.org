@@ -74,9 +74,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "jmm.livestat.com",
-            "js.cybermonitor.com"
-        ],
-        "to_test": [
+            "js.cybermonitor.com",
             "mb.datingadzone.com",
             "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
@@ -88,7 +86,9 @@
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
-            "oascentral.salemweb.net",
+            "oascentral.salemweb.net"
+        ],
+        "to_test": [
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "orders.webpower.com",
