@@ -14,9 +14,7 @@
             "ads.asia1.com.sg",
             "ads.clipconverter.cc",
             "ads.darikweb.com",
-            "ads.fresh.bg"
-        ],
-        "to_test": [
+            "ads.fresh.bg",
             "ads.linuxjournal.com",
             "ads.newsgeek.co.il",
             "ads.popfolkstars.com",
@@ -27,7 +25,9 @@
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
             "adserver.finditquick.com",
-            "adserver.omroepflevoland.nl",
+            "adserver.omroepflevoland.nl"
+        ],
+        "to_test": [
             "adtag.asiaone.com",
             "adtags-core-03-eu.adtags.pro",
             "adv.rockstar.bg",
