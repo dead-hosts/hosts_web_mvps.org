@@ -33,9 +33,7 @@
             "adtags-core-03-eu.adtags.pro",
             "adverserve.austriacomplus.at",
             "advrts-1.revenue-tracker.com",
-            "api.bizographics.com"
-        ],
-        "to_test": [
+            "api.bizographics.com",
             "aus.laola1.tv",
             "austria1.adverserve.net",
             "b-aws.aol.com",
@@ -45,7 +43,9 @@
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
-            "bw.ads.t-online.de",
+            "bw.ads.t-online.de"
+        ],
+        "to_test": [
             "cache.btrll.com",
             "cc.webpower.com",
             "cdn.dabhit.com",
