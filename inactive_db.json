@@ -193,9 +193,7 @@
             "www.livestat.com",
             "www.myclickbankads.com",
             "www.onlinewebservice3.de",
-            "www.ranking-charts.de"
-        ],
-        "to_test": [
+            "www.ranking-charts.de",
             "www.tangabilder.to",
             "www.themexp.org",
             "www.top1.ro",
@@ -203,7 +201,9 @@
             "www.top99.ro",
             "www.topadult.ro",
             "www.trafficflame.com",
-            "ym.bannerconnect.net",
+            "ym.bannerconnect.net"
+        ],
+        "to_test": [
             "123.ichkoche.at"
         ]
     }
