@@ -14,9 +14,7 @@
             "adonline.e-kolay.net",
             "ads.asia1.com.sg",
             "ads.clipconverter.cc",
-            "ads.fresh.bg"
-        ],
-        "to_test": [
+            "ads.fresh.bg",
             "ads.linuxjournal.com",
             "ads.monogram.sk",
             "ads.newsgeek.co.il",
@@ -28,7 +26,9 @@
             "ads1.cricbuzz.com",
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
-            "adserver.finditquick.com",
+            "adserver.finditquick.com"
+        ],
+        "to_test": [
             "adserver.omroepflevoland.nl",
             "adserver.powerlinks.com",
             "adtag.asiaone.com",
