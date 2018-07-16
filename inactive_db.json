@@ -167,9 +167,7 @@
             "track.keywordstrategy.org",
             "tradefx.advertserve.com",
             "u.optorb.com",
-            "utsdpp.persgroep.net"
-        ],
-        "to_test": [
+            "utsdpp.persgroep.net",
             "vast.optimatic.com",
             "video.od.visiblemeasures.com",
             "vra.outbrain.com",
@@ -184,7 +182,9 @@
             "www.best-top.hu",
             "www.bitsfarmclean.com",
             "www.blog-hits.com",
-            "www.blogtoplist.com",
+            "www.blogtoplist.com"
+        ],
+        "to_test": [
             "www.cloudtracked.com",
             "www.counter4you.net",
             "www.ezthemes.com",
