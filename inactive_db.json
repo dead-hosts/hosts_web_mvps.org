@@ -194,12 +194,9 @@
             "www.blog-hits.com",
             "www.blogtoplist.com",
             "www.cloudtracked.com",
-            "www.counter4you.net"
-        ],
-        "to_test": [
+            "www.counter4you.net",
             "www.ezthemes.com",
             "www.findit-quick.com",
-            "www.freecounter.it",
             "www.gpr.hu",
             "www.herbalsmokeshops.com",
             "www.livestat.com",
@@ -208,7 +205,9 @@
             "www.ranking-charts.de",
             "www.tangabilder.to",
             "www.themexp.org",
-            "www.top1.ro",
+            "www.top1.ro"
+        ],
+        "to_test": [
             "www.top300.ro",
             "www.top99.ro",
             "www.topadult.ro",
