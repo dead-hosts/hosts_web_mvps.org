@@ -164,13 +164,16 @@
             "s2.trafficmaxx.de",
             "s3.trafficmaxx.de",
             "secure.webresint.com",
-            "sky.estat.com"
-        ],
-        "to_test": [
+            "sky.estat.com",
             "spns.seriousads.net",
             "squid.diepresse.com",
+            "sscdn.banners.advidi.com",
             "stat-tracker.net",
-            "themexp.ezthemes.com",
+            "stats.darikweb.com",
+            "sync.darikweb.com",
+            "themexp.ezthemes.com"
+        ],
+        "to_test": [
             "top.gde.ru",
             "topdesktop.ezthemes.com",
             "track.keywordstrategy.org",
