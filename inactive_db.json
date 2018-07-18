@@ -179,9 +179,7 @@
             "u.optorb.com",
             "utsdpp.persgroep.net",
             "vast.optimatic.com",
-            "video.od.visiblemeasures.com"
-        ],
-        "to_test": [
+            "video.od.visiblemeasures.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
             "w10.localadbuy.com",
@@ -196,7 +194,9 @@
             "www.blog-hits.com",
             "www.blogtoplist.com",
             "www.cloudtracked.com",
-            "www.counter4you.net",
+            "www.counter4you.net"
+        ],
+        "to_test": [
             "www.ezthemes.com",
             "www.findit-quick.com",
             "www.freecounter.it",
