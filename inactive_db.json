@@ -46,9 +46,7 @@
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
-            "bw.ads.t-online.de"
-        ],
-        "to_test": [
+            "bw.ads.t-online.de",
             "cache.btrll.com",
             "cc.webpower.com",
             "cdn.dabhit.com",
@@ -60,7 +58,10 @@
             "cdnmedia.xyz",
             "click.icetraffic.com",
             "click.readme.ru",
-            "count.vivistats.com",
+            "com-morningstar.netmng.com",
+            "count.vivistats.com"
+        ],
+        "to_test": [
             "cu.genesismedia.com",
             "cv.bsvideos.com",
             "data.ads.t-online.de",
