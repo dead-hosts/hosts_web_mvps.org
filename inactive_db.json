@@ -88,9 +88,7 @@
             "mb.datingadzone.com",
             "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
-            "mobilede.nuggad.net"
-        ],
-        "to_test": [
+            "mobilede.nuggad.net",
             "n.targetbtracker.com",
             "n.targetctracker.com",
             "ntracking.optimatic.com",
@@ -141,7 +139,9 @@
             "p9762.adskape.ru",
             "partner.finditquick.com",
             "philadelphia_cbslocal.us.intellitxt.com",
-            "php.genesismedia.com",
+            "php.genesismedia.com"
+        ],
+        "to_test": [
             "ping.qbaka.net",
             "pr.realvu.net",
             "rainbow-de.mythings.com",
