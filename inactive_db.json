@@ -178,9 +178,7 @@
             "tradefx.advertserve.com",
             "u.optorb.com",
             "utsdpp.persgroep.net",
-            "vast.optimatic.com"
-        ],
-        "to_test": [
+            "vast.optimatic.com",
             "video.od.visiblemeasures.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
@@ -195,7 +193,9 @@
             "www.bitsfarmclean.com",
             "www.blog-hits.com",
             "www.blogtoplist.com",
-            "www.cloudtracked.com",
+            "www.cloudtracked.com"
+        ],
+        "to_test": [
             "www.counter4you.net",
             "www.ezthemes.com",
             "www.findit-quick.com",
