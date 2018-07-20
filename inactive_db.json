@@ -1,14 +1,17 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
-        "1531880475": [
+        "1532053432": [
             "222-33544_999.pub.adfirmative.com",
             "___id___.c.mystat-in.net",
             "a.ads.t-online.de",
+            "a.goember.com",
             "a.jumptap.com",
             "ad.amiadogroup.com",
             "ad.e-kolay.net",
             "ad.eurosport.com",
-            "ad.where.com",
+            "ad.where.com"
+        ],
+        "to_test": [
             "adimages.scrippsnetworks.com",
             "admin.ads.t-online.de",
             "adonline.e-kolay.net",
@@ -211,9 +214,7 @@
             "www.topadult.ro",
             "www.trafficflame.com",
             "www1.darikweb.com",
-            "ym.bannerconnect.net"
-        ],
-        "to_test": [
+            "ym.bannerconnect.net",
             "123.ichkoche.at"
         ]
     }
