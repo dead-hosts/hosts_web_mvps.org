@@ -170,9 +170,7 @@
             "squid.diepresse.com",
             "stat-tracker.net",
             "stats.darikweb.com",
-            "sync.darikweb.com"
-        ],
-        "to_test": [
+            "sync.darikweb.com",
             "themexp.ezthemes.com",
             "top.gde.ru",
             "topdesktop.ezthemes.com",
@@ -180,7 +178,9 @@
             "tradefx.advertserve.com",
             "u.optorb.com",
             "utsdpp.persgroep.net",
-            "vast.optimatic.com",
+            "vast.optimatic.com"
+        ],
+        "to_test": [
             "video.od.visiblemeasures.com",
             "vra.outbrain.com",
             "vrp.outbrain.com",
