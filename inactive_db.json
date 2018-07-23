@@ -29,9 +29,7 @@
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
             "adserve.advertising.com",
-            "adserver.finditquick.com"
-        ],
-        "to_test": [
+            "adserver.finditquick.com",
             "adserver.omroepflevoland.nl",
             "adserver.powerlinks.com",
             "adserverc.cliipa.com",
@@ -41,7 +39,9 @@
             "adverserve.austriacomplus.at",
             "advrts-1.revenue-tracker.com",
             "adx.darikweb.com",
-            "api.bizographics.com",
+            "api.bizographics.com"
+        ],
+        "to_test": [
             "aus.laola1.tv",
             "austria1.adverserve.net",
             "b-aws.aol.com",
