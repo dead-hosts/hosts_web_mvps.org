@@ -96,9 +96,7 @@
             "js.cybermonitor.com",
             "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
-            "mobilede.nuggad.net"
-        ],
-        "to_test": [
+            "mobilede.nuggad.net",
             "n.targetbtracker.com",
             "n.targetctracker.com",
             "ntracking.optimatic.com",
@@ -149,8 +147,11 @@
             "p78878.adskape.ru",
             "p9762.adskape.ru",
             "partner.finditquick.com",
+            "peelads.hustler.com",
             "php.genesismedia.com",
-            "ping.qbaka.net",
+            "ping.qbaka.net"
+        ],
+        "to_test": [
             "pr.realvu.net",
             "rainbow-de.mythings.com",
             "rainbow-es.mythings.com",
