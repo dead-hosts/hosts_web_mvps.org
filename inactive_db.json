@@ -95,9 +95,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "metrics.mercola.com"
-        ],
-        "to_test": [
+            "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
             "mobilede.nuggad.net",
             "n.targetbtracker.com",
@@ -149,7 +147,9 @@
             "p543.adskape.ru",
             "p78878.adskape.ru",
             "p9762.adskape.ru",
-            "partner.finditquick.com",
+            "partner.finditquick.com"
+        ],
+        "to_test": [
             "peelads.hustler.com",
             "php.genesismedia.com",
             "ping.qbaka.net",
