@@ -167,9 +167,7 @@
             "rainbow.mythings.com",
             "rd.advertising.com",
             "red.ads.t-online.de",
-            "rotator.axiatraders.com"
-        ],
-        "to_test": [
+            "rotator.axiatraders.com",
             "rq.adtrackdirect.com",
             "rq.trackingadirect.com",
             "s.ads.t-online.de",
@@ -177,7 +175,9 @@
             "s.uadx.com",
             "s2.trafficmaxx.de",
             "s3.trafficmaxx.de",
-            "secure.webresint.com",
+            "secure.webresint.com"
+        ],
+        "to_test": [
             "sky.estat.com",
             "spns.seriousads.net",
             "squid.diepresse.com",
