@@ -12,9 +12,7 @@
             "ad.eurosport.com",
             "ad.trident.net",
             "ad.where.com",
-            "ad1.netshelter.net"
-        ],
-        "to_test": [
+            "ad1.netshelter.net",
             "ad2.netshelter.net",
             "ad4.netshelter.net",
             "ad5.netshelter.net",
@@ -26,7 +24,9 @@
             "ads.betternetworker.com",
             "ads.clipconverter.cc",
             "ads.darikweb.com",
-            "ads.fresh.bg",
+            "ads.fresh.bg"
+        ],
+        "to_test": [
             "ads.linuxjournal.com",
             "ads.monogram.sk",
             "ads.newsgeek.co.il",
