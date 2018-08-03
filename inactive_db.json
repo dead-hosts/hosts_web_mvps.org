@@ -46,9 +46,7 @@
             "adverserve.austriacomplus.at",
             "advrts-1.revenue-tracker.com",
             "adx.darikweb.com",
-            "api.bizographics.com"
-        ],
-        "to_test": [
+            "api.bizographics.com",
             "aus.laola1.tv",
             "austria1.adverserve.net",
             "b-aws.aol.com",
@@ -57,7 +55,9 @@
             "banners.audioholics.com",
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
-            "beacon.thred.woven.com",
+            "beacon.thred.woven.com"
+        ],
+        "to_test": [
             "bw.ads.t-online.de",
             "cache.btrll.com",
             "cc.webpower.com",
