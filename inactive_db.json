@@ -216,9 +216,7 @@
             "www.blogtoplist.com",
             "www.cloudtracked.com",
             "www.counter4you.net",
-            "www.ezthemes.com"
-        ],
-        "to_test": [
+            "www.ezthemes.com",
             "www.findit-quick.com",
             "www.gbcash.com",
             "www.gpr.hu",
@@ -234,7 +232,9 @@
             "www.top1.ro",
             "www.top300.ro",
             "www.top99.ro",
-            "www.topadult.ro",
+            "www.topadult.ro"
+        ],
+        "to_test": [
             "www1.darikweb.com",
             "xpop.co",
             "ym.bannerconnect.net",
