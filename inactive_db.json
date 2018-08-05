@@ -151,9 +151,7 @@
             "partner.finditquick.com",
             "peelads.hustler.com",
             "php.genesismedia.com",
-            "ping.qbaka.net"
-        ],
-        "to_test": [
+            "ping.qbaka.net",
             "pr.realvu.net",
             "prof.beta.estat.com",
             "rainbow-de.mythings.com",
@@ -176,7 +174,9 @@
             "rq.trackingadirect.com",
             "s.ads.t-online.de",
             "s.sa.aol.com",
-            "s.uadx.com",
+            "s.uadx.com"
+        ],
+        "to_test": [
             "s2.trafficmaxx.de",
             "s3.trafficmaxx.de",
             "secure.webresint.com",
