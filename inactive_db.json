@@ -22,9 +22,7 @@
             "ads.betternetworker.com",
             "ads.clipconverter.cc",
             "ads.darikweb.com",
-            "ads.fresh.bg"
-        ],
-        "to_test": [
+            "ads.fresh.bg",
             "ads.linuxjournal.com",
             "ads.monogram.sk",
             "ads.newsgeek.co.il",
@@ -40,7 +38,9 @@
             "adserve.advertising.com",
             "adserver.finditquick.com",
             "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
+            "adserver.powerlinks.com"
+        ],
+        "to_test": [
             "adserverc.cliipa.com",
             "adservicedomain.info",
             "adtag.asiaone.com",
