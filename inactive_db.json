@@ -100,9 +100,7 @@
             "mobilede-dp.nuggad.net",
             "mobilede.nuggad.net",
             "n.targetbtracker.com",
-            "n.targetctracker.com"
-        ],
-        "to_test": [
+            "n.targetctracker.com",
             "ntracking.optimatic.com",
             "o.sa.aol.com",
             "oas.autotrader.co.uk",
@@ -153,7 +151,9 @@
             "partner.finditquick.com",
             "peelads.hustler.com",
             "php.genesismedia.com",
-            "ping.qbaka.net",
+            "ping.qbaka.net"
+        ],
+        "to_test": [
             "pr.realvu.net",
             "prof.beta.estat.com",
             "rainbow-de.mythings.com",
