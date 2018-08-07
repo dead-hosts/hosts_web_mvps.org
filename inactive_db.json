@@ -230,9 +230,8 @@
             "www.myclickbankads.com",
             "www.nowgifttown.com",
             "www.onlinewebservice3.de",
-            "www.optimum-hits.com"
-        ],
-        "to_test": [
+            "www.optimum-hits.com",
+            "www.reelcentric.com",
             "www.regdefense.com",
             "www.tangabilder.to",
             "www.themexp.org",
@@ -242,7 +241,9 @@
             "www.topadult.ro",
             "www1.darikweb.com",
             "xpop.co",
-            "ym.bannerconnect.net",
+            "ym.bannerconnect.net"
+        ],
+        "to_test": [
             "123.ichkoche.at"
         ]
     }
