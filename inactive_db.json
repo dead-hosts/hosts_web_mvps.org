@@ -100,9 +100,7 @@
             "metrics.hhgregg.com",
             "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
-            "mobilede.nuggad.net"
-        ],
-        "to_test": [
+            "mobilede.nuggad.net",
             "n.targetbtracker.com",
             "n.targetctracker.com",
             "ntracking.optimatic.com",
@@ -145,7 +143,6 @@
             "ox-d.socialknowledge.servedbyopenx.com",
             "ox-d.thechive.servedbyopenx.com",
             "ox-d.washingtonpost.servedbyopenx.com",
-            "ox.dateland.co.il",
             "p.adframesrc.com",
             "p13178.adskape.ru",
             "p1574.adskape.ru",
@@ -157,7 +154,9 @@
             "partner.finditquick.com",
             "peelads.hustler.com",
             "php.genesismedia.com",
-            "ping.qbaka.net",
+            "ping.qbaka.net"
+        ],
+        "to_test": [
             "pr.realvu.net",
             "prof.beta.estat.com",
             "rainbow-de.mythings.com",
