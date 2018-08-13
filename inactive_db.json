@@ -133,9 +133,7 @@
             "php.genesismedia.com",
             "ping.qbaka.net",
             "pr.realvu.net",
-            "prof.beta.estat.com"
-        ],
-        "to_test": [
+            "prof.beta.estat.com",
             "rainbow-de.mythings.com",
             "rainbow-es.mythings.com",
             "rainbow-fi.mythings.com",
@@ -158,7 +156,9 @@
             "s.sa.aol.com",
             "s.uadx.com",
             "s2.trafficmaxx.de",
-            "s3.trafficmaxx.de",
+            "s3.trafficmaxx.de"
+        ],
+        "to_test": [
             "secure.webresint.com",
             "sky.estat.com",
             "spns.seriousads.net",
