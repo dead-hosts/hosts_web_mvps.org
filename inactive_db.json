@@ -31,9 +31,7 @@
             "bbcdn.code.intext.billboard.cz",
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
-            "beacon.thred.woven.com"
-        ],
-        "to_test": [
+            "beacon.thred.woven.com",
             "bw.ads.t-online.de",
             "cache.btrll.com",
             "cc.webpower.com",
@@ -47,7 +45,10 @@
             "cdnmedia.xyz",
             "click.icetraffic.com",
             "click.readme.ru",
-            "code.intext.billboard.cz",
+            "clkmon.com",
+            "code.intext.billboard.cz"
+        ],
+        "to_test": [
             "collector.savvyads.com",
             "count.vivistats.com",
             "counter.internet.ge",
