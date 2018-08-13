@@ -86,9 +86,7 @@
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
-            "oascentral.salemweb.net"
-        ],
-        "to_test": [
+            "oascentral.salemweb.net",
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "opera1-servedby.advertising.com",
@@ -135,7 +133,9 @@
             "php.genesismedia.com",
             "ping.qbaka.net",
             "pr.realvu.net",
-            "prof.beta.estat.com",
+            "prof.beta.estat.com"
+        ],
+        "to_test": [
             "rainbow-de.mythings.com",
             "rainbow-es.mythings.com",
             "rainbow-fi.mythings.com",
