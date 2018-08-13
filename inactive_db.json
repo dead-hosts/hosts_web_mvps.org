@@ -164,10 +164,9 @@
             "stat-tracker.net",
             "stats.complex.com",
             "stats.darikweb.com",
-            "sync.darikweb.com"
-        ],
-        "to_test": [
+            "sync.darikweb.com",
             "t.adonly.com",
+            "t1.tentaculos.net",
             "themexp.ezthemes.com",
             "top.gde.ru",
             "topdesktop.ezthemes.com",
@@ -176,7 +175,9 @@
             "track.popmog.com",
             "track.www.zazzle.com",
             "tradefx.advertserve.com",
-            "u.optorb.com",
+            "u.optorb.com"
+        ],
+        "to_test": [
             "utsdpp.persgroep.net",
             "vast.optimatic.com",
             "video.od.visiblemeasures.com",
