@@ -1,6 +1,35 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
-        "1534127674": [
+        "1534300646": [
+            "___id___.c.mystat-in.net",
+            "a.ads.t-online.de",
+            "a.jumptap.com",
+            "a.visualrevenue.com",
+            "ad.amiadogroup.com",
+            "ad.e-kolay.net",
+            "ad.eurosport.com",
+            "ad.trident.net",
+            "ad.where.com"
+        ],
+        "to_test": [
+            "ad1.netshelter.net",
+            "ad2.netshelter.net",
+            "ad4.netshelter.net",
+            "ad5.netshelter.net",
+            "adexcite.com",
+            "adg.bzgint.com",
+            "adimages.scrippsnetworks.com",
+            "admin.ads.t-online.de",
+            "adonline.e-kolay.net",
+            "ads.asia1.com.sg",
+            "ads.betternetworker.com",
+            "ads.clipconverter.cc",
+            "ads.darikweb.com",
+            "ads.fresh.bg",
+            "ads.linuxjournal.com",
+            "ads.newsgeek.co.il",
+            "ads.popfolkstars.com",
+            "ads.reviewcentre.com",
             "ads.thehorse.com",
             "ads.trafficpimps.com",
             "ads.tripican.com",
@@ -217,37 +246,8 @@
             "www.topadult.ro",
             "www1.darikweb.com",
             "xpop.co",
-            "ym.bannerconnect.net"
-        ],
-        "to_test": [
-            "123.ichkoche.at",
-            "___id___.c.mystat-in.net",
-            "a.ads.t-online.de",
-            "a.jumptap.com",
-            "a.visualrevenue.com",
-            "ad.amiadogroup.com",
-            "ad.e-kolay.net",
-            "ad.eurosport.com",
-            "ad.trident.net",
-            "ad.where.com",
-            "ad1.netshelter.net",
-            "ad2.netshelter.net",
-            "ad4.netshelter.net",
-            "ad5.netshelter.net",
-            "adexcite.com",
-            "adg.bzgint.com",
-            "adimages.scrippsnetworks.com",
-            "admin.ads.t-online.de",
-            "adonline.e-kolay.net",
-            "ads.asia1.com.sg",
-            "ads.betternetworker.com",
-            "ads.clipconverter.cc",
-            "ads.darikweb.com",
-            "ads.fresh.bg",
-            "ads.linuxjournal.com",
-            "ads.newsgeek.co.il",
-            "ads.popfolkstars.com",
-            "ads.reviewcentre.com"
+            "ym.bannerconnect.net",
+            "123.ichkoche.at"
         ]
     }
 }
