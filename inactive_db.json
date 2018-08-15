@@ -9,14 +9,10 @@
             "ad.e-kolay.net",
             "ad.eurosport.com",
             "ad.trident.net",
-            "ad.where.com"
-        ],
-        "to_test": [
-            "ad1.netshelter.net",
+            "ad.where.com",
             "ad2.netshelter.net",
             "ad4.netshelter.net",
             "ad5.netshelter.net",
-            "adexcite.com",
             "adg.bzgint.com",
             "adimages.scrippsnetworks.com",
             "admin.ads.t-online.de",
@@ -25,7 +21,10 @@
             "ads.betternetworker.com",
             "ads.clipconverter.cc",
             "ads.darikweb.com",
-            "ads.fresh.bg",
+            "ads.fresh.bg"
+        ],
+        "to_test": [
+            "ad1.netshelter.net",
             "ads.linuxjournal.com",
             "ads.newsgeek.co.il",
             "ads.popfolkstars.com",
