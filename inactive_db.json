@@ -152,12 +152,7 @@
             "partner.finditquick.com",
             "peelads.hustler.com",
             "php.genesismedia.com",
-            "ping.qbaka.net"
-        ],
-        "to_test": [
-            "ad1.netshelter.net",
-            "adserver.finditquick.com",
-            "data.ads.t-online.de",
+            "ping.qbaka.net",
             "pr.realvu.net",
             "prof.beta.estat.com",
             "rainbow-de.mythings.com",
@@ -182,7 +177,12 @@
             "s.sa.aol.com",
             "s.uadx.com",
             "s2.trafficmaxx.de",
-            "s3.trafficmaxx.de",
+            "s3.trafficmaxx.de"
+        ],
+        "to_test": [
+            "ad1.netshelter.net",
+            "adserver.finditquick.com",
+            "data.ads.t-online.de",
             "secure.webresint.com",
             "sky.estat.com",
             "spns.seriousads.net",
