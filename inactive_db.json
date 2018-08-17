@@ -10,12 +10,7 @@
             "ad.eurosport.com",
             "ad.trident.net",
             "ad.where.com",
-            "ad1.netshelter.net"
-        ],
-        "to_test": [
-            "adserver.finditquick.com",
-            "data.ads.t-online.de",
-            "www.gbcash.com",
+            "ad1.netshelter.net",
             "ad2.netshelter.net",
             "ad4.netshelter.net",
             "ad5.netshelter.net",
@@ -23,11 +18,17 @@
             "adimages.scrippsnetworks.com",
             "admin.ads.t-online.de",
             "adonline.e-kolay.net",
+            "ads.24.com",
             "ads.asia1.com.sg",
             "ads.betternetworker.com",
             "ads.clipconverter.cc",
             "ads.darikweb.com",
-            "ads.fresh.bg",
+            "ads.fresh.bg"
+        ],
+        "to_test": [
+            "adserver.finditquick.com",
+            "data.ads.t-online.de",
+            "www.gbcash.com",
             "ads.linuxjournal.com",
             "ads.newsgeek.co.il",
             "ads.popfolkstars.com",
