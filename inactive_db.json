@@ -37,12 +37,7 @@
             "ads1.cricbuzz.com",
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
-            "adserve.advertising.com"
-        ],
-        "to_test": [
-            "adserver.finditquick.com",
-            "data.ads.t-online.de",
-            "www.gbcash.com",
+            "adserve.advertising.com",
             "adserver.omroepflevoland.nl",
             "adserver.powerlinks.com",
             "adserverc.cliipa.com",
@@ -53,7 +48,12 @@
             "advertisement.bg",
             "advrts-1.revenue-tracker.com",
             "adx.darikweb.com",
-            "api.bizographics.com",
+            "api.bizographics.com"
+        ],
+        "to_test": [
+            "adserver.finditquick.com",
+            "data.ads.t-online.de",
+            "www.gbcash.com",
             "aus.laola1.tv",
             "austria1.adverserve.net",
             "b-aws.aol.com",
