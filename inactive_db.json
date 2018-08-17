@@ -104,12 +104,7 @@
             "metrics.hhgregg.com",
             "metrics.mercola.com",
             "mobilede-dp.nuggad.net",
-            "mobilede.nuggad.net"
-        ],
-        "to_test": [
-            "adserver.finditquick.com",
-            "data.ads.t-online.de",
-            "www.gbcash.com",
+            "mobilede.nuggad.net",
             "n.targetbtracker.com",
             "n.targetctracker.com",
             "ntracking.optimatic.com",
@@ -119,6 +114,7 @@
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
             "oascentral.salemweb.net",
+            "oascentral.warcry.com",
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "opera1-servedby.advertising.com",
@@ -161,7 +157,12 @@
             "p78878.adskape.ru",
             "p9762.adskape.ru",
             "partner.finditquick.com",
-            "peelads.hustler.com",
+            "peelads.hustler.com"
+        ],
+        "to_test": [
+            "adserver.finditquick.com",
+            "data.ads.t-online.de",
+            "www.gbcash.com",
             "php.genesismedia.com",
             "ping.qbaka.net",
             "pr.realvu.net",
