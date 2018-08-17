@@ -60,12 +60,7 @@
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
-            "bw.ads.t-online.de"
-        ],
-        "to_test": [
-            "adserver.finditquick.com",
-            "data.ads.t-online.de",
-            "www.gbcash.com",
+            "bw.ads.t-online.de",
             "cache.btrll.com",
             "cc.webpower.com",
             "cdn.complexmedianetwork.com",
@@ -78,7 +73,12 @@
             "click.icetraffic.com",
             "click.readme.ru",
             "code.intext.billboard.cz",
-            "collector.savvyads.com",
+            "collector.savvyads.com"
+        ],
+        "to_test": [
+            "adserver.finditquick.com",
+            "data.ads.t-online.de",
+            "www.gbcash.com",
             "count.vivistats.com",
             "counter.internet.ge",
             "cu.genesismedia.com",
