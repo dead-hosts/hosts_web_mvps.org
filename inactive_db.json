@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
-        "1534524005": [
+        "1534666786": [
             "___id___.c.mystat-in.net",
             "a.ads.t-online.de",
             "a.jumptap.com",
@@ -10,7 +10,18 @@
             "ad.eurosport.com",
             "ad.trident.net",
             "ad.where.com",
-            "ad1.netshelter.net",
+            "ad1.netshelter.net"
+        ],
+        "to_test": [
+            "adserver.finditquick.com",
+            "data.ads.t-online.de",
+            "php.genesismedia.com",
+            "ping.qbaka.net",
+            "s.uadx.com",
+            "stat-tracker.net",
+            "track.popmog.com",
+            "werbung.diepresse.com",
+            "www.herbalsmokeshops.com",
             "ad2.netshelter.net",
             "ad4.netshelter.net",
             "ad5.netshelter.net",
@@ -294,18 +305,7 @@
             "www1.darikweb.com",
             "xclusive.ly",
             "xpop.co",
-            "ym.bannerconnect.net"
-        ],
-        "to_test": [
-            "adserver.finditquick.com",
-            "data.ads.t-online.de",
-            "php.genesismedia.com",
-            "ping.qbaka.net",
-            "s.uadx.com",
-            "stat-tracker.net",
-            "track.popmog.com",
-            "werbung.diepresse.com",
-            "www.herbalsmokeshops.com",
+            "ym.bannerconnect.net",
             "123.ichkoche.at"
         ]
     }
