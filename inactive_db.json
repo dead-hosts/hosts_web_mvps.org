@@ -290,12 +290,7 @@
             "www.myclickbankads.com",
             "www.nowgifttown.com",
             "www.onlinewebservice3.de",
-            "www.optimum-hits.com"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "adserver.powerlinks.com",
-            "www.promotion-campaigns.com",
+            "www.optimum-hits.com",
             "www.regdefense.com",
             "www.tangabilder.to",
             "www.themexp.org",
@@ -304,9 +299,13 @@
             "www.top99.ro",
             "www.topadult.ro",
             "www1.darikweb.com",
-            "xclusive.ly",
             "xpop.co",
-            "ym.bannerconnect.net",
+            "ym.bannerconnect.net"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
+            "adserver.powerlinks.com",
+            "www.promotion-campaigns.com",
             "123.ichkoche.at"
         ]
     }
