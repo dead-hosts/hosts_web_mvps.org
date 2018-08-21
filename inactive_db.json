@@ -247,12 +247,7 @@
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
-            "stats.manticoretechnology.com"
-        ],
-        "to_test": [
-            "www.promotion-campaigns.com",
-            "ad5.netshelter.net",
-            "pr.realvu.net",
+            "stats.manticoretechnology.com",
             "sync.darikweb.com",
             "sync.monarchads.com",
             "t.adonly.com",
@@ -265,7 +260,12 @@
             "track.netshelter.net",
             "track.popmog.com",
             "track.www.zazzle.com",
-            "tradefx.advertserve.com",
+            "tradefx.advertserve.com"
+        ],
+        "to_test": [
+            "www.promotion-campaigns.com",
+            "ad5.netshelter.net",
+            "pr.realvu.net",
             "u.optorb.com",
             "utsdpp.persgroep.net",
             "vast.optimatic.com",
