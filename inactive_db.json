@@ -22,12 +22,7 @@
             "ads.betternetworker.com",
             "ads.clipconverter.cc",
             "ads.darikweb.com",
-            "ads.fresh.bg"
-        ],
-        "to_test": [
-            "adserver.powerlinks.com",
-            "www.promotion-campaigns.com",
-            "ad5.netshelter.net",
+            "ads.fresh.bg",
             "ads.linuxjournal.com",
             "ads.newsgeek.co.il",
             "ads.popfolkstars.com",
@@ -44,6 +39,11 @@
             "adserve.advertising.com",
             "adserver.finditquick.com",
             "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com"
+        ],
+        "to_test": [
+            "www.promotion-campaigns.com",
+            "ad5.netshelter.net",
             "adserverc.cliipa.com",
             "adservicedomain.info",
             "adtag.asiaone.com",
