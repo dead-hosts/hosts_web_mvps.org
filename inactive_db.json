@@ -59,14 +59,7 @@
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
             "bw.ads.t-online.de",
-            "cache.btrll.com"
-        ],
-        "to_test": [
-            "pr.realvu.net",
-            "www.myclickbankads.com",
-            "ad2.netshelter.net",
-            "adserverc.cliipa.com",
-            "adservicedomain.info",
+            "cache.btrll.com",
             "cc.webpower.com",
             "cdn.complexmedianetwork.com",
             "cdn.publicidad.net",
@@ -79,7 +72,14 @@
             "code.intext.billboard.cz",
             "collector.savvyads.com",
             "count.vivistats.com",
-            "counter.internet.ge",
+            "counter.internet.ge"
+        ],
+        "to_test": [
+            "pr.realvu.net",
+            "www.myclickbankads.com",
+            "ad2.netshelter.net",
+            "adserverc.cliipa.com",
+            "adservicedomain.info",
             "cu.genesismedia.com",
             "cv.bsvideos.com",
             "d2vg62nuq66wql.cloudfront.net",
