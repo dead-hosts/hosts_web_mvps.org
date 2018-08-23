@@ -158,14 +158,8 @@
             "partner.finditquick.com",
             "peelads.hustler.com",
             "php.genesismedia.com",
-            "ping.qbaka.net"
-        ],
-        "to_test": [
+            "ping.qbaka.net",
             "pr.realvu.net",
-            "www.myclickbankads.com",
-            "ad2.netshelter.net",
-            "adserverc.cliipa.com",
-            "adservicedomain.info",
             "prof.beta.estat.com",
             "rainbow-de.mythings.com",
             "rainbow-es.mythings.com",
@@ -231,7 +225,13 @@
             "s48.sitemeter.com",
             "s49.sitemeter.com",
             "s50.sitemeter.com",
-            "s51.sitemeter.com",
+            "s51.sitemeter.com"
+        ],
+        "to_test": [
+            "www.myclickbankads.com",
+            "ad2.netshelter.net",
+            "adserverc.cliipa.com",
+            "adservicedomain.info",
             "secure.webresint.com",
             "siniature.com",
             "site-stats.i8.com",
