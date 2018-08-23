@@ -225,13 +225,7 @@
             "s48.sitemeter.com",
             "s49.sitemeter.com",
             "s50.sitemeter.com",
-            "s51.sitemeter.com"
-        ],
-        "to_test": [
-            "www.myclickbankads.com",
-            "ad2.netshelter.net",
-            "adserverc.cliipa.com",
-            "adservicedomain.info",
+            "s51.sitemeter.com",
             "secure.webresint.com",
             "siniature.com",
             "site-stats.i8.com",
@@ -251,7 +245,13 @@
             "stat-tracker.net",
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
-            "stats.darikweb.com",
+            "stats.darikweb.com"
+        ],
+        "to_test": [
+            "www.myclickbankads.com",
+            "ad2.netshelter.net",
+            "adserverc.cliipa.com",
+            "adservicedomain.info",
             "stats.manticoretechnology.com",
             "sync.darikweb.com",
             "sync.monarchads.com",
