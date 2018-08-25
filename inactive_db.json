@@ -257,10 +257,7 @@
             "track.keywordstrategy.org",
             "track.netshelter.net",
             "track.popmog.com",
-            "track.www.zazzle.com"
-        ],
-        "to_test": [
-            "ads56-us-east.stickyadstv.com",
+            "track.www.zazzle.com",
             "tradefx.advertserve.com",
             "u.optorb.com",
             "udc.msn.com",
@@ -273,7 +270,10 @@
             "wap.advertising.com",
             "wateristian.com",
             "wba.wirtschaftsblatt.at",
-            "werbung.diepresse.com",
+            "werbung.diepresse.com"
+        ],
+        "to_test": [
+            "ads56-us-east.stickyadstv.com",
             "www.accuserveadsystem.com",
             "www.ad-skills.nl",
             "www.adexit.com",
