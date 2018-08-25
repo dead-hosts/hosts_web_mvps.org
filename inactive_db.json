@@ -35,10 +35,7 @@
             "ads.tripican.com",
             "ads.xprofiles.com",
             "ads.yvmads.com",
-            "ads1.cricbuzz.com"
-        ],
-        "to_test": [
-            "ads56-us-east.stickyadstv.com",
+            "ads1.cricbuzz.com",
             "adserv.bulletinmarketing.com",
             "adserve.advertising.com",
             "adserver.finditquick.com",
@@ -51,7 +48,10 @@
             "adverserve.austriacomplus.at",
             "advertisement.bg",
             "advrts-1.revenue-tracker.com",
-            "adx.darikweb.com",
+            "adx.darikweb.com"
+        ],
+        "to_test": [
+            "ads56-us-east.stickyadstv.com",
             "api.bizographics.com",
             "au-01.adtomafusion.com",
             "aus.laola1.tv",
