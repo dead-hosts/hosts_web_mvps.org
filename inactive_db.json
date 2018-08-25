@@ -72,10 +72,7 @@
             "cdn1.clkcln.com",
             "cdn1.clkmon.com",
             "click.icetraffic.com",
-            "click.readme.ru"
-        ],
-        "to_test": [
-            "ads56-us-east.stickyadstv.com",
+            "click.readme.ru",
             "code.intext.billboard.cz",
             "collector.savvyads.com",
             "count.vivistats.com",
@@ -85,7 +82,10 @@
             "d2vg62nuq66wql.cloudfront.net",
             "data.ads.t-online.de",
             "dc.kaboodle.com",
-            "delivery.optimatic.com",
+            "delivery.optimatic.com"
+        ],
+        "to_test": [
+            "ads56-us-east.stickyadstv.com",
             "demo.advertising.com",
             "dl.ezthemes.com",
             "dl.keywordstrategy.org",
