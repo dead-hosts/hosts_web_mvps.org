@@ -48,10 +48,7 @@
             "adverserve.austriacomplus.at",
             "advertisement.bg",
             "advrts-1.revenue-tracker.com",
-            "adx.darikweb.com"
-        ],
-        "to_test": [
-            "ads56-us-east.stickyadstv.com",
+            "adx.darikweb.com",
             "api.bizographics.com",
             "au-01.adtomafusion.com",
             "aus.laola1.tv",
@@ -63,7 +60,10 @@
             "bbcdn.code.intext.billboard.cz",
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
-            "beacon.thred.woven.com",
+            "beacon.thred.woven.com"
+        ],
+        "to_test": [
+            "ads56-us-east.stickyadstv.com",
             "bw.ads.t-online.de",
             "cache.btrll.com",
             "cc.webpower.com",
