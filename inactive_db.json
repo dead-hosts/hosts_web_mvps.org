@@ -103,12 +103,10 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "maurobb.freecounter.it"
-        ],
-        "to_test": [
-            "ads56-us-east.stickyadstv.com",
+            "maurobb.freecounter.it",
             "metrics.hhgregg.com",
             "metrics.mercola.com",
+            "metrics.radioshack.com",
             "mobilede-dp.nuggad.net",
             "mobilede.nuggad.net",
             "n.targetbtracker.com",
@@ -120,7 +118,10 @@
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
             "oascentral.salemweb.net",
-            "oascentral.warcry.com",
+            "oascentral.warcry.com"
+        ],
+        "to_test": [
+            "ads56-us-east.stickyadstv.com",
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "opera1-servedby.advertising.com",
