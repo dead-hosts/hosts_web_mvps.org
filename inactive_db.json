@@ -223,10 +223,7 @@
             "s48.sitemeter.com",
             "s49.sitemeter.com",
             "s50.sitemeter.com",
-            "s51.sitemeter.com"
-        ],
-        "to_test": [
-            "ads56-us-east.stickyadstv.com",
+            "s51.sitemeter.com",
             "secure.webresint.com",
             "siniature.com",
             "site-stats.i8.com",
@@ -247,7 +244,10 @@
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
-            "stats.manticoretechnology.com",
+            "stats.manticoretechnology.com"
+        ],
+        "to_test": [
+            "ads56-us-east.stickyadstv.com",
             "sync.darikweb.com",
             "sync.monarchads.com",
             "t.adonly.com",
