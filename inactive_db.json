@@ -82,10 +82,7 @@
             "d2vg62nuq66wql.cloudfront.net",
             "data.ads.t-online.de",
             "dc.kaboodle.com",
-            "delivery.optimatic.com"
-        ],
-        "to_test": [
-            "ads56-us-east.stickyadstv.com",
+            "delivery.optimatic.com",
             "demo.advertising.com",
             "dl.ezthemes.com",
             "dl.keywordstrategy.org",
@@ -96,7 +93,10 @@
             "free-stats.i8.com",
             "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
-            "geo.sanoma.fi",
+            "geo.sanoma.fi"
+        ],
+        "to_test": [
+            "ads56-us-east.stickyadstv.com",
             "heise.nuggad.net",
             "helios.finn.no",
             "hiq.fotolog.com",
