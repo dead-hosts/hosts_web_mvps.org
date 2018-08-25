@@ -10,9 +10,7 @@
             "ad.e-kolay.net",
             "ad.eurosport.com",
             "ad.trident.net",
-            "ad.where.com"
-        ],
-        "to_test": [
+            "ad.where.com",
             "ad1.netshelter.net",
             "ad2.netshelter.net",
             "ad4.netshelter.net",
@@ -25,7 +23,9 @@
             "ads.asia1.com.sg",
             "ads.betternetworker.com",
             "ads.clipconverter.cc",
-            "ads.darikweb.com",
+            "ads.darikweb.com"
+        ],
+        "to_test": [
             "ads.fresh.bg",
             "ads.linuxjournal.com",
             "ads.newsgeek.co.il",
