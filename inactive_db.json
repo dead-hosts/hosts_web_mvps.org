@@ -244,10 +244,7 @@
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
-            "stats.manticoretechnology.com"
-        ],
-        "to_test": [
-            "ads56-us-east.stickyadstv.com",
+            "stats.manticoretechnology.com",
             "sync.darikweb.com",
             "sync.monarchads.com",
             "t.adonly.com",
@@ -260,6 +257,10 @@
             "track.keywordstrategy.org",
             "track.netshelter.net",
             "track.popmog.com",
+            "track.www.zazzle.com"
+        ],
+        "to_test": [
+            "ads56-us-east.stickyadstv.com",
             "tradefx.advertserve.com",
             "u.optorb.com",
             "udc.msn.com",
