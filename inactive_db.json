@@ -23,9 +23,7 @@
             "ads.asia1.com.sg",
             "ads.betternetworker.com",
             "ads.clipconverter.cc",
-            "ads.darikweb.com"
-        ],
-        "to_test": [
+            "ads.darikweb.com",
             "ads.fresh.bg",
             "ads.linuxjournal.com",
             "ads.newsgeek.co.il",
@@ -37,7 +35,9 @@
             "ads.tripican.com",
             "ads.xprofiles.com",
             "ads.yvmads.com",
-            "ads1.cricbuzz.com",
+            "ads1.cricbuzz.com"
+        ],
+        "to_test": [
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
             "adserve.advertising.com",
