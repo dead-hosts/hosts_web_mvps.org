@@ -61,10 +61,7 @@
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
-            "bw.ads.t-online.de"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
+            "bw.ads.t-online.de",
             "cache.btrll.com",
             "cc.webpower.com",
             "cdn.adstatic.com",
@@ -78,7 +75,10 @@
             "click.readme.ru",
             "code.intext.billboard.cz",
             "collector.savvyads.com",
-            "count.vivistats.com",
+            "count.vivistats.com"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
             "counter.internet.ge",
             "cu.genesismedia.com",
             "cv.bsvideos.com",
