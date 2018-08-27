@@ -38,10 +38,7 @@
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
             "adserve.advertising.com",
-            "adserver.finditquick.com"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
+            "adserver.finditquick.com",
             "adserver.omroepflevoland.nl",
             "adserver.powerlinks.com",
             "adserverc.cliipa.com",
@@ -55,7 +52,10 @@
             "api.bizographics.com",
             "au-01.adtomafusion.com",
             "aus.laola1.tv",
-            "austria1.adverserve.net",
+            "austria1.adverserve.net"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
             "b-aws.aol.com",
             "b-aws.huffingtonpost.com",
             "bannerads.mantecabulletin.com",
