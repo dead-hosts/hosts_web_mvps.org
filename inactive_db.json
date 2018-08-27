@@ -284,15 +284,12 @@
             "www.gpr.hu",
             "www.herbalsmokeshops.com",
             "www.intera-x.com",
-            "www.myclickbankads.com"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "counter.internet.ge",
+            "www.myclickbankads.com",
             "www.nowgifttown.com",
             "www.onlinewebservice3.de",
             "www.optimum-hits.com",
             "www.promotion-campaigns.com",
+            "www.reelcentric.com",
             "www.regdefense.com",
             "www.registrysweeper.com",
             "www.tangabilder.to",
@@ -304,6 +301,10 @@
             "www1.darikweb.com",
             "xpop.co",
             "ym.bannerconnect.net"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
+            "counter.internet.ge"
         ]
     }
 }
