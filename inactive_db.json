@@ -240,11 +240,7 @@
             "stat-tracker.net",
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
-            "stats.darikweb.com"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "counter.internet.ge",
+            "stats.darikweb.com",
             "stats.manticoretechnology.com",
             "sync.darikweb.com",
             "sync.monarchads.com",
@@ -259,7 +255,11 @@
             "track.netshelter.net",
             "track.popmog.com",
             "track.www.zazzle.com",
-            "tradefx.advertserve.com",
+            "tradefx.advertserve.com"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
+            "counter.internet.ge",
             "u.optorb.com",
             "udc.msn.com",
             "utsdpp.persgroep.net",
