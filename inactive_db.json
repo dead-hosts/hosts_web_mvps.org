@@ -23,10 +23,7 @@
             "ads.betternetworker.com",
             "ads.clipconverter.cc",
             "ads.darikweb.com",
-            "ads.fresh.bg"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
+            "ads.fresh.bg",
             "ads.linuxjournal.com",
             "ads.newsgeek.co.il",
             "ads.popfolkstars.com",
@@ -41,7 +38,10 @@
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
             "adserve.advertising.com",
-            "adserver.finditquick.com",
+            "adserver.finditquick.com"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
             "adserver.omroepflevoland.nl",
             "adserver.powerlinks.com",
             "adserverc.cliipa.com",
