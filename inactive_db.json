@@ -186,13 +186,7 @@
             "s.ads.t-online.de",
             "s.sa.aol.com",
             "s.uadx.com",
-            "s10.sitemeter.com"
-        ],
-        "to_test": [
-            "peelads.hustler.com",
-            "s11.sitemeter.com",
-            "s12.sitemeter.com",
-            "s13.sitemeter.com",
+            "s10.sitemeter.com",
             "s14.sitemeter.com",
             "s15.sitemeter.com",
             "s16.sitemeter.com",
@@ -248,7 +242,14 @@
             "sm9.sitemeter.com",
             "spns.seriousads.net",
             "squid.diepresse.com",
-            "stat-tracker.net",
+            "sscdn.banners.advidi.com",
+            "stat-tracker.net"
+        ],
+        "to_test": [
+            "peelads.hustler.com",
+            "s11.sitemeter.com",
+            "s12.sitemeter.com",
+            "s13.sitemeter.com",
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
