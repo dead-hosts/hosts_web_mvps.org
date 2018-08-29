@@ -38,9 +38,7 @@
             "ads1.cricbuzz.com",
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
-            "adserve.advertising.com"
-        ],
-        "to_test": [
+            "adserve.advertising.com",
             "adserver.finditquick.com",
             "adserver.omroepflevoland.nl",
             "adserver.powerlinks.com",
@@ -52,7 +50,9 @@
             "advertisement.bg",
             "advrts-1.revenue-tracker.com",
             "adx.darikweb.com",
-            "api.bizographics.com",
+            "api.bizographics.com"
+        ],
+        "to_test": [
             "au-01.adtomafusion.com",
             "aus.laola1.tv",
             "austria1.adverserve.net",
