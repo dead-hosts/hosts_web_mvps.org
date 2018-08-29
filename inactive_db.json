@@ -50,9 +50,8 @@
             "advertisement.bg",
             "advrts-1.revenue-tracker.com",
             "adx.darikweb.com",
-            "api.bizographics.com"
-        ],
-        "to_test": [
+            "api.bizographics.com",
+            "app.adsbrook.com",
             "au-01.adtomafusion.com",
             "aus.laola1.tv",
             "austria1.adverserve.net",
@@ -61,9 +60,17 @@
             "bannerads.mantecabulletin.com",
             "banners.audioholics.com",
             "bbcdn.code.intext.billboard.cz",
+            "beacon-1.newrelic.com",
+            "beacon-2.newrelic.com",
+            "beacon-3.newrelic.com",
+            "beacon-4.newrelic.com",
+            "beacon-5.newrelic.com",
+            "beacon-6.newrelic.com",
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
-            "beacon.thred.woven.com",
+            "beacon.thred.woven.com"
+        ],
+        "to_test": [
             "bw.ads.t-online.de",
             "cache.btrll.com",
             "cc.webpower.com",
