@@ -160,10 +160,7 @@
             "ox-d.thechive.servedbyopenx.com",
             "ox-d.washingtonpost.servedbyopenx.com",
             "p.adframesrc.com",
-            "partner.finditquick.com"
-        ],
-        "to_test": [
-            "peelads.hustler.com",
+            "partner.finditquick.com",
             "php.genesismedia.com",
             "ping.qbaka.net",
             "pr.realvu.net",
@@ -189,7 +186,10 @@
             "s.ads.t-online.de",
             "s.sa.aol.com",
             "s.uadx.com",
-            "s10.sitemeter.com",
+            "s10.sitemeter.com"
+        ],
+        "to_test": [
+            "peelads.hustler.com",
             "s11.sitemeter.com",
             "s12.sitemeter.com",
             "s13.sitemeter.com",
