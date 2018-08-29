@@ -113,9 +113,7 @@
             "js.cybermonitor.com",
             "metrics.hhgregg.com",
             "metrics.mercola.com",
-            "metrics.radioshack.com"
-        ],
-        "to_test": [
+            "metrics.radioshack.com",
             "mobilede-dp.nuggad.net",
             "mobilede.nuggad.net",
             "n.targetbtracker.com",
@@ -162,7 +160,9 @@
             "ox-d.thechive.servedbyopenx.com",
             "ox-d.washingtonpost.servedbyopenx.com",
             "p.adframesrc.com",
-            "partner.finditquick.com",
+            "partner.finditquick.com"
+        ],
+        "to_test": [
             "peelads.hustler.com",
             "php.genesismedia.com",
             "ping.qbaka.net",
