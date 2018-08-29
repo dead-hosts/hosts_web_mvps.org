@@ -101,9 +101,7 @@
             "free-stats.i8.com",
             "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
-            "geo.sanoma.fi"
-        ],
-        "to_test": [
+            "geo.sanoma.fi",
             "heise.nuggad.net",
             "helios.finn.no",
             "hiq.fotolog.com",
@@ -112,7 +110,9 @@
             "img.ads.mocean.mobi",
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
-            "js.cybermonitor.com",
+            "js.cybermonitor.com"
+        ],
+        "to_test": [
             "metrics.hhgregg.com",
             "metrics.mercola.com",
             "metrics.radioshack.com",
