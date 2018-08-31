@@ -49,14 +49,7 @@
             "advrts-1.revenue-tracker.com",
             "adx.darikweb.com",
             "api.bizographics.com",
-            "au-01.adtomafusion.com"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "aus.laola1.tv",
-            "austria1.adverserve.net",
+            "au-01.adtomafusion.com",
             "b-aws.aol.com",
             "b-aws.huffingtonpost.com",
             "bannerads.mantecabulletin.com",
@@ -71,7 +64,14 @@
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
-            "bw.ads.t-online.de",
+            "bw.ads.t-online.de"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
+            "aus.laola1.tv",
+            "austria1.adverserve.net",
             "cache.btrll.com",
             "cc.webpower.com",
             "cdn.adstatic.com",
