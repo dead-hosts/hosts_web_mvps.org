@@ -287,19 +287,7 @@
             "www.gbcash.com",
             "www.gpr.hu",
             "www.herbalsmokeshops.com",
-            "www.intera-x.com"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "aus.laola1.tv",
-            "austria1.adverserve.net",
-            "counter.internet.ge",
-            "eng.findadvertise.com",
-            "pr.realvu.net",
-            "stats.manticoretechnology.com",
-            "www.adexit.com",
+            "www.intera-x.com",
             "www.nowgifttown.com",
             "www.onlinewebservice3.de",
             "www.optimum-hits.com",
@@ -314,6 +302,18 @@
             "www1.darikweb.com",
             "xpop.co",
             "ym.bannerconnect.net"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
+            "aus.laola1.tv",
+            "austria1.adverserve.net",
+            "counter.internet.ge",
+            "eng.findadvertise.com",
+            "pr.realvu.net",
+            "stats.manticoretechnology.com",
+            "www.adexit.com"
         ]
     }
 }
