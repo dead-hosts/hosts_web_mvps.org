@@ -1,7 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
-        "1535683413": [
+        "1535856235": [
             "123.ichkoche.at",
+            "33video.33universal.com",
             "___id___.c.mystat-in.net",
             "a.ads.t-online.de",
             "a.jumptap.com",
@@ -11,8 +12,11 @@
             "ad.eurosport.com",
             "ad.trident.net",
             "ad1.netshelter.net",
+            "ad2.netshelter.net",
             "ad4.netshelter.net",
-            "ad5.netshelter.net",
+            "ad5.netshelter.net"
+        ],
+        "to_test": [
             "adg.bzgint.com",
             "adimages.scrippsnetworks.com",
             "admin.ads.t-online.de",
@@ -39,6 +43,8 @@
             "adserv.bulletinmarketing.com",
             "adserve.advertising.com",
             "adserver.finditquick.com",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
             "adserverc.cliipa.com",
             "adservicedomain.info",
             "adtag.asiaone.com",
@@ -50,6 +56,8 @@
             "adx.darikweb.com",
             "api.bizographics.com",
             "au-01.adtomafusion.com",
+            "aus.laola1.tv",
+            "austria1.adverserve.net",
             "b-aws.aol.com",
             "b-aws.huffingtonpost.com",
             "bannerads.mantecabulletin.com",
@@ -79,6 +87,7 @@
             "code.intext.billboard.cz",
             "collector.savvyads.com",
             "count.vivistats.com",
+            "counter.internet.ge",
             "counter.yesky.com",
             "cu.genesismedia.com",
             "cv.bsvideos.com",
@@ -90,6 +99,7 @@
             "dl.ezthemes.com",
             "dl.keywordstrategy.org",
             "dl1.ezthemes.com",
+            "eng.findadvertise.com",
             "ezthemes.ezthemes.com",
             "flx367.lporirxe.com",
             "free-stats.i8.com",
@@ -161,6 +171,7 @@
             "php.genesismedia.com",
             "ping.qbaka.net",
             "pixels.mentad.com",
+            "pr.realvu.net",
             "prof.beta.estat.com",
             "rainbow-de.mythings.com",
             "rainbow-es.mythings.com",
@@ -247,6 +258,7 @@
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
+            "stats.manticoretechnology.com",
             "sync.darikweb.com",
             "sync.monarchads.com",
             "t.adonly.com",
@@ -275,6 +287,7 @@
             "werbung.diepresse.com",
             "www.accuserveadsystem.com",
             "www.ad-skills.nl",
+            "www.adexit.com",
             "www.adroz.com",
             "www.affordablewebsitetraffic.com",
             "www.best-top.hu",
@@ -302,18 +315,6 @@
             "www1.darikweb.com",
             "xpop.co",
             "ym.bannerconnect.net"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "aus.laola1.tv",
-            "austria1.adverserve.net",
-            "counter.internet.ge",
-            "eng.findadvertise.com",
-            "pr.realvu.net",
-            "stats.manticoretechnology.com",
-            "www.adexit.com"
         ]
     }
 }
