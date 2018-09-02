@@ -14,9 +14,8 @@
             "ad1.netshelter.net",
             "ad2.netshelter.net",
             "ad4.netshelter.net",
-            "ad5.netshelter.net"
-        ],
-        "to_test": [
+            "ad5.netshelter.net",
+            "adcdn.33universal.com",
             "adg.bzgint.com",
             "adimages.scrippsnetworks.com",
             "admin.ads.t-online.de",
@@ -26,7 +25,9 @@
             "ads.betternetworker.com",
             "ads.clipconverter.cc",
             "ads.darikweb.com",
-            "ads.fresh.bg",
+            "ads.fresh.bg"
+        ],
+        "to_test": [
             "ads.linuxjournal.com",
             "ads.mixbg.net",
             "ads.newsgeek.co.il",
