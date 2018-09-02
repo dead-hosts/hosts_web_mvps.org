@@ -72,9 +72,7 @@
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
             "bw.ads.t-online.de",
-            "cache.btrll.com"
-        ],
-        "to_test": [
+            "cache.btrll.com",
             "cc.webpower.com",
             "cdn.adstatic.com",
             "cdn.complexmedianetwork.com",
@@ -88,7 +86,9 @@
             "code.intext.billboard.cz",
             "collector.savvyads.com",
             "count.vivistats.com",
-            "counter.internet.ge",
+            "counter.internet.ge"
+        ],
+        "to_test": [
             "counter.yesky.com",
             "cu.genesismedia.com",
             "cv.bsvideos.com",
