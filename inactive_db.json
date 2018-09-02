@@ -186,9 +186,7 @@
             "ping.qbaka.net",
             "pixels.mentad.com",
             "pr.realvu.net",
-            "prof.beta.estat.com"
-        ],
-        "to_test": [
+            "prof.beta.estat.com",
             "rainbow-de.mythings.com",
             "rainbow-es.mythings.com",
             "rainbow-fi.mythings.com",
@@ -253,7 +251,9 @@
             "s48.sitemeter.com",
             "s49.sitemeter.com",
             "s50.sitemeter.com",
-            "s51.sitemeter.com",
+            "s51.sitemeter.com"
+        ],
+        "to_test": [
             "secure.webresint.com",
             "siniature.com",
             "site-stats.i8.com",
