@@ -43,9 +43,7 @@
             "adserve.advertising.com",
             "adserver.finditquick.com",
             "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com"
-        ],
-        "to_test": [
+            "adserver.powerlinks.com",
             "adserverc.cliipa.com",
             "adservicedomain.info",
             "adtag.asiaone.com",
@@ -60,7 +58,9 @@
             "aus.laola1.tv",
             "austria1.adverserve.net",
             "b-aws.aol.com",
-            "b-aws.huffingtonpost.com",
+            "b-aws.huffingtonpost.com"
+        ],
+        "to_test": [
             "bannerads.mantecabulletin.com",
             "banners.audioholics.com",
             "bbcdn.code.intext.billboard.cz",
