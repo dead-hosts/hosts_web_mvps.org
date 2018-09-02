@@ -271,11 +271,7 @@
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
             "stats.manticoretechnology.com",
-            "sync.darikweb.com"
-        ],
-        "to_test": [
-            "secure.webresint.com",
-            "sync.monarchads.com",
+            "sync.darikweb.com",
             "t.adonly.com",
             "t1.tentaculos.net",
             "tags.hypeads.org",
@@ -289,7 +285,11 @@
             "tracking.kurier.at",
             "tradefx.advertserve.com",
             "u.optorb.com",
-            "udc.msn.com",
+            "udc.msn.com"
+        ],
+        "to_test": [
+            "secure.webresint.com",
+            "sync.monarchads.com",
             "utsdpp.persgroep.net",
             "vast.optimatic.com",
             "video.od.visiblemeasures.com",
