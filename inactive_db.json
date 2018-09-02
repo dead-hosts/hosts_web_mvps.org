@@ -140,9 +140,7 @@
             "n.targetctracker.com",
             "ntracking.optimatic.com",
             "o.sa.aol.com",
-            "oas.autotrader.co.uk"
-        ],
-        "to_test": [
+            "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
@@ -188,7 +186,9 @@
             "ping.qbaka.net",
             "pixels.mentad.com",
             "pr.realvu.net",
-            "prof.beta.estat.com",
+            "prof.beta.estat.com"
+        ],
+        "to_test": [
             "rainbow-de.mythings.com",
             "rainbow-es.mythings.com",
             "rainbow-fi.mythings.com",
