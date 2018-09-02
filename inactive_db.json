@@ -251,10 +251,7 @@
             "s48.sitemeter.com",
             "s49.sitemeter.com",
             "s50.sitemeter.com",
-            "s51.sitemeter.com"
-        ],
-        "to_test": [
-            "secure.webresint.com",
+            "s51.sitemeter.com",
             "siniature.com",
             "site-stats.i8.com",
             "sky.estat.com",
@@ -269,13 +266,15 @@
             "sm9.sitemeter.com",
             "spns.seriousads.net",
             "squid.diepresse.com",
-            "sscdn.banners.advidi.com",
             "stat-tracker.net",
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
             "stats.manticoretechnology.com",
-            "sync.darikweb.com",
+            "sync.darikweb.com"
+        ],
+        "to_test": [
+            "secure.webresint.com",
             "sync.monarchads.com",
             "t.adonly.com",
             "t1.tentaculos.net",
