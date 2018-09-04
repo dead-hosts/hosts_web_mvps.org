@@ -111,14 +111,7 @@
             "img.ads.sanomamobileads.nl",
             "img.readme.ru",
             "js.cybermonitor.com",
-            "land.pckeeper.software"
-        ],
-        "to_test": [
-            "ad4.netshelter.net",
-            "ad5.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "cache.btrll.com",
+            "land.pckeeper.software",
             "metrics.hhgregg.com",
             "metrics.mercola.com",
             "metrics.radioshack.com",
@@ -126,7 +119,14 @@
             "mobilede.nuggad.net",
             "mp.pianomedia.eu",
             "n.targetbtracker.com",
-            "n.targetctracker.com",
+            "n.targetctracker.com"
+        ],
+        "to_test": [
+            "ad4.netshelter.net",
+            "ad5.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
+            "cache.btrll.com",
             "ntracking.optimatic.com",
             "o.sa.aol.com",
             "oas.autotrader.co.uk",
