@@ -119,14 +119,7 @@
             "mobilede.nuggad.net",
             "mp.pianomedia.eu",
             "n.targetbtracker.com",
-            "n.targetctracker.com"
-        ],
-        "to_test": [
-            "ad4.netshelter.net",
-            "ad5.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "cache.btrll.com",
+            "n.targetctracker.com",
             "ntracking.optimatic.com",
             "o.sa.aol.com",
             "oas.autotrader.co.uk",
@@ -173,7 +166,14 @@
             "peelads.hustler.com",
             "php.genesismedia.com",
             "ping.qbaka.net",
-            "pixels.mentad.com",
+            "pixels.mentad.com"
+        ],
+        "to_test": [
+            "ad4.netshelter.net",
+            "ad5.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
+            "cache.btrll.com",
             "pr.realvu.net",
             "prof.beta.estat.com",
             "rainbow-de.mythings.com",
