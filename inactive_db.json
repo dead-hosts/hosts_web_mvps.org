@@ -24,11 +24,7 @@
             "ads.clipconverter.cc",
             "ads.comeon.com",
             "ads.darikweb.com",
-            "ads.fresh.bg"
-        ],
-        "to_test": [
-            "ad4.netshelter.net",
-            "ad5.netshelter.net",
+            "ads.fresh.bg",
             "ads.linuxjournal.com",
             "ads.mixbg.net",
             "ads.newsgeek.co.il",
@@ -44,7 +40,11 @@
             "ads56-us-east.stickyadstv.com",
             "adserv.bulletinmarketing.com",
             "adserve.advertising.com",
-            "adserver.finditquick.com",
+            "adserver.finditquick.com"
+        ],
+        "to_test": [
+            "ad4.netshelter.net",
+            "ad5.netshelter.net",
             "adserver.omroepflevoland.nl",
             "adserver.powerlinks.com",
             "adserverc.cliipa.com",
