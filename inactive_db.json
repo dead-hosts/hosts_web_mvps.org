@@ -53,13 +53,7 @@
             "api.bizographics.com",
             "au-01.adtomafusion.com",
             "aus.laola1.tv",
-            "austria1.adverserve.net"
-        ],
-        "to_test": [
-            "ad4.netshelter.net",
-            "ad5.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
+            "austria1.adverserve.net",
             "b-aws.aol.com",
             "b-aws.huffingtonpost.com",
             "bannerads.mantecabulletin.com",
@@ -74,7 +68,13 @@
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
-            "bw.ads.t-online.de",
+            "bw.ads.t-online.de"
+        ],
+        "to_test": [
+            "ad4.netshelter.net",
+            "ad5.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
             "cache.btrll.com",
             "cc.webpower.com",
             "cdn.adstatic.com",
