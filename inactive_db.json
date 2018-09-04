@@ -232,15 +232,7 @@
             "s48.sitemeter.com",
             "s49.sitemeter.com",
             "s50.sitemeter.com",
-            "s51.sitemeter.com"
-        ],
-        "to_test": [
-            "ad4.netshelter.net",
-            "ad5.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "cache.btrll.com",
-            "pr.realvu.net",
+            "s51.sitemeter.com",
             "secure.webresint.com",
             "siniature.com",
             "site-stats.i8.com",
@@ -260,7 +252,15 @@
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
-            "stats.manticoretechnology.com",
+            "stats.manticoretechnology.com"
+        ],
+        "to_test": [
+            "ad4.netshelter.net",
+            "ad5.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
+            "cache.btrll.com",
+            "pr.realvu.net",
             "sync.darikweb.com",
             "sync.monarchads.com",
             "t.adonly.com",
