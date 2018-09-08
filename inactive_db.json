@@ -193,11 +193,7 @@
             "rainbow.mythings.com",
             "rd.advertising.com",
             "red.ads.t-online.de",
-            "rotator.axiatraders.com"
-        ],
-        "to_test": [
-            "rq.adtrackdirect.com",
-            "rq.trackingadirect.com",
+            "rotator.axiatraders.com",
             "s.ads.t-online.de",
             "s.sa.aol.com",
             "s.uadx.com",
@@ -258,7 +254,11 @@
             "sm7.sitemeter.com",
             "sm8.sitemeter.com",
             "sm9.sitemeter.com",
-            "spns.seriousads.net",
+            "spns.seriousads.net"
+        ],
+        "to_test": [
+            "rq.adtrackdirect.com",
+            "rq.trackingadirect.com",
             "squid.diepresse.com",
             "stat-tracker.net",
             "stats.complex.com",
