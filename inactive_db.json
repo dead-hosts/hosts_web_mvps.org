@@ -254,12 +254,7 @@
             "sm7.sitemeter.com",
             "sm8.sitemeter.com",
             "sm9.sitemeter.com",
-            "spns.seriousads.net"
-        ],
-        "to_test": [
-            "rq.adtrackdirect.com",
-            "rq.trackingadirect.com",
-            "squid.diepresse.com",
+            "spns.seriousads.net",
             "stat-tracker.net",
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
@@ -272,7 +267,12 @@
             "tags.hypeads.org",
             "themexp.ezthemes.com",
             "top.gde.ru",
-            "topdesktop.ezthemes.com",
+            "topdesktop.ezthemes.com"
+        ],
+        "to_test": [
+            "rq.adtrackdirect.com",
+            "rq.trackingadirect.com",
+            "squid.diepresse.com",
             "tracer.perezhilton.com",
             "track.keywordstrategy.org",
             "track.netshelter.net",
