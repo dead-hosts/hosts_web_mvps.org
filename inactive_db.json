@@ -54,9 +54,8 @@
             "advertisement.bg",
             "advrts-1.revenue-tracker.com",
             "adx.darikweb.com",
-            "api.bizographics.com"
-        ],
-        "to_test": [
+            "api.bizographics.com",
+            "astatic.weborama.fr",
             "au-01.adtomafusion.com",
             "aus.laola1.tv",
             "austria1.adverserve.net",
@@ -74,7 +73,10 @@
             "beacon.mediahuis.be",
             "beacon.mhtr.be",
             "beacon.thred.woven.com",
-            "bw.ads.t-online.de",
+            "beacon.tracelytics.com",
+            "bw.ads.t-online.de"
+        ],
+        "to_test": [
             "cache.btrll.com",
             "cc.webpower.com",
             "cdn.adstatic.com",
