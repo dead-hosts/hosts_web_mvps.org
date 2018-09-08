@@ -1,13 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
-        "1536202050": [
-            "www1.darikweb.com",
-            "xpop.co",
-            "ym.bannerconnect.net"
-        ],
-        "to_test": [
+        "1536374837": [
             "123.ichkoche.at",
-            "33video.33universal.com",
             "___id___.c.mystat-in.net",
             "a.ads.t-online.de",
             "a.jumptap.com",
@@ -15,7 +9,9 @@
             "ad.amiadogroup.com",
             "ad.e-kolay.net",
             "ad.eurosport.com",
-            "ad.trident.net",
+            "ad.trident.net"
+        ],
+        "to_test": [
             "ad1.netshelter.net",
             "ad2.netshelter.net",
             "ad4.netshelter.net",
@@ -318,7 +314,10 @@
             "www.top1.ro",
             "www.top300.ro",
             "www.top99.ro",
-            "www.topadult.ro"
+            "www.topadult.ro",
+            "www1.darikweb.com",
+            "xpop.co",
+            "ym.bannerconnect.net"
         ]
     }
 }
