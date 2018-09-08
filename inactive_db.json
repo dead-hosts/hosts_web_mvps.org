@@ -299,12 +299,7 @@
             "www.counter4you.net",
             "www.ezthemes.com",
             "www.findit-quick.com",
-            "www.freecounter.it"
-        ],
-        "to_test": [
-            "rq.adtrackdirect.com",
-            "rq.trackingadirect.com",
-            "squid.diepresse.com",
+            "www.freecounter.it",
             "www.gbcash.com",
             "www.gpr.hu",
             "www.herbalsmokeshops.com",
@@ -319,7 +314,12 @@
             "www.top1.ro",
             "www.top300.ro",
             "www.top99.ro",
-            "www.topadult.ro",
+            "www.topadult.ro"
+        ],
+        "to_test": [
+            "rq.adtrackdirect.com",
+            "rq.trackingadirect.com",
+            "squid.diepresse.com",
             "www1.darikweb.com",
             "xpop.co",
             "ym.bannerconnect.net"
