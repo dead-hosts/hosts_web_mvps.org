@@ -196,13 +196,7 @@
             "rq.trackingadirect.com",
             "s.ads.t-online.de",
             "s.sa.aol.com",
-            "s.uadx.com"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "php.genesismedia.com",
+            "s.uadx.com",
             "s10.sitemeter.com",
             "s11.sitemeter.com",
             "s12.sitemeter.com",
@@ -262,6 +256,13 @@
             "sm9.sitemeter.com",
             "spns.seriousads.net",
             "squid.diepresse.com",
+            "sscdn.banners.advidi.com"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
+            "php.genesismedia.com",
             "stat-tracker.net",
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
