@@ -124,12 +124,7 @@
             "metrics.mercola.com",
             "metrics.radioshack.com",
             "mobilede-dp.nuggad.net",
-            "mobilede.nuggad.net"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
+            "mobilede.nuggad.net",
             "mp.pianomedia.eu",
             "n.targetbtracker.com",
             "n.targetctracker.com",
@@ -176,7 +171,12 @@
             "ox-d.washingtonpost.servedbyopenx.com",
             "p.adframesrc.com",
             "partner.finditquick.com",
-            "peelads.hustler.com",
+            "peelads.hustler.com"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
             "php.genesismedia.com",
             "ping.qbaka.net",
             "pixels.mentad.com",
