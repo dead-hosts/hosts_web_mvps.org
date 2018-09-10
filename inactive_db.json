@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
-        "1536374837": [
+        "1536547660": [
             "123.ichkoche.at",
             "___id___.c.mystat-in.net",
             "a.ads.t-online.de",
@@ -9,9 +9,12 @@
             "ad.amiadogroup.com",
             "ad.e-kolay.net",
             "ad.eurosport.com",
+            "ad.mediaprostor.cz",
             "ad.trident.net",
             "ad1.netshelter.net",
-            "ad1.nownews.com",
+            "ad1.nownews.com"
+        ],
+        "to_test": [
             "ad2.netshelter.net",
             "ad4.netshelter.net",
             "ad5.netshelter.net",
@@ -194,6 +197,8 @@
             "rd.advertising.com",
             "red.ads.t-online.de",
             "rotator.axiatraders.com",
+            "rq.adtrackdirect.com",
+            "rq.trackingadirect.com",
             "s.ads.t-online.de",
             "s.sa.aol.com",
             "s.uadx.com",
@@ -255,6 +260,7 @@
             "sm8.sitemeter.com",
             "sm9.sitemeter.com",
             "spns.seriousads.net",
+            "squid.diepresse.com",
             "stat-tracker.net",
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
@@ -319,11 +325,6 @@
             "xclusive.ly",
             "xpop.co",
             "ym.bannerconnect.net"
-        ],
-        "to_test": [
-            "rq.adtrackdirect.com",
-            "rq.trackingadirect.com",
-            "squid.diepresse.com"
         ]
     }
 }
