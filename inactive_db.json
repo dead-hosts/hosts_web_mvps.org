@@ -272,14 +272,7 @@
             "tracer.perezhilton.com",
             "track.keywordstrategy.org",
             "track.netshelter.net",
-            "track.popmog.com"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "php.genesismedia.com",
-            "stat-tracker.net",
+            "track.popmog.com",
             "tracking.kurier.at",
             "tradefx.advertserve.com",
             "u.optorb.com",
@@ -293,7 +286,14 @@
             "wap.advertising.com",
             "wateristian.com",
             "wba.wirtschaftsblatt.at",
-            "werbung.diepresse.com",
+            "werbung.diepresse.com"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
+            "php.genesismedia.com",
+            "stat-tracker.net",
             "www.accuserveadsystem.com",
             "www.ad-skills.nl",
             "www.adexit.com",
