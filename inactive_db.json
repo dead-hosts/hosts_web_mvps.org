@@ -256,14 +256,7 @@
             "sm9.sitemeter.com",
             "spns.seriousads.net",
             "squid.diepresse.com",
-            "sscdn.banners.advidi.com"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "php.genesismedia.com",
-            "stat-tracker.net",
+            "sscdn.banners.advidi.com",
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
@@ -279,7 +272,14 @@
             "tracer.perezhilton.com",
             "track.keywordstrategy.org",
             "track.netshelter.net",
-            "track.popmog.com",
+            "track.popmog.com"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
+            "php.genesismedia.com",
+            "stat-tracker.net",
             "tracking.kurier.at",
             "tradefx.advertserve.com",
             "u.optorb.com",
