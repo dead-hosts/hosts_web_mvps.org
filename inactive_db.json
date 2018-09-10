@@ -171,13 +171,7 @@
             "ox-d.washingtonpost.servedbyopenx.com",
             "p.adframesrc.com",
             "partner.finditquick.com",
-            "peelads.hustler.com"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "php.genesismedia.com",
+            "peelads.hustler.com",
             "ping.qbaka.net",
             "pixels.mentad.com",
             "pr.realvu.net",
@@ -202,7 +196,13 @@
             "rq.trackingadirect.com",
             "s.ads.t-online.de",
             "s.sa.aol.com",
-            "s.uadx.com",
+            "s.uadx.com"
+        ],
+        "to_test": [
+            "ad2.netshelter.net",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
+            "php.genesismedia.com",
             "s10.sitemeter.com",
             "s11.sitemeter.com",
             "s12.sitemeter.com",
