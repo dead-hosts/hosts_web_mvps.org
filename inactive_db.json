@@ -1,23 +1,26 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
-        "1536547660": [
+        "1536702065": [
             "123.ichkoche.at",
-            "___id___.c.mystat-in.net",
             "a.ads.t-online.de",
-            "a.jumptap.com",
-            "a.visualrevenue.com",
+            "ad1.netshelter.net",
+            "ad1.nownews.com",
+            "ad2.netshelter.net",
+            "ad4.netshelter.net",
+            "ad5.netshelter.net",
             "ad.amiadogroup.com",
             "ad.e-kolay.net",
             "ad.eurosport.com",
-            "ad.mediaprostor.cz",
-            "ad.trident.net",
-            "ad1.netshelter.net",
-            "ad1.nownews.com",
-            "ad4.netshelter.net",
-            "ad5.netshelter.net",
             "adg.bzgint.com",
             "adimages.scrippsnetworks.com",
-            "admin.ads.t-online.de",
+            "ad.mediaprostor.cz",
+            "admin.ads.t-online.de"
+        ],
+        "to_test": [
+            "___id___.c.mystat-in.net",
+            "a.jumptap.com",
+            "a.visualrevenue.com",
+            "ad.trident.net",
             "adonline.e-kolay.net",
             "ads.24.com",
             "ads.asia1.com.sg",
@@ -42,6 +45,8 @@
             "adserv.bulletinmarketing.com",
             "adserve.advertising.com",
             "adserver.finditquick.com",
+            "adserver.omroepflevoland.nl",
+            "adserver.powerlinks.com",
             "adserverc.cliipa.com",
             "adservicedomain.info",
             "adtag.asiaone.com",
@@ -172,6 +177,7 @@
             "p.adframesrc.com",
             "partner.finditquick.com",
             "peelads.hustler.com",
+            "php.genesismedia.com",
             "ping.qbaka.net",
             "pixels.mentad.com",
             "pr.realvu.net",
@@ -257,6 +263,7 @@
             "spns.seriousads.net",
             "squid.diepresse.com",
             "sscdn.banners.advidi.com",
+            "stat-tracker.net",
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
@@ -302,6 +309,7 @@
             "www.freecounter.it",
             "www.gbcash.com",
             "www.gpr.hu",
+            "www.herbalsmokeshops.com",
             "www.intera-x.com",
             "www.nowgifttown.com",
             "www.onlinewebservice3.de",
@@ -314,18 +322,10 @@
             "www.top99.ro",
             "www.topadult.ro",
             "www.winadiscount.com",
+            "www1.darikweb.com",
             "xclusive.ly",
             "xpop.co",
             "ym.bannerconnect.net"
-        ],
-        "to_test": [
-            "ad2.netshelter.net",
-            "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com",
-            "php.genesismedia.com",
-            "stat-tracker.net",
-            "www.herbalsmokeshops.com",
-            "www1.darikweb.com"
         ]
     }
 }
