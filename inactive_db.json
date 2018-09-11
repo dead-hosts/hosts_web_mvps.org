@@ -28,13 +28,7 @@
             "adserverc.cliipa.com",
             "adserver.finditquick.com",
             "adserver.omroepflevoland.nl",
-            "adserver.powerlinks.com"
-        ],
-        "to_test": [
-            "___id___.c.mystat-in.net",
-            "a.jumptap.com",
-            "a.visualrevenue.com",
-            "ad.trident.net",
+            "adserver.powerlinks.com",
             "ads.fresh.bg",
             "ads.iwannawatch.to",
             "ads.linuxjournal.com",
@@ -47,7 +41,13 @@
             "ads.trafficpimps.com",
             "ads.tripican.com",
             "ads.xprofiles.com",
-            "ads.yvmads.com",
+            "ads.yvmads.com"
+        ],
+        "to_test": [
+            "___id___.c.mystat-in.net",
+            "a.jumptap.com",
+            "a.visualrevenue.com",
+            "ad.trident.net",
             "adservicedomain.info",
             "adtag.asiaone.com",
             "adtags-core-03-eu.adtags.pro",
