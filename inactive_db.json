@@ -307,7 +307,10 @@
             "www.top1.ro",
             "www.top300.ro",
             "www.top99.ro",
-            "www.topadult.ro"
+            "www.topadult.ro",
+            "xclusive.ly",
+            "xpop.co",
+            "ym.bannerconnect.net"
         ],
         "to_test": [
             "adservicedomain.info",
@@ -318,11 +321,7 @@
             "php.genesismedia.com",
             "s10.sitemeter.com",
             "s11.sitemeter.com",
-            "s12.sitemeter.com",
-            "www.winadiscount.com",
-            "xclusive.ly",
-            "xpop.co",
-            "ym.bannerconnect.net"
+            "s12.sitemeter.com"
         ]
     }
 }
