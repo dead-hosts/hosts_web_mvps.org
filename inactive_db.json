@@ -120,10 +120,7 @@
             "j.flxpxl.com",
             "js.cybermonitor.com",
             "land.pckeeper.software",
-            "maurobb.freecounter.it"
-        ],
-        "to_test": [
-            "adservicedomain.info",
+            "maurobb.freecounter.it",
             "metrics.hhgregg.com",
             "metrics.mercola.com",
             "metrics.radioshack.com",
@@ -133,15 +130,18 @@
             "n.targetbtracker.com",
             "n.targetctracker.com",
             "ntracking.optimatic.com",
-            "o.sa.aol.com",
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
             "oascentral.salemweb.net",
             "oascentral.warcry.com",
-            "openad.tf1.fr",
             "openadext.tf1.fr",
+            "openad.tf1.fr"
+        ],
+        "to_test": [
+            "adservicedomain.info",
+            "o.sa.aol.com",
             "opera1-servedby.advertising.com",
             "orders.webpower.com",
             "ox-d.ask.servedbyopenx.com",
