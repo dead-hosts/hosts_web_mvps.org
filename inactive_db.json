@@ -280,17 +280,10 @@
             "track.netshelter.net",
             "track.popmog.com",
             "track.www.zazzle.com",
-            "tradefx.advertserve.com"
-        ],
-        "to_test": [
-            "code.intext.billboard.cz",
-            "img.readme.ru",
-            "openad.tf1.fr",
-            "openadext.tf1.fr",
-            "u.optorb.com",
+            "tradefx.advertserve.com",
             "udc.msn.com",
+            "u.optorb.com",
             "utsdpp.persgroep.net",
-            "v2.ads3.ipon.lt",
             "vast.optimatic.com",
             "video.od.visiblemeasures.com",
             "vra.outbrain.com",
@@ -300,6 +293,13 @@
             "wateristian.com",
             "wba.wirtschaftsblatt.at",
             "werbung.diepresse.com",
+            "www1.darikweb.com"
+        ],
+        "to_test": [
+            "code.intext.billboard.cz",
+            "img.readme.ru",
+            "openad.tf1.fr",
+            "openadext.tf1.fr",
             "www.accuserveadsystem.com",
             "www.adexit.com",
             "www.adroz.com",
@@ -325,7 +325,6 @@
             "www.top300.ro",
             "www.top99.ro",
             "www.topadult.ro",
-            "www1.darikweb.com",
             "xclusive.ly",
             "xpop.co",
             "ym.bannerconnect.net"
