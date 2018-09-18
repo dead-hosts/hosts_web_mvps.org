@@ -309,16 +309,7 @@
             "www.herbalsmokeshops.com",
             "www.intera-x.com",
             "www.nowgifttown.com",
-            "www.onlinewebservice3.de"
-        ],
-        "to_test": [
-            "ads.tripican.com",
-            "code.intext.billboard.cz",
-            "p.adframesrc.com",
-            "themexp.ezthemes.com",
-            "video.od.visiblemeasures.com",
-            "www.bitsfarmclean.com",
-            "www.promotion-campaigns.com",
+            "www.onlinewebservice3.de",
             "www.registrysweeper.com",
             "www.tangabilder.to",
             "www.themexp.org",
@@ -329,6 +320,15 @@
             "xclusive.ly",
             "xpop.co",
             "ym.bannerconnect.net"
+        ],
+        "to_test": [
+            "ads.tripican.com",
+            "code.intext.billboard.cz",
+            "p.adframesrc.com",
+            "themexp.ezthemes.com",
+            "video.od.visiblemeasures.com",
+            "www.bitsfarmclean.com",
+            "www.promotion-campaigns.com"
         ]
     }
 }
