@@ -132,11 +132,7 @@
             "j.flxpxl.com",
             "js.cybermonitor.com",
             "land.pckeeper.software",
-            "lstats.qip.ru"
-        ],
-        "to_test": [
-            "a.jumptap.com",
-            "ads.reviewcentre.com",
+            "lstats.qip.ru",
             "metrics.hhgregg.com",
             "metrics.mercola.com",
             "metrics.radioshack.com",
@@ -146,13 +142,17 @@
             "n.targetbtracker.com",
             "n.targetctracker.com",
             "ntracking.optimatic.com",
-            "o.sa.aol.com",
             "oas.autotrader.co.uk",
             "oascentral.artistdirect.com",
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
             "oascentral.salemweb.net",
-            "oascentral.warcry.com",
+            "oascentral.warcry.com"
+        ],
+        "to_test": [
+            "a.jumptap.com",
+            "ads.reviewcentre.com",
+            "o.sa.aol.com",
             "openad.tf1.fr",
             "openadext.tf1.fr",
             "opera1-servedby.advertising.com",
