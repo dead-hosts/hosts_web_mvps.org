@@ -147,16 +147,12 @@
             "oascentral.blackenterprise.com",
             "oascentral.escapistmagazine.com",
             "oascentral.salemweb.net",
-            "oascentral.warcry.com"
-        ],
-        "to_test": [
-            "a.jumptap.com",
-            "ads.reviewcentre.com",
-            "o.sa.aol.com",
-            "openad.tf1.fr",
+            "oascentral.warcry.com",
             "openadext.tf1.fr",
+            "openad.tf1.fr",
             "opera1-servedby.advertising.com",
             "orders.webpower.com",
+            "o.sa.aol.com",
             "ox-d.ask.servedbyopenx.com",
             "ox-d.bizjournals.servedbyopenx.com",
             "ox-d.blogtalkradio.com",
@@ -193,8 +189,12 @@
             "ping.qbaka.net",
             "pixels.mentad.com",
             "pool.euroads.no",
-            "pr.realvu.net",
             "prof.beta.estat.com",
+            "pr.realvu.net"
+        ],
+        "to_test": [
+            "a.jumptap.com",
+            "ads.reviewcentre.com",
             "rainbow-de.mythings.com",
             "rainbow-es.mythings.com",
             "rainbow-fi.mythings.com",
