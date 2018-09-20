@@ -254,13 +254,7 @@
             "s49.sitemeter.com",
             "s50.sitemeter.com",
             "s51.sitemeter.com",
-            "s.ads.t-online.de"
-        ],
-        "to_test": [
-            "a.jumptap.com",
-            "ads.reviewcentre.com",
-            "s.sa.aol.com",
-            "s.uadx.com",
+            "s.ads.t-online.de",
             "secure.webresint.com",
             "siniature.com",
             "site-stats.i8.com",
@@ -276,11 +270,17 @@
             "sm9.sitemeter.com",
             "spns.seriousads.net",
             "squid.diepresse.com",
-            "stat-tracker.net",
+            "s.sa.aol.com",
             "stats.complex.com",
             "stats.dailyrecord.co.uk",
             "stats.darikweb.com",
             "stats.manticoretechnology.com",
+            "stat-tracker.net"
+        ],
+        "to_test": [
+            "a.jumptap.com",
+            "ads.reviewcentre.com",
+            "s.uadx.com",
             "sync.darikweb.com",
             "sync.monarchads.com",
             "t.adonly.com",
