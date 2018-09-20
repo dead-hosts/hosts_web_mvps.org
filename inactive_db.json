@@ -291,13 +291,9 @@
             "track.keywordstrategy.org",
             "track.netshelter.net",
             "track.popmog.com",
-            "tradefx.advertserve.com"
-        ],
-        "to_test": [
-            "a.jumptap.com",
-            "ads.reviewcentre.com",
-            "u.optorb.com",
+            "tradefx.advertserve.com",
             "udc.msn.com",
+            "u.optorb.com",
             "utsdpp.persgroep.net",
             "vast.optimatic.com",
             "video.od.visiblemeasures.com",
@@ -308,6 +304,11 @@
             "wateristian.com",
             "wba.wirtschaftsblatt.at",
             "werbung.diepresse.com",
+            "www1.darikweb.com"
+        ],
+        "to_test": [
+            "a.jumptap.com",
+            "ads.reviewcentre.com",
             "www.accuserveadsystem.com",
             "www.adexit.com",
             "www.adroz.com",
@@ -333,7 +334,6 @@
             "www.top300.ro",
             "www.top99.ro",
             "www.topadult.ro",
-            "www1.darikweb.com",
             "xclusive.ly",
             "xpop.co",
             "ym.bannerconnect.net"
