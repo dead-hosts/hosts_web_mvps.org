@@ -84,14 +84,7 @@
             "cdn1.clkads.com",
             "cdn1.clkcln.com",
             "cdn1.clkmon.com",
-            "cdn1.skinected.com"
-        ],
-        "to_test": [
-            "___id___.c.mystat-in.net",
-            "ad.e-kolay.net",
-            "ad.eurosport.com",
-            "ads.darikweb.com",
-            "adx.darikweb.com",
+            "cdn1.skinected.com",
             "cdn.adstatic.com",
             "cdn.complexmedianetwork.com",
             "cdn.publicidad.net",
@@ -99,7 +92,14 @@
             "cdn.reporo.net",
             "click.icetraffic.com",
             "click.readme.ru",
-            "code.intext.billboard.cz",
+            "code.intext.billboard.cz"
+        ],
+        "to_test": [
+            "___id___.c.mystat-in.net",
+            "ad.e-kolay.net",
+            "ad.eurosport.com",
+            "ads.darikweb.com",
+            "adx.darikweb.com",
             "count.vivistats.com",
             "counter.goingup.com",
             "counter.internet.ge",
