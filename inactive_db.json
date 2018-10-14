@@ -108,14 +108,7 @@
             "cdn1.clkmon.com",
             "cdn1.skinected.com",
             "cdn.adstatic.com",
-            "cdn.complexmedianetwork.com"
-        ],
-        "to_test": [
-            "___id___.c.mystat-in.net",
-            "ad.e-kolay.net",
-            "ad.eurosport.com",
-            "ads.popfolkstars.com",
-            "banners.images.streamray.com",
+            "cdn.complexmedianetwork.com",
             "cdn.popwin.net",
             "cdn.publicidad.net",
             "cdn.qbaka.net",
@@ -124,7 +117,14 @@
             "click.readme.ru",
             "click.zxxds.net",
             "cms.c1exchange.com",
-            "code.intext.billboard.cz",
+            "code.intext.billboard.cz"
+        ],
+        "to_test": [
+            "___id___.c.mystat-in.net",
+            "ad.e-kolay.net",
+            "ad.eurosport.com",
+            "ads.popfolkstars.com",
+            "banners.images.streamray.com",
             "count.vivistats.com",
             "counter.goingup.com",
             "counter.internet.ge",
