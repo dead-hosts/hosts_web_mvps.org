@@ -155,13 +155,7 @@
             "img.ads.mocean.mobi",
             "img.ads.sanomamobileads.nl",
             "img-dc2.adtech.de",
-            "img.readme.ru"
-        ],
-        "to_test": [
-            "ad.e-kolay.net",
-            "ad.eurosport.com",
-            "adx.darikweb.com",
-            "cc.webpower.com",
+            "img.readme.ru",
             "imp.euroads.no",
             "j.flxpxl.com",
             "js.cybermonitor.com",
@@ -170,8 +164,14 @@
             "leadback.advertising.com",
             "li.pxl.ace.advertising.com",
             "lstats.qip.ru",
+            "maurobb.freecounter.it"
+        ],
+        "to_test": [
+            "ad.e-kolay.net",
+            "ad.eurosport.com",
+            "adx.darikweb.com",
+            "cc.webpower.com",
             "m.usersonline.com",
-            "maurobb.freecounter.it",
             "media.ftv-publicite.fr",
             "metrics.hhgregg.com",
             "metrics.mercola.com",
