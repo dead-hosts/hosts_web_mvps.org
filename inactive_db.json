@@ -159,14 +159,7 @@
             "img.ads.sanomamobileads.nl",
             "img-dc2.adtech.de",
             "img.readme.ru",
-            "imp.euroads.no"
-        ],
-        "to_test": [
-            "ad.e-kolay.net",
-            "ad.eurosport.com",
-            "affiliate.techstats.net",
-            "counter.goingup.com",
-            "counter.internet.ge",
+            "imp.euroads.no",
             "j.flxpxl.com",
             "js.cybermonitor.com",
             "keisu02.eproof.com",
@@ -174,8 +167,15 @@
             "leadback.advertising.com",
             "li.pxl.ace.advertising.com",
             "lstats.qip.ru",
+            "maurobb.freecounter.it"
+        ],
+        "to_test": [
+            "ad.e-kolay.net",
+            "ad.eurosport.com",
+            "affiliate.techstats.net",
+            "counter.goingup.com",
+            "counter.internet.ge",
             "m.usersonline.com",
-            "maurobb.freecounter.it",
             "media.ftv-publicite.fr",
             "metrics.hhgregg.com",
             "metrics.mercola.com",
