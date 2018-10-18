@@ -384,7 +384,10 @@
             "www.top100.ro",
             "www.top1.ro",
             "www.top300.ro",
-            "www.top99.ro"
+            "www.top99.ro",
+            "xclusive.ly",
+            "xpop.co",
+            "ym.bannerconnect.net"
         ],
         "to_test": [
             "ad.e-kolay.net",
@@ -396,10 +399,7 @@
             "pub.ftv-publicite.fr",
             "stats.manticoretechnology.com",
             "wsp.adskeeper.co.uk",
-            "wsp.mgid.com",
-            "xclusive.ly",
-            "xpop.co",
-            "ym.bannerconnect.net"
+            "wsp.mgid.com"
         ]
     }
 }
