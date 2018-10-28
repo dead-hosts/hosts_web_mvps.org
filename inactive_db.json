@@ -185,17 +185,13 @@
             "helios.finn.no",
             "hiq.fotolog.com",
             "hj.flxpxl.com",
-            "hm.webtrends.com"
-        ],
-        "to_test": [
+            "hm.webtrends.com",
             "___id___.c.mystat-in.net",
-            "adonline.e-kolay.net",
-            "bw.ads.t-online.de",
             "images.enhance.com",
             "images.indiads.com",
-            "img-dc2.adtech.de",
             "img.ads.mocean.mobi",
             "img.ads.sanomamobileads.nl",
+            "img-dc2.adtech.de",
             "img.neogen.ro",
             "img.pulsemgr.com",
             "img.readme.ru",
@@ -207,7 +203,11 @@
             "land.pckeeper.software",
             "leadback.advertising.com",
             "li.pxl.ace.advertising.com",
-            "lstats.qip.ru",
+            "lstats.qip.ru"
+        ],
+        "to_test": [
+            "adonline.e-kolay.net",
+            "bw.ads.t-online.de",
             "m.usersonline.com",
             "media.ftv-publicite.fr",
             "media.m-adx.com",
