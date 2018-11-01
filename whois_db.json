@@ -3430,6 +3430,16 @@
             "expiration_date": "01-sep-2019",
             "state": "future"
         },
+        "tracksitetraffic1.com": {
+            "epoch": "1599350400",
+            "expiration_date": "06-sep-2020",
+            "state": "future"
+        },
+        "tracksy.com": {
+            "epoch": "1558569600",
+            "expiration_date": "23-may-2019",
+            "state": "future"
+        },
         "traffic-offers.com": {
             "epoch": "1562025600",
             "expiration_date": "02-jul-2019",
@@ -3476,9 +3486,9 @@
             "state": "future"
         },
         "trw12.com": {
-            "epoch": "1540771200",
-            "expiration_date": "29-oct-2018",
-            "state": "past"
+            "epoch": "1572307200",
+            "expiration_date": "29-oct-2019",
+            "state": "future"
         },
         "tsmtrk.com": {
             "epoch": "1574812800",
