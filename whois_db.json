@@ -1390,6 +1390,21 @@
             "expiration_date": "05-feb-2019",
             "state": "future"
         },
+        "enoratraffic.com": {
+            "epoch": "1558915200",
+            "expiration_date": "27-may-2019",
+            "state": "future"
+        },
+        "entk.net": {
+            "epoch": "1572566400",
+            "expiration_date": "01-nov-2019",
+            "state": "future"
+        },
+        "epmads.com": {
+            "epoch": "1570924800",
+            "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
         "errorception.com": {
             "epoch": "1564444800",
             "expiration_date": "30-jul-2019",
@@ -1630,9 +1645,29 @@
             "expiration_date": "05-apr-2019",
             "state": "future"
         },
+        "getclicky.com": {
+            "epoch": "1543363200",
+            "expiration_date": "28-nov-2018",
+            "state": "future"
+        },
+        "getiton.com": {
+            "epoch": "1620086400",
+            "expiration_date": "04-may-2021",
+            "state": "future"
+        },
         "getmailcounter.com": {
             "epoch": "1542931200",
             "expiration_date": "23-nov-2018",
+            "state": "future"
+        },
+        "getrank.net": {
+            "epoch": "1565481600",
+            "expiration_date": "11-aug-2019",
+            "state": "future"
+        },
+        "getrockerbox.com": {
+            "epoch": "1616112000",
+            "expiration_date": "19-mar-2021",
             "state": "future"
         },
         "getstatistics.se": {
@@ -1673,6 +1708,11 @@
         "gostats.com": {
             "epoch": "1606780800",
             "expiration_date": "01-dec-2020",
+            "state": "future"
+        },
+        "gostats.pl": {
+            "epoch": "1568764800",
+            "expiration_date": "18-sep-2019",
             "state": "future"
         },
         "gostats.ru": {
@@ -1750,6 +1790,11 @@
             "expiration_date": "26-jan-2019",
             "state": "future"
         },
+        "hitmodel.net": {
+            "epoch": "1553644800",
+            "expiration_date": "27-mar-2019",
+            "state": "future"
+        },
         "hitpro.us": {
             "epoch": "1630454400",
             "expiration_date": "01-sep-2021",
@@ -1793,6 +1838,11 @@
         "hostingprod.com": {
             "epoch": "1572307200",
             "expiration_date": "29-oct-2019",
+            "state": "future"
+        },
+        "hot2015rewards.com": {
+            "epoch": "1549843200",
+            "expiration_date": "11-feb-2019",
             "state": "future"
         },
         "hstpnetwork.com": {
