@@ -418,15 +418,7 @@
             "www.counter4you.net",
             "www.euroconcept.ro",
             "www.ezthemes.com",
-            "www.findit-quick.com"
-        ],
-        "to_test": [
-            "ads.mixbg.net",
-            "ai-gb.marketgid.com",
-            "pixels.mentad.com",
-            "wap.advertising.com",
-            "wateristian.com",
-            "wba.wirtschaftsblatt.at",
+            "www.findit-quick.com",
             "www.gbcash.com",
             "www.gpr.hu",
             "www.herbalsmokeshops.com",
@@ -440,16 +432,23 @@
             "www.spywarenuker.com",
             "www.statsector.hu",
             "www.tangabilder.to",
-            "www.themexp.org",
             "www.thesearchster.com",
-            "www.top1.ro",
             "www.top100.ro",
+            "www.top1.ro",
             "www.top300.ro",
             "www.top99.ro",
             "www.tostadomedia.com",
             "www.utarget.co.uk",
             "xclusive.ly",
-            "xpop.co",
+            "xpop.co"
+        ],
+        "to_test": [
+            "ads.mixbg.net",
+            "ai-gb.marketgid.com",
+            "pixels.mentad.com",
+            "wap.advertising.com",
+            "wateristian.com",
+            "wba.wirtschaftsblatt.at",
             "ym.bannerconnect.net"
         ]
     }
