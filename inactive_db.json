@@ -199,17 +199,12 @@
             "hiq.fotolog.com",
             "hj.flxpxl.com",
             "hm.webtrends.com",
-            "___id___.c.mystat-in.net"
-        ],
-        "to_test": [
-            "ads.linuxjournal.com",
-            "ads.livescore.com",
-            "af-gb.marketgid.com",
+            "___id___.c.mystat-in.net",
             "images.enhance.com",
             "images.indiads.com",
-            "img-dc2.adtech.de",
             "img.ads.mocean.mobi",
             "img.ads.sanomamobileads.nl",
+            "img-dc2.adtech.de",
             "img.neogen.ro",
             "img.pulsemgr.com",
             "img.readme.ru",
@@ -222,7 +217,12 @@
             "leadback.advertising.com",
             "li.pxl.ace.advertising.com",
             "log.feedjit.com",
-            "lstats.qip.ru",
+            "lstats.qip.ru"
+        ],
+        "to_test": [
+            "ads.linuxjournal.com",
+            "ads.livescore.com",
+            "af-gb.marketgid.com",
             "m.usersonline.com",
             "media.ftv-publicite.fr",
             "media.m-adx.com",
