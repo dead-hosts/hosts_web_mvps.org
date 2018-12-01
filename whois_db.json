@@ -2998,7 +2998,7 @@
         "roia.biz": {
             "epoch": "1543622400",
             "expiration_date": "01-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "rtrgt2.com": {
             "epoch": "1574899200",
@@ -3076,9 +3076,9 @@
             "state": "future"
         },
         "searchnigeria.net": {
-            "epoch": "1543363200",
-            "expiration_date": "28-nov-2018",
-            "state": "past"
+            "epoch": "1574899200",
+            "expiration_date": "28-nov-2019",
+            "state": "future"
         },
         "searchtoexplore.com": {
             "epoch": "1589328000",
