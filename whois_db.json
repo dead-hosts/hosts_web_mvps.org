@@ -773,7 +773,7 @@
         "bde3d.com": {
             "epoch": "1544486400",
             "expiration_date": "11-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "bdgadv.ru": {
             "epoch": "1575417600",
@@ -876,9 +876,9 @@
             "state": "future"
         },
         "bororango.com": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
-            "state": "past"
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
+            "state": "future"
         },
         "bounceexchange.com": {
             "epoch": "1806710400",
