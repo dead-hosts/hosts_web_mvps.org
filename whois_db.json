@@ -3638,7 +3638,7 @@
         "videoclick.ru": {
             "epoch": "1547337600",
             "expiration_date": "13-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "vktr073.net": {
             "epoch": "1550534400",
@@ -3711,8 +3711,8 @@
             "state": "future"
         },
         "websponsors.com": {
-            "epoch": "1547337600",
-            "expiration_date": "13-jan-2019",
+            "epoch": "1578873600",
+            "expiration_date": "13-jan-2020",
             "state": "future"
         },
         "webtrackerplus.com": {
