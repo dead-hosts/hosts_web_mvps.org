@@ -83,7 +83,7 @@
         "3animalsex.com": {
             "epoch": "1549065600",
             "expiration_date": "02-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "3xtraffic.com": {
             "epoch": "1555632000",
@@ -186,9 +186,9 @@
             "state": "future"
         },
         "adbuka.com": {
-            "epoch": "1548892800",
-            "expiration_date": "31-jan-2019",
-            "state": "past"
+            "epoch": "1580428800",
+            "expiration_date": "31-jan-2020",
+            "state": "future"
         },
         "adc-serv.net": {
             "epoch": "1559433600",
