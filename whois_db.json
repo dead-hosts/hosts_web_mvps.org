@@ -1696,8 +1696,8 @@
             "state": "future"
         },
         "goclick.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
+            "epoch": "1612656000",
+            "expiration_date": "07-feb-2021",
             "state": "future"
         },
         "google-analytics.com": {
@@ -1763,7 +1763,7 @@
         "helpingtrk.com": {
             "epoch": "1549584000",
             "expiration_date": "08-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "helpmedownload.com": {
             "epoch": "1553040000",
