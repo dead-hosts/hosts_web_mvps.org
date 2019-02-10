@@ -1223,16 +1223,21 @@
         "daylogs.com": {
             "epoch": "1549670400",
             "expiration_date": "09-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "de17a.com": {
             "epoch": "1550275200",
             "expiration_date": "16-feb-2019",
             "state": "future"
         },
+        "deostr.com": {
+            "epoch": "1559260800",
+            "expiration_date": "31-may-2019",
+            "state": "future"
+        },
         "didtal.com": {
-            "epoch": "1549670400",
-            "expiration_date": "09-feb-2019",
+            "epoch": "1581206400",
+            "expiration_date": "09-feb-2020",
             "state": "future"
         },
         "didtheyreadit.com": {
