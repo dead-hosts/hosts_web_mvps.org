@@ -2876,9 +2876,9 @@
             "state": "future"
         },
         "radarurl.com": {
-            "epoch": "1549497600",
-            "expiration_date": "07-feb-2019",
-            "state": "past"
+            "epoch": "1581033600",
+            "expiration_date": "07-feb-2020",
+            "state": "future"
         },
         "rb-net.com": {
             "epoch": "1553731200",
@@ -2928,6 +2928,11 @@
         "redroomnetwork.com": {
             "epoch": "1597708800",
             "expiration_date": "18-aug-2020",
+            "state": "future"
+        },
+        "redshell.io": {
+            "epoch": "1553644800",
+            "expiration_date": "27-mar-2019",
             "state": "future"
         },
         "registrydefender.com": {
