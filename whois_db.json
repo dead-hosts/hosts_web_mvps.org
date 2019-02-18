@@ -2513,7 +2513,7 @@
         "opendownloadmanager.com": {
             "epoch": "1550361600",
             "expiration_date": "17-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "opensharecount.com": {
             "epoch": "1572825600",
@@ -2541,8 +2541,8 @@
             "state": "future"
         },
         "otclick-adv.ru": {
-            "epoch": "1550361600",
-            "expiration_date": "17-feb-2019",
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
             "state": "future"
         },
         "otherprofit.com": {
@@ -2613,7 +2613,7 @@
         "payn.me": {
             "epoch": "1550448000",
             "expiration_date": "18-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "paypertext.com": {
             "epoch": "1569369600",
