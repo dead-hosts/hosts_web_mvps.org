@@ -2511,9 +2511,9 @@
             "state": "future"
         },
         "opendownloadmanager.com": {
-            "epoch": "1550361600",
-            "expiration_date": "17-feb-2019",
-            "state": "past"
+            "epoch": "1581897600",
+            "expiration_date": "17-feb-2020",
+            "state": "future"
         },
         "opensharecount.com": {
             "epoch": "1572825600",
@@ -2523,12 +2523,12 @@
         "opensoftwareupdate.com": {
             "epoch": "1550707200",
             "expiration_date": "21-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "opensoftwareupdater.com": {
             "epoch": "1550707200",
             "expiration_date": "21-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "openstat.net": {
             "epoch": "1578614400",
@@ -2611,9 +2611,9 @@
             "state": "future"
         },
         "payn.me": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
-            "state": "past"
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
+            "state": "future"
         },
         "paypertext.com": {
             "epoch": "1569369600",
