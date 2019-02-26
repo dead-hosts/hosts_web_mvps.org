@@ -1905,6 +1905,11 @@
             "expiration_date": "13-jun-2019",
             "state": "future"
         },
+        "hub.com.pl": {
+            "epoch": "1566777600",
+            "expiration_date": "26-aug-2019",
+            "state": "future"
+        },
         "hypertracker.com": {
             "epoch": "1554681600",
             "expiration_date": "08-apr-2019",
