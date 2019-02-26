@@ -415,6 +415,11 @@
             "expiration_date": "16-jan-2020",
             "state": "future"
         },
+        "adsafiliados.com.br": {
+            "epoch": "1586822400",
+            "expiration_date": "14-apr-2020",
+            "state": "future"
+        },
         "adsbookie.com": {
             "epoch": "1570665600",
             "expiration_date": "10-oct-2019",
@@ -443,6 +448,11 @@
         "adserver-e7.com": {
             "epoch": "1560643200",
             "expiration_date": "16-jun-2019",
+            "state": "future"
+        },
+        "adserver-voice-online.co.uk": {
+            "epoch": "1619136000",
+            "expiration_date": "23-apr-2021",
             "state": "future"
         },
         "adserverus.info": {
