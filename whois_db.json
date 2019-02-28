@@ -2078,7 +2078,7 @@
         "kaizentraffic.com": {
             "epoch": "1551312000",
             "expiration_date": "28-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "kazaa.com": {
             "epoch": "1560038400",
@@ -2223,6 +2223,11 @@
         "maxtracker.net": {
             "epoch": "1555891200",
             "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "mbn.com.ua": {
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "mdctrail.com": {
