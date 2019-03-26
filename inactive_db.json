@@ -675,7 +675,8 @@
             "secure.webresint.com",
             "securepubads.g.doubleclick.net",
             "servedby.advertising.com",
-            "servedby.indiads.com"
+            "servedby.indiads.com",
+            "tc-s.convertro.com"
         ],
         "to_test": [
             "admedia.expedia.com",
@@ -699,7 +700,6 @@
             "adservicedomain.info",
             "ak-gb.marketgid.com",
             "aka.accortech.com",
-            "tc-s.convertro.com",
             "www1.darikweb.com",
             "www2.stats4free.de"
         ]
