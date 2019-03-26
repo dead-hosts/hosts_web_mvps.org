@@ -70,9 +70,7 @@
             "www.ppctracking.net",
             "www.realtracker.com",
             "www.reelcentric.com",
-            "www.riskymail4free.com"
-        ],
-        "to_test": [
+            "www.riskymail4free.com",
             "1.googlenews.xorg.pl",
             "1.ofsnetwork.com",
             "123.ichkoche.at",
@@ -133,7 +131,9 @@
             "ad4.netshelter.net",
             "ad5.netshelter.net",
             "adcdn.33universal.com",
-            "adclick.g.doubleclick.net",
+            "adclick.g.doubleclick.net"
+        ],
+        "to_test": [
             "adds.misiamoiatdom.com",
             "adg.bzgint.com",
             "adimages.scrippsnetworks.com",
