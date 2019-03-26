@@ -662,7 +662,12 @@
             "ff1.telemetryverification.net",
             "files4.securedownload01.com",
             "files5.securedownload01.com",
-            "findadvertise.engine.adglare.net"
+            "findadvertise.engine.adglare.net",
+            "monitoring.profi-webhosting.cz",
+            "motifcdn.doubleclick.net",
+            "motifcdn2.doubleclick.net",
+            "mp.pianomedia.eu",
+            "oascentral.mochila.com"
         ],
         "to_test": [
             "admedia.expedia.com",
@@ -686,10 +691,6 @@
             "adservicedomain.info",
             "ak-gb.marketgid.com",
             "aka.accortech.com",
-            "monitoring.profi-webhosting.cz",
-            "motifcdn.doubleclick.net",
-            "motifcdn2.doubleclick.net",
-            "mp.pianomedia.eu",
             "popunder.popcde.com",
             "pr.atwola.com",
             "secure.uac.advertising.com",
