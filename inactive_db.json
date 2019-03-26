@@ -670,7 +670,12 @@
             "oascentral.mochila.com",
             "popunder.popcde.com",
             "pr.atwola.com",
-            "sana.newsinc.com"
+            "sana.newsinc.com",
+            "secure.uac.advertising.com",
+            "secure.webresint.com",
+            "securepubads.g.doubleclick.net",
+            "servedby.advertising.com",
+            "servedby.indiads.com"
         ],
         "to_test": [
             "admedia.expedia.com",
@@ -694,11 +699,6 @@
             "adservicedomain.info",
             "ak-gb.marketgid.com",
             "aka.accortech.com",
-            "secure.uac.advertising.com",
-            "secure.webresint.com",
-            "securepubads.g.doubleclick.net",
-            "servedby.advertising.com",
-            "servedby.indiads.com",
             "tc-s.convertro.com",
             "www1.darikweb.com",
             "www2.stats4free.de"
