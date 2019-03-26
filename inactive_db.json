@@ -651,7 +651,11 @@
             "ah-gb.marketgid.com",
             "ai-gb.marketgid.com",
             "analytics.newsinc.com",
-            "bps.beweb.com"
+            "bps.beweb.com",
+            "bsclick.adknowledge.com",
+            "bspixel.bidsystem.com",
+            "c.newsinc.com",
+            "cdn.mirageads.net"
         ],
         "to_test": [
             "admedia.expedia.com",
@@ -675,8 +679,6 @@
             "adservicedomain.info",
             "ak-gb.marketgid.com",
             "aka.accortech.com",
-            "bsclick.adknowledge.com",
-            "bspixel.bidsystem.com",
             "feeds.wise-click.com",
             "feedx.bidsystem.com",
             "ff1.telemetryverification.net",
