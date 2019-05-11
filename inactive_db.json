@@ -693,7 +693,9 @@
             "feed.peakclick.com",
             "feedads.g.doubleclick.net",
             "feedx.bidsystem.com",
-            "ff1.telemetryverification.net"
+            "ff1.telemetryverification.net",
+            "images.enhance.com",
+            "images.indiads.com"
         ],
         "to_test": [
             "admedia.expedia.com",
@@ -716,8 +718,6 @@
             "adserver.softure.com",
             "adserver.veruta.com",
             "adservicedomain.info",
-            "images.enhance.com",
-            "images.indiads.com",
             "promo.hdvbucks.com",
             "proxy.softonicads.com",
             "siniature.com",
