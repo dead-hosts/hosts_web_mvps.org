@@ -683,7 +683,9 @@
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com",
             "ad.m5prod.net",
-            "ads.24.com"
+            "ads.24.com",
+            "ak-gb.marketgid.com",
+            "aka.accortech.com"
         ],
         "to_test": [
             "admedia.expedia.com",
@@ -706,8 +708,6 @@
             "adserver.softure.com",
             "adserver.veruta.com",
             "adservicedomain.info",
-            "ak-gb.marketgid.com",
-            "aka.accortech.com",
             "bsclick.adknowledge.com",
             "bspixel.bidsystem.com",
             "fe.lea.spray.se",
