@@ -1915,9 +1915,9 @@
         "state": "future"
     },
     "htl.bid": {
-        "epoch": "1560384000",
+        "epoch": 1560384000,
         "expiration_date": "13-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "hub.com.pl": {
         "epoch": "1566777600",
@@ -2110,9 +2110,9 @@
         "state": "future"
     },
     "kvors.com": {
-        "epoch": "1560384000",
+        "epoch": 1560384000,
         "expiration_date": "13-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "layer-ad.org": {
         "epoch": "1645488000",
