@@ -3714,6 +3714,11 @@
         "expiration_date": "10-feb-2021",
         "state": "future"
     },
+    "videe.tv": {
+        "epoch": 1571270400,
+        "expiration_date": "17-oct-2019",
+        "state": "future"
+    },
     "video-pomp.com": {
         "epoch": "1561680000",
         "expiration_date": "28-jun-2019",
