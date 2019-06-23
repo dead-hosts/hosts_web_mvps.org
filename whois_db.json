@@ -1035,9 +1035,9 @@
         "state": "future"
     },
     "clevernt.com": {
-        "epoch": "1561161600",
+        "epoch": 1561161600,
         "expiration_date": "22-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "clickadu.com": {
         "epoch": "1571875200",
