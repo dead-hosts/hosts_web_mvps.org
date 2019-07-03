@@ -3565,13 +3565,13 @@
         "state": "future"
     },
     "traffic-offers.com": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1625184000,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "traffic.ru": {
-        "epoch": "1562025600",
-        "expiration_date": "02-jul-2019",
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "trafficads.com": {
