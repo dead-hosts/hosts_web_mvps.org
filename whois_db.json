@@ -3350,9 +3350,9 @@
         "state": "future"
     },
     "statistiq.com": {
-        "epoch": "1562803200",
+        "epoch": 1562803200,
         "expiration_date": "11-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "stepnation.com": {
         "epoch": "1597104000",
