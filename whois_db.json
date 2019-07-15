@@ -964,6 +964,11 @@
         "expiration_date": "20-oct-2019",
         "state": "future"
     },
+    "buzzcpm.com": {
+        "epoch": 1568851200,
+        "expiration_date": "19-sep-2019",
+        "state": "future"
+    },
     "byet.org": {
         "epoch": "1584835200",
         "expiration_date": "22-mar-2020",
@@ -1037,6 +1042,11 @@
     "ckstatic.com": {
         "epoch": "1620000000",
         "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "cleardexchange.com": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
         "state": "future"
     },
     "clevernt.com": {
