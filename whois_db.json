@@ -1730,9 +1730,9 @@
         "state": "future"
     },
     "getrank.net": {
-        "epoch": "1565481600",
+        "epoch": 1565481600,
         "expiration_date": "11-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "getrockerbox.com": {
         "epoch": "1616112000",
@@ -1805,8 +1805,8 @@
         "state": "future"
     },
     "gwmtracking.com": {
-        "epoch": "1565222400",
-        "expiration_date": "08-aug-2019",
+        "epoch": 1754611200,
+        "expiration_date": "08-aug-2025",
         "state": "future"
     },
     "hartim.com": {
