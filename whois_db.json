@@ -2650,8 +2650,8 @@
         "state": "future"
     },
     "ozertesa.com": {
-        "epoch": "1565136000",
-        "expiration_date": "07-aug-2019",
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "pagefair.com": {
@@ -2735,9 +2735,9 @@
         "state": "future"
     },
     "php4you.biz": {
-        "epoch": "1565395200",
+        "epoch": 1565395200,
         "expiration_date": "10-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "pingomatic.com": {
         "epoch": "1584835200",
@@ -2990,8 +2990,8 @@
         "state": "future"
     },
     "redirect.com": {
-        "epoch": 1565395200,
-        "expiration_date": "10-aug-2019",
+        "epoch": 1597017600,
+        "expiration_date": "10-aug-2020",
         "state": "future"
     },
     "redirectcpv.com": {
