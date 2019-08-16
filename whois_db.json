@@ -895,9 +895,9 @@
         "state": "future"
     },
     "blueadvertise.com": {
-        "epoch": "1565913600",
+        "epoch": 1565913600,
         "expiration_date": "16-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "bluehparking.com": {
         "epoch": "1571702400",
@@ -1005,8 +1005,8 @@
         "state": "future"
     },
     "cashengines.com": {
-        "epoch": "1565913600",
-        "expiration_date": "16-aug-2019",
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
         "state": "future"
     },
     "cd-ads.com": {
