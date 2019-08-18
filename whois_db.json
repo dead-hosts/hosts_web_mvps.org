@@ -830,9 +830,9 @@
         "state": "future"
     },
     "bestappinstalls.com": {
-        "epoch": "1566086400",
+        "epoch": 1566086400,
         "expiration_date": "18-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "bestsearch.com": {
         "epoch": "1576368000",
@@ -840,8 +840,8 @@
         "state": "future"
     },
     "bgbaner.com": {
-        "epoch": "1566086400",
-        "expiration_date": "18-aug-2019",
+        "epoch": 1597708800,
+        "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "bgtop100.com": {
@@ -895,9 +895,9 @@
         "state": "future"
     },
     "blueadvertise.com": {
-        "epoch": 1565913600,
-        "expiration_date": "16-aug-2019",
-        "state": "past"
+        "epoch": 1597536000,
+        "expiration_date": "16-aug-2020",
+        "state": "future"
     },
     "bluehparking.com": {
         "epoch": "1571702400",
