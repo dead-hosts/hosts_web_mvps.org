@@ -2325,9 +2325,9 @@
         "state": "future"
     },
     "mmotraffic.com": {
-        "epoch": "1566432000",
+        "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "mmptrack.com": {
         "epoch": "1583452800",
@@ -2410,8 +2410,8 @@
         "state": "future"
     },
     "mydati.com": {
-        "epoch": "1566345600",
-        "expiration_date": "21-aug-2019",
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
         "state": "future"
     },
     "myfukbuddy.com": {
