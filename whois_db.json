@@ -1155,9 +1155,9 @@
         "state": "future"
     },
     "coin-hive.com": {
-        "epoch": 1566604800,
-        "expiration_date": "24-aug-2019",
-        "state": "past"
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
     },
     "coinhive.com": {
         "epoch": "1575158400",
@@ -1315,8 +1315,8 @@
         "state": "future"
     },
     "domdex.com": {
-        "epoch": "1566777600",
-        "expiration_date": "26-aug-2019",
+        "epoch": 1629936000,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "doubleclick.com": {
