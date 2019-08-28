@@ -890,9 +890,9 @@
         "state": "future"
     },
     "blogcounter.com": {
-        "epoch": "1566864000",
+        "epoch": 1566864000,
         "expiration_date": "27-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "blueadvertise.com": {
         "epoch": 1597536000,
