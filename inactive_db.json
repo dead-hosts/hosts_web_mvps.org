@@ -446,7 +446,16 @@
             "content.cpxinteractive.com": "INACTIVE",
             "content.rmxads.com": "INACTIVE",
             "content.yieldmanager.com": "INACTIVE",
-            "counter.snackly.co": "INACTIVE"
+            "counter.snackly.co": "INACTIVE",
+            "data.flurry.com": "INACTIVE",
+            "de.adserver.yahoo.com": "INACTIVE",
+            "dev.flurry.com": "INACTIVE",
+            "dk.adserver.yahoo.com": "INACTIVE",
+            "dynamic.aol.com": "INACTIVE",
+            "e.yieldmanager.net": "INACTIVE",
+            "es.adserver.yahoo.com": "INACTIVE",
+            "eu-pn2.adserver.yahoo.com": "INACTIVE",
+            "eu-pn4.adserver.yahoo.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
