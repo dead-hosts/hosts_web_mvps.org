@@ -429,7 +429,13 @@
             "bank19.ads.dt.mydas.mobi": "INACTIVE",
             "bank19.ads.mp.mydas.mobi": "INACTIVE",
             "bank20.ads.dt.mydas.mobi": "INACTIVE",
-            "bank20.ads.mp.mydas.mobi": "INACTIVE"
+            "bank20.ads.mp.mydas.mobi": "INACTIVE",
+            "be.adserver.yahoo.com": "INACTIVE",
+            "beap.adx.yahoo.com": "INACTIVE",
+            "br.adserver.yahoo.com": "INACTIVE",
+            "ca.adserver.yahoo.com": "INACTIVE",
+            "cdn.at.atwola.com": "INACTIVE",
+            "cdn.atwola.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
