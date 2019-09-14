@@ -393,7 +393,9 @@
         "1568444529": {
             "counter.megaindex.ru": "INACTIVE",
             "service.multi-pops.com": "INACTIVE",
-            "sscdn.banners.advidi.com": "INACTIVE"
+            "sscdn.banners.advidi.com": "INACTIVE",
+            "www1.multipops.com": "INACTIVE",
+            "www2.multipops.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
