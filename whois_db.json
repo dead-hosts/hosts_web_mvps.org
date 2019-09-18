@@ -279,6 +279,11 @@
         "expiration_date": "19-oct-2019",
         "state": "future"
     },
+    "adform.net": {
+        "epoch": 1695427200,
+        "expiration_date": "23-sep-2023",
+        "state": "future"
+    },
     "adfun.ru": {
         "epoch": 1599696000,
         "expiration_date": "10-sep-2020",
@@ -287,6 +292,11 @@
     "adgebra.co.in": {
         "epoch": "1605225600",
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "adgrx.com": {
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "adhall.com": {
@@ -352,6 +362,11 @@
     "adnext.fr": {
         "epoch": 1584576000,
         "expiration_date": "19-mar-2020",
+        "state": "future"
+    },
+    "adnxs.com": {
+        "epoch": 1590537600,
+        "expiration_date": "27-may-2020",
         "state": "future"
     },
     "adocean-lt.lt": {
