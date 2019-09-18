@@ -2785,9 +2785,9 @@
         "state": "future"
     },
     "pixel.watch": {
-        "epoch": "1568764800",
+        "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "pixxur.com": {
         "epoch": "1587686400",
