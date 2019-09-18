@@ -3225,9 +3225,9 @@
         "state": "future"
     },
     "sedoparking.com": {
-        "epoch": "1568764800",
+        "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "seekbang.com": {
         "epoch": "1587427200",
