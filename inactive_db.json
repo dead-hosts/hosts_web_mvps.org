@@ -21,12 +21,7 @@
         "1568613734": {},
         "1568786604": {},
         "1568959390": {
-            "___id___.c.mystat-in.net": "INACTIVE",
-            "hiq.fotolog.com": "INACTIVE",
-            "hitx.waudit.cz": "INACTIVE",
-            "hj.flxpxl.com": "INACTIVE",
             "i.trkjmp.com": "INACTIVE",
-            "iau.adsiduous.com": "INACTIVE",
             "images.primaryads.com": "INACTIVE",
             "images.skenzo.com": "INACTIVE",
             "img.pulsemgr.com": "INACTIVE",
@@ -245,6 +240,7 @@
             "8210643.fls.doubleclick.net": "INACTIVE",
             "8482194.fls.doubleclick.net": "INACTIVE",
             "8563004.fls.doubleclick.net": "INACTIVE",
+            "___id___.c.mystat-in.net": "INACTIVE",
             "a.adready.com": "INACTIVE",
             "a.giantrealm.com": "INACTIVE",
             "a.komoona.com": "INACTIVE",
@@ -414,7 +410,11 @@
             "gdyn.nascar.com": "INACTIVE",
             "gernewt.info": "INACTIVE",
             "go.goroost.com": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE"
+            "gw003.lphbs.com": "INACTIVE",
+            "hiq.fotolog.com": "INACTIVE",
+            "hitx.waudit.cz": "INACTIVE",
+            "hj.flxpxl.com": "INACTIVE",
+            "iau.adsiduous.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
