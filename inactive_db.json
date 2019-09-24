@@ -23,17 +23,6 @@
         "1568959390": {},
         "1569132845": {
             "s.uadx.com": "INACTIVE",
-            "sana.newsinc.com": "INACTIVE",
-            "scripts.chitika.net": "INACTIVE",
-            "sdc.ca.com": "INACTIVE",
-            "search.clicksor.com": "INACTIVE",
-            "search.eclickz.com": "INACTIVE",
-            "seb.scorecardresearch.com": "INACTIVE",
-            "secure.adwebster.com": "INACTIVE",
-            "secure.webresint.com": "INACTIVE",
-            "securepubads.g.doubleclick.net": "INACTIVE",
-            "service.multi-pops.com": "INACTIVE",
-            "serw.clicksor.com": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE",
             "siniature.com": "INACTIVE",
             "smartad.mercadolibre.com.ar": "INACTIVE",
@@ -413,7 +402,18 @@
             "rmd.atdmt.com": "INACTIVE",
             "rq.adtrackdirect.com": "INACTIVE",
             "rtb.metrigo.com": "INACTIVE",
-            "s2.video.doubleclick.net": "INACTIVE"
+            "s2.video.doubleclick.net": "INACTIVE",
+            "sana.newsinc.com": "INACTIVE",
+            "scripts.chitika.net": "INACTIVE",
+            "sdc.ca.com": "INACTIVE",
+            "search.clicksor.com": "INACTIVE",
+            "search.eclickz.com": "INACTIVE",
+            "seb.scorecardresearch.com": "INACTIVE",
+            "secure.adwebster.com": "INACTIVE",
+            "secure.webresint.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "service.multi-pops.com": "INACTIVE",
+            "serw.clicksor.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
