@@ -23,11 +23,6 @@
         "1568959390": {},
         "1569132845": {},
         "1569305184": {
-            "report-ads-to.pubnation.com": "INACTIVE",
-            "rh.adscale.de": "INACTIVE",
-            "rmd.atdmt.com": "INACTIVE",
-            "rq.adtrackdirect.com": "INACTIVE",
-            "rtb.metrigo.com": "INACTIVE",
             "s2.video.doubleclick.net": "INACTIVE",
             "sana.newsinc.com": "INACTIVE",
             "scripts.chitika.net": "INACTIVE",
@@ -439,7 +434,12 @@
             "prm.europacash.com": "INACTIVE",
             "prod-services.interactiveone.com": "INACTIVE",
             "project2.realtracker.com": "INACTIVE",
-            "proxy.softonicads.com": "INACTIVE"
+            "proxy.softonicads.com": "INACTIVE",
+            "report-ads-to.pubnation.com": "INACTIVE",
+            "rh.adscale.de": "INACTIVE",
+            "rmd.atdmt.com": "INACTIVE",
+            "rq.adtrackdirect.com": "INACTIVE",
+            "rtb.metrigo.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
