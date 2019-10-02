@@ -25,18 +25,7 @@
         "1569305184": {},
         "1569478374": {},
         "1569651119": {},
-        "1569823801": {
-            "www.theaffiliateprogram.com": "INACTIVE",
-            "www.top100.ro": "INACTIVE",
-            "www.tostadomedia.com": "INACTIVE",
-            "www.updatesoftwaresend.com": "INACTIVE",
-            "www.vaultsappsbyte.com": "INACTIVE",
-            "www.yourhitstats.com": "INACTIVE",
-            "www.zipitfast.com": "INACTIVE",
-            "xml.mxsads.com": "INACTIVE",
-            "xml.quiveradnet.com": "INACTIVE",
-            "xpop.co": "INACTIVE"
-        },
+        "1569823801": {},
         "1569996637": {
             "1.ofsnetwork.com": "INACTIVE",
             "1435575.fls.doubleclick.net": "INACTIVE",
@@ -454,9 +443,22 @@
             "www.realtracker.com": "INACTIVE",
             "www.scambiobanner.tv": "INACTIVE",
             "www.sitestat.com": "INACTIVE",
+            "www.theaffiliateprogram.com": "INACTIVE",
+            "www.top100.ro": "INACTIVE",
+            "www.tostadomedia.com": "INACTIVE",
+            "www.updatesoftwaresend.com": "INACTIVE",
+            "www.vaultsappsbyte.com": "INACTIVE",
+            "www.yourhitstats.com": "INACTIVE",
+            "www.zipitfast.com": "INACTIVE",
             "www1.multipops.com": "INACTIVE",
             "www2.multipops.com": "INACTIVE",
-            "www7.securybrowse.com": "INACTIVE"
+            "www7.securybrowse.com": "INACTIVE",
+            "xml.mxsads.com": "INACTIVE",
+            "xml.quiveradnet.com": "INACTIVE",
+            "xpop.co": "INACTIVE",
+            "yahoo.ivwbox.de": "INACTIVE",
+            "zdf.ivwbox.de": "INACTIVE",
+            "zeitonl.ivwbox.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
