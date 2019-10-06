@@ -31,7 +31,6 @@
             "a.giantrealm.com": "INACTIVE",
             "a.komoona.com": "INACTIVE",
             "a.thoughtleadr.com": "INACTIVE",
-            "ac.eu.angsrvr.com": "INACTIVE",
             "ad-ace.doubleclick.net": "INACTIVE",
             "ad.cmfu.com": "INACTIVE",
             "ad.db3nf.com": "INACTIVE",
@@ -461,6 +460,9 @@
             "879.stats.misstrends.com": "INACTIVE",
             "986.stats.misstrends.com": "INACTIVE",
             "a.adready.com": "INACTIVE"
+        },
+        "1570345367": {
+            "ac.eu.angsrvr.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
