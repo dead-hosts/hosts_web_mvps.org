@@ -37,7 +37,6 @@
             "ad.mediaprostor.cz": "INACTIVE",
             "ad.slutload.com": "INACTIVE",
             "ad.trident.net": "INACTIVE",
-            "ad3.hornymatches.com": "INACTIVE",
             "adan.xtendmedia.com": "INACTIVE",
             "adcdn.33universal.com": "INACTIVE",
             "adclick.g.doubleclick.net": "INACTIVE",
@@ -462,7 +461,8 @@
             "a.adready.com": "INACTIVE"
         },
         "1570345367": {
-            "ac.eu.angsrvr.com": "INACTIVE"
+            "ac.eu.angsrvr.com": "INACTIVE",
+            "ad3.hornymatches.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
