@@ -1,31 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1565614685": {},
-        "1565762559": {},
-        "1565935193": {},
-        "1566108010": {},
-        "1566282518": {},
-        "1566453127": {},
-        "1566627076": {},
-        "1566801947": {},
-        "1566974695": {},
-        "1567147728": {},
-        "1567318220": {},
-        "1567491146": {},
-        "1567663477": {},
-        "1567836942": {},
-        "1568016163": {},
-        "1568182059": {},
-        "1568284003": {},
-        "1568444529": {},
-        "1568613734": {},
-        "1568786604": {},
-        "1568959390": {},
-        "1569132845": {},
-        "1569305184": {},
-        "1569478374": {},
-        "1569651119": {},
-        "1569823801": {},
         "1569996637": {
             "___id___.c.mystat-in.net": "INACTIVE",
             "a.giantrealm.com": "INACTIVE",
@@ -463,6 +437,24 @@
             "adclick.g.doubleclick.net": "INACTIVE",
             "adds.misiamoiatdom.com": "INACTIVE",
             "adflash.affairsclub.com": "INACTIVE"
+        },
+        "1570663615": {
+            "ad.foxnetworks.com": "INACTIVE"
+        },
+        "1570663809": {
+            "ad.freecity.de": "INACTIVE"
+        },
+        "1570663942": {
+            "ad.go.com": "INACTIVE"
+        },
+        "1570663944": {
+            "ad.hankooki.com": "INACTIVE"
+        },
+        "1570664073": {
+            "ad.hbv.de": "INACTIVE"
+        },
+        "1570664205": {
+            "adhese.gva.be": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
