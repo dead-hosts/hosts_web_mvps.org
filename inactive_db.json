@@ -1,899 +1,11 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1571351826": {
-            "o1.inviziads.com": "INVALID",
-            "o2.eyereturn.com": "INVALID",
-            "o2adpl.hit.gemius.pl": "INVALID"
-        },
-        "1571351827": {
-            "o.adgear.com": "INVALID",
-            "o2.hit.gemius.pl": "INVALID",
-            "oas.247sports.com": "INVALID",
-            "oas.ad-vice.biz": "INVALID",
-            "oas.benchmark.fr": "INVALID",
-            "oasc02023.247realmedia.com": "INVALID",
-            "oasc03012.247realmedia.com": "INVALID",
-            "oasc03049.247realmedia.com": "INVALID",
-            "oasc04052.247realmedia.com": "INVALID",
-            "oasc05024.247realmedia.com": "INVALID"
-        },
-        "1571351828": {
-            "oasc05.247realmedia.com": "INVALID",
-            "oasc05134.247realmedia.com": "INVALID",
-            "oasc05135.247realmedia.com": "INVALID",
-            "oasc05139.247realmedia.com": "INVALID",
-            "oasc06.247realmedia.com": "INVALID",
-            "oasc06006.247realmedia.com": "INVALID",
-            "oasc06020.247realmedia.com": "INVALID",
-            "oasc08.247realmedia.com": "INVALID",
-            "oasc08006.247realmedia.com": "INVALID",
-            "oasc08008.247realmedia.com": "INVALID",
-            "oasc08011.247realmedia.com": "INVALID",
-            "oasc08024.247realmedia.com": "INVALID",
-            "oasc09.247realmedia.com": "INVALID"
-        },
-        "1571351829": {
-            "oasc10.247realmedia.com": "INVALID",
-            "oasc10015.247realmedia.com": "INVALID",
-            "oasc11.247realmedia.com": "INVALID",
-            "oasc11009.247realmedia.com": "INVALID",
-            "oasc12.247realmedia.com": "INVALID",
-            "oasc12001.247realmedia.com": "INVALID",
-            "oasc12016.247realmedia.com": "INVALID",
-            "oasc12056.247realmedia.com": "INVALID",
-            "oasc14008.247realmedia.com": "INVALID",
-            "oasc17.247realmedia.com": "INVALID",
-            "oasc18005.247realmedia.com": "INVALID",
-            "oascentral.123greetings.com": "INVALID"
-        },
-        "1571351830": {
-            "oascentral.abclocal.go.com": "INVALID",
-            "oascentral.adage.com": "INVALID",
-            "oascentral.aeroplan.com": "INVALID",
-            "oascentral.arkansasonline.com": "INVALID",
-            "oascentral.autoweek.com": "INVALID",
-            "oascentral.beliefnet.com": "INVALID",
-            "oascentral.bigfishgames.com": "INVALID",
-            "oascentral.bristolpress.com": "INVALID",
-            "oascentral.broadway.com": "INVALID",
-            "oascentral.browardpalmbeach.com": "INVALID",
-            "oascentral.businessinsurance.com": "INVALID",
-            "oascentral.businessweek.com": "INVALID"
-        },
-        "1571351831": {
-            "oascentral.buy.com": "INVALID",
-            "oascentral.buysell.com": "INVALID",
-            "oascentral.capecodonline.com": "INVALID",
-            "oascentral.careerbuilder.com": "INVALID",
-            "oascentral.charleston.net": "INVALID",
-            "oascentral.chicagobusiness.com": "INVALID",
-            "oascentral.chron.com": "INVALID",
-            "oascentral.citypages.com": "INVALID",
-            "oascentral.citypaper.com": "INVALID",
-            "oascentral.comcast.net": "INVALID"
-        },
-        "1571351832": {
-            "oascentral.comics.com": "INVALID",
-            "oascentral.consumerreports.org": "INVALID",
-            "oascentral.crainsdetroit.com": "INVALID",
-            "oascentral.crainsnewyork.com": "INVALID",
-            "oascentral.cygnusb2b.com": "INVALID",
-            "oascentral.dailybreeze.com": "INVALID",
-            "oascentral.dailylocal.com": "INVALID",
-            "oascentral.datasphere.com": "INVALID",
-            "oascentral.discovery.com": "INVALID",
-            "oascentral.dollargeneral.com": "INVALID",
-            "oascentral.dominionenterprises.com": "INVALID"
-        },
-        "1571351833": {
-            "oascentral.emarketer.com": "INVALID",
-            "oascentral.emedicine.com": "INVALID",
-            "oascentral.fiercemarkets.com": "INVALID",
-            "oascentral.fosters.com": "INVALID",
-            "oascentral.freedom.com": "INVALID",
-            "oascentral.goerie.com": "INVALID",
-            "oascentral.gotriad.com": "INVALID",
-            "oascentral.grandparents.com": "INVALID",
-            "oascentral.greenevillesun.com": "INVALID",
-            "oascentral.healthletter.mayoclinic.com": "INVALID"
-        },
-        "1571351834": {
-            "oascentral.herald-dispatch.com": "INVALID",
-            "oascentral.hispanicbusiness.com": "INVALID",
-            "oascentral.hollywood.com": "INVALID",
-            "oascentral.hosted.ap.org": "INVALID",
-            "oascentral.houstonpress.com": "INVALID",
-            "oascentral.internetretailer.com": "INVALID",
-            "oascentral.investingmediasolutions.com": "INVALID",
-            "oascentral.investmentnews.com": "INVALID",
-            "oascentral.katv.com": "INVALID",
-            "oascentral.laptopmag.com": "INVALID"
-        },
-        "1571351835": {
-            "oascentral.law.com": "INVALID",
-            "oascentral.laweekly.com": "INVALID",
-            "oascentral.lifetimetv.com": "INVALID",
-            "oascentral.lycos.com": "INVALID",
-            "oascentral.mailtribune.com": "INVALID",
-            "oascentral.mayoclinic.com": "INVALID",
-            "oascentral.metrowestdailynews.com": "INVALID",
-            "oascentral.miaminewtimes.com": "INVALID",
-            "oascentral.minnpost.com": "INVALID"
-        },
-        "1571351836": {
-            "oascentral.mochila.com": "INVALID",
-            "oascentral.modernhealthcare.com": "INVALID",
-            "oascentral.movietickets.com": "INVALID",
-            "oascentral.nationalunderwriter.com": "INVALID",
-            "oascentral.necn.com": "INVALID",
-            "oascentral.nephrologynews.com": "INVALID",
-            "oascentral.netnewscheck.com": "INVALID",
-            "oascentral.news-record.com": "INVALID",
-            "oascentral.newsmax.com": "INVALID",
-            "oascentral.newstimeslive.com": "INVALID",
-            "oascentral.onthesnow.com": "INVALID"
-        },
-        "1571351837": {
-            "oascentral.onwisconsin.com": "INVALID",
-            "oascentral.oprah.com": "INVALID",
-            "oascentral.phoenixnewtimes.com": "INVALID",
-            "oascentral.planetatv.com": "INVALID",
-            "oascentral.poconorecord.com": "INVALID",
-            "oascentral.post-gazette.com": "INVALID",
-            "oascentral.pressdemocrat.com": "INVALID",
-            "oascentral.prodivnet.com": "INVALID",
-            "oascentral.record-eagle.com": "INVALID",
-            "oascentral.recordnet.com": "INVALID",
-            "oascentral.recordonline.com": "INVALID"
-        },
-        "1571351838": {
-            "oascentral.recroom.com": "INVALID",
-            "oascentral.recyclebank.com": "INVALID",
-            "oascentral.red7media.com": "INVALID",
-            "oascentral.redstate.com": "INVALID",
-            "oascentral.samsclub.com": "INVALID",
-            "oascentral.sfgate.com": "INVALID",
-            "oascentral.sfweekly.com": "INVALID",
-            "oascentral.sina.com": "INVALID",
-            "oascentral.stackmag.com": "INVALID",
-            "oascentral.stansberryresearch.com": "INVALID"
-        },
-        "1571351839": {
-            "oascentral.s-t.com": "INVALID",
-            "oascentral.stripes.com": "INVALID",
-            "oascentral.superpages.com": "INVALID",
-            "oascentral.surfline.com": "INVALID",
-            "oascentral.thechronicleherald.ca": "INVALID",
-            "oascentral.thepostgame.com": "INVALID",
-            "oascentral.theweek.com": "INVALID",
-            "oascentral.timesfreepress.com": "INVALID",
-            "oascentral.tmcnet.com": "INVALID",
-            "oascentral.tnr.com": "INVALID",
-            "oascentral.tophosts.com": "INVALID"
-        },
-        "1571351840": {
-            "oascentral.tourismvancouver.com": "INVALID",
-            "oascentral.traffic.com": "INVALID",
-            "oascentral.travelzoo.com": "INVALID",
-            "oascentral.trentonian.com": "INVALID",
-            "oascentral.tvnewscheck.com": "INVALID",
-            "oascentral.upi.com": "INVALID",
-            "oascentral.villagevoice.com": "INVALID",
-            "oascentral.virtualtourist.com": "INVALID",
-            "oascentral.walmartwom.com": "INVALID",
-            "oascentral.washtimes.com": "INVALID",
-            "oascentral.wciv.com": "INVALID"
-        },
-        "1571351841": {
-            "oas-fr.video.on.nytimes.com": "INVALID",
-            "oas.dallasnews.com": "INVALID",
-            "oas.deejay.it": "INVALID",
-            "oas.five.tv": "INVALID",
-            "oas.ilsecoloxix.it": "INVALID",
-            "oascentral.westword.com": "INVALID",
-            "oascentral.wickedlocal.com": "INVALID",
-            "oascentral.yakimaherald.com": "INVALID",
-            "oascentral.yellowpages.com": "INVALID",
-            "oasis.411affiliates.ca": "INVALID",
-            "oasjs.kataweb.it": "INVALID"
-        },
-        "1571351842": {
-            "oas.maktoobblog.com": "INVALID",
-            "oas.monster.com": "INVALID",
-            "oas.northernandshell.co.uk": "INVALID",
-            "oas.offremedia.com": "INVALID",
-            "oas.providencejournal.com": "INVALID",
-            "oas.repubblica.it": "INVALID",
-            "oas.rivals.com": "INVALID",
-            "oas.stv.tv": "INVALID",
-            "oas.tidningsnatet.se": "INVALID",
-            "oas.trustnet.com": "INVALID"
-        },
-        "1571351843": {
-            "o.bluewin.ch": "INVALID",
-            "oberonincredig.112.2o7.net": "INVALID",
-            "objects.tremormedia.com": "INVALID",
-            "oceanup.us.intellitxt.com": "INVALID",
-            "ocp.bnet.com": "INVALID",
-            "ocp.cbsnews.com": "INVALID"
-        },
-        "1571351844": {
-            "o.detik.com": "INVALID",
-            "ocs.websponsors.com": "INVALID",
-            "octools.us.intellitxt.com": "INVALID",
-            "ocworkbench.us.intellitxt.com": "INVALID",
-            "odb.outbrain.com": "INVALID",
-            "oddbanner.bet-at-home.com": "INVALID"
-        },
-        "1571351845": {
-            "o.fandango.com": "INVALID",
-            "of.inviziads.com": "INVALID",
-            "offers.affiliatetraction.com": "INVALID",
-            "offersquest.directtrack.com": "INVALID",
-            "officer.us.intellitxt.com": "INVALID"
-        },
-        "1571351846": {
-            "o.ibg.bg": "INVALID",
-            "oglasnikadhr.hit.gemius.pl": "INVALID",
-            "ohtulehtadee.hit.gemius.pl": "INVALID",
-            "oimg.nbcuni.com": "INVALID",
-            "ok.uk.intellitxt.com": "INVALID",
-            "oklahomadepartmentofcommerce.112.2o7.net": "INVALID",
-            "okmagazine.us.intellitxt.com": "INVALID",
-            "ol.uk.at.atwola.com": "INVALID"
-        },
-        "1571351847": {
-            "olx.hit.gemius.pl": "INVALID",
-            "olxro-d.openx.net": "INVALID",
-            "om.blockbuster.com": "INVALID",
-            "om.businessweek.com": "INVALID",
-            "om.cbsi.com": "INVALID",
-            "om.cnet.co.uk": "INVALID",
-            "om.craftsman.com": "INVALID"
-        },
-        "1571351848": {
-            "om.dowjoneson.com": "INVALID",
-            "om.expedia.com": "INVALID",
-            "om.lonelyplanet.com": "INVALID",
-            "om.metacrawler.com": "INVALID",
-            "om.neimanmarcus.com": "INVALID",
-            "ometrics.netapp.com": "INVALID",
-            "omn.crackle.com": "INVALID",
-            "omni.basspro.com": "INVALID",
-            "omni.canadiantire.ca": "INVALID"
-        },
-        "1571351849": {
-            "omni.cash.ch": "INVALID",
-            "omni.csc.com": "INVALID",
-            "omni.dispatch.com": "INVALID",
-            "omni.sportingnews.com": "INVALID",
-            "omnikool.discovery.com": "INVALID",
-            "omniscbt.112.2o7.net": "INVALID",
-            "omniture.112.2o7.net": "INVALID"
-        },
-        "1571351850": {
-            "omniture.artinstitutes.edu": "INVALID",
-            "omniture.chip.de": "INVALID",
-            "omniture.shopstyle.com": "INVALID",
-            "omniture.stuff.co.nz": "INVALID",
-            "omniturebanners.112.2o7.net": "INVALID",
-            "omniturecom.112.2o7.net": "INVALID"
-        },
-        "1571351851": {
-            "om.onlineshoes.com": "INVALID",
-            "om.rogersmedia.com": "INVALID",
-            "om.sfgate.com": "INVALID",
-            "om.symantec.com": "INVALID",
-            "omn.sonypictures.com": "INVALID",
-            "omnituretrack.local.com": "INVALID",
-            "omt.honda.com": "INVALID"
-        },
-        "1571351852": {
-            "om.truecar.com": "INVALID",
-            "om.webcrawler.com": "INVALID",
-            "omvisidtest1.112.2o7.net": "INVALID",
-            "one.cam4ads.com": "INVALID",
-            "onet.hit.gemius.pl": "INVALID"
-        },
-        "1571351853": {
-            "onet.hit.stat.pl": "INVALID",
-            "onetoone.112.2o7.net": "INVALID",
-            "onlamp.us.intellitxt.com": "INVALID",
-            "onlgc.voluumtrk.com": "INVALID",
-            "onlinegurupopularsitecom.112.2o7.net": "INVALID",
-            "ontheflix.us.intellitxt.com": "INVALID",
-            "oocenter.us.intellitxt.com": "INVALID",
-            "oodpreprod.122.2o7.net": "INVALID"
-        },
-        "1571351854": {
-            "o.opentable.com": "INVALID",
-            "openads.flagman.bg": "INVALID",
-            "openads.friendfinder.com": "INVALID",
-            "openads.hiphopsite.com": "INVALID"
-        },
-        "1571351855": {
-            "open.ad.yieldmanager.net": "INVALID",
-            "openads.motorrad-net.at": "INVALID",
-            "openadstream-eu1.247realmedia.com": "INVALID"
-        },
-        "1571351856": {
-            "opentag-stats.qubit.com": "INVALID",
-            "openx.4shared.com": "INVALID",
-            "openx.ajur.info": "INVALID",
-            "openx.apollo.lv": "INVALID"
-        },
-        "1571351857": {
-            "openx.camelmedia.net": "INVALID",
-            "openx.cnews.ru": "INVALID",
-            "openx.diena.lv": "INVALID",
-            "openx.engagedmediamags.com": "INVALID",
-            "openx.iamexpat.nl": "INVALID"
-        },
-        "1571351858": {
-            "openx.imoti.net": "INVALID",
-            "openx.itsmassive.com": "INVALID"
-        },
-        "1571351859": {
-            "openx.mercatormedia.com": "INVALID",
-            "openx.omniton.net": "INVALID",
-            "openx.sexsearchcom.com": "INVALID",
-            "openx.stand.bg": "INVALID",
-            "openx.trellian.com": "INVALID"
-        },
-        "1571351860": {
-            "openx.vizzia.bg": "INVALID",
-            "openx.watchmygf.net": "INVALID",
-            "opt.hit.gemius.pl": "INVALID",
-            "optimize.adpushup.com": "INVALID"
-        },
-        "1571351861": {
-            "optimize-stats.voxmedia.com": "INVALID",
-            "optimize.indieclick.com": "INVALID",
-            "optimize.innity.com": "INVALID",
-            "optimized-by.4wnetwork.com": "INVALID",
-            "optimized-by.rubiconproject.com": "INVALID",
-            "optimized-by.vitalads.net": "INVALID",
-            "optimized.by.vitalads.net": "INVALID",
-            "optimizedby.brealtime.com": "INVALID",
-            "optimost.112.2o7.net": "INVALID",
-            "option9.adultfriendfinder.com": "INVALID"
-        },
-        "1571351862": {
-            "opt.ximad.com": "INVALID",
-            "oraclecom.112.2o7.net": "INVALID",
-            "oracleglobal.112.2o7.net": "INVALID",
-            "orca.qubitproducts.com": "INVALID",
-            "oreo.iawsnetwork.com": "INVALID",
-            "origin-tracking.trulia.com": "INVALID",
-            "ortc-ws2-useast1-s0005.realtime.co": "INVALID",
-            "osdir.us.intellitxt.com": "INVALID"
-        },
-        "1571351863": {
-            "osiristrading.112.2o7.net": "INVALID",
-            "oss-content.securestudies.com": "INVALID",
-            "ostg.us.intellitxt.com": "INVALID",
-            "otf.msn.com": "INVALID"
-        },
-        "1571351864": {
-            "ots.optimize.webtrends.com": "INVALID",
-            "ottacknet.112.2o7.net": "INVALID",
-            "ottdailytidingscom.112.2o7.net": "INVALID",
-            "ou.shutterfly.com": "INVALID",
-            "our.affiliatetracking.net": "INVALID",
-            "out.popads.net": "INVALID",
-            "outcome.supersonicads.com": "INVALID",
-            "outils.yes-messenger.com": "INVALID",
-            "outofsightmedia.us.intellitxt.com": "INVALID",
-            "overclockersonline.us.intellitxt.com": "INVALID"
-        },
-        "1571351865": {
-            "overlay.ringtonematcher.com": "INVALID",
-            "overstockcom.112.2o7.net": "INVALID",
-            "overthelimit.us.intellitxt.com": "INVALID",
-            "overturecom.112.2o7.net": "INVALID",
-            "overturecomvista.112.2o7.net": "INVALID",
-            "ox-d.apax.servedbyopenx.com": "INVALID",
-            "ox-d.bauer.servedbyopenx.com": "INVALID",
-            "ox.dateland.co.il": "INVALID",
-            "ox2.sterta.pl": "INVALID"
-        },
-        "1571351866": {
-            "ox-d.cheezburger.servedbyopenx.com": "INVALID",
-            "ox-d.cloud9-media.net": "INVALID",
-            "ox-d.concourse.servedbyopenx.com": "INVALID",
-            "ox-d.digiday.com": "INVALID",
-            "ox-d.globalpost.com": "INVALID",
-            "ox-d.hdcmedia.nl": "INVALID",
-            "ox-d.iflscience.com": "INVALID",
-            "ox-d.johnstonpress.co.uk": "INVALID"
-        },
-        "1571351867": {
-            "ox-d.mm1x.nl": "INVALID",
-            "ox-d.newstogram.com": "INVALID",
-            "ox-d.openxadexchange.com": "INVALID",
-            "ox-d.photobucket.com": "INVALID",
-            "ox-d.popmatters.com": "INVALID",
-            "ox-d.rantsports.com": "INVALID",
-            "ox-d.sidereel.com": "INVALID",
-            "ox-d.venturebeat.servedbyopenx.com": "INVALID",
-            "ox-d.verivox.de": "INVALID",
-            "ox-d.viralnova.com": "INVALID"
-        },
-        "1571351868": {
-            "ox.e-card.bg": "INVALID",
-            "ox.fashion.bg": "INVALID",
-            "ox.furaffinity.net": "INVALID",
-            "ox.hoosiertimes.com": "INVALID",
-            "oxen.hillcountrytexas.com": "INVALID",
-            "oxfam.intelli-direct.com": "INVALID"
-        },
-        "1571351869": {
-            "ox-s.e-card.bg": "INVALID",
-            "ox.invia.cz": "INVALID",
-            "ox.pigu.lt": "INVALID",
-            "ox.tossoffads.com": "INVALID",
-            "oxjapan-d.openx.net": "INVALID",
-            "p0.raasnet.com": "INVALID"
-        },
-        "1571351870": {
-            "p.addthis.com": "INVALID",
-            "p1.tcr21.tynt.com": "INVALID",
-            "p2p.adv.vz.ru": "INVALID",
-            "p4dt2-scyd6.ads.tremorhub.com": "INVALID",
-            "padsdel.cdnads.com": "INVALID"
-        },
-        "1571351871": {
-            "p.adsymptotic.com": "INVALID",
-            "pagead-googlehosted.l.google.com": "INVALID",
-            "pagead.l.doubleclick.net": "INVALID",
-            "pagead.topobiavi.com": "INVALID",
-            "pagead2.googleadservices.com": "INVALID",
-            "pagead2.googlesyndication.com": "INVALID",
-            "pagead46.l.doubleclick.net": "INVALID"
-        },
-        "1571351872": {
-            "pagepeels.sexmoney.com": "INVALID",
-            "pagerank.jklir.net": "INVALID",
-            "pages-stats.rbl.ms": "INVALID",
-            "pagestat.mmi.bemobile.ua": "INVALID",
-            "pagetracking.popmarker.com": "INVALID",
-            "paid.outbrain.com": "INVALID",
-            "paidstats.com": "INVALID"
-        },
-        "1571351873": {
-            "pal-item.us.intellitxt.com": "INVALID",
-            "pandasoftware.112.2o7.net": "INVALID",
-            "panel.research-int.se": "INVALID",
-            "panel2.research-int.se": "INVALID",
-            "paneles.impresionesweb.com": "INVALID",
-            "papi.mynativeplatform.com": "INVALID",
-            "parade.122.2o7.net": "INVALID",
-            "parkcloud.dynadot.com": "INVALID"
-        },
-        "1571351874": {
-            "park.parkingpanel.com": "INVALID",
-            "parking.dmtracker.com": "INVALID",
-            "parking.parklogic.com": "INVALID",
-            "parking.reg.ru": "INVALID",
-            "parship.122.2o7.net": "INVALID",
-            "partner.googleadservices.com": "INVALID",
-            "partnerad.l.doubleclick.net": "INVALID",
-            "partnerads.ysm.yahoo.com": "INVALID"
-        },
-        "1571351875": {
-            "partner.loveplanet.ru": "INVALID",
-            "partner.sbaffiliates.com": "INVALID",
-            "partner.shareaholic.com": "INVALID",
-            "partners.10bet.com": "INVALID",
-            "partners.badongo.com": "INVALID",
-            "partners.content.ad": "INVALID",
-            "partners.fanduel.com": "INVALID",
-            "partners.mysavings.com": "INVALID",
-            "partners.popmatters.com": "INVALID"
-        },
-        "1571351876": {
-            "p.ato.mx": "INVALID",
-            "partners.tremorhub.com": "INVALID",
-            "partners.webmasterplan.com": "INVALID",
-            "partners.xhamster.com": "INVALID",
-            "partygaming.122.2o7.net": "INVALID",
-            "partygamingglobal.122.2o7.net": "INVALID",
-            "paste-d.openx.net": "INVALID",
-            "patrickhillery.112.2o7.net": "INVALID",
-            "payload.yieldbuild.com": "INVALID"
-        },
-        "1571351877": {
-            "p.bm23.com": "INVALID",
-            "paypal.112.2o7.net": "INVALID",
-            "paypalssl.doubleclick.net": "INVALID",
-            "pbg2cs01.doteasy.com": "INVALID",
-            "pbid.pro-market.net": "INVALID",
-            "pc2.yumenetworks.com": "INVALID",
-            "pcadvisor-uk.intellitxt.com": "INVALID",
-            "pcash.globalmailer5.com": "INVALID",
-            "pcash.imlive.com": "INVALID"
-        },
-        "1571351878": {
-            "p.chango.com": "INVALID",
-            "pc-infopratique.fr.intellitxt.com": "INVALID",
-            "pcash.wildmatch.com": "INVALID",
-            "pcbutts1-therealtruth.blogspot.com": "INVALID",
-            "pcbutts1.ourtoolbar.com": "INVALID",
-            "pcbutts1.software.informer.com": "INVALID",
-            "pcgamer.uk.intellitxt.com": "INVALID",
-            "pch.122.2o7.net": "INVALID",
-            "pcinpact.fr.intellitxt.com": "INVALID",
-            "pcmag.us.intellitxt.com": "INVALID"
-        },
-        "1571351879": {
-            "pcookie.cnzz.com": "INVALID",
-            "pcookie.taobao.com": "INVALID"
-        },
-        "1571351880": {
-            "pcper.us.intellitxt.com": "INVALID",
-            "pcpro.uk.intellitxt.com": "INVALID",
-            "pctoolscom.112.2o7.net": "INVALID",
-            "pcw.uk.intellitxt.com": "INVALID",
-            "pcwelt.de.intellitxt.com": "INVALID",
-            "pcworldcommunication.122.2o7.net": "INVALID",
-            "pcworldcommunication.d2.sc.omtrdc.net": "INVALID",
-            "peakclick.com": "INVALID",
-            "pebble-adhese.gva.be": "INVALID",
-            "pebble-adhese.hbvl.be": "INVALID"
-        },
-        "1571351881": {
-            "p.ebdr2.com": "INVALID",
-            "pei-ads.playboy.com": "INVALID",
-            "pei-ads.thesmokingjacket.com": "INVALID",
-            "pelmorexmedia.122.2o7.net": "INVALID",
-            "pennwellcorp.112.2o7.net": "INVALID",
-            "penton.us.intellitxt.com": "INVALID",
-            "pentonmedia.122.2o7.net": "INVALID",
-            "perezhilton.us.intellitxt.com": "INVALID",
-            "perfspot.crwdcntrl.net": "INVALID"
-        },
-        "1571351882": {
-            "petakfc.112.2o7.net": "INVALID",
-            "petamain.112.2o7.net": "INVALID",
-            "petfooddirect.d1.sc.omtrdc.net": "INVALID",
-            "pf.tradedoubler.com": "INVALID",
-            "pfa.levexis.com": "INVALID",
-            "pfizer.122.2o7.net": "INVALID",
-            "philadelphia_cbslocal.us.intellitxt.com": "INVALID",
-            "philips.112.2o7.net": "INVALID"
-        },
-        "1571351883": {
-            "philly-d.openx.net": "INVALID",
-            "philly.demdex.net": "INVALID",
-            "phillyburbscom.112.2o7.net": "INVALID",
-            "phillycom.112.2o7.net": "INVALID",
-            "phillymedia.112.2o7.net": "INVALID",
-            "phonearena.us.intellitxt.com": "INVALID",
-            "photobucket.adnxs.com": "INVALID",
-            "phpadsnew.abac.com": "INVALID"
-        },
-        "1571351884": {
-            "php-mag.de.intellitxt.com": "INVALID",
-            "php-magnet.de.intellitxt.com": "INVALID",
-            "phpadsnew.new.natuurpark.nl": "INVALID",
-            "phpadsnew.wn.com": "INVALID",
-            "physorg.uk.intellitxt.com": "INVALID",
-            "pickmeupnews.us.intellitxt.com": "INVALID",
-            "pics.cnomy.com": "INVALID"
-        },
-        "1571351885": {
-            "pics.skenzo.com": "INVALID",
-            "pics.yad2.co.il": "INVALID",
-            "pilmedia.ads.visionweb.no": "INVALID"
-        },
-        "1571351887": {
-            "ping.chartbeat.net": "INVALID",
-            "ping.crowdscience.com": "INVALID",
-            "ping1.unicast.com": "INVALID"
-        },
-        "1571351888": {
-            "pi.pardot.com": "INVALID",
-            "ping.hellobar.com": "INVALID",
-            "ping.onscroll.com": "INVALID",
-            "pings.conviva.com": "INVALID",
-            "pinkisthenewblog.us.intellitxt.com": "INVALID",
-            "pipedream.wistia.com": "INVALID",
-            "pittsburghpostgazette.112.2o7.net": "INVALID",
-            "piwik.cam-content.com": "INVALID",
-            "piwik.denik.cz": "INVALID"
-        },
-        "1571351889": {
-            "piwik.ientry.com": "INVALID",
-            "piwik.jccm.es": "INVALID",
-            "piwik.medienhaus.com": "INVALID",
-            "piwik.mortgageloan.com": "INVALID"
-        },
-        "1571351890": {
-            "piwik.n24.de": "INVALID",
-            "piwik.onlinemagasinet.no": "INVALID",
-            "piwik.pokerlistings.com": "INVALID",
-            "piwik.redtube.com": "INVALID",
-            "piwik.wsws.org": "INVALID",
-            "pixel1097.everesttech.net": "INVALID"
-        },
-        "1571351891": {
-            "pixel.33across.com": "INVALID",
-            "pixel.adadvisor.net": "INVALID",
-            "pixel.adblade.com": "INVALID",
-            "pixel.adcrowd.com": "INVALID",
-            "pixel.admedia.com": "INVALID",
-            "pixel1324.everesttech.net": "INVALID",
-            "pixel1350.everesttech.net": "INVALID",
-            "pixel1370.everesttech.net": "INVALID",
-            "pixel1553.everesttech.net": "INVALID",
-            "pixel1739.everesttech.net": "INVALID"
-        },
-        "1571351892": {
-            "pixel.adsafeprotected.com": "INVALID",
-            "pixel.blog.hu": "INVALID",
-            "pixel.captora.com": "INVALID",
-            "pixel.condenastdigital.com": "INVALID",
-            "pixelbox.uimserv.net": "INVALID",
-            "pixelcounter.elmundo.es": "INVALID",
-            "pixelcounter.marca.com": "INVALID"
-        },
-        "1571351893": {
-            "pixel-eu.rubiconproject.com": "INVALID",
-            "pixel.cpex.cz": "INVALID",
-            "pixel.everesttech.net": "INVALID",
-            "pixel.facebook.com": "INVALID"
-        },
-        "1571351894": {
-            "pixel.indieclick.com": "INVALID",
-            "pixel.industrybrains.com": "INVALID",
-            "pixel.invitemedia.com": "INVALID",
-            "pixel.keywee.co": "INVALID",
-            "pixel.mathtag.com": "INVALID",
-            "pixel.meteora.us": "INVALID",
-            "pixel.mtrcs.samba.tv": "INVALID",
-            "pixel.newscred.com": "INVALID",
-            "pixel.parsely.com": "INVALID",
-            "pixel.pcworld.com": "INVALID",
-            "pixel.quantserve.com": "INVALID"
-        },
-        "1571351895": {
-            "pixel-us-east.rubiconproject.com": "INVALID",
-            "pixel.realtor.com": "INVALID",
-            "pixel.rubiconproject.com": "INVALID",
-            "pixel.sojern.com": "INVALID",
-            "pixel.solvemedia.com": "INVALID",
-            "pixel.staticworld.net": "INVALID",
-            "pixel.tapad.com": "INVALID",
-            "pixel.theagency.com": "INVALID",
-            "pixels.livingsocial.com": "INVALID",
-            "pixelservice.apphb.com": "INVALID"
-        },
-        "1571351896": {
-            "pix.impdesk.com": "INVALID",
-            "pix.lfstmedia.com": "INVALID",
-            "pixel-us-west.rubiconproject.com": "INVALID",
-            "pixel-user-1039.everesttech.net": "INVALID",
-            "pixel.wp.com": "INVALID",
-            "pixel.yabidos.com": "INVALID",
-            "pixel.yola.com": "INVALID",
-            "pixiedust.buzzfeed.com": "INVALID"
-        },
-        "1571351897": {
-            "pix.pulsemgr.com": "INVALID",
-            "pix.tagcdn.com": "INVALID",
-            "pk.adlandpro.com": "INVALID",
-            "pl106067.puhtml.com": "INVALID"
-        },
-        "1571351898": {
-            "pl107977.puhtml.com": "INVALID",
-            "pl108062.puhtml.com": "INVALID",
-            "pl109504.puhtml.com": "INVALID",
-            "pl11074444.puhtml.com": "INVALID",
-            "pl120422.puhtml.com": "INVALID",
-            "pl12258511.puhtml.com": "INVALID",
-            "pl136883.puhtml.com": "INVALID",
-            "pl137937.puhtml.com": "INVALID",
-            "pl176754.puhtml.com": "INVALID"
-        },
-        "1571351899": {
-            "pl1.yumenetworks.com": "INVALID",
-            "pl1978.puhtml.com": "INVALID",
-            "pl3087.puhtml.com": "INVALID",
-            "pl3861661.puhtml.com": "INVALID",
-            "pl5102.puhtml.com": "INVALID",
-            "pl5318.puhtml.com": "INVALID",
-            "pl6429510.puhtml.com": "INVALID",
-            "planetout.122.2o7.net": "INVALID",
-            "platform.communicatorcorp.com": "INVALID"
-        },
-        "1571351900": {
-            "p.liadm.com": "INVALID",
-            "p.lp4.io": "INVALID",
-            "pl-engine.intextad.net": "INVALID",
-            "pl.gmads.net": "INVALID",
-            "play.sunmediaads.com": "INVALID",
-            "playfuls.uk.intellitxt.com": "INVALID",
-            "pldev.112.2o7.net": "INVALID"
-        },
-        "1571351901": {
-            "pl.search.etargetnet.com": "INVALID",
-            "plsoyfoods.112.2o7.net": "INVALID",
-            "plug.plugerr.com": "INVALID",
-            "plugin.mediavoice.com": "INVALID",
-            "pluginx.perfectgonzo.com": "INVALID",
-            "plus.iwon.com": "INVALID"
-        },
-        "1571351902": {
-            "p.nexac.com": "INVALID",
-            "pl.yumenetworks.com": "INVALID",
-            "plus.link4link.com": "INVALID",
-            "pluto.adcycle.com": "INVALID",
-            "pm.adsafeprotected.com": "INVALID",
-            "pm.w55c.net": "INVALID",
-            "pmc-d.openx.net": "INVALID",
-            "pmetrics.getclicky.com": "INVALID",
-            "pmetrics.performancing.com": "INVALID",
-            "pn1.adserver.yahoo.com": "INVALID",
-            "pn2.adserver.yahoo.com": "INVALID"
-        },
-        "1571351903": {
-            "p.nxtck.com": "INVALID",
-            "poacprod.122.2o7.net": "INVALID",
-            "pocketlint.uk.intellitxt.com": "INVALID",
-            "poconorecordcom.112.2o7.net": "INVALID",
-            "pod.infinitypersonals.com": "INVALID",
-            "pod.manplay.com": "INVALID",
-            "pod.sexsearch.com": "INVALID",
-            "pollserver.interpolls.com": "INVALID",
-            "pool.adhese.be": "INVALID"
-        },
-        "1571351904": {
-            "pool-colruytgroup.adhese.com": "INVALID",
-            "pool.adhsm.adhese.com": "INVALID",
-            "pool.admedo.com": "INVALID",
-            "pool.ads.netlog.com": "INVALID",
-            "pool.dichtbij.adhese.com": "INVALID",
-            "pool.nrc.adhese.com": "INVALID"
-        },
-        "1571351905": {
-            "pool-nrc.adhese.com": "INVALID",
-            "pool.pebblemedia.adhese.com": "INVALID",
-            "pool.persgroep.adhese.com": "INVALID",
-            "pool.roularta.adhese.com": "INVALID"
-        },
-        "1571351906": {
-            "pool-roularta.adhese.com": "INVALID",
-            "pool.sanoma.adhese.com": "INVALID",
-            "pop6.adultfriendfinder.com": "INVALID",
-            "popads.ero-advertising.com": "INVALID",
-            "popcapgames.122.2o7.net": "INVALID",
-            "popdirt.us.intellitxt.com": "INVALID"
-        },
-        "1571351907": {
-            "pop.dnparking.com": "INVALID",
-            "popfill.us.intellitxt.com": "INVALID",
-            "popit.mediumpimpin.com": "INVALID",
-            "popoholic.us.intellitxt.com": "INVALID",
-            "poponthepop.us.intellitxt.com": "INVALID",
-            "pops.ero-advertising.com": "INVALID",
-            "popsci.com.122.2o7.net": "INVALID"
-        },
-        "1571351908": {
-            "pop.zompmedia.com": "INVALID",
-            "popularmechanics.us.intellitxt.com": "INVALID",
-            "popunder.fpctraffic.com": "INVALID",
-            "popup.msn.com": "INVALID",
-            "popup.oxcash.com": "INVALID"
-        },
-        "1571351909": {
-            "p.placemypixel.com": "INVALID",
-            "porn.mtree.com": "INVALID",
-            "post.securestudies.com": "INVALID",
-            "postmedia.demdex.net": "INVALID",
-            "powellsbooks.122.2o7.net": "INVALID",
-            "poweronemedia.122.2o7.net": "INVALID",
-            "powr-counter.herokuapp.com": "INVALID",
-            "pp.nrelate.com": "INVALID",
-            "ppc-parked.domainsite.com": "INVALID"
-        },
-        "1571351910": {
-            "p.raasnet.com": "INVALID",
-            "pq-direct.revsci.net": "INVALID",
-            "pqwaker.altervista.org": "INVALID",
-            "pr.20min.es": "INVALID",
-            "pracuj.adocean.pl": "INVALID",
-            "pracuj.hit.gemius.pl": "INVALID"
-        },
-        "1571351911": {
-            "prebid.districtm.ca": "INVALID",
-            "prefix.hit.gemius.pl": "INVALID",
-            "premium.mookie1.com": "INVALID",
-            "premiumtv.122.2o7.net": "INVALID",
-            "presence-pc.fr.intellitxt.com": "INVALID",
-            "presentation-atl1.turn.com": "INVALID"
-        },
-        "1571351912": {
-            "p.rfihub.com": "INVALID",
-            "prettyboring.us.intellitxt.com": "INVALID",
-            "preview.leadmediapartners.com": "INVALID",
-            "prg.smartadserver.com": "INVALID",
-            "pridesource.advertserve.com": "INVALID",
-            "primediabusiness.122.2o7.net": "INVALID",
-            "primemensfitness.112.2o7.net": "INVALID",
-            "primestarmagazine.112.2o7.net": "INVALID"
-        },
-        "1571351913": {
-            "prisacom.112.2o7.net": "INVALID",
-            "priusonline.us.intellitxt.com": "INVALID",
-            "prizemachine.games.iwon.com": "INVALID",
-            "prm.europacash.com": "INVALID",
-            "prnewswire.122.2o7.net": "INVALID",
-            "probe.yieldlab.net": "INVALID",
-            "probes.cedexis.com": "INVALID",
-            "prod-d.openx.com": "INVALID"
-        },
-        "1571351914": {
-            "prod-js.aws.y-track.com": "INVALID",
-            "prod-services.interactiveone.com": "INVALID",
-            "product-reviews.uk.intellitxt.com": "INVALID",
-            "prof.estat.com": "INVALID",
-            "profiles.hitslink.com": "INVALID",
-            "profiling.avandor.com": "INVALID"
-        },
-        "1571351915": {
-            "profiling.veoxa.com": "INVALID",
-            "profitshare.emag.ro": "INVALID",
-            "profootballweekly.us.intellitxt.com": "INVALID",
-            "programme-tv.fr.intellitxt.com": "INVALID",
-            "programmerworld.us.intellitxt.com": "INVALID"
-        },
-        "1571351916": {
-            "pro.hit.gemius.pl": "INVALID",
-            "pro.hit.stat24.com": "INVALID",
-            "pro.marinsm.com": "INVALID",
-            "project2.realtracker.com": "INVALID",
-            "projectorreviews.advertserve.com": "INVALID",
-            "projectw.skimlinks.com": "INVALID",
-            "promo.awempire.com": "INVALID",
-            "promo.badoink.com": "INVALID"
-        },
-        "1571351917": {
-            "promo.begun.ru": "INVALID",
-            "promo.bongacash.com": "INVALID",
-            "promo.cams.com": "INVALID",
-            "promo.cityads.ru": "INVALID"
-        },
-        "1571351919": {
-            "promo.clickcash.com": "INVALID",
-            "promo.clicnscores.com": "INVALID",
-            "promo.content.premiumpass.com": "INVALID"
-        },
-        "1571351920": {
-            "promo-m.bongacash.com": "INVALID",
-            "promo.freshdirect.com": "INVALID",
-            "promo.intuitext.ro": "INVALID",
-            "promo.lifeselector.com": "INVALID",
-            "promo.lonelywifehookup.com": "INVALID",
-            "promo.love-money.de": "INVALID",
-            "promo.pimproll.com": "INVALID",
-            "promos.camsoda.com": "INVALID"
-        },
-        "1571351921": {
-            "promo.sensationalcash.com": "INVALID",
-            "promos.fling.com": "INVALID",
-            "promos.meetlocals.com": "INVALID",
-            "promos.naked.com": "INVALID",
-            "promos.wealthymen.com": "INVALID",
-            "promotion.partnercash.de": "INVALID",
-            "promotions.betfred.com": "INVALID"
-        },
         "1571351922": {
             "promo.twistyscash.com": "INVALID",
             "promo.ulust.com": "INVALID",
             "promotools.globalmailer.com": "INVALID",
             "promotools.islive.nl": "INVALID",
             "promotools.vpscash.nl": "INVALID",
-            "promotools3.globalmailer.com": "INVALID",
             "promotools4.globalmailer.com": "INVALID"
         },
         "1571351923": {
@@ -8919,6 +8031,498 @@
         },
         "1571458331": {
             "nzz.wemfbox.ch": "INACTIVE"
+        },
+        "1571459662": {
+            "oascentral.mochila.com": "INACTIVE",
+            "oascentral.nephrologynews.com": "INACTIVE"
+        },
+        "1571459665": {
+            "oascentral.newsmax.com": "INACTIVE"
+        },
+        "1571459668": {
+            "oascentral.recroom.com": "INACTIVE"
+        },
+        "1571459670": {
+            "oascentral.tnr.com": "INACTIVE"
+        },
+        "1571459672": {
+            "oas.deejay.it": "INACTIVE"
+        },
+        "1571459678": {
+            "oas.five.tv": "INACTIVE"
+        },
+        "1571459685": {
+            "oas.ilsecoloxix.it": "INACTIVE",
+            "oasis.411affiliates.ca": "INACTIVE"
+        },
+        "1571459691": {
+            "oas.maktoobblog.com": "INACTIVE"
+        },
+        "1571459698": {
+            "oas.northernandshell.co.uk": "INACTIVE"
+        },
+        "1571459704": {
+            "oas.offremedia.com": "INACTIVE"
+        },
+        "1571459711": {
+            "oas.stv.tv": "INACTIVE"
+        },
+        "1571459717": {
+            "oas.tidningsnatet.se": "INACTIVE"
+        },
+        "1571459723": {
+            "oas.trustnet.com": "INACTIVE"
+        },
+        "1571459724": {
+            "oceanup.us.intellitxt.com": "INACTIVE"
+        },
+        "1571459730": {
+            "ocp.bnet.com": "INACTIVE"
+        },
+        "1571459736": {
+            "ocp.cbsnews.com": "INACTIVE"
+        },
+        "1571459737": {
+            "octools.us.intellitxt.com": "INACTIVE",
+            "ocworkbench.us.intellitxt.com": "INACTIVE",
+            "odb.outbrain.com": "INACTIVE"
+        },
+        "1571459738": {
+            "o.detik.com": "INACTIVE",
+            "officer.us.intellitxt.com": "INACTIVE"
+        },
+        "1571459744": {
+            "of.inviziads.com": "INACTIVE"
+        },
+        "1571459752": {
+            "o.ibg.bg": "INACTIVE",
+            "ok.uk.intellitxt.com": "INACTIVE",
+            "okmagazine.us.intellitxt.com": "INACTIVE"
+        },
+        "1571459759": {
+            "om.onlineshoes.com": "INACTIVE"
+        },
+        "1571459761": {
+            "one.cam4ads.com": "INACTIVE"
+        },
+        "1571459762": {
+            "onlamp.us.intellitxt.com": "INACTIVE"
+        },
+        "1571459763": {
+            "onlgc.voluumtrk.com": "INACTIVE",
+            "ontheflix.us.intellitxt.com": "INACTIVE",
+            "oocenter.us.intellitxt.com": "INACTIVE"
+        },
+        "1571459765": {
+            "open.ad.yieldmanager.net": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE",
+            "openadstream-eu1.247realmedia.com": "INACTIVE"
+        },
+        "1571459772": {
+            "openx.ajur.info": "INACTIVE",
+            "openx.apollo.lv": "INACTIVE"
+        },
+        "1571459777": {
+            "openx.diena.lv": "INACTIVE"
+        },
+        "1571459783": {
+            "openx.engagedmediamags.com": "INACTIVE"
+        },
+        "1571459790": {
+            "openx.iamexpat.nl": "INACTIVE"
+        },
+        "1571459791": {
+            "openx.itsmassive.com": "INACTIVE"
+        },
+        "1571459800": {
+            "openx.watchmygf.net": "INACTIVE"
+        },
+        "1571459801": {
+            "optimize.adpushup.com": "INACTIVE",
+            "optimized-by.rubiconproject.com": "INACTIVE"
+        },
+        "1571459808": {
+            "optimize.indieclick.com": "INACTIVE"
+        },
+        "1571459816": {
+            "ortc-ws2-useast1-s0005.realtime.co": "INACTIVE"
+        },
+        "1571459817": {
+            "osdir.us.intellitxt.com": "INACTIVE",
+            "ostg.us.intellitxt.com": "INACTIVE"
+        },
+        "1571459818": {
+            "outcome.supersonicads.com": "INACTIVE"
+        },
+        "1571459819": {
+            "outofsightmedia.us.intellitxt.com": "INACTIVE",
+            "overclockersonline.us.intellitxt.com": "INACTIVE"
+        },
+        "1571459820": {
+            "overthelimit.us.intellitxt.com": "INACTIVE"
+        },
+        "1571459821": {
+            "ox2.sterta.pl": "INACTIVE"
+        },
+        "1571459827": {
+            "ox.dateland.co.il": "INACTIVE"
+        },
+        "1571459833": {
+            "ox-d.cloud9-media.net": "INACTIVE"
+        },
+        "1571459840": {
+            "ox-d.digiday.com": "INACTIVE"
+        },
+        "1571459846": {
+            "ox-d.globalpost.com": "INACTIVE"
+        },
+        "1571459852": {
+            "ox-d.hdcmedia.nl": "INACTIVE"
+        },
+        "1571459858": {
+            "ox-d.iflscience.com": "INACTIVE"
+        },
+        "1571459864": {
+            "ox-d.johnstonpress.co.uk": "INACTIVE"
+        },
+        "1571459871": {
+            "ox-d.mm1x.nl": "INACTIVE"
+        },
+        "1571459877": {
+            "ox-d.newstogram.com": "INACTIVE"
+        },
+        "1571459883": {
+            "ox-d.openxadexchange.com": "INACTIVE"
+        },
+        "1571459889": {
+            "ox-d.photobucket.com": "INACTIVE",
+            "ox-d.popmatters.com": "INACTIVE"
+        },
+        "1571459895": {
+            "ox-d.rantsports.com": "INACTIVE"
+        },
+        "1571459901": {
+            "ox-d.sidereel.com": "INACTIVE"
+        },
+        "1571459908": {
+            "ox-d.venturebeat.servedbyopenx.com": "INACTIVE"
+        },
+        "1571459914": {
+            "ox-d.verivox.de": "INACTIVE"
+        },
+        "1571459920": {
+            "ox-d.viralnova.com": "INACTIVE"
+        },
+        "1571459926": {
+            "ox.e-card.bg": "INACTIVE"
+        },
+        "1571459933": {
+            "ox.fashion.bg": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE",
+            "oxfam.intelli-direct.com": "INACTIVE"
+        },
+        "1571459940": {
+            "ox.hoosiertimes.com": "INACTIVE",
+            "ox.invia.cz": "INACTIVE"
+        },
+        "1571459947": {
+            "ox-s.e-card.bg": "INACTIVE",
+            "ox.pigu.lt": "INACTIVE"
+        },
+        "1571459948": {
+            "p1.tcr21.tynt.com": "INACTIVE"
+        },
+        "1571459949": {
+            "p.addthis.com": "INACTIVE",
+            "padsdel.cdnads.com": "INACTIVE",
+            "pagead2.googlesyndication.com": "INACTIVE"
+        },
+        "1571459950": {
+            "pagead-googlehosted.l.google.com": "INACTIVE",
+            "pagead.l.doubleclick.net": "INACTIVE",
+            "pagead46.l.doubleclick.net": "INACTIVE"
+        },
+        "1571459951": {
+            "pagead.topobiavi.com": "INACTIVE",
+            "pagepeels.sexmoney.com": "INACTIVE"
+        },
+        "1571459959": {
+            "pagetracking.popmarker.com": "INACTIVE",
+            "paid.outbrain.com": "INACTIVE",
+            "pal-item.us.intellitxt.com": "INACTIVE"
+        },
+        "1571459963": {
+            "panel2.research-int.se": "INACTIVE"
+        },
+        "1571459969": {
+            "panel.research-int.se": "INACTIVE"
+        },
+        "1571459976": {
+            "parking.dmtracker.com": "INACTIVE"
+        },
+        "1571459978": {
+            "partner.googleadservices.com": "INACTIVE",
+            "partnerad.l.doubleclick.net": "INACTIVE"
+        },
+        "1571459985": {
+            "partners.badongo.com": "INACTIVE"
+        },
+        "1571459987": {
+            "partners.popmatters.com": "INACTIVE"
+        },
+        "1571459989": {
+            "p.ato.mx": "INACTIVE"
+        },
+        "1571459995": {
+            "payload.yieldbuild.com": "INACTIVE"
+        },
+        "1571459996": {
+            "pc2.yumenetworks.com": "INACTIVE",
+            "pcadvisor-uk.intellitxt.com": "INACTIVE"
+        },
+        "1571460002": {
+            "pcash.globalmailer5.com": "INACTIVE"
+        },
+        "1571460003": {
+            "pcgamer.uk.intellitxt.com": "INACTIVE"
+        },
+        "1571460004": {
+            "pc-infopratique.fr.intellitxt.com": "INACTIVE",
+            "pcinpact.fr.intellitxt.com": "INACTIVE",
+            "pcmag.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460006": {
+            "pcper.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460007": {
+            "pcpro.uk.intellitxt.com": "INACTIVE",
+            "pcw.uk.intellitxt.com": "INACTIVE",
+            "pcwelt.de.intellitxt.com": "INACTIVE"
+        },
+        "1571460014": {
+            "pebble-adhese.gva.be": "INACTIVE"
+        },
+        "1571460020": {
+            "pebble-adhese.hbvl.be": "INACTIVE"
+        },
+        "1571460026": {
+            "p.ebdr2.com": "INACTIVE"
+        },
+        "1571460032": {
+            "pei-ads.playboy.com": "INACTIVE"
+        },
+        "1571460038": {
+            "pei-ads.thesmokingjacket.com": "INACTIVE"
+        },
+        "1571460039": {
+            "penton.us.intellitxt.com": "INACTIVE",
+            "perezhilton.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460040": {
+            "philadelphia_cbslocal.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460041": {
+            "philly.demdex.net": "INACTIVE",
+            "phonearena.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460048": {
+            "phpadsnew.abac.com": "INACTIVE"
+        },
+        "1571460054": {
+            "phpadsnew.new.natuurpark.nl": "INACTIVE"
+        },
+        "1571460055": {
+            "php-mag.de.intellitxt.com": "INACTIVE",
+            "php-magnet.de.intellitxt.com": "INACTIVE",
+            "physorg.uk.intellitxt.com": "INACTIVE",
+            "pickmeupnews.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460057": {
+            "pics.skenzo.com": "INACTIVE"
+        },
+        "1571460068": {
+            "ping.crowdscience.com": "INACTIVE"
+        },
+        "1571460069": {
+            "pinkisthenewblog.us.intellitxt.com": "INACTIVE",
+            "pipedream.wistia.com": "INACTIVE"
+        },
+        "1571460077": {
+            "piwik.ientry.com": "INACTIVE"
+        },
+        "1571460084": {
+            "piwik.medienhaus.com": "INACTIVE"
+        },
+        "1571460091": {
+            "piwik.n24.de": "INACTIVE"
+        },
+        "1571460098": {
+            "piwik.onlinemagasinet.no": "INACTIVE",
+            "piwik.redtube.com": "INACTIVE"
+        },
+        "1571460102": {
+            "pixel.captora.com": "INACTIVE"
+        },
+        "1571460104": {
+            "pixel.cpex.cz": "INACTIVE",
+            "pixel.indieclick.com": "INACTIVE"
+        },
+        "1571460105": {
+            "pixel.meteora.us": "INACTIVE",
+            "pixel.mtrcs.samba.tv": "INACTIVE",
+            "pixel.parsely.com": "INACTIVE"
+        },
+        "1571460106": {
+            "pixel.pcworld.com": "INACTIVE"
+        },
+        "1571460107": {
+            "pixels.livingsocial.com": "INACTIVE"
+        },
+        "1571460108": {
+            "pixel.solvemedia.com": "INACTIVE",
+            "pixel.tapad.com": "INACTIVE"
+        },
+        "1571460109": {
+            "pixiedust.buzzfeed.com": "INACTIVE"
+        },
+        "1571460110": {
+            "pix.pulsemgr.com": "INACTIVE"
+        },
+        "1571460115": {
+            "playfuls.uk.intellitxt.com": "INACTIVE"
+        },
+        "1571460116": {
+            "p.liadm.com": "INACTIVE"
+        },
+        "1571460126": {
+            "pm.adsafeprotected.com": "INACTIVE"
+        },
+        "1571460127": {
+            "pn1.adserver.yahoo.com": "INACTIVE"
+        },
+        "1571460128": {
+            "pn2.adserver.yahoo.com": "INACTIVE"
+        },
+        "1571460129": {
+            "p.nxtck.com": "INACTIVE",
+            "pocketlint.uk.intellitxt.com": "INACTIVE"
+        },
+        "1571460137": {
+            "pollserver.interpolls.com": "INACTIVE"
+        },
+        "1571460143": {
+            "pool.adhese.be": "INACTIVE"
+        },
+        "1571460149": {
+            "pool.adhsm.adhese.com": "INACTIVE"
+        },
+        "1571460150": {
+            "pool.admedo.com": "INACTIVE"
+        },
+        "1571460151": {
+            "pool-colruytgroup.adhese.com": "INACTIVE"
+        },
+        "1571460157": {
+            "pool.dichtbij.adhese.com": "INACTIVE"
+        },
+        "1571460158": {
+            "pool.nrc.adhese.com": "INACTIVE"
+        },
+        "1571460159": {
+            "pool-nrc.adhese.com": "INACTIVE",
+            "pool.pebblemedia.adhese.com": "INACTIVE"
+        },
+        "1571460160": {
+            "pool.persgroep.adhese.com": "INACTIVE"
+        },
+        "1571460161": {
+            "pool-roularta.adhese.com": "INACTIVE"
+        },
+        "1571460162": {
+            "pool.roularta.adhese.com": "INACTIVE"
+        },
+        "1571460168": {
+            "pool.sanoma.adhese.com": "INACTIVE"
+        },
+        "1571460171": {
+            "popdirt.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460172": {
+            "pop.dnparking.com": "INACTIVE",
+            "popfill.us.intellitxt.com": "INACTIVE",
+            "popoholic.us.intellitxt.com": "INACTIVE",
+            "poponthepop.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460173": {
+            "popularmechanics.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460179": {
+            "popup.msn.com": "INACTIVE"
+        },
+        "1571460185": {
+            "popup.oxcash.com": "INACTIVE"
+        },
+        "1571460186": {
+            "postmedia.demdex.net": "INACTIVE"
+        },
+        "1571460187": {
+            "ppc-parked.domainsite.com": "INACTIVE"
+        },
+        "1571460193": {
+            "pp.nrelate.com": "INACTIVE"
+        },
+        "1571460194": {
+            "pq-direct.revsci.net": "INACTIVE"
+        },
+        "1571460200": {
+            "pr.20min.es": "INACTIVE"
+        },
+        "1571460202": {
+            "prebid.districtm.ca": "INACTIVE"
+        },
+        "1571460203": {
+            "presence-pc.fr.intellitxt.com": "INACTIVE"
+        },
+        "1571460204": {
+            "p.rfihub.com": "INACTIVE",
+            "prettyboring.us.intellitxt.com": "INACTIVE",
+            "preview.leadmediapartners.com": "INACTIVE"
+        },
+        "1571460206": {
+            "priusonline.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460207": {
+            "prm.europacash.com": "INACTIVE"
+        },
+        "1571460208": {
+            "probe.yieldlab.net": "INACTIVE"
+        },
+        "1571460214": {
+            "prod-d.openx.com": "INACTIVE",
+            "prod-services.interactiveone.com": "INACTIVE",
+            "product-reviews.uk.intellitxt.com": "INACTIVE"
+        },
+        "1571460216": {
+            "profootballweekly.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460217": {
+            "programme-tv.fr.intellitxt.com": "INACTIVE",
+            "programmerworld.us.intellitxt.com": "INACTIVE"
+        },
+        "1571460218": {
+            "project2.realtracker.com": "INACTIVE"
+        },
+        "1571460228": {
+            "promo.clickcash.com": "INACTIVE"
+        },
+        "1571460235": {
+            "promo.freshdirect.com": "INACTIVE"
+        },
+        "1571460243": {
+            "promos.naked.com": "INACTIVE"
+        },
+        "1571460250": {
+            "promotools3.globalmailer.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
