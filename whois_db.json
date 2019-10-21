@@ -3555,8 +3555,8 @@
         "state": "future"
     },
     "toplist.cz": {
-        "epoch": "1571616000",
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "topqualitylink.com": {
@@ -3720,9 +3720,9 @@
         "state": "future"
     },
     "uppyads.com": {
-        "epoch": "1571616000",
+        "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "uptodatecontent.net": {
         "epoch": 1576627200,
