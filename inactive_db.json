@@ -1,390 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1572339467": {
-            "rc.revolvermaps.com": "INACTIVE",
-            "rcpmag.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339469": {
-            "rd.revolvermaps.com": "INACTIVE"
-        },
-        "1572339470": {
-            "readersdigest.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572339476": {
-            "realaudio.cimedia.net": "INACTIVE"
-        },
-        "1572339478": {
-            "realitytea.us.intellitxt.com": "INACTIVE",
-            "realitytvmagazine.us.intellitxt.com": "INACTIVE",
-            "realmedia-a592.d4p.net": "INACTIVE"
-        },
-        "1572339486": {
-            "realtime.deximedia.com": "INACTIVE"
-        },
-        "1572339493": {
-            "receive.inplay.scanscout.com": "INACTIVE"
-        },
-        "1572339494": {
-            "recipeland.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339495": {
-            "recs.richrelevance.com": "INACTIVE",
-            "redbalcony.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339500": {
-            "reed-cw.grapeshot.co.uk": "INACTIVE",
-            "reelmovienews.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339505": {
-            "rek.adtotal.pl": "INACTIVE"
-        },
-        "1572339514": {
-            "reklama.offmedia.bg": "INACTIVE"
-        },
-        "1572339518": {
-            "rek.www.wp.pl": "INACTIVE"
-        },
-        "1572339531": {
-            "rem.rezonmedia.eu": "INACTIVE",
-            "rentcom.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572339534": {
-            "report-ads-to.pubnation.com": "INACTIVE",
-            "reporting.singlefeed.com": "INACTIVE"
-        },
-        "1572339536": {
-            "re.revolvermaps.com": "INACTIVE",
-            "req.tidaltv.com": "INACTIVE"
-        },
-        "1572339538": {
-            "reseaux-telecoms.fr.intellitxt.com": "INACTIVE"
-        },
-        "1572339552": {
-            "reunion.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572339559": {
-            "rev.avsforum.com": "INACTIVE"
-        },
-        "1572339565": {
-            "revelations.trovus.co.uk": "INACTIVE"
-        },
-        "1572339566": {
-            "reviews.domainplayersclub.com": "INACTIVE"
-        },
-        "1572339568": {
-            "revolution.ign.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339574": {
-            "revotrack.revotas.com": "INACTIVE",
-            "rg.revolvermaps.com": "INACTIVE"
-        },
-        "1572339575": {
-            "rh.adscale.de": "INACTIVE"
-        },
-        "1572339581": {
-            "rh.revolvermaps.com": "INACTIVE",
-            "rhads.sv.publicus.com": "INACTIVE"
-        },
-        "1572339583": {
-            "rickey.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339590": {
-            "rig.idg.no": "INACTIVE",
-            "ringieradro.hit.gemius.pl": "INACTIVE"
-        },
-        "1572339592": {
-            "ringierro.adocean.pl": "INACTIVE"
-        },
-        "1572339593": {
-            "ringsurf.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339594": {
-            "ri.revolvermaps.com": "INACTIVE"
-        },
-        "1572339595": {
-            "rk.revolvermaps.com": "INACTIVE"
-        },
-        "1572339596": {
-            "rmads.eu.msn.com": "INACTIVE",
-            "rmads.msn.com": "INACTIVE"
-        },
-        "1572339597": {
-            "rmd.atdmt.com": "INACTIVE"
-        },
-        "1572339603": {
-            "rmedia.adonnetwork.com": "INACTIVE"
-        },
-        "1572339606": {
-            "rnbdirt.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339613": {
-            "rnews.focus-news.net": "INACTIVE"
-        },
-        "1572339618": {
-            "rojakpot.us.intellitxt.com": "INACTIVE",
-            "rome.specificclick.net": "INACTIVE"
-        },
-        "1572339627": {
-            "rotabanner.utro.ru": "INACTIVE"
-        },
-        "1572339633": {
-            "rotator.7x3.net": "INACTIVE"
-        },
-        "1572339640": {
-            "rotator.trafficstars.com": "INACTIVE"
-        },
-        "1572339642": {
-            "rpg.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339643": {
-            "rp-online.met.vgwort.de": "INACTIVE"
-        },
-        "1572339647": {
-            "rq.adtrackdirect.com": "INACTIVE",
-            "rr1.outster.com": "INACTIVE"
-        },
-        "1572339655": {
-            "rsc.scmspain.com": "INACTIVE"
-        },
-        "1572339656": {
-            "rs.gwallet.com": "INACTIVE"
-        },
-        "1572339662": {
-            "rs.instantservice.com": "INACTIVE"
-        },
-        "1572339670": {
-            "rt3.infolinks.com": "INACTIVE"
-        },
-        "1572339676": {
-            "rta.dailymail.co.uk": "INACTIVE"
-        },
-        "1572339677": {
-            "rtb.metrigo.com": "INACTIVE"
-        },
-        "1572339678": {
-            "rtb.nativeads.com": "INACTIVE",
-            "rtb.tubemogul.com": "INACTIVE"
-        },
-        "1572339684": {
-            "rte-img.nuseek.com": "INACTIVE"
-        },
-        "1572339685": {
-            "rt.liftdna.com": "INACTIVE",
-            "rtl.ivwbox.de": "INACTIVE"
-        },
-        "1572339686": {
-            "rtr.innovid.com": "INACTIVE",
-            "rts.doublepimp.com": "INACTIVE",
-            "rts.pgmediaserve.com": "INACTIVE",
-            "rts.phn.doublepimp.com": "INACTIVE",
-            "rts.revfusion.net": "INACTIVE"
-        },
-        "1572339688": {
-            "rudy.adsnative.com": "INACTIVE"
-        },
-        "1572339695": {
-            "ruemedia.adspirit.net": "INACTIVE",
-            "rules.atgsvcs.com": "INACTIVE",
-            "rum-collector.pingdom.net": "INACTIVE"
-        },
-        "1572339696": {
-            "rumorfix.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339697": {
-            "run.admost.com": "INACTIVE",
-            "rusads.toysrus.com": "INACTIVE"
-        },
-        "1572339698": {
-            "rv-gateway.supersonicads.com": "INACTIVE",
-            "rx8club.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339699": {
-            "rydium.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339706": {
-            "s01.delivery.addynamo.com": "INACTIVE"
-        },
-        "1572339712": {
-            "s01-delivery.addynamo.net": "INACTIVE"
-        },
-        "1572339719": {
-            "s1184.t.eloqua.com": "INACTIVE"
-        },
-        "1572339724": {
-            "s1325.t.eloqua.com": "INACTIVE"
-        },
-        "1572339726": {
-            "s1415903351.t.eloqua.com": "INACTIVE",
-            "s1471.t.eloqua.com": "INACTIVE",
-            "s1481.t.eloqua.com": "INACTIVE"
-        },
-        "1572339740": {
-            "s2150.t.eloqua.com": "INACTIVE"
-        },
-        "1572339752": {
-            "s2.statcounter.com": "INACTIVE"
-        },
-        "1572339754": {
-            "s2.video.doubleclick.net": "INACTIVE",
-            "s3015.t.eloqua.com": "INACTIVE"
-        },
-        "1572339755": {
-            "s323.t.eloqua.com": "INACTIVE"
-        },
-        "1572339757": {
-            "s3.addthis.com": "INACTIVE"
-        },
-        "1572339772": {
-            "s6-pixel.c1exchange.com": "INACTIVE"
-        },
-        "1572339779": {
-            "s9.addthis.com": "INACTIVE"
-        },
-        "1572339781": {
-            "sact.atdmt.com": "INACTIVE"
-        },
-        "1572339793": {
-            "safe-es.imrworldwide.com": "INACTIVE"
-        },
-        "1572339799": {
-            "safepay2.interactivebrands.com": "INACTIVE"
-        },
-        "1572339808": {
-            "sana.newsinc.com": "INACTIVE"
-        },
-        "1572339809": {
-            "s.arclk.net": "INACTIVE",
-            "sapato01.webtrekk.net": "INACTIVE"
-        },
-        "1572339816": {
-            "sa.scorecardresearch.com": "INACTIVE"
-        },
-        "1572339827": {
-            "sat.scoutanalytics.com": "INACTIVE"
-        },
-        "1572339835": {
-            "scambiobanner.altervista.org": "INACTIVE"
-        },
-        "1572339836": {
-            "scanwith.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339837": {
-            "schoorsteen.geenstijl.nl": "INACTIVE",
-            "schuelvz.ivwbox.de": "INACTIVE",
-            "schwab.demdex.net": "INACTIVE"
-        },
-        "1572339838": {
-            "s.clickability.com": "INACTIVE",
-            "scienceworldreport.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339841": {
-            "scout24.wemfbox.ch": "INACTIVE"
-        },
-        "1572339847": {
-            "scout.scoutanalytics.net": "INACTIVE",
-            "screensavers.us.intellitxt.com": "INACTIVE",
-            "scripps.demdex.net": "INACTIVE"
-        },
-        "1572339851": {
-            "script.idvert.cz": "INACTIVE"
-        },
-        "1572339852": {
-            "scripts.chitika.net": "INACTIVE",
-            "scripts.host.bannerflow.com": "INACTIVE"
-        },
-        "1572339860": {
-            "scripts.mofos.com": "INACTIVE"
-        },
-        "1572339868": {
-            "scripts.the-group.net": "INACTIVE"
-        },
-        "1572339875": {
-            "script.tailsweep.com": "INACTIVE",
-            "scs.webtrends.com": "INACTIVE"
-        },
-        "1572339883": {
-            "sdc2.sakura.ad.jp": "INACTIVE"
-        },
-        "1572339889": {
-            "sdc8prod1.wiley.com": "INACTIVE"
-        },
-        "1572339896": {
-            "sdc.acc.org": "INACTIVE",
-            "sdc.ca.com": "INACTIVE"
-        },
-        "1572339902": {
-            "sdc.caranddriver.com": "INACTIVE"
-        },
-        "1572339908": {
-            "sdc.dishnetwork.com": "INACTIVE"
-        },
-        "1572339915": {
-            "sdc.dn.no": "INACTIVE",
-            "sdcexecs.us.intellitxt.com": "INACTIVE"
-        },
-        "1572339922": {
-            "sdc.flysas.com": "INACTIVE"
-        },
-        "1572339928": {
-            "sdc.livingchoices.com": "INACTIVE"
-        },
-        "1572339935": {
-            "sdc.mcafee.com": "INACTIVE"
-        },
-        "1572340050": {
-            "sdc.netiq.com": "INACTIVE"
-        },
-        "1572340056": {
-            "sdc.radio-canada.ca": "INACTIVE"
-        },
-        "1572340063": {
-            "sdc.rbistats.com": "INACTIVE"
-        },
-        "1572340069": {
-            "sdc.roadandtrack.com": "INACTIVE"
-        },
-        "1572340075": {
-            "sdc.sanofi-aventis.us": "INACTIVE"
-        },
-        "1572340082": {
-            "sdc.usps.com": "INACTIVE"
-        },
-        "1572340088": {
-            "sdc.vml.com": "INACTIVE"
-        },
-        "1572340095": {
-            "sdc.windowsmarketplace.com": "INACTIVE"
-        },
-        "1572340096": {
-            "se.adserver.yahoo.com": "INACTIVE"
-        },
-        "1572340104": {
-            "search.brainfox.com": "INACTIVE"
-        },
-        "1572340120": {
-            "search.clicksor.com": "INACTIVE"
-        },
-        "1572340126": {
-            "search.dmtracker.com": "INACTIVE"
-        },
-        "1572340127": {
-            "search.eclickz.com": "INACTIVE"
-        },
-        "1572340132": {
-            "sears.demdex.net": "INACTIVE"
-        },
-        "1572340133": {
-            "seb.scorecardresearch.com": "INACTIVE"
-        },
-        "1572340140": {
-            "secure3.marketengines.com": "INACTIVE"
-        },
-        "1572340146": {
-            "secure6.platinumbucks.com": "INACTIVE"
-        },
-        "1572340147": {
-            "secure.adwebster.com": "INACTIVE"
-        },
         "1572340157": {
             "secure.fhserve.com": "INACTIVE"
         },
@@ -8581,6 +8196,397 @@
         },
         "1572441910": {
             "r.clickdensity.com": "INACTIVE"
+        },
+        "1572442052": {
+            "rc.revolvermaps.com": "INACTIVE",
+            "rcpmag.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442054": {
+            "rd.revolvermaps.com": "INACTIVE"
+        },
+        "1572442055": {
+            "readersdigest.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572442061": {
+            "realaudio.cimedia.net": "INACTIVE"
+        },
+        "1572442062": {
+            "realitytea.us.intellitxt.com": "INACTIVE",
+            "realitytvmagazine.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442063": {
+            "realmedia-a592.d4p.net": "INACTIVE"
+        },
+        "1572442070": {
+            "realtime.deximedia.com": "INACTIVE"
+        },
+        "1572442077": {
+            "receive.inplay.scanscout.com": "INACTIVE",
+            "recipeland.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442078": {
+            "recs.richrelevance.com": "INACTIVE",
+            "redbalcony.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442083": {
+            "reed-cw.grapeshot.co.uk": "INACTIVE",
+            "reelmovienews.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442087": {
+            "rek.adtotal.pl": "INACTIVE"
+        },
+        "1572442095": {
+            "reklama.offmedia.bg": "INACTIVE"
+        },
+        "1572442099": {
+            "rek.www.wp.pl": "INACTIVE"
+        },
+        "1572442112": {
+            "rem.rezonmedia.eu": "INACTIVE",
+            "rentcom.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572442113": {
+            "report-ads-to.pubnation.com": "INACTIVE",
+            "reporting.singlefeed.com": "INACTIVE"
+        },
+        "1572442114": {
+            "req.tidaltv.com": "INACTIVE"
+        },
+        "1572442115": {
+            "re.revolvermaps.com": "INACTIVE"
+        },
+        "1572442116": {
+            "reseaux-telecoms.fr.intellitxt.com": "INACTIVE"
+        },
+        "1572442134": {
+            "reunion.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572442141": {
+            "rev.avsforum.com": "INACTIVE"
+        },
+        "1572442147": {
+            "revelations.trovus.co.uk": "INACTIVE"
+        },
+        "1572442148": {
+            "reviews.domainplayersclub.com": "INACTIVE"
+        },
+        "1572442149": {
+            "revolution.ign.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442150": {
+            "revotrack.revotas.com": "INACTIVE",
+            "rg.revolvermaps.com": "INACTIVE",
+            "rh.adscale.de": "INACTIVE"
+        },
+        "1572442156": {
+            "rhads.sv.publicus.com": "INACTIVE"
+        },
+        "1572442157": {
+            "rh.revolvermaps.com": "INACTIVE"
+        },
+        "1572442158": {
+            "rickey.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442165": {
+            "rig.idg.no": "INACTIVE",
+            "ringieradro.hit.gemius.pl": "INACTIVE"
+        },
+        "1572442166": {
+            "ringierro.adocean.pl": "INACTIVE"
+        },
+        "1572442167": {
+            "ringsurf.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442168": {
+            "ri.revolvermaps.com": "INACTIVE"
+        },
+        "1572442169": {
+            "rk.revolvermaps.com": "INACTIVE",
+            "rmads.eu.msn.com": "INACTIVE",
+            "rmads.msn.com": "INACTIVE"
+        },
+        "1572442170": {
+            "rmd.atdmt.com": "INACTIVE"
+        },
+        "1572442176": {
+            "rmedia.adonnetwork.com": "INACTIVE"
+        },
+        "1572442178": {
+            "rnbdirt.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442184": {
+            "rnews.focus-news.net": "INACTIVE"
+        },
+        "1572442189": {
+            "rojakpot.us.intellitxt.com": "INACTIVE",
+            "rome.specificclick.net": "INACTIVE"
+        },
+        "1572442197": {
+            "rotabanner.utro.ru": "INACTIVE"
+        },
+        "1572442203": {
+            "rotator.7x3.net": "INACTIVE"
+        },
+        "1572442210": {
+            "rotator.trafficstars.com": "INACTIVE"
+        },
+        "1572442211": {
+            "rpg.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442213": {
+            "rp-online.met.vgwort.de": "INACTIVE"
+        },
+        "1572442216": {
+            "rq.adtrackdirect.com": "INACTIVE",
+            "rr1.outster.com": "INACTIVE"
+        },
+        "1572442224": {
+            "rsc.scmspain.com": "INACTIVE"
+        },
+        "1572442230": {
+            "rsgde.adocean.pl": "INACTIVE"
+        },
+        "1572442231": {
+            "rs.gwallet.com": "INACTIVE"
+        },
+        "1572442237": {
+            "rs.instantservice.com": "INACTIVE"
+        },
+        "1572442244": {
+            "rt3.infolinks.com": "INACTIVE"
+        },
+        "1572442250": {
+            "rta.dailymail.co.uk": "INACTIVE"
+        },
+        "1572442252": {
+            "rtb.metrigo.com": "INACTIVE",
+            "rtb.nativeads.com": "INACTIVE"
+        },
+        "1572442253": {
+            "rtb.tubemogul.com": "INACTIVE"
+        },
+        "1572442259": {
+            "rte-img.nuseek.com": "INACTIVE"
+        },
+        "1572442260": {
+            "rt.liftdna.com": "INACTIVE",
+            "rtl.ivwbox.de": "INACTIVE"
+        },
+        "1572442261": {
+            "rtr.innovid.com": "INACTIVE",
+            "rts.doublepimp.com": "INACTIVE",
+            "rts.pgmediaserve.com": "INACTIVE",
+            "rts.phn.doublepimp.com": "INACTIVE",
+            "rts.revfusion.net": "INACTIVE"
+        },
+        "1572442263": {
+            "rudy.adsnative.com": "INACTIVE"
+        },
+        "1572442270": {
+            "ruemedia.adspirit.net": "INACTIVE",
+            "rules.atgsvcs.com": "INACTIVE",
+            "rum-collector.pingdom.net": "INACTIVE"
+        },
+        "1572442271": {
+            "rumorfix.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442274": {
+            "run.admost.com": "INACTIVE",
+            "rusads.toysrus.com": "INACTIVE"
+        },
+        "1572442275": {
+            "rv-gateway.supersonicads.com": "INACTIVE",
+            "rx8club.us.intellitxt.com": "INACTIVE",
+            "rydium.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442282": {
+            "s01.delivery.addynamo.com": "INACTIVE"
+        },
+        "1572442288": {
+            "s01-delivery.addynamo.net": "INACTIVE"
+        },
+        "1572442308": {
+            "s1184.t.eloqua.com": "INACTIVE"
+        },
+        "1572442316": {
+            "s1325.t.eloqua.com": "INACTIVE"
+        },
+        "1572442320": {
+            "s1415903351.t.eloqua.com": "INACTIVE"
+        },
+        "1572442321": {
+            "s1471.t.eloqua.com": "INACTIVE",
+            "s1481.t.eloqua.com": "INACTIVE"
+        },
+        "1572442338": {
+            "s2150.t.eloqua.com": "INACTIVE"
+        },
+        "1572442352": {
+            "s2.statcounter.com": "INACTIVE"
+        },
+        "1572442353": {
+            "s2.video.doubleclick.net": "INACTIVE"
+        },
+        "1572442354": {
+            "s3015.t.eloqua.com": "INACTIVE"
+        },
+        "1572442355": {
+            "s323.t.eloqua.com": "INACTIVE"
+        },
+        "1572442360": {
+            "s3.addthis.com": "INACTIVE"
+        },
+        "1572442382": {
+            "s6-pixel.c1exchange.com": "INACTIVE"
+        },
+        "1572442384": {
+            "s7.addthis.com": "INACTIVE"
+        },
+        "1572442396": {
+            "s9.addthis.com": "INACTIVE"
+        },
+        "1572442398": {
+            "sact.atdmt.com": "INACTIVE"
+        },
+        "1572442408": {
+            "safe-es.imrworldwide.com": "INACTIVE"
+        },
+        "1572442414": {
+            "safepay2.interactivebrands.com": "INACTIVE"
+        },
+        "1572442423": {
+            "sana.newsinc.com": "INACTIVE"
+        },
+        "1572442424": {
+            "sapato01.webtrekk.net": "INACTIVE"
+        },
+        "1572442425": {
+            "s.arclk.net": "INACTIVE"
+        },
+        "1572442431": {
+            "sa.scorecardresearch.com": "INACTIVE"
+        },
+        "1572442443": {
+            "sat.scoutanalytics.com": "INACTIVE"
+        },
+        "1572442449": {
+            "scambiobanner.altervista.org": "INACTIVE",
+            "scanwith.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442450": {
+            "schoorsteen.geenstijl.nl": "INACTIVE",
+            "schuelvz.ivwbox.de": "INACTIVE",
+            "schwab.demdex.net": "INACTIVE",
+            "scienceworldreport.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442451": {
+            "s.clickability.com": "INACTIVE"
+        },
+        "1572442453": {
+            "scout24.wemfbox.ch": "INACTIVE"
+        },
+        "1572442459": {
+            "scout.scoutanalytics.net": "INACTIVE",
+            "screensavers.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442460": {
+            "scripps.demdex.net": "INACTIVE"
+        },
+        "1572442462": {
+            "script.idvert.cz": "INACTIVE"
+        },
+        "1572442463": {
+            "scripts.chitika.net": "INACTIVE",
+            "scripts.host.bannerflow.com": "INACTIVE"
+        },
+        "1572442470": {
+            "scripts.mofos.com": "INACTIVE"
+        },
+        "1572442478": {
+            "scripts.the-group.net": "INACTIVE"
+        },
+        "1572442485": {
+            "script.tailsweep.com": "INACTIVE",
+            "scs.webtrends.com": "INACTIVE"
+        },
+        "1572442493": {
+            "sdc2.sakura.ad.jp": "INACTIVE"
+        },
+        "1572442499": {
+            "sdc8prod1.wiley.com": "INACTIVE"
+        },
+        "1572442505": {
+            "sdc.acc.org": "INACTIVE",
+            "sdc.ca.com": "INACTIVE"
+        },
+        "1572442511": {
+            "sdc.caranddriver.com": "INACTIVE"
+        },
+        "1572442518": {
+            "sdc.dishnetwork.com": "INACTIVE"
+        },
+        "1572442524": {
+            "sdc.dn.no": "INACTIVE",
+            "sdcexecs.us.intellitxt.com": "INACTIVE"
+        },
+        "1572442531": {
+            "sdc.flysas.com": "INACTIVE"
+        },
+        "1572442537": {
+            "sdc.livingchoices.com": "INACTIVE"
+        },
+        "1572442544": {
+            "sdc.mcafee.com": "INACTIVE"
+        },
+        "1572442550": {
+            "sdc.netiq.com": "INACTIVE"
+        },
+        "1572442556": {
+            "sdc.radio-canada.ca": "INACTIVE"
+        },
+        "1572442563": {
+            "sdc.rbistats.com": "INACTIVE"
+        },
+        "1572442569": {
+            "sdc.roadandtrack.com": "INACTIVE"
+        },
+        "1572442575": {
+            "sdc.sanofi-aventis.us": "INACTIVE"
+        },
+        "1572442582": {
+            "sdc.usps.com": "INACTIVE"
+        },
+        "1572442588": {
+            "sdc.vml.com": "INACTIVE"
+        },
+        "1572442594": {
+            "sdc.windowsmarketplace.com": "INACTIVE"
+        },
+        "1572442595": {
+            "se.adserver.yahoo.com": "INACTIVE"
+        },
+        "1572442602": {
+            "search.brainfox.com": "INACTIVE"
+        },
+        "1572442618": {
+            "search.clicksor.com": "INACTIVE"
+        },
+        "1572442625": {
+            "search.dmtracker.com": "INACTIVE",
+            "search.eclickz.com": "INACTIVE"
+        },
+        "1572442631": {
+            "sears.demdex.net": "INACTIVE"
+        },
+        "1572442632": {
+            "seb.scorecardresearch.com": "INACTIVE"
+        },
+        "1572442639": {
+            "secure3.marketengines.com": "INACTIVE"
+        },
+        "1572442645": {
+            "secure.adwebster.com": "INACTIVE",
+            "secure6.platinumbucks.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
