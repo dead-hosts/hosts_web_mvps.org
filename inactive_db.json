@@ -1,155 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1572558962": {
-            "www.thesexcinema.com": "INACTIVE"
-        },
-        "1572558968": {
-            "www.thesurfshield.com": "INACTIVE"
-        },
-        "1572558976": {
-            "www.top100.lt": "INACTIVE"
-        },
-        "1572558977": {
-            "www.top100.ro": "INACTIVE"
-        },
-        "1572558985": {
-            "www.tostadomedia.com": "INACTIVE"
-        },
-        "1572558992": {
-            "www.tr100.net": "INACTIVE"
-        },
-        "1572559012": {
-            "www.trafficcenter.de": "INACTIVE"
-        },
-        "1572559029": {
-            "www.tubehits.com": "INACTIVE"
-        },
-        "1572559036": {
-            "www.ukbanners.com": "INACTIVE"
-        },
-        "1572559049": {
-            "www.vaultsappsbyte.com": "INACTIVE"
-        },
-        "1572559064": {
-            "www.visits.lt": "INACTIVE"
-        },
-        "1572559068": {
-            "www.vjsoft.net": "INACTIVE"
-        },
-        "1572559098": {
-            "www.webtistic.com": "INACTIVE"
-        },
-        "1572559099": {
-            "www.weownthetraffic.com": "INACTIVE"
-        },
-        "1572559103": {
-            "www.xl-rank.com": "INACTIVE"
-        },
-        "1572559108": {
-            "www.yourdedicatedhost.com": "INACTIVE",
-            "www.yourhitstats.com": "INACTIVE"
-        },
-        "1572559111": {
-            "www.ypmadserver.com": "INACTIVE"
-        },
-        "1572559113": {
-            "www.zipitfast.com": "INACTIVE"
-        },
-        "1572559114": {
-            "x17online.us.intellitxt.com": "INACTIVE"
-        },
-        "1572559116": {
-            "x.bidswitch.net": "INACTIVE",
-            "xbox.ign.us.intellitxt.com": "INACTIVE",
-            "xbox360.ign.us.intellitxt.com": "INACTIVE"
-        },
-        "1572559125": {
-            "x.imwx.com": "INACTIVE"
-        },
-        "1572559132": {
-            "xml.admanage.com": "INACTIVE",
-            "xml2.nbcsearch.com": "INACTIVE"
-        },
-        "1572559133": {
-            "xml.bravenet.com": "INACTIVE"
-        },
-        "1572559140": {
-            "xml.nbcsearch.com": "INACTIVE",
-            "xml.quiveradnet.com": "INACTIVE",
-            "xmlpitstop.us.intellitxt.com": "INACTIVE"
-        },
-        "1572559141": {
-            "xpop.co": "INACTIVE"
-        },
-        "1572559144": {
-            "yahoo.ivwbox.de": "INACTIVE"
-        },
-        "1572559151": {
-            "yardbarker.tags.crwdcntrl.net": "INACTIVE",
-            "ybinst0.ec.yimg.com": "INACTIVE"
-        },
-        "1572559152": {
-            "ybinst1.ec.yimg.com": "INACTIVE",
-            "ybinst2.ec.yimg.com": "INACTIVE",
-            "ybinst3.ec.yimg.com": "INACTIVE",
-            "ybinst4.ec.yimg.com": "INACTIVE",
-            "ybinst5.ec.yimg.com": "INACTIVE",
-            "ybinst6.ec.yimg.com": "INACTIVE",
-            "ybinst7.ec.yimg.com": "INACTIVE",
-            "ybinst8.ec.yimg.com": "INACTIVE"
-        },
-        "1572559153": {
-            "ybinst9.ec.yimg.com": "INACTIVE",
-            "yeeeah.us.intellitxt.com": "INACTIVE"
-        },
-        "1572559154": {
-            "yepdigital.adk2x.com": "INACTIVE"
-        },
-        "1572559160": {
-            "yeskyafp.allyes.com": "INACTIVE"
-        },
-        "1572559170": {
-            "yourtango.us.intellitxt.com": "INACTIVE"
-        },
-        "1572559172": {
-            "zafiti01.webtrekk-us.net": "INACTIVE"
-        },
-        "1572559173": {
-            "zataz.fr.intellitxt.com": "INACTIVE",
-            "zatznotfunny.us.intellitxt.com": "INACTIVE"
-        },
-        "1572559175": {
-            "z.blogads.com": "INACTIVE",
-            "zb.zeroredirect1.com": "INACTIVE",
-            "zc.zeroredirect1.com": "INACTIVE",
-            "zdbb.netshelter.net": "INACTIVE"
-        },
-        "1572559176": {
-            "zdf.ivwbox.de": "INACTIVE",
-            "zdnet.be.intellitxt.com": "INACTIVE",
-            "ze1.zeroredirect1.com": "INACTIVE"
-        },
-        "1572559177": {
-            "zeit01.webtrekk.net": "INACTIVE"
-        },
-        "1572559178": {
-            "zeit.met.vgwort.de": "INACTIVE",
-            "zeitonl.ivwbox.de": "INACTIVE",
-            "zeldalily.us.intellitxt.com": "INACTIVE"
-        },
-        "1572559179": {
-            "zh1.zeroredirect11.com": "INACTIVE"
-        },
-        "1572559180": {
-            "zm1.zeroredirect5.com": "INACTIVE"
-        },
-        "1572559184": {
-            "zs1.zeroredirect1.com": "INACTIVE"
-        },
-        "1572559185": {
-            "zsc.scmspain.com": "INACTIVE",
-            "zug.us.intellitxt.com": "INACTIVE"
-        },
         "1572675836": {
             "0.r.msn.com": "INACTIVE"
         },
@@ -8251,6 +8101,168 @@
         },
         "1572688522": {
             "www.theaffiliateprogram.com": "INACTIVE"
+        },
+        "1572688644": {
+            "www.thesexcinema.com": "INACTIVE"
+        },
+        "1572688650": {
+            "www.thesurfshield.com": "INACTIVE"
+        },
+        "1572688660": {
+            "www.top100.lt": "INACTIVE"
+        },
+        "1572688661": {
+            "www.top100.ro": "INACTIVE"
+        },
+        "1572688675": {
+            "www.tostadomedia.com": "INACTIVE"
+        },
+        "1572688682": {
+            "www.tr100.net": "INACTIVE"
+        },
+        "1572688705": {
+            "www.trafficcenter.de": "INACTIVE"
+        },
+        "1572688722": {
+            "www.tubehits.com": "INACTIVE"
+        },
+        "1572688729": {
+            "www.ukbanners.com": "INACTIVE"
+        },
+        "1572688741": {
+            "www.vaultsappsbyte.com": "INACTIVE"
+        },
+        "1572688757": {
+            "www.visits.lt": "INACTIVE"
+        },
+        "1572688761": {
+            "www.vjsoft.net": "INACTIVE"
+        },
+        "1572688791": {
+            "www.webtistic.com": "INACTIVE"
+        },
+        "1572688793": {
+            "www.weownthetraffic.com": "INACTIVE"
+        },
+        "1572688798": {
+            "www.xl-rank.com": "INACTIVE"
+        },
+        "1572688802": {
+            "www.yourdedicatedhost.com": "INACTIVE",
+            "www.yourhitstats.com": "INACTIVE"
+        },
+        "1572688806": {
+            "www.ypmadserver.com": "INACTIVE"
+        },
+        "1572688808": {
+            "www.zipitfast.com": "INACTIVE"
+        },
+        "1572688810": {
+            "x17online.us.intellitxt.com": "INACTIVE"
+        },
+        "1572688811": {
+            "x.bidswitch.net": "INACTIVE",
+            "xbox360.ign.us.intellitxt.com": "INACTIVE"
+        },
+        "1572688812": {
+            "xbox.ign.us.intellitxt.com": "INACTIVE"
+        },
+        "1572688820": {
+            "x.imwx.com": "INACTIVE"
+        },
+        "1572688827": {
+            "xml2.nbcsearch.com": "INACTIVE"
+        },
+        "1572688828": {
+            "xml.admanage.com": "INACTIVE"
+        },
+        "1572688829": {
+            "xml.bravenet.com": "INACTIVE"
+        },
+        "1572688835": {
+            "xml.nbcsearch.com": "INACTIVE"
+        },
+        "1572688836": {
+            "xml.quiveradnet.com": "INACTIVE",
+            "xmlpitstop.us.intellitxt.com": "INACTIVE"
+        },
+        "1572688838": {
+            "xpop.co": "INACTIVE"
+        },
+        "1572688841": {
+            "yahoo.ivwbox.de": "INACTIVE"
+        },
+        "1572688848": {
+            "yardbarker.tags.crwdcntrl.net": "INACTIVE"
+        },
+        "1572688849": {
+            "ybinst0.ec.yimg.com": "INACTIVE"
+        },
+        "1572688850": {
+            "ybinst1.ec.yimg.com": "INACTIVE",
+            "ybinst2.ec.yimg.com": "INACTIVE",
+            "ybinst3.ec.yimg.com": "INACTIVE"
+        },
+        "1572688851": {
+            "ybinst4.ec.yimg.com": "INACTIVE",
+            "ybinst5.ec.yimg.com": "INACTIVE"
+        },
+        "1572688852": {
+            "ybinst6.ec.yimg.com": "INACTIVE",
+            "ybinst7.ec.yimg.com": "INACTIVE"
+        },
+        "1572688853": {
+            "ybinst8.ec.yimg.com": "INACTIVE",
+            "ybinst9.ec.yimg.com": "INACTIVE",
+            "yeeeah.us.intellitxt.com": "INACTIVE"
+        },
+        "1572688854": {
+            "yepdigital.adk2x.com": "INACTIVE"
+        },
+        "1572688860": {
+            "yeskyafp.allyes.com": "INACTIVE"
+        },
+        "1572688871": {
+            "yourtango.us.intellitxt.com": "INACTIVE"
+        },
+        "1572688873": {
+            "zafiti01.webtrekk-us.net": "INACTIVE"
+        },
+        "1572688874": {
+            "zataz.fr.intellitxt.com": "INACTIVE",
+            "zatznotfunny.us.intellitxt.com": "INACTIVE"
+        },
+        "1572688878": {
+            "z.blogads.com": "INACTIVE",
+            "zb.zeroredirect1.com": "INACTIVE",
+            "zc.zeroredirect1.com": "INACTIVE"
+        },
+        "1572688879": {
+            "zdbb.netshelter.net": "INACTIVE",
+            "zdf.ivwbox.de": "INACTIVE",
+            "zdnet.be.intellitxt.com": "INACTIVE",
+            "ze1.zeroredirect1.com": "INACTIVE"
+        },
+        "1572688880": {
+            "zeit01.webtrekk.net": "INACTIVE"
+        },
+        "1572688882": {
+            "zeit.met.vgwort.de": "INACTIVE",
+            "zeitonl.ivwbox.de": "INACTIVE",
+            "zeldalily.us.intellitxt.com": "INACTIVE"
+        },
+        "1572688883": {
+            "zh1.zeroredirect11.com": "INACTIVE"
+        },
+        "1572688884": {
+            "zm1.zeroredirect5.com": "INACTIVE"
+        },
+        "1572688888": {
+            "zs1.zeroredirect1.com": "INACTIVE",
+            "zsc.scmspain.com": "INACTIVE"
+        },
+        "1572688894": {
+            "zug.us.intellitxt.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
