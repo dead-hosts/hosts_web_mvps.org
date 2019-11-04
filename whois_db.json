@@ -2625,9 +2625,9 @@
         "state": "future"
     },
     "opensharecount.com": {
-        "epoch": "1572825600",
+        "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "opensoftwareupdate.com": {
         "epoch": "1582243200",
