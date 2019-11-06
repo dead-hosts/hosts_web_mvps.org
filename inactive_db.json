@@ -1,386 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1572894359": {
-            "s6-pixel.c1exchange.com": "INACTIVE"
-        },
-        "1572894361": {
-            "s7.addthis.com": "INACTIVE"
-        },
-        "1572894372": {
-            "s9.addthis.com": "INACTIVE"
-        },
-        "1572894374": {
-            "sact.atdmt.com": "INACTIVE"
-        },
-        "1572894384": {
-            "safe-es.imrworldwide.com": "INACTIVE"
-        },
-        "1572894390": {
-            "safepay2.interactivebrands.com": "INACTIVE"
-        },
-        "1572894399": {
-            "sana.newsinc.com": "INACTIVE"
-        },
-        "1572894400": {
-            "sapato01.webtrekk.net": "INACTIVE"
-        },
-        "1572894401": {
-            "s.arclk.net": "INACTIVE"
-        },
-        "1572894407": {
-            "sa.scorecardresearch.com": "INACTIVE"
-        },
-        "1572894419": {
-            "sat.scoutanalytics.com": "INACTIVE"
-        },
-        "1572894425": {
-            "scambiobanner.altervista.org": "INACTIVE",
-            "scanwith.us.intellitxt.com": "INACTIVE"
-        },
-        "1572894426": {
-            "schoorsteen.geenstijl.nl": "INACTIVE",
-            "schuelvz.ivwbox.de": "INACTIVE",
-            "schwab.demdex.net": "INACTIVE",
-            "scienceworldreport.us.intellitxt.com": "INACTIVE"
-        },
-        "1572894427": {
-            "s.clickability.com": "INACTIVE"
-        },
-        "1572894429": {
-            "scout24.wemfbox.ch": "INACTIVE"
-        },
-        "1572894435": {
-            "scout.scoutanalytics.net": "INACTIVE",
-            "screensavers.us.intellitxt.com": "INACTIVE",
-            "scripps.demdex.net": "INACTIVE"
-        },
-        "1572894438": {
-            "script.idvert.cz": "INACTIVE"
-        },
-        "1572894439": {
-            "scripts.chitika.net": "INACTIVE"
-        },
-        "1572894440": {
-            "scripts.host.bannerflow.com": "INACTIVE"
-        },
-        "1572894446": {
-            "scripts.mofos.com": "INACTIVE"
-        },
-        "1572894455": {
-            "scripts.the-group.net": "INACTIVE"
-        },
-        "1572894461": {
-            "script.tailsweep.com": "INACTIVE"
-        },
-        "1572894462": {
-            "scs.webtrends.com": "INACTIVE"
-        },
-        "1572894469": {
-            "sdc2.sakura.ad.jp": "INACTIVE"
-        },
-        "1572894476": {
-            "sdc8prod1.wiley.com": "INACTIVE"
-        },
-        "1572894482": {
-            "sdc.acc.org": "INACTIVE",
-            "sdc.ca.com": "INACTIVE"
-        },
-        "1572894488": {
-            "sdc.caranddriver.com": "INACTIVE"
-        },
-        "1572895795": {
-            "sdc.dishnetwork.com": "INACTIVE"
-        },
-        "1572895801": {
-            "sdc.dn.no": "INACTIVE",
-            "sdcexecs.us.intellitxt.com": "INACTIVE"
-        },
-        "1572895808": {
-            "sdc.flysas.com": "INACTIVE"
-        },
-        "1572895814": {
-            "sdc.livingchoices.com": "INACTIVE"
-        },
-        "1572895821": {
-            "sdc.mcafee.com": "INACTIVE"
-        },
-        "1572895827": {
-            "sdc.netiq.com": "INACTIVE"
-        },
-        "1572895834": {
-            "sdc.radio-canada.ca": "INACTIVE"
-        },
-        "1572895840": {
-            "sdc.rbistats.com": "INACTIVE"
-        },
-        "1572895846": {
-            "sdc.roadandtrack.com": "INACTIVE"
-        },
-        "1572895852": {
-            "sdc.sanofi-aventis.us": "INACTIVE"
-        },
-        "1572895859": {
-            "sdc.usps.com": "INACTIVE"
-        },
-        "1572895865": {
-            "sdc.vml.com": "INACTIVE"
-        },
-        "1572895872": {
-            "sdc.windowsmarketplace.com": "INACTIVE"
-        },
-        "1572895873": {
-            "se.adserver.yahoo.com": "INACTIVE"
-        },
-        "1572895880": {
-            "search.brainfox.com": "INACTIVE"
-        },
-        "1572895896": {
-            "search.clicksor.com": "INACTIVE"
-        },
-        "1572895902": {
-            "search.dmtracker.com": "INACTIVE"
-        },
-        "1572895903": {
-            "search.eclickz.com": "INACTIVE"
-        },
-        "1572895909": {
-            "sears.demdex.net": "INACTIVE"
-        },
-        "1572895910": {
-            "seb.scorecardresearch.com": "INACTIVE"
-        },
-        "1572895917": {
-            "secure3.marketengines.com": "INACTIVE"
-        },
-        "1572895923": {
-            "secure.adwebster.com": "INACTIVE",
-            "secure6.platinumbucks.com": "INACTIVE"
-        },
-        "1572895932": {
-            "secure.fhserve.com": "INACTIVE"
-        },
-        "1572895939": {
-            "secure.marketengines.com": "INACTIVE",
-            "secure.media6degrees.com": "INACTIVE"
-        },
-        "1572895940": {
-            "securepubads.g.doubleclick.net": "INACTIVE"
-        },
-        "1572895947": {
-            "secure.webconnect.net": "INACTIVE"
-        },
-        "1572895948": {
-            "secure.webresint.com": "INACTIVE"
-        },
-        "1572895951": {
-            "s.effectivemeasure.net": "INACTIVE",
-            "se.monetate.net": "INACTIVE"
-        },
-        "1572895953": {
-            "seomatrix.webtrackingservices.com": "INACTIVE"
-        },
-        "1572895955": {
-            "serv.clicksor.net": "INACTIVE",
-            "serve.adworldmedia.com": "INACTIVE"
-        },
-        "1572895956": {
-            "servedby.flashtalking.com": "INACTIVE"
-        },
-        "1572895957": {
-            "serve-east.acuityplatform.com": "INACTIVE",
-            "servedby.o2.co.uk": "INACTIVE"
-        },
-        "1572895964": {
-            "server1.beaconpush.com": "INACTIVE"
-        },
-        "1572895970": {
-            "server2.as5000.com": "INACTIVE"
-        },
-        "1572895978": {
-            "server.as5000.com": "INACTIVE"
-        },
-        "1572895987": {
-            "service1.predictad.com": "INACTIVE"
-        },
-        "1572895993": {
-            "service2.predictad.com": "INACTIVE"
-        },
-        "1572895999": {
-            "service.clicksvenue.com": "INACTIVE"
-        },
-        "1572896000": {
-            "service.persianstat.com": "INACTIVE"
-        },
-        "1572896004": {
-            "serving.adsrevenue.clicksor.net": "INACTIVE"
-        },
-        "1572896005": {
-            "serving.bepolite.eu": "INACTIVE"
-        },
-        "1572896021": {
-            "serw.clicksor.com": "INACTIVE"
-        },
-        "1572896022": {
-            "serw.myroitracking.com": "INACTIVE"
-        },
-        "1572896030": {
-            "sftp.clickability.com": "INACTIVE",
-            "sg.adserver.yahoo.com": "INACTIVE",
-            "shallownation.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896031": {
-            "sharecast.uk.intellitxt.com": "INACTIVE"
-        },
-        "1572896032": {
-            "sh.creativcdn.net": "INACTIVE",
-            "shebudgets.us.intellitxt.com": "INACTIVE",
-            "sheknows.us.intellitxt.com": "INACTIVE",
-            "shoutwire.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896039": {
-            "show.adclick.lv": "INACTIVE"
-        },
-        "1572896041": {
-            "show.smartcontext.pl": "INACTIVE"
-        },
-        "1572896047": {
-            "siads.sv.publicus.com": "INACTIVE"
-        },
-        "1572896048": {
-            "sifomedia.aftonbladet.se": "INACTIVE",
-            "sifomedia.idg.se": "INACTIVE"
-        },
-        "1572896049": {
-            "siliconera.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896057": {
-            "siniature.com": "INACTIVE"
-        },
-        "1572896060": {
-            "site.falconbucks.com": "INACTIVE"
-        },
-        "1572896069": {
-            "sitestat.kpn-is.nl": "INACTIVE"
-        },
-        "1572896076": {
-            "s.ivillage.us.intellitxt.com": "INACTIVE",
-            "sitestats.tiscali.co.uk": "INACTIVE"
-        },
-        "1572896077": {
-            "si.wemfbox.ch": "INACTIVE"
-        },
-        "1572896081": {
-            "slashfilm.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896090": {
-            "smartabouthealth.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896098": {
-            "smartad.mercadolibre.com.ar": "INACTIVE"
-        },
-        "1572896106": {
-            "smartad.mercadolivre.com.br": "INACTIVE",
-            "smartcarfinder.us.intellitxt.com": "INACTIVE",
-            "smartdevicecentral.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896111": {
-            "s.mobclix.com": "INACTIVE"
-        },
-        "1572896117": {
-            "smp.adviva.net": "INACTIVE"
-        },
-        "1572896123": {
-            "smp.specificmedia.com": "INACTIVE"
-        },
-        "1572896124": {
-            "snwmedia.adk2x.com": "INACTIVE",
-            "soccergaming.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896125": {
-            "socialanxietysupport.us.intellitxt.com": "INACTIVE",
-            "socialitelife.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896131": {
-            "sociallitelife.tags.crwdcntrl.net": "INACTIVE"
-        },
-        "1572896133": {
-            "sofa01.webtrekk.net": "INACTIVE",
-            "sofeminine.uk.intellitxt.com": "INACTIVE",
-            "soft32.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896134": {
-            "softonic.de.intellitxt.com": "INACTIVE",
-            "softpedia.uk.intellitxt.com": "INACTIVE",
-            "softpedia.us.intellitxt.com": "INACTIVE",
-            "sohh.us.intellitxt.com": "INACTIVE",
-            "soka-adserver.c1exchange.com": "INACTIVE"
-        },
-        "1572896141": {
-            "sony.tcliveus.com": "INACTIVE"
-        },
-        "1572896142": {
-            "space.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896149": {
-            "spd.atdmt.com": "INACTIVE"
-        },
-        "1572896155": {
-            "spd.atdmt.speedera.net": "INACTIVE"
-        },
-        "1572896156": {
-            "spe.atdmt.com": "INACTIVE"
-        },
-        "1572896168": {
-            "speedguide.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896175": {
-            "speed.pointroll.com": "INACTIVE",
-            "speedtv.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896181": {
-            "spi.domainsponsor.com": "INACTIVE"
-        },
-        "1572896182": {
-            "spiegel.met.vgwort.de": "INACTIVE"
-        },
-        "1572896189": {
-            "spinbox.versiontracker.com": "INACTIVE"
-        },
-        "1572896199": {
-            "spin.spinbox.net": "INACTIVE"
-        },
-        "1572896201": {
-            "splitter.ndsplitter.com": "INACTIVE",
-            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
-            "sport1.wemfbox.ch": "INACTIVE"
-        },
-        "1572896204": {
-            "sportingnews.us.intellitxt.com": "INACTIVE",
-            "sports.ign.us.intellitxt.com": "INACTIVE",
-            "sportscarillustrated.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896210": {
-            "sports.msnbc.us.intellitxt.com": "INACTIVE",
-            "sports.rightpundits.us.intellitxt.com": "INACTIVE",
-            "sportsillustrated.tags.crwdcntrl.net": "INACTIVE"
-        },
-        "1572896217": {
-            "spravki-online.hit.bg": "INACTIVE"
-        },
-        "1572896218": {
-            "s.pubmine.com": "INACTIVE",
-            "sprintusers.us.intellitxt.com": "INACTIVE",
-            "spx.owneriq.net": "INACTIVE"
-        },
-        "1572896219": {
-            "sqlservercentral.us.intellitxt.com": "INACTIVE"
-        },
-        "1572896220": {
-            "squarefootball.uk.intellitxt.com": "INACTIVE"
-        },
-        "1572896226": {
-            "srch.atdmt.com": "INACTIVE"
-        },
         "1572896233": {
             "sroomafp.allyes.com": "INACTIVE"
         },
@@ -8332,6 +7951,388 @@
         },
         "1573035039": {
             "s3.addthis.com": "INACTIVE"
+        },
+        "1573035199": {
+            "s6-pixel.c1exchange.com": "INACTIVE"
+        },
+        "1573035204": {
+            "s7.addthis.com": "INACTIVE"
+        },
+        "1573035218": {
+            "s9.addthis.com": "INACTIVE"
+        },
+        "1573035221": {
+            "sact.atdmt.com": "INACTIVE"
+        },
+        "1573035231": {
+            "safe-es.imrworldwide.com": "INACTIVE"
+        },
+        "1573035237": {
+            "safepay2.interactivebrands.com": "INACTIVE"
+        },
+        "1573035246": {
+            "sana.newsinc.com": "INACTIVE"
+        },
+        "1573035247": {
+            "s.arclk.net": "INACTIVE",
+            "sapato01.webtrekk.net": "INACTIVE"
+        },
+        "1573035254": {
+            "sa.scorecardresearch.com": "INACTIVE"
+        },
+        "1573035265": {
+            "sat.scoutanalytics.com": "INACTIVE"
+        },
+        "1573035271": {
+            "scambiobanner.altervista.org": "INACTIVE",
+            "scanwith.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035272": {
+            "schoorsteen.geenstijl.nl": "INACTIVE",
+            "schuelvz.ivwbox.de": "INACTIVE",
+            "schwab.demdex.net": "INACTIVE"
+        },
+        "1573035273": {
+            "s.clickability.com": "INACTIVE",
+            "scienceworldreport.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035275": {
+            "scout24.wemfbox.ch": "INACTIVE"
+        },
+        "1573035281": {
+            "scout.scoutanalytics.net": "INACTIVE",
+            "screensavers.us.intellitxt.com": "INACTIVE",
+            "scripps.demdex.net": "INACTIVE"
+        },
+        "1573035284": {
+            "script.idvert.cz": "INACTIVE"
+        },
+        "1573035285": {
+            "scripts.chitika.net": "INACTIVE",
+            "scripts.host.bannerflow.com": "INACTIVE"
+        },
+        "1573035292": {
+            "scripts.mofos.com": "INACTIVE"
+        },
+        "1573035301": {
+            "scripts.the-group.net": "INACTIVE"
+        },
+        "1573035307": {
+            "script.tailsweep.com": "INACTIVE",
+            "scs.webtrends.com": "INACTIVE"
+        },
+        "1573035315": {
+            "sdc2.sakura.ad.jp": "INACTIVE"
+        },
+        "1573035321": {
+            "sdc8prod1.wiley.com": "INACTIVE"
+        },
+        "1573035327": {
+            "sdc.acc.org": "INACTIVE"
+        },
+        "1573035328": {
+            "sdc.ca.com": "INACTIVE"
+        },
+        "1573035334": {
+            "sdc.caranddriver.com": "INACTIVE"
+        },
+        "1573035340": {
+            "sdc.dishnetwork.com": "INACTIVE"
+        },
+        "1573035346": {
+            "sdc.dn.no": "INACTIVE",
+            "sdcexecs.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035353": {
+            "sdc.flysas.com": "INACTIVE"
+        },
+        "1573035359": {
+            "sdc.livingchoices.com": "INACTIVE"
+        },
+        "1573035366": {
+            "sdc.mcafee.com": "INACTIVE"
+        },
+        "1573035372": {
+            "sdc.netiq.com": "INACTIVE"
+        },
+        "1573035378": {
+            "sdc.radio-canada.ca": "INACTIVE"
+        },
+        "1573035384": {
+            "sdc.rbistats.com": "INACTIVE"
+        },
+        "1573035391": {
+            "sdc.roadandtrack.com": "INACTIVE"
+        },
+        "1573035397": {
+            "sdc.sanofi-aventis.us": "INACTIVE"
+        },
+        "1573035404": {
+            "sdc.usps.com": "INACTIVE"
+        },
+        "1573035410": {
+            "sdc.vml.com": "INACTIVE"
+        },
+        "1573035416": {
+            "sdc.windowsmarketplace.com": "INACTIVE"
+        },
+        "1573035417": {
+            "se.adserver.yahoo.com": "INACTIVE"
+        },
+        "1573035424": {
+            "search.brainfox.com": "INACTIVE"
+        },
+        "1573035440": {
+            "search.clicksor.com": "INACTIVE"
+        },
+        "1573035446": {
+            "search.dmtracker.com": "INACTIVE"
+        },
+        "1573035447": {
+            "search.eclickz.com": "INACTIVE"
+        },
+        "1573035452": {
+            "sears.demdex.net": "INACTIVE"
+        },
+        "1573035453": {
+            "seb.scorecardresearch.com": "INACTIVE"
+        },
+        "1573035459": {
+            "secure3.marketengines.com": "INACTIVE"
+        },
+        "1573035465": {
+            "secure6.platinumbucks.com": "INACTIVE"
+        },
+        "1573035466": {
+            "secure.adwebster.com": "INACTIVE"
+        },
+        "1573035475": {
+            "secure.fhserve.com": "INACTIVE"
+        },
+        "1573035482": {
+            "secure.marketengines.com": "INACTIVE"
+        },
+        "1573035483": {
+            "secure.media6degrees.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE"
+        },
+        "1573035490": {
+            "secure.webconnect.net": "INACTIVE"
+        },
+        "1573035491": {
+            "secure.webresint.com": "INACTIVE"
+        },
+        "1573035494": {
+            "s.effectivemeasure.net": "INACTIVE",
+            "se.monetate.net": "INACTIVE"
+        },
+        "1573035496": {
+            "seomatrix.webtrackingservices.com": "INACTIVE"
+        },
+        "1573035500": {
+            "serv.clicksor.net": "INACTIVE"
+        },
+        "1573035501": {
+            "serve.adworldmedia.com": "INACTIVE",
+            "servedby.flashtalking.com": "INACTIVE"
+        },
+        "1573035502": {
+            "serve-east.acuityplatform.com": "INACTIVE",
+            "servedby.o2.co.uk": "INACTIVE"
+        },
+        "1573035509": {
+            "server1.beaconpush.com": "INACTIVE"
+        },
+        "1573035516": {
+            "server2.as5000.com": "INACTIVE"
+        },
+        "1573035523": {
+            "server.as5000.com": "INACTIVE"
+        },
+        "1573035532": {
+            "service1.predictad.com": "INACTIVE"
+        },
+        "1573035538": {
+            "service2.predictad.com": "INACTIVE"
+        },
+        "1573035545": {
+            "service.clicksvenue.com": "INACTIVE"
+        },
+        "1573035546": {
+            "service.persianstat.com": "INACTIVE"
+        },
+        "1573035548": {
+            "serving.adsrevenue.clicksor.net": "INACTIVE"
+        },
+        "1573035549": {
+            "serving.bepolite.eu": "INACTIVE"
+        },
+        "1573035565": {
+            "serw.clicksor.com": "INACTIVE"
+        },
+        "1573035568": {
+            "serw.myroitracking.com": "INACTIVE"
+        },
+        "1573035576": {
+            "sftp.clickability.com": "INACTIVE"
+        },
+        "1573035577": {
+            "sg.adserver.yahoo.com": "INACTIVE",
+            "shallownation.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035578": {
+            "sharecast.uk.intellitxt.com": "INACTIVE"
+        },
+        "1573035579": {
+            "sh.creativcdn.net": "INACTIVE",
+            "shebudgets.us.intellitxt.com": "INACTIVE",
+            "sheknows.us.intellitxt.com": "INACTIVE",
+            "shoutwire.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035586": {
+            "show.adclick.lv": "INACTIVE"
+        },
+        "1573035587": {
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1573035594": {
+            "siads.sv.publicus.com": "INACTIVE"
+        },
+        "1573035595": {
+            "sifomedia.aftonbladet.se": "INACTIVE",
+            "sifomedia.idg.se": "INACTIVE"
+        },
+        "1573035596": {
+            "siliconera.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035604": {
+            "siniature.com": "INACTIVE"
+        },
+        "1573035607": {
+            "site.falconbucks.com": "INACTIVE"
+        },
+        "1573035615": {
+            "sitestat.kpn-is.nl": "INACTIVE"
+        },
+        "1573035631": {
+            "site-stats.i8.com": "INACTIVE"
+        },
+        "1573035637": {
+            "sitestats.tiscali.co.uk": "INACTIVE"
+        },
+        "1573035638": {
+            "s.ivillage.us.intellitxt.com": "INACTIVE",
+            "si.wemfbox.ch": "INACTIVE"
+        },
+        "1573035641": {
+            "slashfilm.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035650": {
+            "smartabouthealth.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035658": {
+            "smartad.mercadolibre.com.ar": "INACTIVE"
+        },
+        "1573035666": {
+            "smartad.mercadolivre.com.br": "INACTIVE",
+            "smartcarfinder.us.intellitxt.com": "INACTIVE",
+            "smartdevicecentral.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035671": {
+            "s.mobclix.com": "INACTIVE"
+        },
+        "1573035677": {
+            "smp.adviva.net": "INACTIVE"
+        },
+        "1573035684": {
+            "smp.specificmedia.com": "INACTIVE"
+        },
+        "1573035685": {
+            "snwmedia.adk2x.com": "INACTIVE",
+            "soccergaming.us.intellitxt.com": "INACTIVE",
+            "socialanxietysupport.us.intellitxt.com": "INACTIVE",
+            "socialitelife.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035691": {
+            "sociallitelife.tags.crwdcntrl.net": "INACTIVE"
+        },
+        "1573035692": {
+            "sofa01.webtrekk.net": "INACTIVE",
+            "sofeminine.uk.intellitxt.com": "INACTIVE",
+            "soft32.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035693": {
+            "softonic.de.intellitxt.com": "INACTIVE",
+            "softpedia.uk.intellitxt.com": "INACTIVE",
+            "softpedia.us.intellitxt.com": "INACTIVE",
+            "sohh.us.intellitxt.com": "INACTIVE",
+            "soka-adserver.c1exchange.com": "INACTIVE"
+        },
+        "1573035700": {
+            "sony.tcliveus.com": "INACTIVE"
+        },
+        "1573035701": {
+            "space.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035708": {
+            "spd.atdmt.com": "INACTIVE"
+        },
+        "1573035715": {
+            "spd.atdmt.speedera.net": "INACTIVE",
+            "spe.atdmt.com": "INACTIVE"
+        },
+        "1573035728": {
+            "speedguide.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035734": {
+            "speed.pointroll.com": "INACTIVE",
+            "speedtv.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035741": {
+            "spi.domainsponsor.com": "INACTIVE"
+        },
+        "1573035742": {
+            "spiegel.met.vgwort.de": "INACTIVE"
+        },
+        "1573035748": {
+            "spinbox.versiontracker.com": "INACTIVE"
+        },
+        "1573035754": {
+            "spin.spinbox.net": "INACTIVE"
+        },
+        "1573035756": {
+            "splitter.ndsplitter.com": "INACTIVE",
+            "sponsoredlinks.nationalgeographic.com": "INACTIVE"
+        },
+        "1573035757": {
+            "sport1.wemfbox.ch": "INACTIVE"
+        },
+        "1573035759": {
+            "sportingnews.us.intellitxt.com": "INACTIVE",
+            "sportscarillustrated.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035760": {
+            "sports.ign.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035766": {
+            "sports.msnbc.us.intellitxt.com": "INACTIVE",
+            "sports.rightpundits.us.intellitxt.com": "INACTIVE",
+            "sportsillustrated.tags.crwdcntrl.net": "INACTIVE"
+        },
+        "1573035773": {
+            "s.pubmine.com": "INACTIVE",
+            "spravki-online.hit.bg": "INACTIVE",
+            "sprintusers.us.intellitxt.com": "INACTIVE"
+        },
+        "1573035774": {
+            "spx.owneriq.net": "INACTIVE"
+        },
+        "1573035775": {
+            "sqlservercentral.us.intellitxt.com": "INACTIVE",
+            "squarefootball.uk.intellitxt.com": "INACTIVE"
+        },
+        "1573035782": {
+            "srch.atdmt.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
