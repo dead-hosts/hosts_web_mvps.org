@@ -990,7 +990,7 @@
         "state": "future"
     },
     "buylicensekey.com": {
-        "epoch": 1603152000,
+        "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
@@ -1000,7 +1000,7 @@
         "state": "future"
     },
     "byet.org": {
-        "epoch": "1584835200",
+        "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
         "state": "future"
     },
@@ -1070,7 +1070,7 @@
         "state": "future"
     },
     "ckstatic.com": {
-        "epoch": "1620000000",
+        "epoch": 1620000000.0,
         "expiration_date": "03-may-2021",
         "state": "future"
     },
@@ -1080,7 +1080,7 @@
         "state": "future"
     },
     "clevernt.com": {
-        "epoch": 1592784000,
+        "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
@@ -1195,7 +1195,7 @@
         "state": "future"
     },
     "collectiveads.net": {
-        "epoch": "1624406400",
+        "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
         "state": "future"
     },
@@ -1215,7 +1215,7 @@
         "state": "future"
     },
     "connectionzone.com": {
-        "epoch": "1574985600",
+        "epoch": 1574985600.0,
         "expiration_date": "29-nov-2019",
         "state": "future"
     },
@@ -1295,27 +1295,27 @@
         "state": "future"
     },
     "cybertown.ru": {
-        "epoch": 1595462400,
+        "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "daylogs.com": {
-        "epoch": "1581206400",
+        "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
     "de17a.com": {
-        "epoch": "1581811200",
+        "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "demdex.net": {
-        "epoch": 1597190400,
+        "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
     "deostr.com": {
-        "epoch": 1590883200,
+        "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
         "state": "future"
     },
@@ -1335,7 +1335,7 @@
         "state": "future"
     },
     "disqusads.com": {
-        "epoch": "1576454400",
+        "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
         "state": "future"
     },
@@ -1470,7 +1470,7 @@
         "state": "future"
     },
     "eisenstein.dk": {
-        "epoch": "1585612800",
+        "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
@@ -1485,7 +1485,7 @@
         "state": "future"
     },
     "email-reflex.com": {
-        "epoch": "1579996800",
+        "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
