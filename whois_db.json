@@ -1505,7 +1505,7 @@
         "state": "future"
     },
     "epmads.com": {
-        "epoch": 1602547200,
+        "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
         "state": "future"
     },
@@ -1535,12 +1535,12 @@
         "state": "future"
     },
     "expired-targeted.com": {
-        "epoch": 1661126400,
+        "epoch": 1661126400.0,
         "expiration_date": "22-aug-2022",
         "state": "future"
     },
     "expo-max.com": {
-        "epoch": "1585699200",
+        "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
         "state": "future"
     },
@@ -1560,7 +1560,7 @@
         "state": "future"
     },
     "fastclick.co": {
-        "epoch": 1601942400,
+        "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
         "state": "future"
     },
@@ -1575,7 +1575,7 @@
         "state": "future"
     },
     "fastonlineusers.com": {
-        "epoch": 1591056000,
+        "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
         "state": "future"
     },
