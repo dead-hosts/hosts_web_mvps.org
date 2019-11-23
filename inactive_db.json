@@ -1,136 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1573123458": {
-            "ac.ybinst0.ec.yimg.com": "INACTIVE"
-        },
-        "1573123459": {
-            "ac.ybinst1.ec.yimg.com": "INACTIVE",
-            "ac.ybinst2.ec.yimg.com": "INACTIVE",
-            "ac.ybinst3.ec.yimg.com": "INACTIVE",
-            "ac.ybinst4.ec.yimg.com": "INACTIVE",
-            "ac.ybinst5.ec.yimg.com": "INACTIVE"
-        },
-        "1573123460": {
-            "ac.ybinst6.ec.yimg.com": "INACTIVE",
-            "ac.ybinst7.ec.yimg.com": "INACTIVE"
-        },
-        "1573123461": {
-            "ac.ybinst8.ec.yimg.com": "INACTIVE",
-            "ac.ybinst9.ec.yimg.com": "INACTIVE"
-        },
-        "1573127584": {
-            "ads.adonion.com": "INACTIVE"
-        },
-        "1573127814": {
-            "ads.clicksor.com": "INACTIVE"
-        },
-        "1573136601": {
-            "an.yandex.ru": "INACTIVE"
-        },
-        "1573138990": {
-            "beap.adx.yahoo.com": "INACTIVE"
-        },
-        "1573139203": {
-            "bs-meta.yandex.ru": "INACTIVE",
-            "bs.yandex.ru": "INACTIVE"
-        },
-        "1573141112": {
-            "clicks.beap.ad.yieldmanager.net": "INACTIVE"
-        },
-        "1573142937": {
-            "csc.beap.ad.yieldmanager.net": "INACTIVE"
-        },
-        "1573145232": {
-            "gw.zedo.com": "INACTIVE"
-        },
-        "1573147270": {
-            "l1.zedo.com": "INACTIVE",
-            "l2.zedo.com": "INACTIVE"
-        },
-        "1573147271": {
-            "l3.zedo.com": "INACTIVE",
-            "l4.zedo.com": "INACTIVE",
-            "l5.zedo.com": "INACTIVE"
-        },
-        "1573147272": {
-            "l6.zedo.com": "INACTIVE",
-            "l8.zedo.com": "INACTIVE"
-        },
-        "1573149078": {
-            "main.clicksor.com": "INACTIVE"
-        },
-        "1573149125": {
-            "mci12.clicksor.com": "INACTIVE"
-        },
-        "1573149289": {
-            "mp.clicksor.net": "INACTIVE"
-        },
-        "1573149324": {
-            "mx.adserver.yahoo.com": "INACTIVE"
-        },
-        "1573149328": {
-            "myad.clicksor.net": "INACTIVE"
-        },
-        "1573151156": {
-            "open.ad.yieldmanager.net": "INACTIVE"
-        },
-        "1573153214": {
-            "pub.clicksor.net": "INACTIVE"
-        },
-        "1573154847": {
-            "search.clicksor.com": "INACTIVE"
-        },
-        "1573154909": {
-            "serv.clicksor.net": "INACTIVE"
-        },
-        "1573154958": {
-            "serving.adsrevenue.clicksor.net": "INACTIVE"
-        },
-        "1573154976": {
-            "serw.clicksor.com": "INACTIVE"
-        },
-        "1573154979": {
-            "serw.myroitracking.com": "INACTIVE"
-        },
-        "1573156772": {
-            "ss1.zedo.com": "INACTIVE"
-        },
-        "1573158793": {
-            "tr1.myroitracking.com": "INACTIVE"
-        },
-        "1573158821": {
-            "track.clicksor.com": "INACTIVE"
-        },
-        "1573158994": {
-            "track.visitorpath.com": "INACTIVE"
-        },
-        "1573160819": {
-            "www.adinterax.com": "INACTIVE"
-        },
-        "1573162363": {
-            "www.clicksor.com": "INACTIVE"
-        },
-        "1573162750": {
-            "www.myroitracking.com": "INACTIVE"
-        },
-        "1573176033": {
-            "ybinst0.ec.yimg.com": "INACTIVE",
-            "ybinst1.ec.yimg.com": "INACTIVE"
-        },
-        "1573176034": {
-            "ybinst2.ec.yimg.com": "INACTIVE",
-            "ybinst3.ec.yimg.com": "INACTIVE",
-            "ybinst4.ec.yimg.com": "INACTIVE",
-            "ybinst5.ec.yimg.com": "INACTIVE",
-            "ybinst6.ec.yimg.com": "INACTIVE"
-        },
-        "1573176035": {
-            "ybinst7.ec.yimg.com": "INACTIVE",
-            "ybinst8.ec.yimg.com": "INACTIVE"
-        },
-        "1573176036": {
-            "ybinst9.ec.yimg.com": "INACTIVE"
-        },
         "1574491895": {
             "adserver.abv.bg": "INACTIVE",
             "ca.abv.bg": "INACTIVE",
@@ -1792,6 +1661,28 @@
             "web1.realtracker.com": "INACTIVE",
             "web2.realtracker.com": "INACTIVE",
             "www.realtracker.com": "INACTIVE"
+        },
+        "1574510672": {
+            "clicks.beap.ad.yieldmanager.net": "INACTIVE",
+            "csc.beap.ad.yieldmanager.net": "INACTIVE"
+        },
+        "1574510673": {
+            "ads.adonion.com": "INACTIVE",
+            "ads.clicksor.com": "INACTIVE",
+            "main.clicksor.com": "INACTIVE",
+            "mci12.clicksor.com": "INACTIVE",
+            "mp.clicksor.net": "INACTIVE",
+            "search.clicksor.com": "INACTIVE",
+            "serw.clicksor.com": "INACTIVE",
+            "serw.myroitracking.com": "INACTIVE",
+            "tr1.myroitracking.com": "INACTIVE",
+            "track.clicksor.com": "INACTIVE",
+            "track.visitorpath.com": "INACTIVE",
+            "www.clicksor.com": "INACTIVE",
+            "www.myroitracking.com": "INACTIVE"
+        },
+        "1574510674": {
+            "gw.zedo.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {

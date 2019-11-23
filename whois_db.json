@@ -320,7 +320,7 @@
         "state": "future"
     },
     "adinterax.com": {
-        "epoch": "1579737600",
+        "epoch": 1579737600.0,
         "expiration_date": "23-jan-2020",
         "state": "future"
     },
@@ -1120,7 +1120,7 @@
         "state": "future"
     },
     "clicksor.com": {
-        "epoch": "1580083200",
+        "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
         "state": "future"
     },
@@ -2430,7 +2430,7 @@
         "state": "future"
     },
     "multipops.com": {
-        "epoch": 1596240000,
+        "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
