@@ -385,7 +385,7 @@
         "state": "future"
     },
     "adrazzi.com": {
-        "epoch": 1592697600,
+        "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
         "state": "future"
     },
@@ -685,7 +685,7 @@
         "state": "future"
     },
     "alfatraffic.com": {
-        "epoch": "1579219200",
+        "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
         "state": "future"
     },
@@ -785,7 +785,7 @@
         "state": "future"
     },
     "avidtrak.com": {
-        "epoch": 1629849600,
+        "epoch": 1629849600.0,
         "expiration_date": "25-aug-2021",
         "state": "future"
     },
@@ -825,7 +825,7 @@
         "state": "future"
     },
     "barilliance.net": {
-        "epoch": "1674172800",
+        "epoch": 1674172800.0,
         "expiration_date": "20-jan-2023",
         "state": "future"
     },
@@ -900,7 +900,7 @@
         "state": "future"
     },
     "blobar.org": {
-        "epoch": 1603411200,
+        "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
         "state": "future"
     },
@@ -1040,7 +1040,7 @@
         "state": "future"
     },
     "cd-ads.com": {
-        "epoch": 1602892800,
+        "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
@@ -1200,12 +1200,12 @@
         "state": "future"
     },
     "com.com": {
-        "epoch": "1681430400",
+        "epoch": 1681430400.0,
         "expiration_date": "14-apr-2023",
         "state": "future"
     },
     "connatix.com": {
-        "epoch": 1604620800,
+        "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
@@ -1565,7 +1565,7 @@
         "state": "future"
     },
     "fastdownload10.com": {
-        "epoch": 1590796800,
+        "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
         "state": "future"
     },
@@ -1850,7 +1850,7 @@
         "state": "future"
     },
     "heapanalytics.com": {
-        "epoch": 1599868800,
+        "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
@@ -2135,7 +2135,7 @@
         "state": "future"
     },
     "jwpltx.com": {
-        "epoch": 1597363200,
+        "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
         "state": "future"
     },
@@ -2220,7 +2220,7 @@
         "state": "future"
     },
     "lionstracking.com": {
-        "epoch": "1585353600",
+        "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
@@ -2310,7 +2310,7 @@
         "state": "future"
     },
     "media-match.com": {
-        "epoch": 1600992000,
+        "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
@@ -2375,12 +2375,12 @@
         "state": "future"
     },
     "mnet-ad.net": {
-        "epoch": "1579651200",
+        "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
     "morehitserver.com": {
-        "epoch": 1597795200,
+        "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
@@ -2785,7 +2785,7 @@
         "state": "future"
     },
     "pixel.watch": {
-        "epoch": 1600387200,
+        "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
@@ -2795,8 +2795,8 @@
         "state": "future"
     },
     "pkpojhc.com": {
-        "epoch": "1574121600",
-        "expiration_date": "19-nov-2019",
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "pointroll.com": {
@@ -2990,7 +2990,7 @@
         "state": "future"
     },
     "rb-net.com": {
-        "epoch": "1585353600",
+        "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
@@ -3110,7 +3110,7 @@
         "state": "future"
     },
     "rivasearchpage.com": {
-        "epoch": 1591920000,
+        "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
@@ -3220,7 +3220,7 @@
         "state": "future"
     },
     "secureredirect101.com": {
-        "epoch": 1601251200,
+        "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
         "state": "future"
     },
@@ -3315,7 +3315,7 @@
         "state": "future"
     },
     "smaato.net": {
-        "epoch": 1589587200,
+        "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
     },
@@ -3330,7 +3330,7 @@
         "state": "future"
     },
     "socialspark.com": {
-        "epoch": 1604016000,
+        "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
@@ -3415,7 +3415,7 @@
         "state": "future"
     },
     "streamate.com": {
-        "epoch": 1592352000,
+        "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
@@ -3470,7 +3470,7 @@
         "state": "future"
     },
     "teens24h.com": {
-        "epoch": "1577059200",
+        "epoch": 1577059200.0,
         "expiration_date": "23-dec-2019",
         "state": "future"
     },
@@ -3505,7 +3505,7 @@
         "state": "future"
     },
     "thelocalsearchnetwork.com": {
-        "epoch": 1593475200,
+        "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
         "state": "future"
     },
@@ -3590,7 +3590,7 @@
         "state": "future"
     },
     "trackcmp.net": {
-        "epoch": 1627689600,
+        "epoch": 1627689600.0,
         "expiration_date": "31-jul-2021",
         "state": "future"
     },
@@ -3655,7 +3655,7 @@
         "state": "future"
     },
     "trkmydomain.com": {
-        "epoch": "1588118400",
+        "epoch": 1588118400.0,
         "expiration_date": "29-apr-2020",
         "state": "future"
     },
@@ -3770,7 +3770,7 @@
         "state": "future"
     },
     "videe.tv": {
-        "epoch": 1602892800,
+        "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
