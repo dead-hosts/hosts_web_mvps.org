@@ -50,8 +50,8 @@
         "state": "future"
     },
     "1empiredirect.com": {
-        "epoch": "1573430400",
-        "expiration_date": "11-nov-2019",
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
         "state": "future"
     },
     "1phads.com": {
@@ -235,7 +235,7 @@
         "state": "future"
     },
     "adedy.com": {
-        "epoch": 1595203200,
+        "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
@@ -325,7 +325,7 @@
         "state": "future"
     },
     "adklip.com": {
-        "epoch": 1601078400,
+        "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
@@ -750,7 +750,7 @@
         "state": "future"
     },
     "ariboo.com": {
-        "epoch": "1586736000",
+        "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
@@ -880,7 +880,7 @@
         "state": "future"
     },
     "bidclix.net": {
-        "epoch": "1587254400",
+        "epoch": 1587254400.0,
         "expiration_date": "19-apr-2020",
         "state": "future"
     },
@@ -960,7 +960,7 @@
         "state": "future"
     },
     "broadspring.com": {
-        "epoch": "1646179200",
+        "epoch": 1646179200.0,
         "expiration_date": "02-mar-2022",
         "state": "future"
     },
@@ -1055,7 +1055,7 @@
         "state": "future"
     },
     "cetrk.com": {
-        "epoch": "1578441600",
+        "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
         "state": "future"
     },
@@ -1275,7 +1275,7 @@
         "state": "future"
     },
     "crazyegg.com": {
-        "epoch": "1608336000",
+        "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
         "state": "future"
     },
@@ -1465,7 +1465,7 @@
         "state": "future"
     },
     "edmedsnow.com": {
-        "epoch": "1579910400",
+        "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
@@ -1475,7 +1475,7 @@
         "state": "future"
     },
     "ekmas.com": {
-        "epoch": 1591747200,
+        "epoch": 1591747200.0,
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
@@ -1520,7 +1520,7 @@
         "state": "future"
     },
     "estat.com": {
-        "epoch": "1578960000",
+        "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
@@ -1610,7 +1610,7 @@
         "state": "future"
     },
     "flashadtools.com": {
-        "epoch": 1594080000,
+        "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
@@ -1735,12 +1735,12 @@
         "state": "future"
     },
     "gen2server.com": {
-        "epoch": "1585872000",
+        "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
         "state": "future"
     },
     "geoaddicted.net": {
-        "epoch": 1604534400,
+        "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
         "state": "future"
     },
@@ -1760,9 +1760,9 @@
         "state": "future"
     },
     "getmailcounter.com": {
-        "epoch": "1574467200",
+        "epoch": 1574467200.0,
         "expiration_date": "23-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "getrank.net": {
         "epoch": 1597104000.0,
@@ -1795,7 +1795,7 @@
         "state": "future"
     },
     "goclick.com": {
-        "epoch": "1612656000",
+        "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
@@ -2160,7 +2160,7 @@
         "state": "future"
     },
     "kvors.com": {
-        "epoch": 1592006400,
+        "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
@@ -2225,12 +2225,12 @@
         "state": "future"
     },
     "list.ru": {
-        "epoch": 1596240000,
+        "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
     "lo2.me": {
-        "epoch": 1604016000,
+        "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
@@ -2265,12 +2265,12 @@
         "state": "future"
     },
     "madserver.net": {
-        "epoch": 1595808000,
+        "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "marketgid.com": {
-        "epoch": "1607644800",
+        "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
         "state": "future"
     },
@@ -2305,8 +2305,8 @@
         "state": "future"
     },
     "mdnhinc.com": {
-        "epoch": "1574035200",
-        "expiration_date": "18-nov-2019",
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
         "state": "future"
     },
     "media-match.com": {
@@ -2460,17 +2460,17 @@
         "state": "future"
     },
     "mysearchweb.net": {
-        "epoch": 1597104000,
+        "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "mytraf.info": {
-        "epoch": "1576195200",
+        "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "mytraf.ru": {
-        "epoch": "1586736000",
+        "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
         "state": "future"
     },
@@ -2500,7 +2500,7 @@
         "state": "future"
     },
     "nbjmp.com": {
-        "epoch": "1575158400",
+        "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
         "state": "future"
     },
@@ -2515,7 +2515,7 @@
         "state": "future"
     },
     "nedstat.net": {
-        "epoch": 1591142400,
+        "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
@@ -2580,7 +2580,7 @@
         "state": "future"
     },
     "ocxxx.com": {
-        "epoch": 1590019200,
+        "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
         "state": "future"
     },
@@ -2745,7 +2745,7 @@
         "state": "future"
     },
     "pepipo.com": {
-        "epoch": 1600128000,
+        "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
@@ -2900,7 +2900,7 @@
         "state": "future"
     },
     "protizer.ru": {
-        "epoch": 1595894400,
+        "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
         "state": "future"
     },
@@ -3010,7 +3010,7 @@
         "state": "future"
     },
     "realtimeads.com": {
-        "epoch": 1591920000,
+        "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
@@ -3040,12 +3040,12 @@
         "state": "future"
     },
     "redroomnetwork.com": {
-        "epoch": "1597708800",
+        "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
     "redshell.io": {
-        "epoch": "1585267200",
+        "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
@@ -3295,7 +3295,7 @@
         "state": "future"
     },
     "sitestat.com": {
-        "epoch": 1594684800,
+        "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
@@ -3345,8 +3345,8 @@
         "state": "future"
     },
     "spamnuker.com": {
-        "epoch": "1573948800",
-        "expiration_date": "17-nov-2019",
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
         "state": "future"
     },
     "specificmedia.com": {
@@ -3370,12 +3370,12 @@
         "state": "future"
     },
     "spylog.com": {
-        "epoch": 1634256000,
+        "epoch": 1634256000.0,
         "expiration_date": "15-oct-2021",
         "state": "future"
     },
     "spylog.ru": {
-        "epoch": "1575244800",
+        "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
         "state": "future"
     },
@@ -3425,7 +3425,7 @@
         "state": "future"
     },
     "sureads.com": {
-        "epoch": "1581033600",
+        "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
@@ -3790,7 +3790,7 @@
         "state": "future"
     },
     "vmn.net": {
-        "epoch": "1581206400",
+        "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
