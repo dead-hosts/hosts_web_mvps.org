@@ -75,7 +75,7 @@
         "state": "future"
     },
     "2o7.net": {
-        "epoch": 1601337600,
+        "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
@@ -350,7 +350,7 @@
         "state": "future"
     },
     "admez.com": {
-        "epoch": "1583107200",
+        "epoch": 1583107200.0,
         "expiration_date": "02-mar-2020",
         "state": "future"
     },
@@ -715,7 +715,7 @@
         "state": "past"
     },
     "andr.net": {
-        "epoch": "1575676800",
+        "epoch": 1575676800.0,
         "expiration_date": "07-dec-2019",
         "state": "future"
     },
@@ -2385,7 +2385,7 @@
         "state": "future"
     },
     "mouads.com": {
-        "epoch": 1600646400,
+        "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
         "state": "future"
     },
@@ -3265,7 +3265,7 @@
         "state": "future"
     },
     "shareasale.com": {
-        "epoch": "1579910400",
+        "epoch": 1579910400.0,
         "expiration_date": "25-jan-2020",
         "state": "future"
     },
