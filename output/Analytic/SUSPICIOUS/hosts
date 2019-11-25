@@ -3,6 +3,7 @@
 
 0.0.0.0 m.fr.a2dfp.net
 0.0.0.0 adserver.abv.bg
+0.0.0.0 192.168.112.2o7.net
 0.0.0.0 33video.33universal.com
 0.0.0.0 a1.admaster.net
 0.0.0.0 a.ads99.cn
@@ -90,6 +91,7 @@
 0.0.0.0 ads.bta.bg
 0.0.0.0 ads.businessclick.pl
 0.0.0.0 ads.china.com
+0.0.0.0 ads-colruytgroup.adhese.com
 0.0.0.0 ads.contactmusic.com
 0.0.0.0 ads.cpxcenter.com
 0.0.0.0 ads.dada.it
@@ -137,6 +139,7 @@
 0.0.0.0 ads.mobilemarketer.com
 0.0.0.0 ads.mylikes.com
 0.0.0.0 ads.netinfo.bg
+0.0.0.0 ads.neudesicmediagroup.com
 0.0.0.0 ads.newsint.co.uk
 0.0.0.0 ads.ninemsn.com.au
 0.0.0.0 ads.nordichardware.com
@@ -162,6 +165,7 @@
 0.0.0.0 ads.vipcams.com
 0.0.0.0 ads.vjaffiliates.com
 0.0.0.0 ads.vkushti.tv
+0.0.0.0 ads.webcamclub.com
 0.0.0.0 ads.wineenthusiast.com
 0.0.0.0 ads.worddictionary.co.uk
 0.0.0.0 ads.worthplaying.com
@@ -248,6 +252,7 @@
 0.0.0.0 b.economedia.bg
 0.0.0.0 bestoffers.activeshopper.com
 0.0.0.0 beta.newopenx.detik.com
+0.0.0.0 bid.openx.net
 0.0.0.0 block.sw1block.com
 0.0.0.0 bluhostedbanners.blucigs.com
 0.0.0.0 bms.sportal.ru
@@ -319,6 +324,7 @@
 0.0.0.0 delfiee.adocean.pl
 0.0.0.0 delfilv.adocean.pl
 0.0.0.0 delivery.first-impression.com
+0.0.0.0 delivery-us-central-1.openx.net
 0.0.0.0 demr.myspace.com
 0.0.0.0 detik.serving-sys.com
 0.0.0.0 dev.doublepimp.com
@@ -360,6 +366,8 @@
 0.0.0.0 folkd.put.omnimon.de
 0.0.0.0 gbjfc.rsvpgenius.com
 0.0.0.0 gdyn.cnn.com
+0.0.0.0 geoip.edagames.com
+0.0.0.0 geo.offermatica.com
 0.0.0.0 gk.rts.sparkstudios.com
 0.0.0.0 glean.pop6.com
 0.0.0.0 goldbye.vicp.net
@@ -370,6 +378,7 @@
 0.0.0.0 hitlog2.chosun.com
 0.0.0.0 hits.e.cl
 0.0.0.0 hits.icdirect.com
+0.0.0.0 h.spill.com
 0.0.0.0 id.kbmg.cz
 0.0.0.0 iframes.prettyincash.com
 0.0.0.0 ihm01.ct2.comclick.com
@@ -379,6 +388,7 @@
 0.0.0.0 images.brainfox.com
 0.0.0.0 images.cnomy.com
 0.0.0.0 images.cybereps.com
+0.0.0.0 images.domainsponsor.com
 0.0.0.0 images.parked.com
 0.0.0.0 images-pw.secureserver.net
 0.0.0.0 img.2leva.bg
@@ -409,6 +419,7 @@
 0.0.0.0 main.rampidads.com
 0.0.0.0 map2.adsniper.ru
 0.0.0.0 mau.sextracker.com
+0.0.0.0 mdjacksonville.112.2o7.net
 0.0.0.0 media2.travelzoo.com
 0.0.0.0 media.b.lead.program3.com
 0.0.0.0 media.brandreachsys.com
@@ -416,6 +427,7 @@
 0.0.0.0 media.exchange.bg
 0.0.0.0 media.lead.program3.com
 0.0.0.0 meta.7search.com
+0.0.0.0 metrics.homebase.co.uk
 0.0.0.0 mini.activeshopper.com
 0.0.0.0 mirrorsearch.speedbit.com
 0.0.0.0 mobile.activeshopper.com
@@ -442,6 +454,7 @@
 0.0.0.0 optimize.indieclick.com
 0.0.0.0 ortc-ws2-useast1-s0005.realtime.co
 0.0.0.0 ox.dateland.co.il
+0.0.0.0 ox-d.popmatters.com
 0.0.0.0 ox.e-card.bg
 0.0.0.0 ox.hoosiertimes.com
 0.0.0.0 ox.pigu.lt
@@ -450,6 +463,8 @@
 0.0.0.0 payload.yieldbuild.com
 0.0.0.0 pcash.globalmailer5.com
 0.0.0.0 pcash.wildmatch.com
+0.0.0.0 pebble-adhese.gva.be
+0.0.0.0 pebble-adhese.hbvl.be
 0.0.0.0 p.ebdr2.com
 0.0.0.0 pei-ads.playboy.com
 0.0.0.0 pei-ads.thesmokingjacket.com
@@ -460,10 +475,12 @@
 0.0.0.0 pixel.pcworld.com
 0.0.0.0 pollserver.interpolls.com
 0.0.0.0 pool.adhese.be
+0.0.0.0 pool-colruytgroup.adhese.com
 0.0.0.0 popup.msn.com
 0.0.0.0 ppc-parked.domainsite.com
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 pr.20min.es
+0.0.0.0 prod-d.openx.com
 0.0.0.0 promos.naked.com
 0.0.0.0 promotools.globalmailer.com
 0.0.0.0 ps2.interpolls.com
@@ -512,6 +529,7 @@
 0.0.0.0 sdc8prod1.wiley.com
 0.0.0.0 search.brainfox.com
 0.0.0.0 search.dmtracker.com
+0.0.0.0 searskmartcom.112.2o7.net
 0.0.0.0 secure6.platinumbucks.com
 0.0.0.0 server1.beaconpush.com
 0.0.0.0 server2.as5000.com
@@ -522,6 +540,7 @@
 0.0.0.0 sitestat.kpn-is.nl
 0.0.0.0 sociallitelife.tags.crwdcntrl.net
 0.0.0.0 sony.tcliveus.com
+0.0.0.0 spi.domainsponsor.com
 0.0.0.0 spinbox.versiontracker.com
 0.0.0.0 spin.spinbox.net
 0.0.0.0 splitter.ndsplitter.com
@@ -545,6 +564,7 @@
 0.0.0.0 stats.agent.co.il
 0.0.0.0 stats.agentinteractive.com
 0.0.0.0 stats.directnic.com
+0.0.0.0 stats.esomniture.com
 0.0.0.0 stats.hosting24.com
 0.0.0.0 stats.inist.fr
 0.0.0.0 stats.media.onet.pl
@@ -558,6 +578,7 @@
 0.0.0.0 stg.widget.crowdignite.com
 0.0.0.0 storage.adsolutions.nl
 0.0.0.0 sw.interpolls.com
+0.0.0.0 switch.d-agency.net
 0.0.0.0 switch.rtbsystem.com
 0.0.0.0 sync2.adsniper.ru
 0.0.0.0 sync.rhythmxchange.com
@@ -590,6 +611,7 @@
 0.0.0.0 truehits3.gits.net.th
 0.0.0.0 uk.activeshopper.com
 0.0.0.0 upload.luckyorange.net
+0.0.0.0 user-sync.adhese.com
 0.0.0.0 v2.adgoto.com
 0.0.0.0 v5.chinoc.net
 0.0.0.0 v.bsvideos.com
@@ -656,6 +678,7 @@
 0.0.0.0 www.cpays.com
 0.0.0.0 www.cybereps.com
 0.0.0.0 www.deepmetrix.com
+0.0.0.0 www.efficienttraffic.com
 0.0.0.0 www.etraffic.com
 0.0.0.0 www.exit-ad.de
 0.0.0.0 www.experclick.com
