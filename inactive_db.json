@@ -1,168 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1574502433": {
-            "ads.adone.com": "INACTIVE",
-            "cache.ad-serverparc.nl": "INACTIVE",
-            "cluster.ad-serverparc.nl": "INACTIVE",
-            "www.adcode.ws": "INACTIVE"
-        },
-        "1574502434": {
-            "ad.wingads.com": "INACTIVE",
-            "ads.itmcash.com": "INACTIVE",
-            "adv.rockstar.bg": "INACTIVE",
-            "media.b.lead.program3.com": "INACTIVE",
-            "nbc.interpolls.com": "INACTIVE",
-            "openx.iamexpat.nl": "INACTIVE",
-            "pollserver.interpolls.com": "INACTIVE",
-            "ps.interpolls.com": "INACTIVE",
-            "ps2.interpolls.com": "INACTIVE"
-        },
-        "1574502435": {
-            "exityield.advertise.com": "INACTIVE",
-            "sw.interpolls.com": "INACTIVE",
-            "wb.interpolls.com": "INACTIVE",
-            "www.clickmanage.com": "INACTIVE",
-            "www.primosearch.com": "INACTIVE"
-        },
-        "1574502436": {
-            "ads2.vortexmediagroup.com": "INACTIVE",
-            "adserver2.blueadvertise.com": "INACTIVE",
-            "cbpublishing.blueadvertise.com": "INACTIVE",
-            "cdxninteractive.blueadvertise.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE",
-            "creditburner.blueadvertise.com": "INACTIVE",
-            "my.blueadvertise.com": "INACTIVE",
-            "ox.fashion.bg": "INACTIVE"
-        },
-        "1574502437": {
-            "adds.misiamoiatdom.com": "INACTIVE",
-            "o.ibg.bg": "INACTIVE",
-            "pcash.globalmailer5.com": "INACTIVE",
-            "r01.ibg.bg": "INACTIVE",
-            "stat.ganbox.com": "INACTIVE",
-            "track.make-a-site.net": "INACTIVE"
-        },
-        "1574503784": {
-            "ag.tags.crwdcntrl.net": "INACTIVE",
-            "bb.crwdcntrl.net": "INACTIVE",
-            "celebslam.tags.crwdcntrl.net": "INACTIVE",
-            "cnnmoney.tags.crwdcntrl.net": "INACTIVE",
-            "livejournal.tags.crwdcntrl.net": "INACTIVE",
-            "nbcu.tags.crwdcntrl.net": "INACTIVE",
-            "pcash.wildmatch.com": "INACTIVE",
-            "sociallitelife.tags.crwdcntrl.net": "INACTIVE",
-            "sportsillustrated.tags.crwdcntrl.net": "INACTIVE"
-        },
-        "1574503785": {
-            "234x120.adv.vz.ru": "INACTIVE",
-            "advert.rare.ru": "INACTIVE",
-            "c.mdnhinc.com": "INACTIVE",
-            "cb.mdnhinc.com": "INACTIVE",
-            "title.mximg.com": "INACTIVE",
-            "videogum.tags.crwdcntrl.net": "INACTIVE",
-            "wwtdd.tags.crwdcntrl.net": "INACTIVE",
-            "www.hypercounter.com": "INACTIVE",
-            "yardbarker.tags.crwdcntrl.net": "INACTIVE"
-        },
-        "1574503786": {
-            "collector.deepmetrix.com": "INACTIVE",
-            "digg.analytics.live.com": "INACTIVE",
-            "popup.msn.com": "INACTIVE",
-            "tracking.bannerflow.com": "INACTIVE",
-            "www.deepmetrix.com": "INACTIVE"
-        },
-        "1574503787": {
-            "ads.oxymoronent.com": "INACTIVE",
-            "creative.nscash.com": "INACTIVE",
-            "dev.trafficforce.com": "INACTIVE",
-            "ecess1.cdn.continent8.com": "INACTIVE",
-            "one.cam4ads.com": "INACTIVE",
-            "secure6.platinumbucks.com": "INACTIVE",
-            "www.99stats.com": "INACTIVE"
-        },
-        "1574503788": {
-            "ads.eqads.com": "INACTIVE",
-            "analytics.stg.springboardvideo.com": "INACTIVE",
-            "e-ads.eqads.com": "INACTIVE",
-            "schoorsteen.geenstijl.nl": "INACTIVE",
-            "sony.tcliveus.com": "INACTIVE",
-            "stats.xxxrewards.com": "INACTIVE",
-            "www.coolfreehost.com": "INACTIVE"
-        },
-        "1574503789": {
-            "ad1.speedbit.com": "INACTIVE",
-            "ad10.speedbit.com": "INACTIVE",
-            "ad2.speedbit.com": "INACTIVE",
-            "ad3.speedbit.com": "INACTIVE",
-            "ad4.speedbit.com": "INACTIVE",
-            "ad5.speedbit.com": "INACTIVE",
-            "ad6.speedbit.com": "INACTIVE",
-            "ad7.speedbit.com": "INACTIVE",
-            "ad8.speedbit.com": "INACTIVE",
-            "ad9.speedbit.com": "INACTIVE",
-            "ads.bg-mamma.com": "INACTIVE",
-            "ads.downloadaccelerator.com": "INACTIVE",
-            "ads1.speedbit.com": "INACTIVE",
-            "affiliate.bfashion.com": "INACTIVE",
-            "be.nedstat.net": "INACTIVE",
-            "es.nedstat.net": "INACTIVE",
-            "nedstat.nl": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE",
-            "www.nedstat.co.uk": "INACTIVE",
-            "www.nedstat.com": "INACTIVE",
-            "www.nedstat.nl": "INACTIVE",
-            "www.sitestat.com": "INACTIVE"
-        },
-        "1574503790": {
-            "adnet.asahi.com": "INACTIVE",
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.bangkokpost.co.th": "INACTIVE",
-            "ads.globescale.com": "INACTIVE",
-            "ads10.speedbit.com": "INACTIVE",
-            "ads2.speedbit.com": "INACTIVE",
-            "ads3.speedbit.com": "INACTIVE",
-            "ads4.speedbit.com": "INACTIVE",
-            "ads5.speedbit.com": "INACTIVE",
-            "ads6.speedbit.com": "INACTIVE",
-            "ads7.speedbit.com": "INACTIVE",
-            "ads8.speedbit.com": "INACTIVE",
-            "ads9.speedbit.com": "INACTIVE",
-            "cursor.kvada.globescale.com": "INACTIVE",
-            "mirrorsearch.speedbit.com": "INACTIVE",
-            "stats.netsolads.com": "INACTIVE"
-        },
-        "1574504931": {
-            "adtrack.cimedia.net": "INACTIVE",
-            "as1.casinocity.com": "INACTIVE",
-            "klipmart.forbes.com": "INACTIVE",
-            "realaudio.cimedia.net": "INACTIVE",
-            "webtrends.randallpub.com": "INACTIVE"
-        },
-        "1574504932": {
-            "ad.digitimes.com.tw": "INACTIVE",
-            "ad.reachppc.com": "INACTIVE",
-            "ads.identads.com": "INACTIVE",
-            "ads.mediatwo.com": "INACTIVE",
-            "bestoffers.activeshopper.com": "INACTIVE",
-            "e-zshopper.activeshopper.com": "INACTIVE",
-            "mini.activeshopper.com": "INACTIVE",
-            "mobile.activeshopper.com": "INACTIVE",
-            "stats.ventivmedia.com": "INACTIVE",
-            "uk.activeshopper.com": "INACTIVE",
-            "www.ad-souk.com": "INACTIVE",
-            "www.admez.com": "INACTIVE",
-            "www.secure-processingcenter.com": "INACTIVE"
-        },
-        "1574504933": {
-            "www.zipitfast.com": "INACTIVE"
-        },
-        "1574504934": {
-            "ads.xxxbunker.com": "INACTIVE",
-            "condenast.insight.omtrdc.net": "INACTIVE",
-            "it.bannerout.com": "INACTIVE",
-            "medienhaus.nuggad.net": "INACTIVE"
-        },
         "1574504935": {
             "192.168.112.2o7.net": "INACTIVE"
         },
@@ -963,6 +800,55 @@
         },
         "1574669018": {
             "counter.joins.com": "INACTIVE"
+        },
+        "1574669830": {
+            "ads.itmcash.com": "INACTIVE"
+        },
+        "1574669831": {
+            "exityield.advertise.com": "INACTIVE"
+        },
+        "1574669832": {
+            "adds.misiamoiatdom.com": "INACTIVE",
+            "adserver2.blueadvertise.com": "INACTIVE",
+            "cbpublishing.blueadvertise.com": "INACTIVE",
+            "cdxninteractive.blueadvertise.com": "INACTIVE",
+            "content.ipro.com": "INACTIVE",
+            "creditburner.blueadvertise.com": "INACTIVE",
+            "my.blueadvertise.com": "INACTIVE",
+            "ox.fashion.bg": "INACTIVE",
+            "stat.ganbox.com": "INACTIVE",
+            "track.make-a-site.net": "INACTIVE"
+        },
+        "1574669833": {
+            "234x120.adv.vz.ru": "INACTIVE"
+        },
+        "1574669834": {
+            "tracking.bannerflow.com": "INACTIVE",
+            "www.99stats.com": "INACTIVE"
+        },
+        "1574669835": {
+            "be.nedstat.net": "INACTIVE",
+            "es.nedstat.net": "INACTIVE",
+            "nedstat.nl": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE",
+            "www.nedstat.co.uk": "INACTIVE",
+            "www.nedstat.com": "INACTIVE",
+            "www.nedstat.nl": "INACTIVE",
+            "www.sitestat.com": "INACTIVE"
+        },
+        "1574669836": {
+            "ads.admaxasia.com": "INACTIVE",
+            "ads.bg-mamma.com": "INACTIVE"
+        },
+        "1574669837": {
+            "ad.reachppc.com": "INACTIVE",
+            "www.zipitfast.com": "INACTIVE"
+        },
+        "1574669838": {
+            "ads.xxxbunker.com": "INACTIVE",
+            "it.bannerout.com": "INACTIVE",
+            "medienhaus.nuggad.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
