@@ -1,87 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1574668301": {
-            "1559.stats.misstrends.com": "INACTIVE",
-            "1800.stats.misstrends.com": "INACTIVE",
-            "599.stats.misstrends.com": "INACTIVE",
-            "602.stats.misstrends.com": "INACTIVE",
-            "604.stats.misstrends.com": "INACTIVE",
-            "606.stats.misstrends.com": "INACTIVE",
-            "654.stats.misstrends.com": "INACTIVE",
-            "671.stats.misstrends.com": "INACTIVE",
-            "680.stats.misstrends.com": "INACTIVE",
-            "699.stats.misstrends.com": "INACTIVE",
-            "726.stats.misstrends.com": "INACTIVE",
-            "750.stats.misstrends.com": "INACTIVE",
-            "803.stats.misstrends.com": "INACTIVE",
-            "879.stats.misstrends.com": "INACTIVE",
-            "986.stats.misstrends.com": "INACTIVE",
-            "adcdn.33universal.com": "INACTIVE",
-            "cv.bsvideos.com": "INACTIVE"
-        },
-        "1574668302": {
-            "1867.stats.misstrends.com": "INACTIVE",
-            "2278.stats.misstrends.com": "INACTIVE",
-            "2912a.v.fwmrm.net": "INACTIVE",
-            "2915d.v.fwmrm.net": "INACTIVE",
-            "2915dc.v.fwmrm.net": "INACTIVE",
-            "4184.stats.misstrends.com": "INACTIVE",
-            "ad3.hornymatches.com": "INACTIVE",
-            "banner.adserverpub.com": "INACTIVE",
-            "bd0dc.v.fwmrm.net": "INACTIVE",
-            "js.adserverpub.com": "INACTIVE",
-            "rtb.metrigo.com": "INACTIVE",
-            "www.tostadomedia.com": "INACTIVE",
-            "www2.adserverpub.com": "INACTIVE"
-        },
-        "1574668303": {
-            "ads.pornerbros.com": "INACTIVE",
-            "ads.sxx.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "cs1.adxpansion.com": "INACTIVE",
-            "dev.media.adxpansion.com": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
-        "1574669011": {
-            "ads.betanews.com": "INACTIVE",
-            "adsrvmedia.adk2x.com": "INACTIVE",
-            "babanetwork.adk2x.com": "INACTIVE",
-            "clic2pub.adk2x.com": "INACTIVE",
-            "dft.cl.dynad.net": "INACTIVE",
-            "gotagy.adk2x.com": "INACTIVE",
-            "hlamedia.adk2x.com": "INACTIVE",
-            "m.usersonline.com": "INACTIVE",
-            "wmedia.adk2x.com": "INACTIVE",
-            "www7.securybrowse.com": "INACTIVE",
-            "yepdigital.adk2x.com": "INACTIVE"
-        },
-        "1574669012": {
-            "domains.googlesyndication.com": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE"
-        },
-        "1574669013": {
-            "ad.db3nf.com": "INACTIVE",
-            "api.7segments.com": "INACTIVE",
-            "banner.finzoom.ro": "INACTIVE",
-            "c7.adforgeinc.com": "INACTIVE",
-            "delivery1.topad.mobi": "INACTIVE"
-        },
-        "1574669014": {
-            "ads.mixbg.net": "INACTIVE"
-        },
-        "1574669015": {
-            "keisu02.eproof.com": "INACTIVE",
-            "utm.cursormania.com": "INACTIVE",
-            "utm.myfuncards.com": "INACTIVE",
-            "utm.myway.com": "INACTIVE",
-            "utm.popularscreensavers.com": "INACTIVE",
-            "utm.trk.cursormania.com": "INACTIVE",
-            "utm.trk.myfuncards.com": "INACTIVE",
-            "utm.trk.myway.com": "INACTIVE",
-            "utm.trk.popularscreensavers.com": "INACTIVE"
-        },
         "1574669016": {
-            "ads.p.veruta.com": "INACTIVE",
             "feed.peakclick.com": "INACTIVE"
         },
         "1574669017": {
@@ -562,6 +481,88 @@
             "media.adxpansion.com": "INACTIVE",
             "mmm.vindy.com": "INACTIVE",
             "pics.skenzo.com": "INACTIVE"
+        },
+        "1574841508": {
+            "599.stats.misstrends.com": "INACTIVE",
+            "602.stats.misstrends.com": "INACTIVE",
+            "604.stats.misstrends.com": "INACTIVE",
+            "606.stats.misstrends.com": "INACTIVE",
+            "654.stats.misstrends.com": "INACTIVE",
+            "671.stats.misstrends.com": "INACTIVE",
+            "680.stats.misstrends.com": "INACTIVE",
+            "adcdn.33universal.com": "INACTIVE",
+            "cv.bsvideos.com": "INACTIVE"
+        },
+        "1574841509": {
+            "1559.stats.misstrends.com": "INACTIVE",
+            "1800.stats.misstrends.com": "INACTIVE",
+            "1867.stats.misstrends.com": "INACTIVE",
+            "2278.stats.misstrends.com": "INACTIVE",
+            "2912a.v.fwmrm.net": "INACTIVE",
+            "2915d.v.fwmrm.net": "INACTIVE",
+            "2915dc.v.fwmrm.net": "INACTIVE",
+            "4184.stats.misstrends.com": "INACTIVE",
+            "699.stats.misstrends.com": "INACTIVE",
+            "726.stats.misstrends.com": "INACTIVE",
+            "750.stats.misstrends.com": "INACTIVE",
+            "803.stats.misstrends.com": "INACTIVE",
+            "879.stats.misstrends.com": "INACTIVE",
+            "986.stats.misstrends.com": "INACTIVE",
+            "ad3.hornymatches.com": "INACTIVE",
+            "banner.adserverpub.com": "INACTIVE",
+            "bd0dc.v.fwmrm.net": "INACTIVE",
+            "js.adserverpub.com": "INACTIVE",
+            "rtb.metrigo.com": "INACTIVE",
+            "www.tostadomedia.com": "INACTIVE",
+            "www2.adserverpub.com": "INACTIVE"
+        },
+        "1574841510": {
+            "ads.pornerbros.com": "INACTIVE",
+            "ads.sxx.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
+            "cs1.adxpansion.com": "INACTIVE",
+            "dev.media.adxpansion.com": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1574841511": {
+            "ads.betanews.com": "INACTIVE",
+            "adsrvmedia.adk2x.com": "INACTIVE",
+            "babanetwork.adk2x.com": "INACTIVE",
+            "clic2pub.adk2x.com": "INACTIVE",
+            "dft.cl.dynad.net": "INACTIVE",
+            "gotagy.adk2x.com": "INACTIVE",
+            "hlamedia.adk2x.com": "INACTIVE",
+            "m.usersonline.com": "INACTIVE",
+            "wmedia.adk2x.com": "INACTIVE",
+            "www7.securybrowse.com": "INACTIVE",
+            "yepdigital.adk2x.com": "INACTIVE"
+        },
+        "1574841512": {
+            "api.7segments.com": "INACTIVE",
+            "delivery1.topad.mobi": "INACTIVE",
+            "domains.googlesyndication.com": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1574841513": {
+            "ad.db3nf.com": "INACTIVE",
+            "banner.finzoom.ro": "INACTIVE",
+            "c7.adforgeinc.com": "INACTIVE"
+        },
+        "1574841514": {
+            "ads.mixbg.net": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "utm.cursormania.com": "INACTIVE",
+            "utm.myfuncards.com": "INACTIVE",
+            "utm.myway.com": "INACTIVE",
+            "utm.popularscreensavers.com": "INACTIVE",
+            "utm.trk.cursormania.com": "INACTIVE",
+            "utm.trk.myfuncards.com": "INACTIVE",
+            "utm.trk.myway.com": "INACTIVE",
+            "utm.trk.popularscreensavers.com": "INACTIVE"
+        },
+        "1574841515": {
+            "ads.p.veruta.com": "INACTIVE",
+            "keisu02.eproof.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
