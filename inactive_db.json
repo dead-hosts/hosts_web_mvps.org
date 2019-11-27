@@ -1,63 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1574669016": {
-            "feed.peakclick.com": "INACTIVE"
-        },
-        "1574669017": {
-            "ads.nudereviews.com": "INACTIVE",
-            "ads.program3.com": "INACTIVE",
-            "ads.whaleads.com": "INACTIVE",
-            "clicks2.oxcash.com": "INACTIVE",
-            "g.promosrv.com": "INACTIVE",
-            "mf.sitescout.com": "INACTIVE",
-            "moo.sitescout.com": "INACTIVE",
-            "popup.oxcash.com": "INACTIVE",
-            "vom.sitescout.com": "INACTIVE",
-            "wam-ads.sitescout.com": "INACTIVE",
-            "www.yourdedicatedhost.com": "INACTIVE"
-        },
-        "1574669018": {
-            "counter.joins.com": "INACTIVE"
-        },
-        "1574669830": {
-            "ads.itmcash.com": "INACTIVE"
-        },
-        "1574669831": {
-            "exityield.advertise.com": "INACTIVE"
-        },
-        "1574669832": {
-            "adds.misiamoiatdom.com": "INACTIVE",
-            "adserver2.blueadvertise.com": "INACTIVE",
-            "cbpublishing.blueadvertise.com": "INACTIVE",
-            "cdxninteractive.blueadvertise.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE",
-            "creditburner.blueadvertise.com": "INACTIVE",
-            "my.blueadvertise.com": "INACTIVE",
-            "ox.fashion.bg": "INACTIVE",
-            "stat.ganbox.com": "INACTIVE",
-            "track.make-a-site.net": "INACTIVE"
-        },
-        "1574669833": {
-            "234x120.adv.vz.ru": "INACTIVE"
-        },
-        "1574669834": {
-            "tracking.bannerflow.com": "INACTIVE",
-            "www.99stats.com": "INACTIVE"
-        },
-        "1574669835": {
-            "be.nedstat.net": "INACTIVE",
-            "es.nedstat.net": "INACTIVE",
-            "nedstat.nl": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE",
-            "www.nedstat.co.uk": "INACTIVE",
-            "www.nedstat.com": "INACTIVE",
-            "www.nedstat.nl": "INACTIVE",
-            "www.sitestat.com": "INACTIVE"
-        },
         "1574669836": {
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.bg-mamma.com": "INACTIVE"
+            "ads.admaxasia.com": "INACTIVE"
         },
         "1574669837": {
             "ad.reachppc.com": "INACTIVE",
@@ -217,9 +161,6 @@
             "serw.clicksor.com": "INACTIVE",
             "track.clicksor.com": "INACTIVE",
             "www.clicksor.com": "INACTIVE"
-        },
-        "1574683051": {
-            "exit.oxcash2.com": "INACTIVE"
         },
         "1574837369": {
             "ads.afa.net": "INACTIVE",
@@ -563,6 +504,51 @@
         "1574841515": {
             "ads.p.veruta.com": "INACTIVE",
             "keisu02.eproof.com": "INACTIVE"
+        },
+        "1574842223": {
+            "feed.peakclick.com": "INACTIVE",
+            "g.promosrv.com": "INACTIVE",
+            "mf.sitescout.com": "INACTIVE",
+            "popup.oxcash.com": "INACTIVE",
+            "vom.sitescout.com": "INACTIVE",
+            "wam-ads.sitescout.com": "INACTIVE"
+        },
+        "1574842224": {
+            "counter.joins.com": "INACTIVE",
+            "lead.program3.com": "INACTIVE",
+            "moo.sitescout.com": "INACTIVE",
+            "www.yourdedicatedhost.com": "INACTIVE"
+        },
+        "1574842225": {
+            "ads.itmcash.com": "INACTIVE"
+        },
+        "1574842226": {
+            "adds.misiamoiatdom.com": "INACTIVE",
+            "adserver2.blueadvertise.com": "INACTIVE",
+            "content.ipro.com": "INACTIVE",
+            "exityield.advertise.com": "INACTIVE",
+            "ox.fashion.bg": "INACTIVE",
+            "stat.ganbox.com": "INACTIVE",
+            "track.make-a-site.net": "INACTIVE"
+        },
+        "1574842227": {
+            "234x120.adv.vz.ru": "INACTIVE",
+            "tracking.bannerflow.com": "INACTIVE"
+        },
+        "1574842228": {
+            "www.99stats.com": "INACTIVE"
+        },
+        "1574842229": {
+            "ads.bg-mamma.com": "INACTIVE",
+            "be.nedstat.net": "INACTIVE",
+            "es.nedstat.net": "INACTIVE",
+            "nedstat.nl": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE",
+            "www.nedstat.co.uk": "INACTIVE",
+            "www.nedstat.com": "INACTIVE",
+            "www.nedstat.nl": "INACTIVE",
+            "www.sitestat.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
