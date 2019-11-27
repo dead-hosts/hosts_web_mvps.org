@@ -1,36 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1574671504": {
-            "a.thoughtleadr.com": "INACTIVE",
-            "adv.elaana.com": "INACTIVE",
-            "stats.snacktools.net": "INACTIVE",
-            "stats.vodpod.com": "INACTIVE"
-        },
-        "1574671505": {
-            "cdn.tracking.bannerflow.com": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE"
-        },
-        "1574671506": {
-            "counter.sexsuche.tv": "INACTIVE"
-        },
-        "1574672208": {
-            "mm.chitika.net": "INACTIVE"
-        },
-        "1574672209": {
-            "www.adszooks.com": "INACTIVE",
-            "www.free-hardcoresex.org": "INACTIVE",
-            "www.persianstat.ir": "INACTIVE"
-        },
-        "1574672210": {
-            "aff.primaryads.com": "INACTIVE",
-            "free-stats.i8.com": "INACTIVE",
-            "images.primaryads.com": "INACTIVE",
-            "www.theaffiliateprogram.com": "INACTIVE"
-        },
-        "1574672211": {
-            "core.bluefly.com": "INACTIVE",
-            "site-stats.i8.com": "INACTIVE"
-        },
         "1574672796": {
             "xml.quiveradnet.com": "INACTIVE"
         },
@@ -551,6 +520,36 @@
             "adserve.cpmba.se": "INACTIVE",
             "banners.lativio.com": "INACTIVE",
             "www.adultlinksco.com": "INACTIVE"
+        },
+        "1574844354": {
+            "stats.snacktools.net": "INACTIVE"
+        },
+        "1574844355": {
+            "a.thoughtleadr.com": "INACTIVE",
+            "adv.elaana.com": "INACTIVE",
+            "cdn.tracking.bannerflow.com": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE",
+            "stats.vodpod.com": "INACTIVE"
+        },
+        "1574844357": {
+            "counter.sexsuche.tv": "INACTIVE"
+        },
+        "1574844358": {
+            "mm.chitika.net": "INACTIVE",
+            "www.free-hardcoresex.org": "INACTIVE"
+        },
+        "1574844359": {
+            "www.adszooks.com": "INACTIVE",
+            "www.persianstat.ir": "INACTIVE"
+        },
+        "1574844360": {
+            "aff.primaryads.com": "INACTIVE",
+            "free-stats.i8.com": "INACTIVE",
+            "images.primaryads.com": "INACTIVE",
+            "www.theaffiliateprogram.com": "INACTIVE"
+        },
+        "1574844361": {
+            "core.bluefly.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
