@@ -1,20 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1574842229": {
-            "ads.bg-mamma.com": "INACTIVE"
-        },
-        "1574842930": {
-            "ads.admaxasia.com": "INACTIVE"
-        },
-        "1574842931": {
-            "ads.xxxbunker.com": "INACTIVE",
-            "it.bannerout.com": "INACTIVE",
-            "medienhaus.nuggad.net": "INACTIVE",
-            "www.zipitfast.com": "INACTIVE"
-        },
-        "1574842933": {
-            "dreamhome.112.2o7.net": "INACTIVE"
-        },
         "1574842938": {
             "vialogoonline.112.2o7.net": "INACTIVE"
         },
@@ -554,6 +539,18 @@
             "www.nedstat.com": "INACTIVE",
             "www.nedstat.nl": "INACTIVE",
             "www.sitestat.com": "INACTIVE"
+        },
+        "1575016877": {
+            "ads.bg-mamma.com": "INACTIVE"
+        },
+        "1575016878": {
+            "ads.admaxasia.com": "INACTIVE",
+            "www.zipitfast.com": "INACTIVE"
+        },
+        "1575016879": {
+            "ads.xxxbunker.com": "INACTIVE",
+            "it.bannerout.com": "INACTIVE",
+            "medienhaus.nuggad.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
