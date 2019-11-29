@@ -1,18 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1574845066": {
-            "csc.beap.ad.yieldmanager.net": "INACTIVE"
-        },
-        "1574845067": {
-            "ads.adonion.com": "INACTIVE",
-            "ads.clicksor.com": "INACTIVE",
-            "main.clicksor.com": "INACTIVE",
-            "mci12.clicksor.com": "INACTIVE",
-            "search.clicksor.com": "INACTIVE",
-            "serw.clicksor.com": "INACTIVE",
-            "track.clicksor.com": "INACTIVE",
-            "www.clicksor.com": "INACTIVE"
-        },
         "1575010455": {
             "assets.adtaily.com": "INACTIVE",
             "rh.adscale.de": "INACTIVE"
@@ -552,6 +539,19 @@
             "web2.realtracker.com": "INACTIVE",
             "www.mediahighway.net": "INACTIVE",
             "www.realtracker.com": "INACTIVE"
+        },
+        "1575019753": {
+            "csc.beap.ad.yieldmanager.net": "INACTIVE"
+        },
+        "1575019754": {
+            "ads.adonion.com": "INACTIVE",
+            "ads.clicksor.com": "INACTIVE",
+            "main.clicksor.com": "INACTIVE",
+            "mci12.clicksor.com": "INACTIVE",
+            "search.clicksor.com": "INACTIVE",
+            "serw.clicksor.com": "INACTIVE",
+            "track.clicksor.com": "INACTIVE",
+            "www.clicksor.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
