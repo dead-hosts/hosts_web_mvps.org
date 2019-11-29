@@ -1,40 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1574837369": {
-            "ads.afa.net": "INACTIVE",
-            "ads.baz.ch": "INACTIVE",
-            "ads.btv.bg": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "assets.adtaily.com": "INACTIVE",
-            "intext.billboard.cz": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "rh.adscale.de": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE"
-        },
-        "1574837370": {
-            "ad.cmfu.com": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE",
-            "ads.eccentrix.com": "INACTIVE",
-            "as.ebz.io": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
-            "top.easy.lv": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
-        "1574837371": {
-            "ads.gorillavid.in": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "counter.goingup.com": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE",
-            "media.intelia.it": "INACTIVE",
-            "www.icentric.net": "INACTIVE"
-        },
         "1574838409": {
             "indianapolis.hosted.xms.keynote.com": "INACTIVE",
             "ms.ligatus.com": "INACTIVE",
@@ -566,6 +531,44 @@
         },
         "1574856641": {
             "site-stats.i8.com": "INACTIVE"
+        },
+        "1575010455": {
+            "assets.adtaily.com": "INACTIVE",
+            "rh.adscale.de": "INACTIVE"
+        },
+        "1575010456": {
+            "ad.cmfu.com": "INACTIVE",
+            "ads.afa.net": "INACTIVE",
+            "ads.baz.ch": "INACTIVE",
+            "ads.btv.bg": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
+            "intext.billboard.cz": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE"
+        },
+        "1575010457": {
+            "ad1.emediate.dk": "INACTIVE",
+            "ads.eccentrix.com": "INACTIVE",
+            "ads.gorillavid.in": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "as.ebz.io": "INACTIVE",
+            "counter.goingup.com": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE",
+            "log.feedjit.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "stats.inist.fr": "INACTIVE",
+            "top.easy.lv": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE",
+            "www.ellads.com": "INACTIVE",
+            "www.icentric.net": "INACTIVE"
+        },
+        "1575010458": {
+            "media.intelia.it": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
