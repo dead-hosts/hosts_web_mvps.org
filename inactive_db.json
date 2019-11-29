@@ -1,51 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1574842938": {
-            "vialogoonline.112.2o7.net": "INACTIVE"
-        },
-        "1574843646": {
-            "metrics.dentonrc.com": "INACTIVE"
-        },
-        "1574843647": {
-            "data.ritzcarlton.com": "INACTIVE",
-            "metrics.nola.com": "INACTIVE",
-            "stats.mvilivestats.com": "INACTIVE",
-            "stats.style.com": "INACTIVE"
-        },
-        "1574843648": {
-            "b.computerworlduk.com": "INACTIVE",
-            "srv2.admedit.me": "INACTIVE"
-        },
-        "1574843651": {
-            "ads1.nexdra.com": "INACTIVE",
-            "static.meteorsolutions.com": "INACTIVE"
-        },
-        "1574843652": {
-            "1.ofsnetwork.com": "INACTIVE",
-            "ads.purefuck.com": "INACTIVE",
-            "cg-global.maxymiser.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE"
-        },
-        "1574843653": {
-            "banners.easydns.com": "INACTIVE"
-        },
-        "1574843654": {
-            "pixel.parsely.com": "INACTIVE"
-        },
-        "1574843655": {
-            "ad3.rambler.ru": "INACTIVE",
-            "info-images.rambler.ru": "INACTIVE",
-            "seomatrix.webtrackingservices.com": "INACTIVE"
-        },
-        "1574843656": {
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "track1.breakmedia.com": "INACTIVE"
-        },
         "1574843657": {
-            "adserve.cpmba.se": "INACTIVE",
-            "banners.lativio.com": "INACTIVE",
-            "www.adultlinksco.com": "INACTIVE"
+            "adserve.cpmba.se": "INACTIVE"
         },
         "1574844354": {
             "stats.snacktools.net": "INACTIVE"
@@ -551,6 +507,47 @@
             "ads.xxxbunker.com": "INACTIVE",
             "it.bannerout.com": "INACTIVE",
             "medienhaus.nuggad.net": "INACTIVE"
+        },
+        "1575017939": {
+            "metrics.dentonrc.com": "INACTIVE"
+        },
+        "1575017940": {
+            "data.ritzcarlton.com": "INACTIVE",
+            "metrics.nola.com": "INACTIVE",
+            "stats.mvilivestats.com": "INACTIVE",
+            "stats.style.com": "INACTIVE"
+        },
+        "1575017941": {
+            "b.computerworlduk.com": "INACTIVE",
+            "srv2.admedit.me": "INACTIVE"
+        },
+        "1575017943": {
+            "ads1.nexdra.com": "INACTIVE",
+            "static.meteorsolutions.com": "INACTIVE"
+        },
+        "1575017944": {
+            "1.ofsnetwork.com": "INACTIVE",
+            "ads.purefuck.com": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE"
+        },
+        "1575017945": {
+            "banners.easydns.com": "INACTIVE"
+        },
+        "1575017946": {
+            "pixel.parsely.com": "INACTIVE"
+        },
+        "1575017947": {
+            "ad3.rambler.ru": "INACTIVE",
+            "info-images.rambler.ru": "INACTIVE",
+            "seomatrix.webtrackingservices.com": "INACTIVE"
+        },
+        "1575017948": {
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE",
+            "banners.lativio.com": "INACTIVE",
+            "track1.breakmedia.com": "INACTIVE",
+            "www.adultlinksco.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
