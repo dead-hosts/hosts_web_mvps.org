@@ -1,33 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575015370": {
-            "ads.betanews.com": "INACTIVE",
-            "dft.cl.dynad.net": "INACTIVE",
-            "m.usersonline.com": "INACTIVE"
-        },
-        "1575015371": {
-            "adsrvmedia.adk2x.com": "INACTIVE",
-            "babanetwork.adk2x.com": "INACTIVE",
-            "clic2pub.adk2x.com": "INACTIVE",
-            "gotagy.adk2x.com": "INACTIVE",
-            "hlamedia.adk2x.com": "INACTIVE",
-            "wmedia.adk2x.com": "INACTIVE",
-            "www7.securybrowse.com": "INACTIVE",
-            "yepdigital.adk2x.com": "INACTIVE"
-        },
-        "1575015372": {
-            "api.7segments.com": "INACTIVE",
-            "delivery1.topad.mobi": "INACTIVE",
-            "domains.googlesyndication.com": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE"
-        },
-        "1575015373": {
-            "ad.db3nf.com": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "c7.adforgeinc.com": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE",
-            "stats.directnic.com": "INACTIVE"
-        },
         "1575015374": {
             "ads.mixbg.net": "INACTIVE",
             "keisu02.eproof.com": "INACTIVE",
@@ -540,6 +512,34 @@
         "1575144236": {
             "counter.gemius.pl": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1575146630": {
+            "ads.betanews.com": "INACTIVE",
+            "dft.cl.dynad.net": "INACTIVE",
+            "m.usersonline.com": "INACTIVE"
+        },
+        "1575146631": {
+            "adsrvmedia.adk2x.com": "INACTIVE",
+            "babanetwork.adk2x.com": "INACTIVE",
+            "clic2pub.adk2x.com": "INACTIVE",
+            "gotagy.adk2x.com": "INACTIVE",
+            "hlamedia.adk2x.com": "INACTIVE",
+            "wmedia.adk2x.com": "INACTIVE",
+            "www7.securybrowse.com": "INACTIVE",
+            "yepdigital.adk2x.com": "INACTIVE"
+        },
+        "1575146632": {
+            "api.7segments.com": "INACTIVE",
+            "delivery1.topad.mobi": "INACTIVE",
+            "domains.googlesyndication.com": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE"
+        },
+        "1575146633": {
+            "ad.db3nf.com": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "c7.adforgeinc.com": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE",
+            "stats.directnic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
