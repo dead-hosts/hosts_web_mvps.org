@@ -1,12 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575019446": {
-            "xml.quiveradnet.com": "INACTIVE"
-        },
         "1575019448": {
             "chip.ivwbox.de": "INACTIVE",
             "ciao.ivwbox.de": "INACTIVE",
-            "ctix8.cheaptickets.com": "INACTIVE",
             "daserste.ivwbox.de": "INACTIVE",
             "faz.ivwbox.de": "INACTIVE",
             "finatime.ivwbox.de": "INACTIVE",
@@ -72,19 +68,6 @@
             "serw.clicksor.com": "INACTIVE",
             "track.clicksor.com": "INACTIVE",
             "www.clicksor.com": "INACTIVE"
-        },
-        "1575113476": {
-            "assets.adtaily.com": "INACTIVE",
-            "rh.adscale.de": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE"
-        },
-        "1575113477": {
-            "ads.afa.net": "INACTIVE",
-            "ads.baz.ch": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "intext.billboard.cz": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE"
         },
         "1575120301": {
             "ad.cmfu.com": "INACTIVE",
@@ -575,6 +558,25 @@
         },
         "1575198773": {
             "core.bluefly.com": "INACTIVE"
+        },
+        "1575200559": {
+            "ads.afa.net": "INACTIVE",
+            "assets.adtaily.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "rh.adscale.de": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE"
+        },
+        "1575200560": {
+            "ads.baz.ch": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "intext.billboard.cz": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
+        },
+        "1575200565": {
+            "xml.quiveradnet.com": "INACTIVE"
+        },
+        "1575200567": {
+            "ctix8.cheaptickets.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
