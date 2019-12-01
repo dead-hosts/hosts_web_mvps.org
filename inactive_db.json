@@ -1,18 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575017943": {
-            "ads1.nexdra.com": "INACTIVE",
-            "static.meteorsolutions.com": "INACTIVE"
-        },
-        "1575017944": {
-            "1.ofsnetwork.com": "INACTIVE",
-            "ads.purefuck.com": "INACTIVE",
-            "cg-global.maxymiser.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE"
-        },
-        "1575017945": {
-            "banners.easydns.com": "INACTIVE"
-        },
         "1575017946": {
             "pixel.parsely.com": "INACTIVE"
         },
@@ -564,6 +551,31 @@
             "b.computerworlduk.com": "INACTIVE",
             "srv2.admedit.me": "INACTIVE",
             "stats.style.com": "INACTIVE"
+        },
+        "1575193680": {
+            "ads1.nexdra.com": "INACTIVE"
+        },
+        "1575193681": {
+            "1.ofsnetwork.com": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE",
+            "static.meteorsolutions.com": "INACTIVE"
+        },
+        "1575193682": {
+            "ads.purefuck.com": "INACTIVE",
+            "avalon.topbucks.com": "INACTIVE",
+            "botw.topbucks.com": "INACTIVE",
+            "clickheat.topbucks.com": "INACTIVE",
+            "cluster-03.topbucks.com": "INACTIVE",
+            "mainstream.topbucks.com": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE",
+            "rainbow.topbucks.com": "INACTIVE",
+            "referral.topbucks.com": "INACTIVE",
+            "referral.vod.topbucks.com": "INACTIVE",
+            "vod.topbucks.com": "INACTIVE"
+        },
+        "1575193683": {
+            "banners.easydns.com": "INACTIVE",
+            "webmaster.topbucks.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
