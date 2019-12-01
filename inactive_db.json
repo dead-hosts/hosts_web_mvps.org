@@ -558,6 +558,13 @@
         "1575183822": {
             "g.promosrv.com": "INACTIVE",
             "track.oxcash.com": "INACTIVE"
+        },
+        "1575185729": {
+            "adserver2.blueadvertise.com": "INACTIVE",
+            "cbpublishing.blueadvertise.com": "INACTIVE",
+            "cdxninteractive.blueadvertise.com": "INACTIVE",
+            "creditburner.blueadvertise.com": "INACTIVE",
+            "my.blueadvertise.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
