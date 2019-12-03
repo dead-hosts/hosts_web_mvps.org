@@ -1,25 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575191641": {
-            "metrics.dentonrc.com": "INACTIVE"
-        },
-        "1575191642": {
-            "data.ritzcarlton.com": "INACTIVE",
-            "metrics.nola.com": "INACTIVE",
-            "stats.mvilivestats.com": "INACTIVE"
-        },
-        "1575191643": {
-            "b.computerworlduk.com": "INACTIVE",
-            "srv2.admedit.me": "INACTIVE",
-            "stats.style.com": "INACTIVE"
-        },
-        "1575193680": {
-            "ads1.nexdra.com": "INACTIVE"
-        },
         "1575193681": {
             "1.ofsnetwork.com": "INACTIVE",
-            "cg-global.maxymiser.com": "INACTIVE",
-            "static.meteorsolutions.com": "INACTIVE"
+            "cg-global.maxymiser.com": "INACTIVE"
         },
         "1575193682": {
             "ads.purefuck.com": "INACTIVE",
@@ -554,6 +537,25 @@
             "ads.xxxbunker.com": "INACTIVE",
             "it.bannerout.com": "INACTIVE",
             "medienhaus.nuggad.net": "INACTIVE"
+        },
+        "1575367011": {
+            "metrics.dentonrc.com": "INACTIVE",
+            "metrics.nola.com": "INACTIVE",
+            "stats.mvilivestats.com": "INACTIVE"
+        },
+        "1575367012": {
+            "data.ritzcarlton.com": "INACTIVE",
+            "stats.style.com": "INACTIVE"
+        },
+        "1575367013": {
+            "b.computerworlduk.com": "INACTIVE",
+            "srv2.admedit.me": "INACTIVE"
+        },
+        "1575367015": {
+            "ads1.nexdra.com": "INACTIVE"
+        },
+        "1575367016": {
+            "static.meteorsolutions.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
