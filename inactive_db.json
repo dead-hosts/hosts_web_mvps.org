@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575197172": {
-            "counter.sexsuche.tv": "INACTIVE"
-        },
-        "1575197173": {
-            "xyz.freeweblogger.com": "INACTIVE"
-        },
-        "1575197174": {
-            "mm.chitika.net": "INACTIVE",
-            "www.adszooks.com": "INACTIVE",
-            "www.free-hardcoresex.org": "INACTIVE",
-            "www.persianstat.ir": "INACTIVE"
-        },
-        "1575198772": {
-            "aff.primaryads.com": "INACTIVE",
-            "free-stats.i8.com": "INACTIVE",
-            "images.primaryads.com": "INACTIVE",
-            "www.theaffiliateprogram.com": "INACTIVE"
-        },
         "1575198773": {
             "core.bluefly.com": "INACTIVE"
         },
@@ -542,6 +524,25 @@
             "adv.elaana.com": "INACTIVE",
             "cdn.tracking.bannerflow.com": "INACTIVE",
             "mycounter.tinycounter.com": "INACTIVE"
+        },
+        "1575372508": {
+            "counter.sexsuche.tv": "INACTIVE"
+        },
+        "1575372509": {
+            "mm.chitika.net": "INACTIVE",
+            "www.free-hardcoresex.org": "INACTIVE",
+            "xyz.freeweblogger.com": "INACTIVE"
+        },
+        "1575372510": {
+            "www.adszooks.com": "INACTIVE",
+            "www.persianstat.ir": "INACTIVE"
+        },
+        "1575372511": {
+            "aff.primaryads.com": "INACTIVE",
+            "free-stats.i8.com": "INACTIVE",
+            "images.primaryads.com": "INACTIVE",
+            "site-stats.i8.com": "INACTIVE",
+            "www.theaffiliateprogram.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
