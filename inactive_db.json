@@ -1,37 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575144233": {
-            "images.skenzo.com": "INACTIVE",
-            "img.skenzo.com": "INACTIVE",
-            "mmm.vindy.com": "INACTIVE",
-            "pics.skenzo.com": "INACTIVE"
-        },
-        "1575144234": {
-            "ad3.hornymatches.com": "INACTIVE",
-            "adcdn.33universal.com": "INACTIVE",
-            "adv.0tub.com": "INACTIVE",
-            "cdn1.skinected.com": "INACTIVE",
-            "cdna.runadtag.com": "INACTIVE",
-            "cv.bsvideos.com": "INACTIVE",
-            "edge.ayboll.com": "INACTIVE",
-            "media.adxpansion.com": "INACTIVE"
-        },
-        "1575144235": {
-            "2912a.v.fwmrm.net": "INACTIVE",
-            "2915d.v.fwmrm.net": "INACTIVE",
-            "2915dc.v.fwmrm.net": "INACTIVE",
-            "ads.pornerbros.com": "INACTIVE",
-            "ads.sxx.com": "INACTIVE",
-            "bd0dc.v.fwmrm.net": "INACTIVE",
-            "cs1.adxpansion.com": "INACTIVE",
-            "dev.media.adxpansion.com": "INACTIVE",
-            "rtb.metrigo.com": "INACTIVE",
-            "www.tostadomedia.com": "INACTIVE"
-        },
-        "1575144236": {
-            "counter.gemius.pl": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE"
-        },
         "1575146630": {
             "ads.betanews.com": "INACTIVE",
             "dft.cl.dynad.net": "INACTIVE",
@@ -562,6 +530,38 @@
             "banners.sexsearch.com": "INACTIVE",
             "creative.clicksor.com": "INACTIVE",
             "oasis.411affiliates.ca": "INACTIVE"
+        },
+        "1575362817": {
+            "mmm.vindy.com": "INACTIVE"
+        },
+        "1575362818": {
+            "adcdn.33universal.com": "INACTIVE",
+            "adv.0tub.com": "INACTIVE",
+            "cdn1.skinected.com": "INACTIVE",
+            "cdna.runadtag.com": "INACTIVE",
+            "cv.bsvideos.com": "INACTIVE",
+            "edge.ayboll.com": "INACTIVE",
+            "images.skenzo.com": "INACTIVE",
+            "img.skenzo.com": "INACTIVE",
+            "media.adxpansion.com": "INACTIVE",
+            "pics.skenzo.com": "INACTIVE"
+        },
+        "1575362819": {
+            "2912a.v.fwmrm.net": "INACTIVE",
+            "2915d.v.fwmrm.net": "INACTIVE",
+            "2915dc.v.fwmrm.net": "INACTIVE",
+            "ad3.hornymatches.com": "INACTIVE",
+            "bd0dc.v.fwmrm.net": "INACTIVE",
+            "rtb.metrigo.com": "INACTIVE",
+            "www.tostadomedia.com": "INACTIVE"
+        },
+        "1575362820": {
+            "ads.pornerbros.com": "INACTIVE",
+            "ads.sxx.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
+            "cs1.adxpansion.com": "INACTIVE",
+            "dev.media.adxpansion.com": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
