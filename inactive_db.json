@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575364218": {
-            "counter.joins.com": "INACTIVE"
-        },
-        "1575364911": {
-            "www.ipcounter.de": "INACTIVE"
-        },
-        "1575364912": {
-            "ads.itmcash.com": "INACTIVE",
-            "exityield.advertise.com": "INACTIVE"
-        },
-        "1575364913": {
-            "adds.misiamoiatdom.com": "INACTIVE",
-            "adserver2.blueadvertise.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE",
-            "ox.fashion.bg": "INACTIVE",
-            "stat.ganbox.com": "INACTIVE",
-            "track.make-a-site.net": "INACTIVE"
-        },
         "1575365594": {
             "234x120.adv.vz.ru": "INACTIVE",
             "tracking.bannerflow.com": "INACTIVE"
@@ -553,6 +535,22 @@
         },
         "1575473484": {
             "www.yourdedicatedhost.com": "INACTIVE"
+        },
+        "1575474812": {
+            "counter.joins.com": "INACTIVE"
+        },
+        "1575474813": {
+            "ads.itmcash.com": "INACTIVE",
+            "www.ipcounter.de": "INACTIVE"
+        },
+        "1575474814": {
+            "adds.misiamoiatdom.com": "INACTIVE",
+            "adserver2.blueadvertise.com": "INACTIVE",
+            "content.ipro.com": "INACTIVE",
+            "exityield.advertise.com": "INACTIVE",
+            "ox.fashion.bg": "INACTIVE",
+            "stat.ganbox.com": "INACTIVE",
+            "track.make-a-site.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
