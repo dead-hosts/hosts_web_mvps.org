@@ -1,45 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575360728": {
-            "adserver.advertisespace.com": "INACTIVE",
-            "adweb1.hornymatches.com": "INACTIVE",
-            "adweb2.hornymatches.com": "INACTIVE",
-            "app.ubertags.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE"
-        },
-        "1575361407": {
-            "bf.mocda1.com": "INACTIVE",
-            "cdn.qbaka.net": "INACTIVE",
-            "gdyn.nascar.com": "INACTIVE",
-            "hiq.fotolog.com": "INACTIVE",
-            "logc111.xiti.com": "INACTIVE",
-            "logc138.xiti.com": "INACTIVE",
-            "logc15.xiti.com": "INACTIVE",
-            "logc16.xiti.com": "INACTIVE",
-            "logc175.xiti.com": "INACTIVE",
-            "logc19.xiti.com": "INACTIVE",
-            "logc210.xiti.com": "INACTIVE",
-            "logc218.xiti.com": "INACTIVE",
-            "logc7.xiti.com": "INACTIVE",
-            "logs1285.xiti.com": "INACTIVE",
-            "pix.pulsemgr.com": "INACTIVE"
-        },
-        "1575361408": {
-            "adan.xtendmedia.com": "INACTIVE",
-            "ads.pubsqrd.com": "INACTIVE",
-            "ads.suite6ixty6ix.com": "INACTIVE",
-            "adserver.veruta.com": "INACTIVE",
-            "creative.xtendmedia.com": "INACTIVE",
-            "ds.keshet-i.com": "INACTIVE",
-            "logv15.xiti.com": "INACTIVE"
-        },
         "1575361409": {
-            "ads.bnmedia.com": "INACTIVE",
-            "ads.gladen.bg": "INACTIVE",
-            "ads.iwangmedia.com": "INACTIVE",
-            "ads.money.bg": "INACTIVE",
             "ads.monogram.sk": "INACTIVE",
-            "ads10.gladen.bg": "INACTIVE",
             "hitx.waudit.cz": "INACTIVE",
             "piwik.redtube.com": "INACTIVE"
         },
@@ -549,6 +511,46 @@
             "adstrac.adk2x.com": "INACTIVE",
             "cache.btrll.com": "INACTIVE",
             "snwmedia.adk2x.com": "INACTIVE"
+        },
+        "1575468373": {
+            "adserver.advertisespace.com": "INACTIVE",
+            "adweb1.hornymatches.com": "INACTIVE",
+            "adweb2.hornymatches.com": "INACTIVE",
+            "app.ubertags.com": "INACTIVE",
+            "cdn.qbaka.net": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "pix.pulsemgr.com": "INACTIVE"
+        },
+        "1575468374": {
+            "adan.xtendmedia.com": "INACTIVE",
+            "ads.pubsqrd.com": "INACTIVE",
+            "ads.suite6ixty6ix.com": "INACTIVE",
+            "bf.mocda1.com": "INACTIVE",
+            "gdyn.nascar.com": "INACTIVE",
+            "hiq.fotolog.com": "INACTIVE",
+            "logc111.xiti.com": "INACTIVE",
+            "logc138.xiti.com": "INACTIVE",
+            "logc15.xiti.com": "INACTIVE",
+            "logc16.xiti.com": "INACTIVE",
+            "logc175.xiti.com": "INACTIVE",
+            "logc19.xiti.com": "INACTIVE",
+            "logc210.xiti.com": "INACTIVE",
+            "logc218.xiti.com": "INACTIVE",
+            "logc7.xiti.com": "INACTIVE",
+            "logs1285.xiti.com": "INACTIVE",
+            "logv15.xiti.com": "INACTIVE"
+        },
+        "1575468375": {
+            "ads.gladen.bg": "INACTIVE",
+            "ads.money.bg": "INACTIVE",
+            "ads10.gladen.bg": "INACTIVE",
+            "adserver.veruta.com": "INACTIVE",
+            "creative.xtendmedia.com": "INACTIVE",
+            "ds.keshet-i.com": "INACTIVE"
+        },
+        "1575468376": {
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.iwangmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
