@@ -1,27 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575367016": {
-            "static.meteorsolutions.com": "INACTIVE"
-        },
-        "1575367697": {
-            "1.ofsnetwork.com": "INACTIVE",
-            "cg-global.maxymiser.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE"
-        },
-        "1575367698": {
-            "ads.purefuck.com": "INACTIVE",
-            "banners.easydns.com": "INACTIVE"
-        },
-        "1575367699": {
-            "pixel.parsely.com": "INACTIVE",
-            "seomatrix.webtrackingservices.com": "INACTIVE"
-        },
-        "1575367700": {
-            "ad3.rambler.ru": "INACTIVE",
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "info-images.rambler.ru": "INACTIVE"
-        },
         "1575370405": {
             "track1.breakmedia.com": "INACTIVE"
         },
@@ -551,6 +529,28 @@
         },
         "1575479092": {
             "ads1.nexdra.com": "INACTIVE"
+        },
+        "1575480581": {
+            "static.meteorsolutions.com": "INACTIVE"
+        },
+        "1575480582": {
+            "1.ofsnetwork.com": "INACTIVE",
+            "ads.purefuck.com": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE"
+        },
+        "1575480583": {
+            "banners.easydns.com": "INACTIVE",
+            "pixel.parsely.com": "INACTIVE"
+        },
+        "1575480584": {
+            "ad3.rambler.ru": "INACTIVE",
+            "info-images.rambler.ru": "INACTIVE",
+            "seomatrix.webtrackingservices.com": "INACTIVE"
+        },
+        "1575480585": {
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
