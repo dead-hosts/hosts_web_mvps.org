@@ -1,25 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575365594": {
-            "234x120.adv.vz.ru": "INACTIVE",
-            "tracking.bannerflow.com": "INACTIVE"
-        },
-        "1575365595": {
-            "be.nedstat.net": "INACTIVE",
-            "es.nedstat.net": "INACTIVE",
-            "nedstat.nl": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE",
-            "www.99stats.com": "INACTIVE",
-            "www.nedstat.co.uk": "INACTIVE",
-            "www.nedstat.com": "INACTIVE",
-            "www.nedstat.nl": "INACTIVE",
-            "www.sitestat.com": "INACTIVE"
-        },
-        "1575365596": {
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.bg-mamma.com": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE"
-        },
         "1575366297": {
             "www.zipitfast.com": "INACTIVE"
         },
@@ -551,6 +531,26 @@
             "ox.fashion.bg": "INACTIVE",
             "stat.ganbox.com": "INACTIVE",
             "track.make-a-site.net": "INACTIVE"
+        },
+        "1575476224": {
+            "234x120.adv.vz.ru": "INACTIVE",
+            "tracking.bannerflow.com": "INACTIVE"
+        },
+        "1575476225": {
+            "be.nedstat.net": "INACTIVE",
+            "es.nedstat.net": "INACTIVE",
+            "nedstat.nl": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE",
+            "www.99stats.com": "INACTIVE",
+            "www.nedstat.co.uk": "INACTIVE",
+            "www.nedstat.com": "INACTIVE",
+            "www.nedstat.nl": "INACTIVE",
+            "www.sitestat.com": "INACTIVE"
+        },
+        "1575476226": {
+            "ads.admaxasia.com": "INACTIVE",
+            "ads.bg-mamma.com": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
