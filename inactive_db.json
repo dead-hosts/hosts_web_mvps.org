@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575376534": {
-            "ads.adonion.com": "INACTIVE"
-        },
         "1575455732": {
             "assets.adtaily.com": "INACTIVE",
             "rh.adscale.de": "INACTIVE"
@@ -552,6 +549,9 @@
         },
         "1575487179": {
             "www.clicksor.com": "INACTIVE"
+        },
+        "1575487573": {
+            "ads.adonion.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
