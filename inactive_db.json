@@ -1,23 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575357235": {
-            "ads.gorillavid.in": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "counter.goingup.com": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE"
-        },
         "1575357236": {
-            "ads.justrelevant.com": "INACTIVE",
             "ads.livescore.com": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE",
-            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
-            "media.intelia.it": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE",
-            "stats.inist.fr": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "www.icentric.net": "INACTIVE",
-            "www.interstats.nl": "INACTIVE",
-            "www.ipstat.com": "INACTIVE"
+            "gw003.lphbs.com": "INACTIVE"
         },
         "1575357940": {
             "ad.mediaprostor.cz": "INACTIVE",
@@ -545,6 +530,23 @@
         "1575457921": {
             "log.feedjit.com": "INACTIVE",
             "prm.europacash.com": "INACTIVE"
+        },
+        "1575459981": {
+            "ads.gorillavid.in": "INACTIVE",
+            "counter.goingup.com": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE"
+        },
+        "1575459982": {
+            "ads.iafrica.com": "INACTIVE",
+            "ads.justrelevant.com": "INACTIVE",
+            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
+            "media.intelia.it": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE",
+            "stats.inist.fr": "INACTIVE",
+            "webeffective.keynote.com": "INACTIVE",
+            "www.icentric.net": "INACTIVE",
+            "www.interstats.nl": "INACTIVE",
+            "www.ipstat.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
