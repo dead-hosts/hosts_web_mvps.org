@@ -1,14 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575372511": {
-            "site-stats.i8.com": "INACTIVE"
-        },
-        "1575374428": {
-            "core.bluefly.com": "INACTIVE"
-        },
-        "1575374436": {
-            "xml.quiveradnet.com": "INACTIVE"
-        },
         "1575375839": {
             "chip.ivwbox.de": "INACTIVE",
             "ciao.ivwbox.de": "INACTIVE",
@@ -554,6 +545,13 @@
         },
         "1575484157": {
             "free-stats.i8.com": "INACTIVE"
+        },
+        "1575485721": {
+            "core.bluefly.com": "INACTIVE",
+            "site-stats.i8.com": "INACTIVE"
+        },
+        "1575485728": {
+            "xml.quiveradnet.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
