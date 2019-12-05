@@ -1,47 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575473482": {
-            "ka.bar.need2find.com": "INACTIVE",
-            "keisu02.eproof.com": "INACTIVE",
-            "utm.cursormania.com": "INACTIVE",
-            "utm.myfuncards.com": "INACTIVE",
-            "utm.myway.com": "INACTIVE",
-            "utm.popswatter.com": "INACTIVE",
-            "utm.popularscreensavers.com": "INACTIVE",
-            "utm.smileycentral.com": "INACTIVE",
-            "utm.trk.cursormania.com": "INACTIVE",
-            "utm.trk.excite.com": "INACTIVE",
-            "utm.trk.myfuncards.com": "INACTIVE",
-            "utm.trk.myway.com": "INACTIVE",
-            "utm.trk.popswatter.com": "INACTIVE",
-            "utm.trk.popularscreensavers.com": "INACTIVE",
-            "utm.trk.smileycentral.com": "INACTIVE",
-            "utm.trk.webfetti.com": "INACTIVE",
-            "utm.trk.zwinky.com": "INACTIVE",
-            "utm.webfetti.com": "INACTIVE",
-            "utm.zwinky.com": "INACTIVE",
-            "utm2.smileycentral.com": "INACTIVE",
-            "utmtrk2.smileycentral.com": "INACTIVE"
-        },
-        "1575473483": {
-            "ads.nudereviews.com": "INACTIVE",
-            "ads.p.veruta.com": "INACTIVE",
-            "feed.peakclick.com": "INACTIVE",
-            "g.promosrv.com": "INACTIVE",
-            "mf.sitescout.com": "INACTIVE",
-            "moo.sitescout.com": "INACTIVE",
-            "vom.sitescout.com": "INACTIVE",
-            "wam-ads.sitescout.com": "INACTIVE"
-        },
-        "1575473484": {
-            "www.yourdedicatedhost.com": "INACTIVE"
-        },
-        "1575474812": {
-            "counter.joins.com": "INACTIVE"
-        },
         "1575474813": {
-            "ads.itmcash.com": "INACTIVE",
-            "www.ipcounter.de": "INACTIVE"
+            "ads.itmcash.com": "INACTIVE"
         },
         "1575474814": {
             "adds.misiamoiatdom.com": "INACTIVE",
@@ -550,6 +510,45 @@
             "dnads.directnic.com": "INACTIVE",
             "images.parked.com": "INACTIVE",
             "stats.directnic.com": "INACTIVE"
+        },
+        "1575574883": {
+            "ka.bar.need2find.com": "INACTIVE",
+            "keisu02.eproof.com": "INACTIVE",
+            "utm.cursormania.com": "INACTIVE",
+            "utm.myfuncards.com": "INACTIVE",
+            "utm.myway.com": "INACTIVE",
+            "utm.popswatter.com": "INACTIVE",
+            "utm.popularscreensavers.com": "INACTIVE",
+            "utm.smileycentral.com": "INACTIVE",
+            "utm.trk.cursormania.com": "INACTIVE",
+            "utm.trk.excite.com": "INACTIVE",
+            "utm.trk.myfuncards.com": "INACTIVE",
+            "utm.trk.myway.com": "INACTIVE",
+            "utm.trk.popswatter.com": "INACTIVE",
+            "utm.trk.popularscreensavers.com": "INACTIVE",
+            "utm.trk.smileycentral.com": "INACTIVE",
+            "utm.trk.webfetti.com": "INACTIVE",
+            "utm.trk.zwinky.com": "INACTIVE",
+            "utm.webfetti.com": "INACTIVE",
+            "utm.zwinky.com": "INACTIVE",
+            "utm2.smileycentral.com": "INACTIVE",
+            "utmtrk2.smileycentral.com": "INACTIVE"
+        },
+        "1575574884": {
+            "ads.p.veruta.com": "INACTIVE",
+            "exit.oxcash2.com": "INACTIVE",
+            "feed.peakclick.com": "INACTIVE",
+            "mf.sitescout.com": "INACTIVE",
+            "track.oxcash.com": "INACTIVE",
+            "vom.sitescout.com": "INACTIVE",
+            "wam-ads.sitescout.com": "INACTIVE"
+        },
+        "1575574885": {
+            "moo.sitescout.com": "INACTIVE",
+            "www.yourdedicatedhost.com": "INACTIVE"
+        },
+        "1575574886": {
+            "www.ipcounter.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
