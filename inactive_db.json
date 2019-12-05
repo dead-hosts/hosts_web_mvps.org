@@ -1,18 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575455732": {
-            "assets.adtaily.com": "INACTIVE",
-            "rh.adscale.de": "INACTIVE"
-        },
-        "1575455733": {
-            "ads.afa.net": "INACTIVE",
-            "ads.baz.ch": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "intext.billboard.cz": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE"
-        },
         "1575457920": {
             "ad.cmfu.com": "INACTIVE",
             "ad1.emediate.dk": "INACTIVE",
@@ -552,6 +539,18 @@
         },
         "1575487573": {
             "ads.adonion.com": "INACTIVE"
+        },
+        "1575543265": {
+            "ads.afa.net": "INACTIVE",
+            "ads.baz.ch": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "assets.adtaily.com": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "intext.billboard.cz": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "rh.adscale.de": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
