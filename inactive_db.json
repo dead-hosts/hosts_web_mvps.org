@@ -1,34 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575469733": {
-            "ads.monogram.sk": "INACTIVE",
-            "hitx.waudit.cz": "INACTIVE"
-        },
-        "1575469734": {
-            "ad.slutload.com": "INACTIVE",
-            "ads.asredas.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.redtube.com": "INACTIVE",
-            "adserver.weakgame.com": "INACTIVE",
-            "code.theads.me": "INACTIVE",
-            "ox.furaffinity.net": "INACTIVE",
-            "pop.dnparking.com": "INACTIVE",
-            "stats.dnparking.com": "INACTIVE",
-            "vs.forbes.com": "INACTIVE"
-        },
-        "1575469735": {
-            "creative.clicksor.com": "INACTIVE",
-            "jque.net": "INACTIVE",
-            "oasis.411affiliates.ca": "INACTIVE",
-            "xpop.co": "INACTIVE"
-        },
-        "1575469736": {
-            "ad.trident.net": "INACTIVE",
-            "aj.600z.com": "INACTIVE"
-        },
-        "1575470937": {
-            "banners.sexsearch.com": "INACTIVE"
-        },
         "1575470938": {
             "images.skenzo.com": "INACTIVE",
             "mmm.vindy.com": "INACTIVE"
@@ -554,6 +525,31 @@
             "ads.bnmedia.com": "INACTIVE",
             "ads.iwangmedia.com": "INACTIVE",
             "piwik.redtube.com": "INACTIVE"
+        },
+        "1575568522": {
+            "ad.slutload.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.monogram.sk": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
+            "adserver.weakgame.com": "INACTIVE",
+            "hitx.waudit.cz": "INACTIVE",
+            "pop.dnparking.com": "INACTIVE",
+            "stats.dnparking.com": "INACTIVE",
+            "vs.forbes.com": "INACTIVE"
+        },
+        "1575568523": {
+            "ads.asredas.com": "INACTIVE",
+            "code.theads.me": "INACTIVE",
+            "jque.net": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE",
+            "xpop.co": "INACTIVE"
+        },
+        "1575568524": {
+            "ad.trident.net": "INACTIVE",
+            "aj.600z.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE",
+            "creative.clicksor.com": "INACTIVE",
+            "oasis.411affiliates.ca": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
