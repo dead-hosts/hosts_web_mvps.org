@@ -1,22 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575457920": {
-            "ad.cmfu.com": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE",
-            "ads.btv.bg": "INACTIVE",
-            "ads.eccentrix.com": "INACTIVE",
-            "as.ebz.io": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "top.easy.lv": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
         "1575457921": {
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE"
+            "log.feedjit.com": "INACTIVE"
         },
         "1575459981": {
             "ads.gorillavid.in": "INACTIVE",
@@ -551,6 +536,22 @@
             "rh.adscale.de": "INACTIVE",
             "titan.advertserve.com": "INACTIVE",
             "www.azmsoft.com": "INACTIVE"
+        },
+        "1575547709": {
+            "ad.cmfu.com": "INACTIVE",
+            "ads.btv.bg": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE"
+        },
+        "1575547710": {
+            "ad1.emediate.dk": "INACTIVE",
+            "as.ebz.io": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "top.easy.lv": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE",
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
