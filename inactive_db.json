@@ -1,50 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575564212": {
-            "admaven.adk2x.com": "INACTIVE",
-            "ads.groupcommerce.com": "INACTIVE",
-            "adserver.advertisespace.com": "INACTIVE",
-            "adstrac.adk2x.com": "INACTIVE",
-            "cache.btrll.com": "INACTIVE",
-            "s.cxt.ms": "INACTIVE",
-            "snwmedia.adk2x.com": "INACTIVE"
-        },
-        "1575566458": {
-            "adweb1.hornymatches.com": "INACTIVE",
-            "adweb2.hornymatches.com": "INACTIVE",
-            "app.ubertags.com": "INACTIVE",
-            "cdn.qbaka.net": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "pix.pulsemgr.com": "INACTIVE"
-        },
-        "1575566459": {
-            "adan.xtendmedia.com": "INACTIVE",
-            "ads.pubsqrd.com": "INACTIVE",
-            "ads.suite6ixty6ix.com": "INACTIVE",
-            "bf.mocda1.com": "INACTIVE",
-            "gdyn.nascar.com": "INACTIVE",
-            "hiq.fotolog.com": "INACTIVE",
-            "logc111.xiti.com": "INACTIVE",
-            "logc138.xiti.com": "INACTIVE",
-            "logc15.xiti.com": "INACTIVE",
-            "logc16.xiti.com": "INACTIVE",
-            "logc175.xiti.com": "INACTIVE",
-            "logc19.xiti.com": "INACTIVE",
-            "logc210.xiti.com": "INACTIVE",
-            "logc218.xiti.com": "INACTIVE",
-            "logc7.xiti.com": "INACTIVE",
-            "logs1285.xiti.com": "INACTIVE",
-            "logv15.xiti.com": "INACTIVE"
-        },
-        "1575566460": {
-            "ads.clicmanager.fr": "INACTIVE",
-            "ads.gladen.bg": "INACTIVE",
-            "ads.money.bg": "INACTIVE",
-            "ads10.gladen.bg": "INACTIVE",
-            "adserver.veruta.com": "INACTIVE",
-            "creative.xtendmedia.com": "INACTIVE",
-            "ds.keshet-i.com": "INACTIVE"
-        },
         "1575566461": {
             "ads.bnmedia.com": "INACTIVE",
             "ads.iwangmedia.com": "INACTIVE",
@@ -549,6 +504,51 @@
             "i.yldbt.com": "INACTIVE",
             "timeseg.modules.jumptime.com": "INACTIVE",
             "vast.optimatic.com": "INACTIVE"
+        },
+        "1575653837": {
+            "ads.groupcommerce.com": "INACTIVE",
+            "cache.btrll.com": "INACTIVE",
+            "s.cxt.ms": "INACTIVE"
+        },
+        "1575653838": {
+            "admaven.adk2x.com": "INACTIVE",
+            "adserver.advertisespace.com": "INACTIVE",
+            "adstrac.adk2x.com": "INACTIVE",
+            "adweb1.hornymatches.com": "INACTIVE",
+            "adweb2.hornymatches.com": "INACTIVE",
+            "app.ubertags.com": "INACTIVE",
+            "bf.mocda1.com": "INACTIVE",
+            "cdn.qbaka.net": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "gdyn.nascar.com": "INACTIVE",
+            "hiq.fotolog.com": "INACTIVE",
+            "logc111.xiti.com": "INACTIVE",
+            "logc138.xiti.com": "INACTIVE",
+            "logc15.xiti.com": "INACTIVE",
+            "logc16.xiti.com": "INACTIVE",
+            "logc175.xiti.com": "INACTIVE",
+            "logc19.xiti.com": "INACTIVE",
+            "logc7.xiti.com": "INACTIVE",
+            "pix.pulsemgr.com": "INACTIVE",
+            "snwmedia.adk2x.com": "INACTIVE"
+        },
+        "1575653839": {
+            "adan.xtendmedia.com": "INACTIVE",
+            "ads.clicmanager.fr": "INACTIVE",
+            "ads.pubsqrd.com": "INACTIVE",
+            "ads.suite6ixty6ix.com": "INACTIVE",
+            "adserver.veruta.com": "INACTIVE",
+            "logc210.xiti.com": "INACTIVE",
+            "logc218.xiti.com": "INACTIVE",
+            "logs1285.xiti.com": "INACTIVE",
+            "logv15.xiti.com": "INACTIVE"
+        },
+        "1575653840": {
+            "ads.gladen.bg": "INACTIVE",
+            "ads.money.bg": "INACTIVE",
+            "ads10.gladen.bg": "INACTIVE",
+            "creative.xtendmedia.com": "INACTIVE",
+            "ds.keshet-i.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
