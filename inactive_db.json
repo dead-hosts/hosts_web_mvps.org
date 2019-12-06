@@ -1,35 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575554481": {
-            "ad.mediaprostor.cz": "INACTIVE",
-            "ad2.neodatagroup.com": "INACTIVE",
-            "ads.livescore.com": "INACTIVE",
-            "adserver.online-tech.com": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE",
-            "internet.marsmediachannels.com": "INACTIVE",
-            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
-            "www.mlclick.com": "INACTIVE"
-        },
-        "1575554482": {
-            "ads.recoletos.es": "INACTIVE",
-            "count.rbc.ru": "INACTIVE"
-        },
         "1575556912": {
-            "ads.sports.fr": "INACTIVE",
-            "banner.tonygpoker.com": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
             "creativos.ads.uigc.net": "INACTIVE",
-            "dy.testnet.nl": "INACTIVE",
-            "gbjfc.rsvpgenius.com": "INACTIVE",
-            "j.theadsnet.com": "INACTIVE",
-            "net.softonicads.com": "INACTIVE",
-            "netsr.softonicads.com": "INACTIVE",
-            "proxy.softonicads.com": "INACTIVE",
-            "srv2.twittercounter.com": "INACTIVE",
-            "t1.softonicads.com": "INACTIVE",
-            "web.softonic-analytics.net": "INACTIVE",
-            "www.top100.ro": "INACTIVE"
+            "srv2.twittercounter.com": "INACTIVE"
         },
         "1575556913": {
             "ads.urlfan.com": "INACTIVE"
@@ -551,6 +524,33 @@
             "cdn.popwin.net": "INACTIVE",
             "pxl.pmsrvr.com": "INACTIVE",
             "report-ads-to.pubnation.com": "INACTIVE"
+        },
+        "1575643844": {
+            "ad.mediaprostor.cz": "INACTIVE",
+            "ad2.neodatagroup.com": "INACTIVE",
+            "ads.livescore.com": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE",
+            "adserver.online-tech.com": "INACTIVE",
+            "advert.mediaswiss.rs": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "gbjfc.rsvpgenius.com": "INACTIVE",
+            "gw003.lphbs.com": "INACTIVE",
+            "internet.marsmediachannels.com": "INACTIVE",
+            "net.softonicads.com": "INACTIVE",
+            "netsr.softonicads.com": "INACTIVE",
+            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
+            "web.softonic-analytics.net": "INACTIVE",
+            "www.mlclick.com": "INACTIVE"
+        },
+        "1575643845": {
+            "ads.sports.fr": "INACTIVE",
+            "banner.tonygpoker.com": "INACTIVE",
+            "dy.testnet.nl": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE",
+            "proxy.softonicads.com": "INACTIVE",
+            "t1.softonicads.com": "INACTIVE",
+            "www.top100.ro": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
