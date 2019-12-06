@@ -1,9 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575543265": {
-            "assets.adtaily.com": "INACTIVE",
-            "rh.adscale.de": "INACTIVE"
-        },
         "1575547709": {
             "ad.cmfu.com": "INACTIVE",
             "ads.btv.bg": "INACTIVE",
@@ -14,7 +10,6 @@
             "ad1.emediate.dk": "INACTIVE",
             "as.ebz.io": "INACTIVE",
             "count.dba.dk": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
             "top.easy.lv": "INACTIVE",
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
@@ -546,6 +541,14 @@
             "logw349.ati-host.net": "INACTIVE",
             "titan.advertserve.com": "INACTIVE",
             "www.azmsoft.com": "INACTIVE"
+        },
+        "1575634244": {
+            "assets.adtaily.com": "INACTIVE",
+            "rh.adscale.de": "INACTIVE"
+        },
+        "1575634245": {
+            "fastclick.ir": "INACTIVE",
+            "prm.europacash.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
