@@ -1,28 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575585040": {
-            "ad3.rambler.ru": "INACTIVE",
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "info-images.rambler.ru": "INACTIVE"
-        },
-        "1575585041": {
-            "banners.lativio.com": "INACTIVE",
-            "track1.breakmedia.com": "INACTIVE",
-            "www.adultlinksco.com": "INACTIVE"
-        },
-        "1575586664": {
-            "adserve.cpmba.se": "INACTIVE"
-        },
-        "1575586665": {
-            "a.thoughtleadr.com": "INACTIVE",
-            "adv.elaana.com": "INACTIVE",
-            "stats.snacktools.net": "INACTIVE",
-            "stats.vodpod.com": "INACTIVE"
-        },
         "1575586666": {
-            "cdn.tracking.bannerflow.com": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE"
+            "cdn.tracking.bannerflow.com": "INACTIVE"
         },
         "1575586667": {
             "counter.sexsuche.tv": "INACTIVE"
@@ -562,6 +541,29 @@
         "1575702286": {
             "pixel.parsely.com": "INACTIVE",
             "seomatrix.webtrackingservices.com": "INACTIVE"
+        },
+        "1575703755": {
+            "ad3.rambler.ru": "INACTIVE",
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE",
+            "info-images.rambler.ru": "INACTIVE"
+        },
+        "1575703756": {
+            "banners.lativio.com": "INACTIVE",
+            "track1.breakmedia.com": "INACTIVE",
+            "www.adultlinksco.com": "INACTIVE"
+        },
+        "1575703757": {
+            "adserve.cpmba.se": "INACTIVE"
+        },
+        "1575703758": {
+            "stats.snacktools.net": "INACTIVE"
+        },
+        "1575703759": {
+            "a.thoughtleadr.com": "INACTIVE",
+            "adv.elaana.com": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE",
+            "stats.vodpod.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
