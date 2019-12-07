@@ -1,24 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575576985": {
-            "234x120.adv.vz.ru": "INACTIVE",
-            "tracking.bannerflow.com": "INACTIVE"
-        },
-        "1575579156": {
-            "nedstat.nl": "INACTIVE",
-            "www.99stats.com": "INACTIVE",
-            "www.nedstat.nl": "INACTIVE"
-        },
         "1575579157": {
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.bg-mamma.com": "INACTIVE",
-            "be.nedstat.net": "INACTIVE",
-            "es.nedstat.net": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE",
-            "www.nedstat.co.uk": "INACTIVE",
-            "www.nedstat.com": "INACTIVE",
-            "www.sitestat.com": "INACTIVE"
+            "ads.admaxasia.com": "INACTIVE"
         },
         "1575580892": {
             "ad.u.nuggad.net": "INACTIVE",
@@ -555,6 +538,25 @@
         },
         "1575685021": {
             "feed.validclick.com": "INACTIVE"
+        },
+        "1575697936": {
+            "234x120.adv.vz.ru": "INACTIVE",
+            "tracking.bannerflow.com": "INACTIVE"
+        },
+        "1575697937": {
+            "www.99stats.com": "INACTIVE"
+        },
+        "1575697938": {
+            "ads.bg-mamma.com": "INACTIVE",
+            "be.nedstat.net": "INACTIVE",
+            "es.nedstat.net": "INACTIVE",
+            "nedstat.nl": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE",
+            "www.nedstat.co.uk": "INACTIVE",
+            "www.nedstat.com": "INACTIVE",
+            "www.nedstat.nl": "INACTIVE",
+            "www.sitestat.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
