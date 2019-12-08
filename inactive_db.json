@@ -1,18 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575700827": {
-            "srv2.admedit.me": "INACTIVE"
-        },
-        "1575702283": {
-            "ads1.nexdra.com": "INACTIVE",
-            "static.meteorsolutions.com": "INACTIVE"
-        },
-        "1575702284": {
-            "ads.dailystar.com.lb": "INACTIVE",
-            "ads.purefuck.com": "INACTIVE",
-            "cg-global.maxymiser.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE"
-        },
         "1575702285": {
             "banners.easydns.com": "INACTIVE"
         },
@@ -139,24 +126,6 @@
             "serw.clicksor.com": "INACTIVE",
             "track.clicksor.com": "INACTIVE",
             "www.clicksor.com": "INACTIVE"
-        },
-        "1575738664": {
-            "ad.mediaprostor.cz": "INACTIVE",
-            "ad2.neodatagroup.com": "INACTIVE",
-            "ads.livescore.com": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE",
-            "internet.marsmediachannels.com": "INACTIVE",
-            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
-            "www.mlclick.com": "INACTIVE"
-        },
-        "1575738665": {
-            "ads.recoletos.es": "INACTIVE",
-            "adserver.online-tech.com": "INACTIVE",
-            "cdn.popwin.net": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "pxl.pmsrvr.com": "INACTIVE",
-            "report-ads-to.pubnation.com": "INACTIVE"
         },
         "1575740842": {
             "ads.sports.fr": "INACTIVE",
@@ -559,6 +528,33 @@
         },
         "1575824646": {
             "b.computerworlduk.com": "INACTIVE"
+        },
+        "1575826038": {
+            "ad.mediaprostor.cz": "INACTIVE",
+            "ad2.neodatagroup.com": "INACTIVE",
+            "ads.livescore.com": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE",
+            "advert.mediaswiss.rs": "INACTIVE",
+            "cdn.popwin.net": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "gw003.lphbs.com": "INACTIVE",
+            "internet.marsmediachannels.com": "INACTIVE",
+            "pxl.pmsrvr.com": "INACTIVE",
+            "report-ads-to.pubnation.com": "INACTIVE",
+            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
+            "www.mlclick.com": "INACTIVE"
+        },
+        "1575826039": {
+            "srv2.admedit.me": "INACTIVE"
+        },
+        "1575826041": {
+            "ads1.nexdra.com": "INACTIVE",
+            "static.meteorsolutions.com": "INACTIVE"
+        },
+        "1575826042": {
+            "ads.purefuck.com": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
