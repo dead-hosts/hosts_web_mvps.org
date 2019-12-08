@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575708103": {
-            "xml.quiveradnet.com": "INACTIVE"
-        },
         "1575708105": {
             "chip.ivwbox.de": "INACTIVE",
             "ciao.ivwbox.de": "INACTIVE",
@@ -541,6 +538,9 @@
         },
         "1575830061": {
             "core.bluefly.com": "INACTIVE"
+        },
+        "1575831166": {
+            "xml.quiveradnet.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
