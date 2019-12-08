@@ -1,16 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575700825": {
-            "metrics.dentonrc.com": "INACTIVE",
-            "metrics.nola.com": "INACTIVE",
-            "stats.mvilivestats.com": "INACTIVE"
-        },
-        "1575700826": {
-            "a.bizarremag.com": "INACTIVE",
-            "b.computerworlduk.com": "INACTIVE",
-            "data.ritzcarlton.com": "INACTIVE",
-            "stats.style.com": "INACTIVE"
-        },
         "1575700827": {
             "srv2.admedit.me": "INACTIVE"
         },
@@ -557,6 +546,19 @@
             "ads.xxxbunker.com": "INACTIVE",
             "it.bannerout.com": "INACTIVE",
             "medienhaus.nuggad.net": "INACTIVE"
+        },
+        "1575824644": {
+            "metrics.dentonrc.com": "INACTIVE",
+            "stats.mvilivestats.com": "INACTIVE"
+        },
+        "1575824645": {
+            "a.bizarremag.com": "INACTIVE",
+            "data.ritzcarlton.com": "INACTIVE",
+            "metrics.nola.com": "INACTIVE",
+            "stats.style.com": "INACTIVE"
+        },
+        "1575824646": {
+            "b.computerworlduk.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
