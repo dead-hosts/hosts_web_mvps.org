@@ -1,20 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575699360": {
-            "ads.admaxasia.com": "INACTIVE"
-        },
-        "1575699361": {
-            "ad.u.nuggad.net": "INACTIVE",
-            "medienhaus.nuggad.net": "INACTIVE",
-            "www.zipitfast.com": "INACTIVE"
-        },
-        "1575699362": {
-            "ads.xxxbunker.com": "INACTIVE",
-            "it.bannerout.com": "INACTIVE"
-        },
-        "1575699363": {
-            "cannationalpost.112.2o7.net": "INACTIVE"
-        },
         "1575700825": {
             "metrics.dentonrc.com": "INACTIVE",
             "metrics.nola.com": "INACTIVE",
@@ -165,24 +150,6 @@
             "serw.clicksor.com": "INACTIVE",
             "track.clicksor.com": "INACTIVE",
             "www.clicksor.com": "INACTIVE"
-        },
-        "1575736108": {
-            "ads.gorillavid.in": "INACTIVE",
-            "counter.goingup.com": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE",
-            "log.feedjit.com": "INACTIVE"
-        },
-        "1575736109": {
-            "ads.iafrica.com": "INACTIVE",
-            "ads.justrelevant.com": "INACTIVE",
-            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
-            "media.intelia.it": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE",
-            "stats.inist.fr": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "www.icentric.net": "INACTIVE",
-            "www.interstats.nl": "INACTIVE",
-            "www.ipstat.com": "INACTIVE"
         },
         "1575738664": {
             "ad.mediaprostor.cz": "INACTIVE",
@@ -564,6 +531,32 @@
             "www.nedstat.com": "INACTIVE",
             "www.nedstat.nl": "INACTIVE",
             "www.sitestat.com": "INACTIVE"
+        },
+        "1575823235": {
+            "ads.gorillavid.in": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "ads.justrelevant.com": "INACTIVE",
+            "counter.goingup.com": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE",
+            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
+            "log.feedjit.com": "INACTIVE",
+            "media.intelia.it": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE",
+            "stats.inist.fr": "INACTIVE",
+            "webeffective.keynote.com": "INACTIVE",
+            "www.icentric.net": "INACTIVE",
+            "www.interstats.nl": "INACTIVE",
+            "www.ipstat.com": "INACTIVE"
+        },
+        "1575823236": {
+            "ads.admaxasia.com": "INACTIVE",
+            "www.zipitfast.com": "INACTIVE"
+        },
+        "1575823237": {
+            "ad.u.nuggad.net": "INACTIVE",
+            "ads.xxxbunker.com": "INACTIVE",
+            "it.bannerout.com": "INACTIVE",
+            "medienhaus.nuggad.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
