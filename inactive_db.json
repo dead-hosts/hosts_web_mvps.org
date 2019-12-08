@@ -1,20 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575703758": {
-            "stats.snacktools.net": "INACTIVE"
-        },
-        "1575703759": {
-            "a.thoughtleadr.com": "INACTIVE",
-            "adv.elaana.com": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE",
-            "stats.vodpod.com": "INACTIVE"
-        },
-        "1575705200": {
-            "cdn.tracking.bannerflow.com": "INACTIVE"
-        },
-        "1575705201": {
-            "counter.sexsuche.tv": "INACTIVE"
-        },
         "1575705202": {
             "mm.chitika.net": "INACTIVE"
         },
@@ -105,25 +90,6 @@
             "serw.clicksor.com": "INACTIVE",
             "track.clicksor.com": "INACTIVE",
             "www.clicksor.com": "INACTIVE"
-        },
-        "1575740842": {
-            "ads.sports.fr": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "dy.testnet.nl": "INACTIVE",
-            "gbjfc.rsvpgenius.com": "INACTIVE",
-            "j.theadsnet.com": "INACTIVE",
-            "net.softonicads.com": "INACTIVE",
-            "netsr.softonicads.com": "INACTIVE",
-            "proxy.softonicads.com": "INACTIVE",
-            "t1.softonicads.com": "INACTIVE",
-            "web.softonic-analytics.net": "INACTIVE"
-        },
-        "1575740843": {
-            "ads.urlfan.com": "INACTIVE",
-            "banner.tonygpoker.com": "INACTIVE",
-            "creativos.ads.uigc.net": "INACTIVE",
-            "srv2.twittercounter.com": "INACTIVE",
-            "www.top100.ro": "INACTIVE"
         },
         "1575743000": {
             "ads.24.com": "INACTIVE",
@@ -553,6 +519,36 @@
         },
         "1575827447": {
             "adserve.cpmba.se": "INACTIVE"
+        },
+        "1575828846": {
+            "ads.sports.fr": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "gbjfc.rsvpgenius.com": "INACTIVE",
+            "net.softonicads.com": "INACTIVE",
+            "netsr.softonicads.com": "INACTIVE",
+            "proxy.softonicads.com": "INACTIVE",
+            "web.softonic-analytics.net": "INACTIVE"
+        },
+        "1575828847": {
+            "ads.urlfan.com": "INACTIVE",
+            "banner.tonygpoker.com": "INACTIVE",
+            "creativos.ads.uigc.net": "INACTIVE",
+            "dy.testnet.nl": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE",
+            "srv2.twittercounter.com": "INACTIVE",
+            "stats.snacktools.net": "INACTIVE",
+            "t1.softonicads.com": "INACTIVE",
+            "www.top100.ro": "INACTIVE"
+        },
+        "1575828848": {
+            "a.thoughtleadr.com": "INACTIVE",
+            "adv.elaana.com": "INACTIVE",
+            "cdn.tracking.bannerflow.com": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE",
+            "stats.vodpod.com": "INACTIVE"
+        },
+        "1575828850": {
+            "counter.sexsuche.tv": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
