@@ -181,9 +181,6 @@
         "1575764485": {
             "natgeohomepage.112.2o7.net": "INACTIVE"
         },
-        "1575809729": {
-            "ads.xtargeting.com": "INACTIVE"
-        },
         "1575821853": {
             "234x120.adv.vz.ru": "INACTIVE",
             "tracking.bannerflow.com": "INACTIVE"
@@ -256,7 +253,6 @@
             "adserve.cpmba.se": "INACTIVE"
         },
         "1575828847": {
-            "ads.urlfan.com": "INACTIVE",
             "stats.snacktools.net": "INACTIVE"
         },
         "1575828848": {
@@ -270,14 +266,7 @@
             "counter.sexsuche.tv": "INACTIVE"
         },
         "1575830058": {
-            "ads.24.com": "INACTIVE",
-            "ads.zamunda.net": "INACTIVE",
-            "ads2.zamunda.net": "INACTIVE",
-            "apibeta.zeti.com": "INACTIVE",
-            "mm.chitika.net": "INACTIVE",
-            "secure.webresint.com": "INACTIVE",
-            "track.lativio.com": "INACTIVE",
-            "www.yourhitstats.com": "INACTIVE"
+            "mm.chitika.net": "INACTIVE"
         },
         "1575830059": {
             "www.adszooks.com": "INACTIVE",
@@ -537,6 +526,19 @@
             "t1.softonicads.com": "INACTIVE",
             "web.softonic-analytics.net": "INACTIVE",
             "www.top100.ro": "INACTIVE"
+        },
+        "1575964997": {
+            "ads.urlfan.com": "INACTIVE"
+        },
+        "1575964998": {
+            "ads.24.com": "INACTIVE",
+            "ads.xtargeting.com": "INACTIVE",
+            "ads.zamunda.net": "INACTIVE",
+            "ads2.zamunda.net": "INACTIVE",
+            "apibeta.zeti.com": "INACTIVE",
+            "secure.webresint.com": "INACTIVE",
+            "track.lativio.com": "INACTIVE",
+            "www.yourhitstats.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
