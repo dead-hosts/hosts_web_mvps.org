@@ -1,15 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575964998": {
-            "ads.24.com": "INACTIVE",
-            "ads.xtargeting.com": "INACTIVE",
-            "ads.zamunda.net": "INACTIVE",
-            "ads2.zamunda.net": "INACTIVE",
-            "apibeta.zeti.com": "INACTIVE",
-            "secure.webresint.com": "INACTIVE",
-            "track.lativio.com": "INACTIVE",
-            "www.yourhitstats.com": "INACTIVE"
-        },
         "1575965771": {
             "banners.weselltraffic.com": "INACTIVE",
             "clicks.weselltraffic.com": "INACTIVE",
@@ -561,6 +551,16 @@
             "j.theadsnet.com": "INACTIVE",
             "srv2.twittercounter.com": "INACTIVE",
             "www.top100.ro": "INACTIVE"
+        },
+        "1576069782": {
+            "ads.24.com": "INACTIVE",
+            "ads.xtargeting.com": "INACTIVE",
+            "ads.zamunda.net": "INACTIVE",
+            "ads2.zamunda.net": "INACTIVE",
+            "apibeta.zeti.com": "INACTIVE",
+            "secure.webresint.com": "INACTIVE",
+            "track.lativio.com": "INACTIVE",
+            "www.yourhitstats.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
