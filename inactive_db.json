@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575986417": {
-            "xml.quiveradnet.com": "INACTIVE"
-        },
-        "1575986419": {
-            "ctix8.cheaptickets.com": "INACTIVE"
-        },
         "1575988367": {
             "chip.ivwbox.de": "INACTIVE"
         },
@@ -553,6 +547,12 @@
             "images.primaryads.com": "INACTIVE",
             "site-stats.i8.com": "INACTIVE",
             "www.theaffiliateprogram.com": "INACTIVE"
+        },
+        "1576090129": {
+            "xml.quiveradnet.com": "INACTIVE"
+        },
+        "1576090131": {
+            "ctix8.cheaptickets.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
