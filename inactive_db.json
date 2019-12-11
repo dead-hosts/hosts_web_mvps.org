@@ -1,21 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575984594": {
-            "mm.chitika.net": "INACTIVE",
-            "www.adszooks.com": "INACTIVE",
-            "www.free-hardcoresex.org": "INACTIVE",
-            "www.persianstat.ir": "INACTIVE"
-        },
-        "1575984595": {
-            "aff.primaryads.com": "INACTIVE",
-            "free-stats.i8.com": "INACTIVE",
-            "images.primaryads.com": "INACTIVE",
-            "site-stats.i8.com": "INACTIVE",
-            "www.theaffiliateprogram.com": "INACTIVE"
-        },
-        "1575986411": {
-            "core.bluefly.com": "INACTIVE"
-        },
         "1575986417": {
             "xml.quiveradnet.com": "INACTIVE"
         },
@@ -554,6 +538,21 @@
         },
         "1576087410": {
             "counter.sexsuche.tv": "INACTIVE"
+        },
+        "1576088891": {
+            "mm.chitika.net": "INACTIVE",
+            "www.free-hardcoresex.org": "INACTIVE"
+        },
+        "1576088892": {
+            "aff.primaryads.com": "INACTIVE",
+            "www.adszooks.com": "INACTIVE",
+            "www.persianstat.ir": "INACTIVE"
+        },
+        "1576088893": {
+            "core.bluefly.com": "INACTIVE",
+            "images.primaryads.com": "INACTIVE",
+            "site-stats.i8.com": "INACTIVE",
+            "www.theaffiliateprogram.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
