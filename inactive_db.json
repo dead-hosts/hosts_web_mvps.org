@@ -1,24 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575962391": {
-            "ads.gorillavid.in": "INACTIVE",
-            "ads.iafrica.com": "INACTIVE",
-            "counter.goingup.com": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE",
-            "www.icentric.net": "INACTIVE"
-        },
         "1575962392": {
-            "ads.justrelevant.com": "INACTIVE",
-            "ads.livescore.com": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE",
-            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
-            "media.intelia.it": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE",
-            "stats.inist.fr": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "www.interstats.nl": "INACTIVE",
-            "www.ipstat.com": "INACTIVE",
-            "www.iranwebads.com": "INACTIVE"
+            "gw003.lphbs.com": "INACTIVE"
         },
         "1575963417": {
             "ad.mediaprostor.cz": "INACTIVE",
@@ -563,6 +546,25 @@
             "top.easy.lv": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
+        },
+        "1576065064": {
+            "ads.gorillavid.in": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "ads.justrelevant.com": "INACTIVE",
+            "ads.livescore.com": "INACTIVE",
+            "counter.goingup.com": "INACTIVE",
+            "error.hostinger.eu": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE",
+            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
+            "media.intelia.it": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE",
+            "stats.hosting24.com": "INACTIVE",
+            "stats.inist.fr": "INACTIVE",
+            "webeffective.keynote.com": "INACTIVE",
+            "www.icentric.net": "INACTIVE",
+            "www.interstats.nl": "INACTIVE",
+            "www.ipstat.com": "INACTIVE",
+            "www.iranwebads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
