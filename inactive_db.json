@@ -1,27 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1575962392": {
-            "gw003.lphbs.com": "INACTIVE"
-        },
-        "1575963417": {
-            "ad.mediaprostor.cz": "INACTIVE",
-            "ad2.neodatagroup.com": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE",
-            "internet.marsmediachannels.com": "INACTIVE",
-            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
-            "tr.mobiadserv.com": "INACTIVE",
-            "www.mlclick.com": "INACTIVE"
-        },
-        "1575963418": {
-            "ads.recoletos.es": "INACTIVE",
-            "cdn.popwin.net": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "pxl.pmsrvr.com": "INACTIVE",
-            "report-ads-to.pubnation.com": "INACTIVE"
-        },
-        "1575964175": {
-            "gbjfc.rsvpgenius.com": "INACTIVE"
-        },
         "1575964176": {
             "ads.sports.fr": "INACTIVE",
             "banner.tonygpoker.com": "INACTIVE",
@@ -565,6 +543,23 @@
             "www.interstats.nl": "INACTIVE",
             "www.ipstat.com": "INACTIVE",
             "www.iranwebads.com": "INACTIVE"
+        },
+        "1576066603": {
+            "ad.mediaprostor.cz": "INACTIVE",
+            "ad2.neodatagroup.com": "INACTIVE",
+            "advert.mediaswiss.rs": "INACTIVE",
+            "gw003.lphbs.com": "INACTIVE",
+            "internet.marsmediachannels.com": "INACTIVE",
+            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
+            "tr.mobiadserv.com": "INACTIVE",
+            "www.mlclick.com": "INACTIVE"
+        },
+        "1576066604": {
+            "cdn.popwin.net": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "gbjfc.rsvpgenius.com": "INACTIVE",
+            "pxl.pmsrvr.com": "INACTIVE",
+            "report-ads-to.pubnation.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
