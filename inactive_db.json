@@ -1,11 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576088893": {
-            "core.bluefly.com": "INACTIVE"
-        },
-        "1576090129": {
-            "xml.quiveradnet.com": "INACTIVE"
-        },
         "1576090131": {
             "ctix8.cheaptickets.com": "INACTIVE"
         },
@@ -554,6 +548,12 @@
         "1576196455": {
             "free-stats.i8.com": "INACTIVE",
             "site-stats.i8.com": "INACTIVE"
+        },
+        "1576198267": {
+            "core.bluefly.com": "INACTIVE"
+        },
+        "1576198276": {
+            "xml.quiveradnet.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
