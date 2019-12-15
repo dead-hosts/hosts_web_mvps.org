@@ -26,34 +26,12 @@
         "1576162783": {
             "www.top100.ro": "INACTIVE"
         },
-        "1576172311": {
-            "creative.xtendmedia.com": "INACTIVE",
-            "ds.keshet-i.com": "INACTIVE"
-        },
         "1576172312": {
-            "ads.bnmedia.com": "INACTIVE",
             "ads.gladen.bg": "INACTIVE",
-            "ads.iwangmedia.com": "INACTIVE",
             "ads.money.bg": "INACTIVE",
-            "ads.monogram.sk": "INACTIVE",
-            "ads10.gladen.bg": "INACTIVE",
-            "hitx.waudit.cz": "INACTIVE",
-            "piwik.redtube.com": "INACTIVE"
-        },
-        "1576174602": {
-            "ad.slutload.com": "INACTIVE",
-            "ads.asredas.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.redtube.com": "INACTIVE",
-            "adserver.weakgame.com": "INACTIVE",
-            "pop.dnparking.com": "INACTIVE",
-            "stats.dnparking.com": "INACTIVE",
-            "vs.forbes.com": "INACTIVE"
+            "ads10.gladen.bg": "INACTIVE"
         },
         "1576174603": {
-            "code.theads.me": "INACTIVE",
-            "jque.net": "INACTIVE",
-            "ox.furaffinity.net": "INACTIVE",
             "xpop.co": "INACTIVE"
         },
         "1576174604": {
@@ -570,6 +548,30 @@
             "ads.pubsqrd.com": "INACTIVE",
             "ads.suite6ixty6ix.com": "INACTIVE",
             "adserver.veruta.com": "INACTIVE"
+        },
+        "1576436570": {
+            "creative.xtendmedia.com": "INACTIVE",
+            "ds.keshet-i.com": "INACTIVE"
+        },
+        "1576436571": {
+            "ad.slutload.com": "INACTIVE",
+            "ads.asredas.com": "INACTIVE",
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.iwangmedia.com": "INACTIVE",
+            "ads.monogram.sk": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
+            "adserver.weakgame.com": "INACTIVE",
+            "hitx.waudit.cz": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE",
+            "piwik.redtube.com": "INACTIVE",
+            "pop.dnparking.com": "INACTIVE",
+            "stats.dnparking.com": "INACTIVE",
+            "vs.forbes.com": "INACTIVE"
+        },
+        "1576436572": {
+            "code.theads.me": "INACTIVE",
+            "jque.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
