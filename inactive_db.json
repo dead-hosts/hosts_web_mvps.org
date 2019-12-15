@@ -37,22 +37,6 @@
         "1576183817": {
             "ox.fashion.bg": "INACTIVE"
         },
-        "1576189991": {
-            "a.bizarremag.com": "INACTIVE",
-            "b.computerworlduk.com": "INACTIVE",
-            "srv2.admedit.me": "INACTIVE"
-        },
-        "1576189993": {
-            "ads1.nexdra.com": "INACTIVE"
-        },
-        "1576189994": {
-            "cg-global.maxymiser.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE",
-            "static.meteorsolutions.com": "INACTIVE"
-        },
-        "1576189995": {
-            "ads.purefuck.com": "INACTIVE"
-        },
         "1576192408": {
             "ads.dailystar.com.lb": "INACTIVE"
         },
@@ -581,6 +565,20 @@
             "metrics.nola.com": "INACTIVE",
             "stats.mvilivestats.com": "INACTIVE",
             "stats.style.com": "INACTIVE"
+        },
+        "1576445668": {
+            "a.bizarremag.com": "INACTIVE",
+            "b.computerworlduk.com": "INACTIVE",
+            "srv2.admedit.me": "INACTIVE"
+        },
+        "1576445671": {
+            "ads1.nexdra.com": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE",
+            "static.meteorsolutions.com": "INACTIVE"
+        },
+        "1576445672": {
+            "ads.purefuck.com": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
