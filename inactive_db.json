@@ -10,34 +10,19 @@
             "top.easy.lv": "INACTIVE"
         },
         "1576156429": {
-            "ads.iafrica.com": "INACTIVE",
-            "ads.justrelevant.com": "INACTIVE",
-            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
             "media.intelia.it": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE",
-            "stats.inist.fr": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "www.icentric.net": "INACTIVE",
-            "www.interstats.nl": "INACTIVE",
-            "www.ipstat.com": "INACTIVE"
+            "stats.inist.fr": "INACTIVE"
         },
         "1576159869": {
             "ad.mediaprostor.cz": "INACTIVE",
-            "ads.livescore.com": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE",
-            "internet.marsmediachannels.com": "INACTIVE",
-            "www.mlclick.com": "INACTIVE"
+            "advert.mediaswiss.rs": "INACTIVE"
         },
         "1576159870": {
-            "ad2.neodatagroup.com": "INACTIVE",
             "ads.recoletos.es": "INACTIVE",
             "cdn.popwin.net": "INACTIVE",
             "count.rbc.ru": "INACTIVE",
             "pxl.pmsrvr.com": "INACTIVE",
-            "report-ads-to.pubnation.com": "INACTIVE",
-            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
-            "tr.mobiadserv.com": "INACTIVE"
+            "report-ads-to.pubnation.com": "INACTIVE"
         },
         "1576162782": {
             "ads.sports.fr": "INACTIVE",
@@ -562,6 +547,25 @@
             "prm.europacash.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
+        },
+        "1576428862": {
+            "ads.iafrica.com": "INACTIVE",
+            "ads.justrelevant.com": "INACTIVE",
+            "ads.livescore.com": "INACTIVE",
+            "gw003.lphbs.com": "INACTIVE",
+            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
+            "internet.marsmediachannels.com": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE",
+            "webeffective.keynote.com": "INACTIVE",
+            "www.icentric.net": "INACTIVE",
+            "www.interstats.nl": "INACTIVE",
+            "www.ipstat.com": "INACTIVE"
+        },
+        "1576428863": {
+            "ad2.neodatagroup.com": "INACTIVE",
+            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
+            "tr.mobiadserv.com": "INACTIVE",
+            "www.mlclick.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
