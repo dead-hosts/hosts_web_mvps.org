@@ -1910,7 +1910,7 @@
         "state": "future"
     },
     "hitpro.us": {
-        "epoch": "1630454400",
+        "epoch": 1630454400.0,
         "expiration_date": "01-sep-2021",
         "state": "future"
     },
@@ -2005,7 +2005,7 @@
         "state": "future"
     },
     "iframes.us": {
-        "epoch": "1610064000",
+        "epoch": 1610064000.0,
         "expiration_date": "08-jan-2021",
         "state": "future"
     },
