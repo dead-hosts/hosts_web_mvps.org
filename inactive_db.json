@@ -18,27 +18,13 @@
             "advert.mediaswiss.rs": "INACTIVE"
         },
         "1576159870": {
-            "ads.recoletos.es": "INACTIVE",
-            "cdn.popwin.net": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "pxl.pmsrvr.com": "INACTIVE",
-            "report-ads-to.pubnation.com": "INACTIVE"
+            "ads.recoletos.es": "INACTIVE"
         },
         "1576162782": {
-            "ads.sports.fr": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "gbjfc.rsvpgenius.com": "INACTIVE",
-            "net.softonicads.com": "INACTIVE",
-            "netsr.softonicads.com": "INACTIVE",
-            "proxy.softonicads.com": "INACTIVE",
-            "t1.softonicads.com": "INACTIVE",
-            "web.softonic-analytics.net": "INACTIVE"
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE"
         },
         "1576162783": {
-            "banner.tonygpoker.com": "INACTIVE",
             "creativos.ads.uigc.net": "INACTIVE",
-            "dy.testnet.nl": "INACTIVE",
-            "j.theadsnet.com": "INACTIVE",
             "srv2.twittercounter.com": "INACTIVE",
             "www.top100.ro": "INACTIVE"
         },
@@ -566,6 +552,24 @@
             "sponsoredlinks.nationalgeographic.com": "INACTIVE",
             "tr.mobiadserv.com": "INACTIVE",
             "www.mlclick.com": "INACTIVE"
+        },
+        "1576430726": {
+            "cdn.popwin.net": "INACTIVE",
+            "pxl.pmsrvr.com": "INACTIVE"
+        },
+        "1576430727": {
+            "ads.sports.fr": "INACTIVE",
+            "banner.tonygpoker.com": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "dy.testnet.nl": "INACTIVE",
+            "gbjfc.rsvpgenius.com": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE",
+            "net.softonicads.com": "INACTIVE",
+            "netsr.softonicads.com": "INACTIVE",
+            "proxy.softonicads.com": "INACTIVE",
+            "report-ads-to.pubnation.com": "INACTIVE",
+            "t1.softonicads.com": "INACTIVE",
+            "web.softonic-analytics.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
