@@ -1,20 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576425123": {
-            "ads.afa.net": "INACTIVE",
-            "ads.baz.ch": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "assets.adtaily.com": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
-            "intext.billboard.cz": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE"
-        },
-        "1576425124": {
-            "stats.break.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE"
-        },
         "1576427429": {
             "ad.cmfu.com": "INACTIVE",
             "www.contextpanel.com": "INACTIVE"
@@ -553,6 +538,21 @@
             "stats.inist.fr": "INACTIVE",
             "top.easy.lv": "INACTIVE",
             "www.top100.ro": "INACTIVE"
+        },
+        "1576536927": {
+            "ads.afa.net": "INACTIVE",
+            "ads.baz.ch": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "assets.adtaily.com": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "intext.billboard.cz": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
+        },
+        "1576536928": {
+            "txads.buzzcity.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
