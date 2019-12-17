@@ -1,57 +1,10 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576433553": {
-            "sana.newsinc.com": "INACTIVE",
-            "static.adtaily.com": "INACTIVE"
-        },
-        "1576433554": {
-            "aka.accortech.com": "INACTIVE",
-            "aperture.displaymarketplace.com": "INACTIVE",
-            "cdn.optimatic.com": "INACTIVE",
-            "cdn2.adsdk.com": "INACTIVE",
-            "dmeserv.newsinc.com": "INACTIVE",
-            "edge.aperture.displaymarketplace.com": "INACTIVE",
-            "fast.twc.demdex.net": "INACTIVE",
-            "pixel.captora.com": "INACTIVE",
-            "rmd.atdmt.com": "INACTIVE",
-            "spd.atdmt.com": "INACTIVE",
-            "spe.atdmt.com": "INACTIVE",
-            "tiads.essence.com": "INACTIVE",
-            "traktr.news.com.au": "INACTIVE",
-            "vid.atdmt.com": "INACTIVE"
-        },
-        "1576433555": {
-            "a.company-target.com": "INACTIVE",
-            "adflash.affairsclub.com": "INACTIVE",
-            "ads.advertisespace.com": "INACTIVE",
-            "ads.skinected.com": "INACTIVE",
-            "adserv.roundrockmedia.com": "INACTIVE",
-            "beacon.jump-time.net": "INACTIVE",
-            "d3alqb8vzo7fun.cloudfront.net": "INACTIVE",
-            "go.goroost.com": "INACTIVE",
-            "img.pulsemgr.com": "INACTIVE",
-            "static.springmetrics.com": "INACTIVE",
-            "stream1.marketwatch.fyre.co": "INACTIVE",
-            "tracker.vinsight.de": "INACTIVE",
-            "tracking.optimatic.com": "INACTIVE",
-            "twc.demdex.net": "INACTIVE"
-        },
-        "1576433556": {
-            "a.komoona.com": "INACTIVE",
-            "adsys.adk2x.com": "INACTIVE",
-            "analytics.hgcdn.net": "INACTIVE",
-            "analytics.newsinc.com": "INACTIVE",
-            "data.apn.co.nz": "INACTIVE",
-            "i.trkjmp.com": "INACTIVE",
-            "ntracking.optimatic.com": "INACTIVE"
-        },
         "1576435127": {
-            "ac.eu.angsrvr.com": "INACTIVE",
             "adstract.adk2x.com": "INACTIVE",
             "c.newsinc.com": "INACTIVE",
             "cdn.accelerator.arsdev.net": "INACTIVE",
             "cdn.adtradr.com": "INACTIVE",
-            "cms.c1exchange.com": "INACTIVE",
             "d342r80tvdrdhm.cloudfront.net": "INACTIVE",
             "dc.widespace.com": "INACTIVE",
             "dckappa.widespace.com": "INACTIVE",
@@ -60,14 +13,12 @@
             "iau.adsiduous.com": "INACTIVE",
             "redirect.todayreward.net": "INACTIVE",
             "siniature.com": "INACTIVE",
-            "sy.eu.angsrvr.com": "INACTIVE",
             "t.acxiom-online.com": "INACTIVE",
             "track.todayreward.net": "INACTIVE",
             "www.apphostcapital.com": "INACTIVE",
             "www.applicationsdeliveryupdate.com": "INACTIVE",
             "www.bundlerepositorycontent.com": "INACTIVE",
             "www.chuckledeliveryhosting.com": "INACTIVE",
-            "www.giftfunnew.com": "INACTIVE",
             "www.mftracking.com": "INACTIVE",
             "www.vaultsappsbyte.com": "INACTIVE"
         },
@@ -549,6 +500,55 @@
             "feeds.weselltraffic.com": "INACTIVE",
             "gspro.adocean.pl": "INACTIVE",
             "intactro.adocean.pl": "INACTIVE"
+        },
+        "1576552809": {
+            "cdn.optimatic.com": "INACTIVE",
+            "sana.newsinc.com": "INACTIVE",
+            "static.adtaily.com": "INACTIVE"
+        },
+        "1576552810": {
+            "aka.accortech.com": "INACTIVE",
+            "aperture.displaymarketplace.com": "INACTIVE",
+            "cdn2.adsdk.com": "INACTIVE",
+            "dmeserv.newsinc.com": "INACTIVE",
+            "edge.aperture.displaymarketplace.com": "INACTIVE",
+            "fast.twc.demdex.net": "INACTIVE",
+            "pixel.captora.com": "INACTIVE",
+            "rmd.atdmt.com": "INACTIVE",
+            "spd.atdmt.com": "INACTIVE",
+            "spe.atdmt.com": "INACTIVE",
+            "stream1.marketwatch.fyre.co": "INACTIVE",
+            "tiads.essence.com": "INACTIVE",
+            "traktr.news.com.au": "INACTIVE",
+            "vid.atdmt.com": "INACTIVE"
+        },
+        "1576552811": {
+            "a.company-target.com": "INACTIVE",
+            "adflash.affairsclub.com": "INACTIVE",
+            "ads.advertisespace.com": "INACTIVE",
+            "ads.skinected.com": "INACTIVE",
+            "adserv.roundrockmedia.com": "INACTIVE",
+            "beacon.jump-time.net": "INACTIVE",
+            "d3alqb8vzo7fun.cloudfront.net": "INACTIVE",
+            "go.goroost.com": "INACTIVE",
+            "img.pulsemgr.com": "INACTIVE",
+            "static.springmetrics.com": "INACTIVE",
+            "tracker.vinsight.de": "INACTIVE",
+            "tracking.optimatic.com": "INACTIVE",
+            "twc.demdex.net": "INACTIVE"
+        },
+        "1576552812": {
+            "a.komoona.com": "INACTIVE",
+            "ac.eu.angsrvr.com": "INACTIVE",
+            "adsys.adk2x.com": "INACTIVE",
+            "analytics.hgcdn.net": "INACTIVE",
+            "analytics.newsinc.com": "INACTIVE",
+            "cms.c1exchange.com": "INACTIVE",
+            "data.apn.co.nz": "INACTIVE",
+            "i.trkjmp.com": "INACTIVE",
+            "ntracking.optimatic.com": "INACTIVE",
+            "sy.eu.angsrvr.com": "INACTIVE",
+            "www.giftfunnew.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
