@@ -1,22 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576427429": {
-            "ad.cmfu.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE"
-        },
-        "1576427430": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ads.gorillavid.in": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
-            "counter.goingup.com": "INACTIVE",
-            "hitwastedgarden.com": "INACTIVE",
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
         "1576428862": {
-            "ads.iafrica.com": "INACTIVE",
             "ads.justrelevant.com": "INACTIVE",
             "ads.livescore.com": "INACTIVE",
             "gw003.lphbs.com": "INACTIVE",
@@ -24,7 +8,6 @@
             "internet.marsmediachannels.com": "INACTIVE",
             "ms.ligatus.com": "INACTIVE",
             "webeffective.keynote.com": "INACTIVE",
-            "www.icentric.net": "INACTIVE",
             "www.interstats.nl": "INACTIVE",
             "www.ipstat.com": "INACTIVE"
         },
@@ -553,6 +536,21 @@
         },
         "1576536928": {
             "txads.buzzcity.com": "INACTIVE"
+        },
+        "1576543762": {
+            "ad.cmfu.com": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE",
+            "ads.gorillavid.in": "INACTIVE",
+            "ads.iafrica.com": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
+            "counter.goingup.com": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE",
+            "log.feedjit.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE",
+            "www.ellads.com": "INACTIVE",
+            "www.icentric.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
