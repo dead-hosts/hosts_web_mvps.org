@@ -1,21 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576573478": {
-            "adserve.cpmba.se": "INACTIVE"
-        },
-        "1576573480": {
-            "stats.snacktools.net": "INACTIVE",
-            "stats.vodpod.com": "INACTIVE"
-        },
-        "1576573481": {
-            "a.thoughtleadr.com": "INACTIVE",
-            "adv.elaana.com": "INACTIVE",
-            "cdn.tracking.bannerflow.com": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE"
-        },
-        "1576573483": {
-            "counter.sexsuche.tv": "INACTIVE"
-        },
         "1576574961": {
             "mm.chitika.net": "INACTIVE",
             "www.adszooks.com": "INACTIVE",
@@ -546,6 +530,22 @@
         "1576749455": {
             "banners.lativio.com": "INACTIVE",
             "www.adultlinksco.com": "INACTIVE"
+        },
+        "1576750125": {
+            "adserve.cpmba.se": "INACTIVE"
+        },
+        "1576750126": {
+            "stats.snacktools.net": "INACTIVE"
+        },
+        "1576750127": {
+            "a.thoughtleadr.com": "INACTIVE",
+            "adv.elaana.com": "INACTIVE",
+            "cdn.tracking.bannerflow.com": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE",
+            "stats.vodpod.com": "INACTIVE"
+        },
+        "1576750128": {
+            "counter.sexsuche.tv": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
