@@ -1,23 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576546079": {
-            "ad2.neodatagroup.com": "INACTIVE",
-            "ads.justrelevant.com": "INACTIVE",
-            "ads.livescore.com": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE",
-            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
-            "internet.marsmediachannels.com": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE",
-            "pxl.pmsrvr.com": "INACTIVE",
-            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
-            "tr.mobiadserv.com": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "www.interstats.nl": "INACTIVE",
-            "www.ipstat.com": "INACTIVE",
-            "www.mlclick.com": "INACTIVE"
-        },
         "1576548497": {
-            "cdn.popwin.net": "INACTIVE",
             "report-ads-to.pubnation.com": "INACTIVE"
         },
         "1576548498": {
@@ -557,6 +540,25 @@
             "prm.europacash.com": "INACTIVE",
             "www.ellads.com": "INACTIVE",
             "www.icentric.net": "INACTIVE"
+        },
+        "1576740098": {
+            "ads.justrelevant.com": "INACTIVE",
+            "ads.livescore.com": "INACTIVE",
+            "gw003.lphbs.com": "INACTIVE",
+            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
+            "internet.marsmediachannels.com": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE",
+            "webeffective.keynote.com": "INACTIVE",
+            "www.interstats.nl": "INACTIVE",
+            "www.ipstat.com": "INACTIVE"
+        },
+        "1576740099": {
+            "ad2.neodatagroup.com": "INACTIVE",
+            "cdn.popwin.net": "INACTIVE",
+            "pxl.pmsrvr.com": "INACTIVE",
+            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
+            "tr.mobiadserv.com": "INACTIVE",
+            "www.mlclick.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
