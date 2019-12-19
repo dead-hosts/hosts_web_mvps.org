@@ -1,38 +1,10 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576556342": {
-            "ads.asredas.com": "INACTIVE"
-        },
-        "1576556343": {
-            "ox.furaffinity.net": "INACTIVE"
-        },
-        "1576557787": {
-            "code.theads.me": "INACTIVE",
-            "jque.net": "INACTIVE",
-            "xpop.co": "INACTIVE"
-        },
-        "1576557788": {
-            "ad.trident.net": "INACTIVE",
-            "aj.600z.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE",
-            "cdn.directtrk.com": "INACTIVE",
-            "creative.clicksor.com": "INACTIVE",
-            "oasis.411affiliates.ca": "INACTIVE"
-        },
-        "1576557789": {
-            "mmm.vindy.com": "INACTIVE"
-        },
         "1576557790": {
             "adcdn.33universal.com": "INACTIVE",
-            "adv.0tub.com": "INACTIVE",
             "cdn1.skinected.com": "INACTIVE",
             "cdna.runadtag.com": "INACTIVE",
-            "cv.bsvideos.com": "INACTIVE",
-            "edge.ayboll.com": "INACTIVE",
-            "images.skenzo.com": "INACTIVE",
-            "img.skenzo.com": "INACTIVE",
-            "media.adxpansion.com": "INACTIVE",
-            "pics.skenzo.com": "INACTIVE"
+            "cv.bsvideos.com": "INACTIVE"
         },
         "1576562762": {
             "ad3.hornymatches.com": "INACTIVE"
@@ -557,6 +529,32 @@
             "pop.dnparking.com": "INACTIVE",
             "stats.dnparking.com": "INACTIVE",
             "vs.forbes.com": "INACTIVE"
+        },
+        "1576744613": {
+            "ads.asredas.com": "INACTIVE"
+        },
+        "1576744614": {
+            "cdn.directtrk.com": "INACTIVE",
+            "code.theads.me": "INACTIVE",
+            "jque.net": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE",
+            "xpop.co": "INACTIVE"
+        },
+        "1576744615": {
+            "ad.trident.net": "INACTIVE",
+            "aj.600z.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE",
+            "creative.clicksor.com": "INACTIVE",
+            "mmm.vindy.com": "INACTIVE",
+            "oasis.411affiliates.ca": "INACTIVE"
+        },
+        "1576744616": {
+            "adv.0tub.com": "INACTIVE",
+            "edge.ayboll.com": "INACTIVE",
+            "images.skenzo.com": "INACTIVE",
+            "img.skenzo.com": "INACTIVE",
+            "media.adxpansion.com": "INACTIVE",
+            "pics.skenzo.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
