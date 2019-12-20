@@ -1,59 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576752156": {
-            "oascentral.mochila.com": "INACTIVE",
-            "oascentral.nephrologynews.com": "INACTIVE",
-            "oascentral.recroom.com": "INACTIVE"
-        },
-        "1576752157": {
-            "track.ad4mmo.com": "INACTIVE"
-        },
-        "1576752748": {
-            "adserver1.realtracker.com": "INACTIVE",
-            "adserver2.realtracker.com": "INACTIVE",
-            "business.realtracker.com": "INACTIVE",
-            "clicks.beap.ad.yieldmanager.net": "INACTIVE",
-            "csc.beap.ad.yieldmanager.net": "INACTIVE",
-            "csc.beap.bc.yahoo.com": "INACTIVE",
-            "free.realtracker.com": "INACTIVE",
-            "free1.usa.realtracker.com": "INACTIVE",
-            "layout1.realtracker.com": "INACTIVE",
-            "project2.realtracker.com": "INACTIVE",
-            "talkcity.realtracker.com": "INACTIVE",
-            "tpl1.realtracker.com": "INACTIVE",
-            "tpl2.realtracker.com": "INACTIVE",
-            "web1.realtracker.com": "INACTIVE",
-            "web2.realtracker.com": "INACTIVE",
-            "www.mediahighway.net": "INACTIVE",
-            "www.realtracker.com": "INACTIVE"
-        },
-        "1576752749": {
-            "ads.adonion.com": "INACTIVE",
-            "ads.clicksor.com": "INACTIVE",
-            "main.clicksor.com": "INACTIVE",
-            "mci12.clicksor.com": "INACTIVE",
-            "search.clicksor.com": "INACTIVE",
-            "serw.clicksor.com": "INACTIVE",
-            "track.clicksor.com": "INACTIVE",
-            "www.clicksor.com": "INACTIVE"
-        },
-        "1576752802": {
-            "ads.btv.bg": "INACTIVE",
-            "ads.gladen.bg": "INACTIVE",
-            "ads.money.bg": "INACTIVE",
-            "ads.recoletos.es": "INACTIVE",
-            "ads10.gladen.bg": "INACTIVE",
-            "advert.mediaswiss.rs": "INACTIVE",
-            "as.ebz.io": "INACTIVE",
-            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
-            "media.intelia.it": "INACTIVE",
-            "ox.fashion.bg": "INACTIVE",
-            "rh.adscale.de": "INACTIVE",
-            "show.smartcontext.pl": "INACTIVE",
-            "stats.inist.fr": "INACTIVE",
-            "top.easy.lv": "INACTIVE",
-            "www.top100.ro": "INACTIVE"
-        },
         "1576837408": {
             "ads.afa.net": "INACTIVE",
             "ads.baz.ch": "INACTIVE",
@@ -542,6 +488,58 @@
             "rusads.toysrus.com": "INACTIVE",
             "zdf.ivwbox.de": "INACTIVE",
             "zeitonl.ivwbox.de": "INACTIVE"
+        },
+        "1576852581": {
+            "oascentral.mochila.com": "INACTIVE",
+            "oascentral.nephrologynews.com": "INACTIVE",
+            "oascentral.recroom.com": "INACTIVE"
+        },
+        "1576852582": {
+            "adserver1.realtracker.com": "INACTIVE",
+            "adserver2.realtracker.com": "INACTIVE",
+            "business.realtracker.com": "INACTIVE",
+            "clicks.beap.ad.yieldmanager.net": "INACTIVE",
+            "csc.beap.ad.yieldmanager.net": "INACTIVE",
+            "csc.beap.bc.yahoo.com": "INACTIVE",
+            "free.realtracker.com": "INACTIVE",
+            "free1.usa.realtracker.com": "INACTIVE",
+            "layout1.realtracker.com": "INACTIVE",
+            "project2.realtracker.com": "INACTIVE",
+            "talkcity.realtracker.com": "INACTIVE",
+            "tpl1.realtracker.com": "INACTIVE",
+            "tpl2.realtracker.com": "INACTIVE",
+            "track.ad4mmo.com": "INACTIVE",
+            "web1.realtracker.com": "INACTIVE",
+            "web2.realtracker.com": "INACTIVE",
+            "www.mediahighway.net": "INACTIVE",
+            "www.realtracker.com": "INACTIVE"
+        },
+        "1576852583": {
+            "ads.adonion.com": "INACTIVE",
+            "ads.clicksor.com": "INACTIVE",
+            "main.clicksor.com": "INACTIVE",
+            "mci12.clicksor.com": "INACTIVE",
+            "search.clicksor.com": "INACTIVE",
+            "serw.clicksor.com": "INACTIVE",
+            "track.clicksor.com": "INACTIVE",
+            "www.clicksor.com": "INACTIVE"
+        },
+        "1576852638": {
+            "ads.btv.bg": "INACTIVE",
+            "ads.gladen.bg": "INACTIVE",
+            "ads.money.bg": "INACTIVE",
+            "ads.recoletos.es": "INACTIVE",
+            "ads10.gladen.bg": "INACTIVE",
+            "advert.mediaswiss.rs": "INACTIVE",
+            "as.ebz.io": "INACTIVE",
+            "bbcdn.code.new.smartcontext.pl": "INACTIVE",
+            "media.intelia.it": "INACTIVE",
+            "ox.fashion.bg": "INACTIVE",
+            "rh.adscale.de": "INACTIVE",
+            "show.smartcontext.pl": "INACTIVE",
+            "stats.inist.fr": "INACTIVE",
+            "top.easy.lv": "INACTIVE",
+            "www.top100.ro": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
