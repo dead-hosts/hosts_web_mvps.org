@@ -1,33 +1,10 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576747374": {
-            "234x120.adv.vz.ru": "INACTIVE",
-            "tracking.bannerflow.com": "INACTIVE"
-        },
-        "1576747375": {
-            "be.nedstat.net": "INACTIVE",
-            "beta.galleries.paperstreetcash.com": "INACTIVE",
-            "es.nedstat.net": "INACTIVE",
-            "nedstat.nl": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE",
-            "www.99stats.com": "INACTIVE",
-            "www.nedstat.co.uk": "INACTIVE",
-            "www.nedstat.com": "INACTIVE",
-            "www.nedstat.nl": "INACTIVE",
-            "www.sitestat.com": "INACTIVE"
-        },
-        "1576747376": {
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.bg-mamma.com": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE"
-        },
         "1576748088": {
             "ad.u.nuggad.net": "INACTIVE",
             "ads.xxxbunker.com": "INACTIVE",
             "it.bannerout.com": "INACTIVE",
-            "medienhaus.nuggad.net": "INACTIVE",
-            "www.secure-processingcenter.com": "INACTIVE",
-            "www.zipitfast.com": "INACTIVE"
+            "medienhaus.nuggad.net": "INACTIVE"
         },
         "1576748090": {
             "hulu.112.2o7.net": "INACTIVE"
@@ -543,6 +520,28 @@
             "my.blueadvertise.com": "INACTIVE",
             "stat.ganbox.com": "INACTIVE",
             "track.make-a-site.net": "INACTIVE"
+        },
+        "1576847949": {
+            "234x120.adv.vz.ru": "INACTIVE",
+            "tracking.bannerflow.com": "INACTIVE"
+        },
+        "1576847950": {
+            "ads.bg-mamma.com": "INACTIVE",
+            "be.nedstat.net": "INACTIVE",
+            "es.nedstat.net": "INACTIVE",
+            "nedstat.nl": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE",
+            "www.99stats.com": "INACTIVE",
+            "www.nedstat.co.uk": "INACTIVE",
+            "www.nedstat.com": "INACTIVE",
+            "www.nedstat.nl": "INACTIVE",
+            "www.sitestat.com": "INACTIVE"
+        },
+        "1576847951": {
+            "ads.admaxasia.com": "INACTIVE",
+            "www.secure-processingcenter.com": "INACTIVE",
+            "www.zipitfast.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
