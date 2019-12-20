@@ -1,35 +1,11 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576744614": {
-            "cdn.directtrk.com": "INACTIVE",
-            "xpop.co": "INACTIVE"
-        },
-        "1576744615": {
-            "ad.trident.net": "INACTIVE",
-            "aj.600z.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE",
-            "creative.clicksor.com": "INACTIVE",
-            "mmm.vindy.com": "INACTIVE",
-            "oasis.411affiliates.ca": "INACTIVE"
-        },
-        "1576744616": {
-            "adv.0tub.com": "INACTIVE",
-            "edge.ayboll.com": "INACTIVE",
-            "images.skenzo.com": "INACTIVE",
-            "img.skenzo.com": "INACTIVE",
-            "media.adxpansion.com": "INACTIVE",
-            "pics.skenzo.com": "INACTIVE"
-        },
         "1576745299": {
             "2912a.v.fwmrm.net": "INACTIVE",
             "2915d.v.fwmrm.net": "INACTIVE",
             "2915dc.v.fwmrm.net": "INACTIVE",
             "ad3.hornymatches.com": "INACTIVE",
-            "adcdn.33universal.com": "INACTIVE",
             "bd0dc.v.fwmrm.net": "INACTIVE",
-            "cdn1.skinected.com": "INACTIVE",
-            "cdna.runadtag.com": "INACTIVE",
-            "cv.bsvideos.com": "INACTIVE",
             "rtb.metrigo.com": "INACTIVE",
             "www.tostadomedia.com": "INACTIVE"
         },
@@ -541,6 +517,30 @@
             "stats.dnparking.com": "INACTIVE",
             "t.cqq5id8n.com": "INACTIVE",
             "vs.forbes.com": "INACTIVE"
+        },
+        "1576845209": {
+            "ad.trident.net": "INACTIVE",
+            "aj.600z.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE",
+            "cdn.directtrk.com": "INACTIVE",
+            "creative.clicksor.com": "INACTIVE",
+            "oasis.411affiliates.ca": "INACTIVE",
+            "xpop.co": "INACTIVE"
+        },
+        "1576845210": {
+            "adv.0tub.com": "INACTIVE",
+            "edge.ayboll.com": "INACTIVE",
+            "images.skenzo.com": "INACTIVE",
+            "img.skenzo.com": "INACTIVE",
+            "media.adxpansion.com": "INACTIVE",
+            "mmm.vindy.com": "INACTIVE",
+            "pics.skenzo.com": "INACTIVE"
+        },
+        "1576845211": {
+            "adcdn.33universal.com": "INACTIVE",
+            "cdn1.skinected.com": "INACTIVE",
+            "cdna.runadtag.com": "INACTIVE",
+            "cv.bsvideos.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
