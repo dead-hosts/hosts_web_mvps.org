@@ -1,32 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576743933": {
-            "creative.xtendmedia.com": "INACTIVE",
-            "ds.keshet-i.com": "INACTIVE"
-        },
-        "1576743934": {
-            "ad.slutload.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.iwangmedia.com": "INACTIVE",
-            "ads.monogram.sk": "INACTIVE",
-            "ads.redtube.com": "INACTIVE",
-            "adserver.weakgame.com": "INACTIVE",
-            "banners.rexmag.com": "INACTIVE",
-            "hitx.waudit.cz": "INACTIVE",
-            "piwik.redtube.com": "INACTIVE",
-            "pop.dnparking.com": "INACTIVE",
-            "stats.dnparking.com": "INACTIVE",
-            "vs.forbes.com": "INACTIVE"
-        },
-        "1576744613": {
-            "ads.asredas.com": "INACTIVE"
-        },
         "1576744614": {
             "cdn.directtrk.com": "INACTIVE",
-            "code.theads.me": "INACTIVE",
-            "jque.net": "INACTIVE",
-            "ox.furaffinity.net": "INACTIVE",
             "xpop.co": "INACTIVE"
         },
         "1576744615": {
@@ -543,6 +518,29 @@
             "ads.pubsqrd.com": "INACTIVE",
             "ads.suite6ixty6ix.com": "INACTIVE",
             "adserver.veruta.com": "INACTIVE"
+        },
+        "1576844488": {
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.iwangmedia.com": "INACTIVE",
+            "ads.monogram.sk": "INACTIVE",
+            "creative.xtendmedia.com": "INACTIVE",
+            "ds.keshet-i.com": "INACTIVE",
+            "hitx.waudit.cz": "INACTIVE",
+            "piwik.redtube.com": "INACTIVE"
+        },
+        "1576844489": {
+            "ad.slutload.com": "INACTIVE",
+            "ads.asredas.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
+            "adserver.weakgame.com": "INACTIVE",
+            "code.theads.me": "INACTIVE",
+            "jque.net": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE",
+            "pop.dnparking.com": "INACTIVE",
+            "stats.dnparking.com": "INACTIVE",
+            "t.cqq5id8n.com": "INACTIVE",
+            "vs.forbes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
