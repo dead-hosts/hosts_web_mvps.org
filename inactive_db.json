@@ -1,20 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576849323": {
-            "metrics.dentonrc.com": "INACTIVE",
-            "viaquiz.112.2o7.net": "INACTIVE"
-        },
-        "1576849324": {
-            "data.ritzcarlton.com": "INACTIVE",
-            "metrics.nola.com": "INACTIVE",
-            "stats.mvilivestats.com": "INACTIVE",
-            "stats.style.com": "INACTIVE"
-        },
-        "1576849325": {
-            "a.bizarremag.com": "INACTIVE",
-            "b.computerworlduk.com": "INACTIVE",
-            "srv2.admedit.me": "INACTIVE"
-        },
         "1576849327": {
             "ads1.nexdra.com": "INACTIVE"
         },
@@ -495,6 +480,18 @@
         },
         "1576998673": {
             "thayhoteldelcoronado.112.2o7.net": "INACTIVE"
+        },
+        "1576999389": {
+            "data.ritzcarlton.com": "INACTIVE",
+            "metrics.dentonrc.com": "INACTIVE",
+            "metrics.nola.com": "INACTIVE",
+            "stats.mvilivestats.com": "INACTIVE",
+            "stats.style.com": "INACTIVE"
+        },
+        "1576999390": {
+            "a.bizarremag.com": "INACTIVE",
+            "b.computerworlduk.com": "INACTIVE",
+            "srv2.admedit.me": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
