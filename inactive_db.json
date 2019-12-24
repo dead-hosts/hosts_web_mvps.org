@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576890613": {
-            "feed.validclick.com": "INACTIVE"
-        },
         "1576892680": {
             "www.antaraimedia.com": "INACTIVE",
             "www.glxgroup.com": "INACTIVE"
@@ -20,16 +17,10 @@
         "1576997966": {
             "a.company-target.com": "INACTIVE",
             "a.komoona.com": "INACTIVE",
-            "ab.vendemore.com": "INACTIVE",
             "ac.eu.angsrvr.com": "INACTIVE",
             "adflash.affairsclub.com": "INACTIVE",
-            "ads.24.com": "INACTIVE",
             "ads.advertisespace.com": "INACTIVE",
             "ads.skinected.com": "INACTIVE",
-            "ads.urlfan.com": "INACTIVE",
-            "ads.xtargeting.com": "INACTIVE",
-            "ads.zamunda.net": "INACTIVE",
-            "ads2.zamunda.net": "INACTIVE",
             "adserv.roundrockmedia.com": "INACTIVE",
             "adstract.adk2x.com": "INACTIVE",
             "adsys.adk2x.com": "INACTIVE",
@@ -37,8 +28,6 @@
             "analytics.hgcdn.net": "INACTIVE",
             "analytics.newsinc.com": "INACTIVE",
             "aperture.displaymarketplace.com": "INACTIVE",
-            "apibeta.zeti.com": "INACTIVE",
-            "banners.weselltraffic.com": "INACTIVE",
             "beacon.jump-time.net": "INACTIVE",
             "c.newsinc.com": "INACTIVE",
             "cdn.accelerator.arsdev.net": "INACTIVE",
@@ -46,7 +35,6 @@
             "cdn2.adsdk.com": "INACTIVE",
             "clicks.weselltraffic.com": "INACTIVE",
             "cms.c1exchange.com": "INACTIVE",
-            "creativos.ads.uigc.net": "INACTIVE",
             "d3alqb8vzo7fun.cloudfront.net": "INACTIVE",
             "data.apn.co.nz": "INACTIVE",
             "dc.widespace.com": "INACTIVE",
@@ -67,18 +55,15 @@
             "redirect.todayreward.net": "INACTIVE",
             "rmd.atdmt.com": "INACTIVE",
             "sana.newsinc.com": "INACTIVE",
-            "secure.webresint.com": "INACTIVE",
             "siniature.com": "INACTIVE",
             "spd.atdmt.com": "INACTIVE",
             "spe.atdmt.com": "INACTIVE",
-            "srv2.twittercounter.com": "INACTIVE",
             "static.adtaily.com": "INACTIVE",
             "static.springmetrics.com": "INACTIVE",
             "stream1.marketwatch.fyre.co": "INACTIVE",
             "sy.eu.angsrvr.com": "INACTIVE",
             "t.acxiom-online.com": "INACTIVE",
             "tiads.essence.com": "INACTIVE",
-            "track.lativio.com": "INACTIVE",
             "track.todayreward.net": "INACTIVE",
             "tracker.vinsight.de": "INACTIVE",
             "tracking.optimatic.com": "INACTIVE",
@@ -90,8 +75,7 @@
             "www.bundlerepositorycontent.com": "INACTIVE",
             "www.chuckledeliveryhosting.com": "INACTIVE",
             "www.giftfunnew.com": "INACTIVE",
-            "www.mftracking.com": "INACTIVE",
-            "www.yourhitstats.com": "INACTIVE"
+            "www.mftracking.com": "INACTIVE"
         },
         "1576997967": {
             "ad.slutload.com": "INACTIVE",
@@ -511,6 +495,25 @@
             "t1.softonicads.com": "INACTIVE",
             "web.softonic-analytics.net": "INACTIVE",
             "www.trafficcenter.de": "INACTIVE"
+        },
+        "1577174859": {
+            "srv2.twittercounter.com": "INACTIVE"
+        },
+        "1577174860": {
+            "ab.vendemore.com": "INACTIVE",
+            "ads.24.com": "INACTIVE",
+            "ads.urlfan.com": "INACTIVE",
+            "ads.xtargeting.com": "INACTIVE",
+            "ads.zamunda.net": "INACTIVE",
+            "ads2.zamunda.net": "INACTIVE",
+            "apibeta.zeti.com": "INACTIVE",
+            "creativos.ads.uigc.net": "INACTIVE",
+            "secure.webresint.com": "INACTIVE",
+            "track.lativio.com": "INACTIVE",
+            "www.yourhitstats.com": "INACTIVE"
+        },
+        "1577174861": {
+            "banners.weselltraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
