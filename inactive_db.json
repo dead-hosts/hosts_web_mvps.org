@@ -1,69 +1,38 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1576898662": {
-            "4488352.fls.doubleclick.net": "INACTIVE",
-            "banner.finzoom.ro": "INACTIVE"
-        },
         "1576901798": {
             "aolwbautoblog.122.2o7.net": "INACTIVE"
         },
         "1576901799": {
             "gourmetgiftbaskets.112.2o7.net": "INACTIVE"
         },
-        "1576998670": {
-            "ad3.hornymatches.com": "INACTIVE",
-            "adcdn.33universal.com": "INACTIVE",
-            "cv.bsvideos.com": "INACTIVE",
-            "rtb.metrigo.com": "INACTIVE",
-            "www.tostadomedia.com": "INACTIVE"
-        },
         "1576998671": {
             "234x120.adv.vz.ru": "INACTIVE",
-            "2912a.v.fwmrm.net": "INACTIVE",
-            "2915d.v.fwmrm.net": "INACTIVE",
-            "2915dc.v.fwmrm.net": "INACTIVE",
             "ad.db3nf.com": "INACTIVE",
             "ad.u.nuggad.net": "INACTIVE",
             "adds.misiamoiatdom.com": "INACTIVE",
             "ads.admaxasia.com": "INACTIVE",
-            "ads.betanews.com": "INACTIVE",
             "ads.bg-mamma.com": "INACTIVE",
             "ads.itmcash.com": "INACTIVE",
             "ads.mixbg.net": "INACTIVE",
             "ads.p.veruta.com": "INACTIVE",
-            "ads.pornerbros.com": "INACTIVE",
-            "ads.sxx.com": "INACTIVE",
             "ads.xxxbunker.com": "INACTIVE",
             "adserver2.blueadvertise.com": "INACTIVE",
-            "adsrvmedia.adk2x.com": "INACTIVE",
-            "api.7segments.com": "INACTIVE",
-            "babanetwork.adk2x.com": "INACTIVE",
             "banners.directnic.com": "INACTIVE",
-            "bd0dc.v.fwmrm.net": "INACTIVE",
             "be.nedstat.net": "INACTIVE",
             "c7.adforgeinc.com": "INACTIVE",
             "cbpublishing.blueadvertise.com": "INACTIVE",
             "cdxninteractive.blueadvertise.com": "INACTIVE",
-            "clic2pub.adk2x.com": "INACTIVE",
             "content.ipro.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
             "creditburner.blueadvertise.com": "INACTIVE",
-            "cs1.adxpansion.com": "INACTIVE",
-            "delivery1.topad.mobi": "INACTIVE",
-            "dev.media.adxpansion.com": "INACTIVE",
-            "dft.cl.dynad.net": "INACTIVE",
             "dnads.directnic.com": "INACTIVE",
-            "domains.googlesyndication.com": "INACTIVE",
             "es.nedstat.net": "INACTIVE",
             "exityield.advertise.com": "INACTIVE",
             "feed.peakclick.com": "INACTIVE",
-            "gotagy.adk2x.com": "INACTIVE",
-            "hlamedia.adk2x.com": "INACTIVE",
             "images.parked.com": "INACTIVE",
             "it.bannerout.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE",
             "keisu02.eproof.com": "INACTIVE",
-            "m.usersonline.com": "INACTIVE",
             "medienhaus.nuggad.net": "INACTIVE",
             "mf.sitescout.com": "INACTIVE",
             "moo.sitescout.com": "INACTIVE",
@@ -74,7 +43,6 @@
             "stats.directnic.com": "INACTIVE",
             "track.make-a-site.net": "INACTIVE",
             "tracking.bannerflow.com": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE",
             "uk.nedstat.net": "INACTIVE",
             "usa.nedstat.net": "INACTIVE",
             "utm.cursormania.com": "INACTIVE",
@@ -98,7 +66,6 @@
             "utmtrk2.smileycentral.com": "INACTIVE",
             "vom.sitescout.com": "INACTIVE",
             "wam-ads.sitescout.com": "INACTIVE",
-            "wmedia.adk2x.com": "INACTIVE",
             "www.99stats.com": "INACTIVE",
             "www.ipcounter.de": "INACTIVE",
             "www.nedstat.co.uk": "INACTIVE",
@@ -107,9 +74,7 @@
             "www.secure-processingcenter.com": "INACTIVE",
             "www.sitestat.com": "INACTIVE",
             "www.yourdedicatedhost.com": "INACTIVE",
-            "www.zipitfast.com": "INACTIVE",
-            "www7.securybrowse.com": "INACTIVE",
-            "yepdigital.adk2x.com": "INACTIVE"
+            "www.zipitfast.com": "INACTIVE"
         },
         "1576998673": {
             "thayhoteldelcoronado.112.2o7.net": "INACTIVE"
@@ -532,6 +497,44 @@
         "1577177980": {
             "cdn1.skinected.com": "INACTIVE",
             "cdna.runadtag.com": "INACTIVE"
+        },
+        "1577178660": {
+            "2915d.v.fwmrm.net": "INACTIVE",
+            "2915dc.v.fwmrm.net": "INACTIVE",
+            "ad3.hornymatches.com": "INACTIVE",
+            "adcdn.33universal.com": "INACTIVE",
+            "bd0dc.v.fwmrm.net": "INACTIVE",
+            "cv.bsvideos.com": "INACTIVE",
+            "rtb.metrigo.com": "INACTIVE",
+            "www.tostadomedia.com": "INACTIVE"
+        },
+        "1577178661": {
+            "2912a.v.fwmrm.net": "INACTIVE",
+            "ads.pornerbros.com": "INACTIVE",
+            "ads.sxx.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
+            "cs1.adxpansion.com": "INACTIVE",
+            "dev.media.adxpansion.com": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1577178662": {
+            "ads.betanews.com": "INACTIVE",
+            "adsrvmedia.adk2x.com": "INACTIVE",
+            "babanetwork.adk2x.com": "INACTIVE",
+            "clic2pub.adk2x.com": "INACTIVE",
+            "dft.cl.dynad.net": "INACTIVE",
+            "gotagy.adk2x.com": "INACTIVE",
+            "hlamedia.adk2x.com": "INACTIVE",
+            "m.usersonline.com": "INACTIVE",
+            "wmedia.adk2x.com": "INACTIVE",
+            "www.digiaquascr.com": "INACTIVE",
+            "www7.securybrowse.com": "INACTIVE",
+            "yepdigital.adk2x.com": "INACTIVE"
+        },
+        "1577178663": {
+            "api.7segments.com": "INACTIVE",
+            "delivery1.topad.mobi": "INACTIVE",
+            "domains.googlesyndication.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
