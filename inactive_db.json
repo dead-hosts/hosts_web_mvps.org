@@ -13,33 +13,17 @@
         "1576997967": {
             "ad.slutload.com": "INACTIVE",
             "ad.trident.net": "INACTIVE",
-            "adan.xtendmedia.com": "INACTIVE",
             "ads.asredas.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE",
-            "ads.clicmanager.fr": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.iwangmedia.com": "INACTIVE",
-            "ads.monogram.sk": "INACTIVE",
-            "ads.pubsqrd.com": "INACTIVE",
             "ads.redtube.com": "INACTIVE",
-            "ads.suite6ixty6ix.com": "INACTIVE",
-            "adserver.veruta.com": "INACTIVE",
             "adserver.weakgame.com": "INACTIVE",
             "aj.600z.com": "INACTIVE",
             "cdn.directtrk.com": "INACTIVE",
             "code.theads.me": "INACTIVE",
             "creative.clicksor.com": "INACTIVE",
-            "creative.xtendmedia.com": "INACTIVE",
-            "ds.keshet-i.com": "INACTIVE",
-            "hitx.waudit.cz": "INACTIVE",
             "jque.net": "INACTIVE",
             "oasis.411affiliates.ca": "INACTIVE",
             "ox.furaffinity.net": "INACTIVE",
-            "piwik.redtube.com": "INACTIVE",
-            "pop.dnparking.com": "INACTIVE",
-            "stats.dnparking.com": "INACTIVE",
             "t.cqq5id8n.com": "INACTIVE",
-            "vs.forbes.com": "INACTIVE",
             "xpop.co": "INACTIVE"
         },
         "1576998670": {
@@ -520,6 +504,28 @@
             "logv15.xiti.com": "INACTIVE",
             "pix.pulsemgr.com": "INACTIVE",
             "snwmedia.adk2x.com": "INACTIVE"
+        },
+        "1577177286": {
+            "adan.xtendmedia.com": "INACTIVE",
+            "ads.clicmanager.fr": "INACTIVE",
+            "ads.pubsqrd.com": "INACTIVE",
+            "ads.suite6ixty6ix.com": "INACTIVE",
+            "adserver.veruta.com": "INACTIVE"
+        },
+        "1577177287": {
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.iwangmedia.com": "INACTIVE",
+            "ads.monogram.sk": "INACTIVE",
+            "creative.xtendmedia.com": "INACTIVE",
+            "ds.keshet-i.com": "INACTIVE",
+            "hitx.waudit.cz": "INACTIVE",
+            "piwik.redtube.com": "INACTIVE"
+        },
+        "1577177288": {
+            "ads.forbes.com": "INACTIVE",
+            "pop.dnparking.com": "INACTIVE",
+            "stats.dnparking.com": "INACTIVE",
+            "vs.forbes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
