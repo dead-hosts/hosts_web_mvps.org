@@ -23,25 +23,14 @@
         "1576997965": {
             "ad.cmfu.com": "INACTIVE",
             "ad1.emediate.dk": "INACTIVE",
-            "ads.afa.net": "INACTIVE",
-            "ads.baz.ch": "INACTIVE",
             "ads.gorillavid.in": "INACTIVE",
             "ads.iafrica.com": "INACTIVE",
             "ads.justrelevant.com": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "assets.adtaily.com": "INACTIVE",
             "count.dba.dk": "INACTIVE",
             "counter.goingup.com": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE",
-            "intext.billboard.cz": "INACTIVE",
             "log.feedjit.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
             "prm.europacash.com": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE",
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE",
@@ -498,6 +487,22 @@
             "ox.fashion.bg": "INACTIVE",
             "rh.adscale.de": "INACTIVE",
             "show.smartcontext.pl": "INACTIVE"
+        },
+        "1577170872": {
+            "ads.afa.net": "INACTIVE",
+            "ads.baz.ch": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "assets.adtaily.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "show.adzpower.com": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
+        },
+        "1577170873": {
+            "go.idnes.bbelements.com": "INACTIVE",
+            "intext.billboard.cz": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
