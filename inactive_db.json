@@ -1,32 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577180711": {
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.bg-mamma.com": "INACTIVE",
-            "be.nedstat.net": "INACTIVE",
-            "es.nedstat.net": "INACTIVE",
-            "nedstat.nl": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE",
-            "www.99stats.com": "INACTIVE",
-            "www.nedstat.co.uk": "INACTIVE",
-            "www.nedstat.com": "INACTIVE",
-            "www.nedstat.nl": "INACTIVE",
-            "www.sitestat.com": "INACTIVE"
-        },
-        "1577181393": {
-            "ad.u.nuggad.net": "INACTIVE",
-            "www.secure-processingcenter.com": "INACTIVE",
-            "www.zipitfast.com": "INACTIVE"
-        },
-        "1577181394": {
-            "ads.xxxbunker.com": "INACTIVE",
-            "it.bannerout.com": "INACTIVE",
-            "medienhaus.nuggad.net": "INACTIVE"
-        },
-        "1577181395": {
-            "chghowardjohnson.112.2o7.net": "INACTIVE"
-        },
         "1577181396": {
             "jiwtmj.122.2o7.net": "INACTIVE",
             "jmsyap.112.2o7.net": "INACTIVE"
@@ -552,6 +525,30 @@
         },
         "1577352811": {
             "tracking.bannerflow.com": "INACTIVE"
+        },
+        "1577353492": {
+            "be.nedstat.net": "INACTIVE",
+            "es.nedstat.net": "INACTIVE",
+            "nedstat.nl": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE",
+            "www.99stats.com": "INACTIVE",
+            "www.nedstat.co.uk": "INACTIVE",
+            "www.nedstat.com": "INACTIVE",
+            "www.nedstat.nl": "INACTIVE",
+            "www.sitestat.com": "INACTIVE"
+        },
+        "1577353493": {
+            "ads.admaxasia.com": "INACTIVE",
+            "ads.bg-mamma.com": "INACTIVE",
+            "www.secure-processingcenter.com": "INACTIVE",
+            "www.zipitfast.com": "INACTIVE"
+        },
+        "1577353494": {
+            "ad.u.nuggad.net": "INACTIVE",
+            "ads.xxxbunker.com": "INACTIVE",
+            "it.bannerout.com": "INACTIVE",
+            "medienhaus.nuggad.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
