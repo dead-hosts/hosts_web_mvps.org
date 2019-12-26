@@ -1,14 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577184154": {
-            "core.bluefly.com": "INACTIVE",
-            "free-stats.i8.com": "INACTIVE",
-            "site-stats.i8.com": "INACTIVE"
-        },
-        "1577184852": {
-            "realtime.deximedia.com": "INACTIVE",
-            "xml.quiveradnet.com": "INACTIVE"
-        },
         "1577184853": {
             "ctix8.cheaptickets.com": "INACTIVE"
         },
@@ -544,6 +535,17 @@
             "aff.primaryads.com": "INACTIVE",
             "images.primaryads.com": "INACTIVE",
             "www.theaffiliateprogram.com": "INACTIVE"
+        },
+        "1577358798": {
+            "free-stats.i8.com": "INACTIVE",
+            "site-stats.i8.com": "INACTIVE"
+        },
+        "1577358799": {
+            "core.bluefly.com": "INACTIVE"
+        },
+        "1577358805": {
+            "realtime.deximedia.com": "INACTIVE",
+            "xml.quiveradnet.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
