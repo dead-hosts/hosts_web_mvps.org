@@ -1,31 +1,11 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577173686": {
-            "ads.sports.fr": "INACTIVE",
-            "banner.tonygpoker.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "dy.testnet.nl": "INACTIVE",
-            "gbjfc.rsvpgenius.com": "INACTIVE",
-            "j.theadsnet.com": "INACTIVE",
-            "net.softonicads.com": "INACTIVE",
-            "netsr.softonicads.com": "INACTIVE",
-            "proxy.softonicads.com": "INACTIVE",
-            "t1.softonicads.com": "INACTIVE",
-            "web.softonic-analytics.net": "INACTIVE",
-            "www.trafficcenter.de": "INACTIVE"
-        },
-        "1577174859": {
-            "srv2.twittercounter.com": "INACTIVE"
-        },
         "1577174860": {
-            "ab.vendemore.com": "INACTIVE",
             "ads.24.com": "INACTIVE",
-            "ads.urlfan.com": "INACTIVE",
             "ads.xtargeting.com": "INACTIVE",
             "ads.zamunda.net": "INACTIVE",
             "ads2.zamunda.net": "INACTIVE",
             "apibeta.zeti.com": "INACTIVE",
-            "creativos.ads.uigc.net": "INACTIVE",
             "secure.webresint.com": "INACTIVE",
             "track.lativio.com": "INACTIVE",
             "www.yourhitstats.com": "INACTIVE"
@@ -552,6 +532,24 @@
             "tr.mobiadserv.com": "INACTIVE",
             "webeffective.keynote.com": "INACTIVE",
             "www.mlclick.com": "INACTIVE"
+        },
+        "1577346656": {
+            "count.rbc.ru": "INACTIVE"
+        },
+        "1577346657": {
+            "ab.vendemore.com": "INACTIVE",
+            "ads.sports.fr": "INACTIVE",
+            "ads.urlfan.com": "INACTIVE",
+            "banner.tonygpoker.com": "INACTIVE",
+            "creativos.ads.uigc.net": "INACTIVE",
+            "dy.testnet.nl": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE",
+            "net.softonicads.com": "INACTIVE",
+            "netsr.softonicads.com": "INACTIVE",
+            "proxy.softonicads.com": "INACTIVE",
+            "srv2.twittercounter.com": "INACTIVE",
+            "t1.softonicads.com": "INACTIVE",
+            "web.softonic-analytics.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
