@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577356532": {
-            "ad3.rambler.ru": "INACTIVE",
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "info-images.rambler.ru": "INACTIVE"
-        },
-        "1577356533": {
-            "banners.lativio.com": "INACTIVE",
-            "track1.breakmedia.com": "INACTIVE",
-            "www.adultlinksco.com": "INACTIVE"
-        },
-        "1577356534": {
-            "adserve.cpmba.se": "INACTIVE"
-        },
-        "1577356535": {
-            "stats.snacktools.net": "INACTIVE"
-        },
-        "1577357865": {
-            "a.thoughtleadr.com": "INACTIVE",
-            "adv.elaana.com": "INACTIVE",
-            "cdn.tracking.bannerflow.com": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE",
-            "stats.vodpod.com": "INACTIVE"
-        },
         "1577357866": {
             "counter.sexsuche.tv": "INACTIVE"
         },
@@ -534,6 +510,30 @@
         },
         "1577527448": {
             "seomatrix.webtrackingservices.com": "INACTIVE"
+        },
+        "1577528138": {
+            "ad3.rambler.ru": "INACTIVE",
+            "info-images.rambler.ru": "INACTIVE"
+        },
+        "1577528139": {
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE",
+            "banners.lativio.com": "INACTIVE",
+            "track1.breakmedia.com": "INACTIVE",
+            "www.adultlinksco.com": "INACTIVE"
+        },
+        "1577528140": {
+            "adserve.cpmba.se": "INACTIVE"
+        },
+        "1577528141": {
+            "a.thoughtleadr.com": "INACTIVE",
+            "adv.elaana.com": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE",
+            "stats.snacktools.net": "INACTIVE",
+            "stats.vodpod.com": "INACTIVE"
+        },
+        "1577528142": {
+            "cdn.tracking.bannerflow.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
