@@ -1,27 +1,10 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577354901": {
-            "ads1.nexdra.com": "INACTIVE",
-            "static.meteorsolutions.com": "INACTIVE"
-        },
-        "1577354902": {
-            "ads.purefuck.com": "INACTIVE",
-            "cg-global.maxymiser.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE"
-        },
-        "1577354903": {
-            "ads.vimg.net": "INACTIVE",
-            "banners.easydns.com": "INACTIVE"
-        },
-        "1577356531": {
-            "pixel.parsely.com": "INACTIVE"
-        },
         "1577356532": {
             "ad3.rambler.ru": "INACTIVE",
             "ads.amateurmatch.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
-            "info-images.rambler.ru": "INACTIVE",
-            "seomatrix.webtrackingservices.com": "INACTIVE"
+            "info-images.rambler.ru": "INACTIVE"
         },
         "1577356533": {
             "banners.lativio.com": "INACTIVE",
@@ -534,6 +517,23 @@
             "data.ritzcarlton.com": "INACTIVE",
             "srv2.admedit.me": "INACTIVE",
             "stats.style.com": "INACTIVE"
+        },
+        "1577527445": {
+            "ads1.nexdra.com": "INACTIVE",
+            "static.meteorsolutions.com": "INACTIVE"
+        },
+        "1577527446": {
+            "ads.purefuck.com": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE"
+        },
+        "1577527447": {
+            "ads.vimg.net": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "pixel.parsely.com": "INACTIVE"
+        },
+        "1577527448": {
+            "seomatrix.webtrackingservices.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
