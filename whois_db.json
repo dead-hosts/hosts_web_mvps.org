@@ -2565,8 +2565,8 @@
         "state": "future"
     },
     "ntweb.org": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "nxtck.com": {
@@ -2672,7 +2672,7 @@
     "otracking.com": {
         "epoch": 1577491200.0,
         "expiration_date": "28-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "outwar.com": {
         "epoch": "1635552000",
