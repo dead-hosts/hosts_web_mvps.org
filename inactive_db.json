@@ -1,48 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577351440": {
-            "banners.directnic.com": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE",
-            "images.parked.com": "INACTIVE",
-            "stats.directnic.com": "INACTIVE"
-        },
-        "1577352123": {
-            "ads.mixbg.net": "INACTIVE",
-            "ka.bar.need2find.com": "INACTIVE",
-            "keisu02.eproof.com": "INACTIVE",
-            "utm.cursormania.com": "INACTIVE",
-            "utm.myfuncards.com": "INACTIVE",
-            "utm.myway.com": "INACTIVE",
-            "utm.popswatter.com": "INACTIVE",
-            "utm.popularscreensavers.com": "INACTIVE",
-            "utm.smileycentral.com": "INACTIVE",
-            "utm.trk.cursormania.com": "INACTIVE",
-            "utm.trk.excite.com": "INACTIVE",
-            "utm.trk.myfuncards.com": "INACTIVE",
-            "utm.trk.myway.com": "INACTIVE",
-            "utm.trk.popswatter.com": "INACTIVE",
-            "utm.trk.popularscreensavers.com": "INACTIVE",
-            "utm.trk.smileycentral.com": "INACTIVE",
-            "utm.trk.webfetti.com": "INACTIVE",
-            "utm.trk.zwinky.com": "INACTIVE",
-            "utm.webfetti.com": "INACTIVE",
-            "utm.zwinky.com": "INACTIVE",
-            "utm2.smileycentral.com": "INACTIVE",
-            "utmtrk2.smileycentral.com": "INACTIVE"
-        },
-        "1577352124": {
-            "ads.p.veruta.com": "INACTIVE",
-            "banners.thiswillshockyou.com": "INACTIVE",
-            "feed.peakclick.com": "INACTIVE",
-            "mf.sitescout.com": "INACTIVE",
-            "moo.sitescout.com": "INACTIVE",
-            "vom.sitescout.com": "INACTIVE",
-            "wam-ads.sitescout.com": "INACTIVE"
-        },
         "1577352125": {
             "static.unister-adservices.com": "INACTIVE",
-            "www.ipcounter.de": "INACTIVE",
-            "www.yourdedicatedhost.com": "INACTIVE"
+            "www.ipcounter.de": "INACTIVE"
         },
         "1577352809": {
             "ads.itmcash.com": "INACTIVE",
@@ -541,6 +501,46 @@
             "ad.db3nf.com": "INACTIVE",
             "banner.finzoom.ro": "INACTIVE",
             "c7.adforgeinc.com": "INACTIVE"
+        },
+        "1577524542": {
+            "ads.mixbg.net": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE",
+            "images.parked.com": "INACTIVE",
+            "stats.directnic.com": "INACTIVE"
+        },
+        "1577524543": {
+            "ads.p.veruta.com": "INACTIVE",
+            "ka.bar.need2find.com": "INACTIVE",
+            "keisu02.eproof.com": "INACTIVE",
+            "utm.cursormania.com": "INACTIVE",
+            "utm.myfuncards.com": "INACTIVE",
+            "utm.myway.com": "INACTIVE",
+            "utm.popswatter.com": "INACTIVE",
+            "utm.popularscreensavers.com": "INACTIVE",
+            "utm.smileycentral.com": "INACTIVE",
+            "utm.trk.cursormania.com": "INACTIVE",
+            "utm.trk.excite.com": "INACTIVE",
+            "utm.trk.myfuncards.com": "INACTIVE",
+            "utm.trk.myway.com": "INACTIVE",
+            "utm.trk.popswatter.com": "INACTIVE",
+            "utm.trk.popularscreensavers.com": "INACTIVE",
+            "utm.trk.smileycentral.com": "INACTIVE",
+            "utm.trk.webfetti.com": "INACTIVE",
+            "utm.trk.zwinky.com": "INACTIVE",
+            "utm.webfetti.com": "INACTIVE",
+            "utm.zwinky.com": "INACTIVE",
+            "utm2.smileycentral.com": "INACTIVE",
+            "utmtrk2.smileycentral.com": "INACTIVE"
+        },
+        "1577524544": {
+            "banners.thiswillshockyou.com": "INACTIVE",
+            "feed.peakclick.com": "INACTIVE",
+            "mf.sitescout.com": "INACTIVE",
+            "moo.sitescout.com": "INACTIVE",
+            "vom.sitescout.com": "INACTIVE",
+            "wam-ads.sitescout.com": "INACTIVE",
+            "www.yourdedicatedhost.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
