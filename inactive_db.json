@@ -1,64 +1,9 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577349357": {
-            "cdn.yldbt.com": "INACTIVE",
-            "d342r80tvdrdhm.cloudfront.net": "INACTIVE",
-            "files.native.ad": "INACTIVE",
-            "i.yldbt.com": "INACTIVE"
-        },
-        "1577349358": {
-            "adg.bzgint.com": "INACTIVE",
-            "admaven.adk2x.com": "INACTIVE",
-            "ads.groupcommerce.com": "INACTIVE",
-            "adserver.advertisespace.com": "INACTIVE",
-            "adstrac.adk2x.com": "INACTIVE",
-            "adweb1.hornymatches.com": "INACTIVE",
-            "adweb2.hornymatches.com": "INACTIVE",
-            "analytics.revee.com": "INACTIVE",
-            "app.ubertags.com": "INACTIVE",
-            "as.eu.angsrvr.com": "INACTIVE",
-            "beacon.guim.co.uk": "INACTIVE",
-            "beacon.jumptime.com": "INACTIVE",
-            "cache.btrll.com": "INACTIVE",
-            "d.lumatag.co.uk": "INACTIVE",
-            "dynamic.cannedbanners.com": "INACTIVE",
-            "gbanners.hornymatches.com": "INACTIVE",
-            "s.cxt.ms": "INACTIVE",
-            "snwmedia.adk2x.com": "INACTIVE",
-            "timeseg.modules.jumptime.com": "INACTIVE",
-            "vast.optimatic.com": "INACTIVE"
-        },
-        "1577349359": {
-            "adan.xtendmedia.com": "INACTIVE",
-            "ads.clicmanager.fr": "INACTIVE",
-            "ads.pubsqrd.com": "INACTIVE",
-            "ads.suite6ixty6ix.com": "INACTIVE",
-            "adserver.veruta.com": "INACTIVE",
-            "bf.mocda1.com": "INACTIVE",
-            "cdn.qbaka.net": "INACTIVE",
-            "gdyn.nascar.com": "INACTIVE",
-            "hiq.fotolog.com": "INACTIVE",
-            "logc111.xiti.com": "INACTIVE",
-            "logc138.xiti.com": "INACTIVE",
-            "logc15.xiti.com": "INACTIVE",
-            "logc16.xiti.com": "INACTIVE",
-            "logc175.xiti.com": "INACTIVE",
-            "logc19.xiti.com": "INACTIVE",
-            "logc210.xiti.com": "INACTIVE",
-            "logc218.xiti.com": "INACTIVE",
-            "logc7.xiti.com": "INACTIVE",
-            "logs1285.xiti.com": "INACTIVE",
-            "logv15.xiti.com": "INACTIVE",
-            "pix.pulsemgr.com": "INACTIVE"
-        },
-        "1577349360": {
-            "ds.keshet-i.com": "INACTIVE"
-        },
         "1577350043": {
             "ads.bnmedia.com": "INACTIVE",
             "ads.iwangmedia.com": "INACTIVE",
             "ads.monogram.sk": "INACTIVE",
-            "creative.xtendmedia.com": "INACTIVE",
             "hitx.waudit.cz": "INACTIVE",
             "piwik.redtube.com": "INACTIVE"
         },
@@ -539,6 +484,62 @@
             "www.bundlerepositorycontent.com": "INACTIVE",
             "www.chuckledeliveryhosting.com": "INACTIVE",
             "www.mftracking.com": "INACTIVE"
+        },
+        "1577521804": {
+            "cdn.yldbt.com": "INACTIVE",
+            "d342r80tvdrdhm.cloudfront.net": "INACTIVE",
+            "files.native.ad": "INACTIVE",
+            "i.yldbt.com": "INACTIVE"
+        },
+        "1577521805": {
+            "adg.bzgint.com": "INACTIVE",
+            "admaven.adk2x.com": "INACTIVE",
+            "ads.groupcommerce.com": "INACTIVE",
+            "adserver.advertisespace.com": "INACTIVE",
+            "adstrac.adk2x.com": "INACTIVE",
+            "adweb1.hornymatches.com": "INACTIVE",
+            "adweb2.hornymatches.com": "INACTIVE",
+            "analytics.revee.com": "INACTIVE",
+            "app.ubertags.com": "INACTIVE",
+            "as.eu.angsrvr.com": "INACTIVE",
+            "beacon.guim.co.uk": "INACTIVE",
+            "beacon.jumptime.com": "INACTIVE",
+            "cache.btrll.com": "INACTIVE",
+            "d.lumatag.co.uk": "INACTIVE",
+            "dff7tx5c2qbxc.cloudfront.net": "INACTIVE",
+            "dynamic.cannedbanners.com": "INACTIVE",
+            "gbanners.hornymatches.com": "INACTIVE",
+            "s.cxt.ms": "INACTIVE",
+            "snwmedia.adk2x.com": "INACTIVE",
+            "timeseg.modules.jumptime.com": "INACTIVE",
+            "vast.optimatic.com": "INACTIVE"
+        },
+        "1577521806": {
+            "adan.xtendmedia.com": "INACTIVE",
+            "ads.clicmanager.fr": "INACTIVE",
+            "ads.pubsqrd.com": "INACTIVE",
+            "ads.suite6ixty6ix.com": "INACTIVE",
+            "adserver.veruta.com": "INACTIVE",
+            "bf.mocda1.com": "INACTIVE",
+            "cdn.qbaka.net": "INACTIVE",
+            "gdyn.nascar.com": "INACTIVE",
+            "hiq.fotolog.com": "INACTIVE",
+            "logc111.xiti.com": "INACTIVE",
+            "logc138.xiti.com": "INACTIVE",
+            "logc15.xiti.com": "INACTIVE",
+            "logc16.xiti.com": "INACTIVE",
+            "logc175.xiti.com": "INACTIVE",
+            "logc19.xiti.com": "INACTIVE",
+            "logc210.xiti.com": "INACTIVE",
+            "logc218.xiti.com": "INACTIVE",
+            "logc7.xiti.com": "INACTIVE",
+            "logs1285.xiti.com": "INACTIVE",
+            "logv15.xiti.com": "INACTIVE",
+            "pix.pulsemgr.com": "INACTIVE"
+        },
+        "1577521807": {
+            "creative.xtendmedia.com": "INACTIVE",
+            "ds.keshet-i.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
