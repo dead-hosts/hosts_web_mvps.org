@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577624553": {
-            "ad.slutload.com": "INACTIVE",
-            "ads.asredas.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.iwangmedia.com": "INACTIVE",
-            "ads.monogram.sk": "INACTIVE",
-            "ads.redtube.com": "INACTIVE",
-            "adserver.weakgame.com": "INACTIVE",
-            "hitx.waudit.cz": "INACTIVE",
-            "ox.furaffinity.net": "INACTIVE",
-            "piwik.redtube.com": "INACTIVE",
-            "pop.dnparking.com": "INACTIVE",
-            "stats.dnparking.com": "INACTIVE",
-            "vs.forbes.com": "INACTIVE"
-        },
-        "1577624554": {
-            "cdn.directtrk.com": "INACTIVE",
-            "code.theads.me": "INACTIVE",
-            "jque.net": "INACTIVE",
-            "oasis.411affiliates.ca": "INACTIVE",
-            "t.cqq5id8n.com": "INACTIVE",
-            "xpop.co": "INACTIVE"
-        },
         "1577625236": {
             "ad.trident.net": "INACTIVE",
             "aj.600z.com": "INACTIVE",
@@ -539,6 +515,32 @@
         "1577779942": {
             "creative.xtendmedia.com": "INACTIVE",
             "ds.keshet-i.com": "INACTIVE"
+        },
+        "1577780622": {
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.iwangmedia.com": "INACTIVE",
+            "ads.monogram.sk": "INACTIVE",
+            "hitx.waudit.cz": "INACTIVE",
+            "piwik.redtube.com": "INACTIVE",
+            "vs.forbes.com": "INACTIVE"
+        },
+        "1577780623": {
+            "ad.slutload.com": "INACTIVE",
+            "ads.asredas.com": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
+            "adserver.weakgame.com": "INACTIVE",
+            "cdn.directtrk.com": "INACTIVE",
+            "code.theads.me": "INACTIVE",
+            "jque.net": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE",
+            "pop.dnparking.com": "INACTIVE",
+            "stats.dnparking.com": "INACTIVE",
+            "t.cqq5id8n.com": "INACTIVE",
+            "xpop.co": "INACTIVE"
+        },
+        "1577780624": {
+            "oasis.411affiliates.ca": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
