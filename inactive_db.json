@@ -1,25 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577786152": {
-            "adserve.cpmba.se": "INACTIVE"
-        },
-        "1577786843": {
-            "stats.snacktools.net": "INACTIVE",
-            "stats.vodpod.com": "INACTIVE"
-        },
-        "1577786844": {
-            "a.thoughtleadr.com": "INACTIVE",
-            "adv.elaana.com": "INACTIVE",
-            "cdn.tracking.bannerflow.com": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE"
-        },
-        "1577786845": {
-            "counter.sexsuche.tv": "INACTIVE"
-        },
         "1577786846": {
-            "mm.chitika.net": "INACTIVE",
-            "www.adszooks.com": "INACTIVE",
-            "www.free-hardcoresex.org": "INACTIVE"
+            "www.adszooks.com": "INACTIVE"
         },
         "1577788283": {
             "aff.primaryads.com": "INACTIVE",
@@ -553,6 +535,26 @@
         },
         "1577958978": {
             "banners.lativio.com": "INACTIVE"
+        },
+        "1577959678": {
+            "adserve.cpmba.se": "INACTIVE"
+        },
+        "1577959679": {
+            "a.thoughtleadr.com": "INACTIVE",
+            "stats.snacktools.net": "INACTIVE",
+            "stats.vodpod.com": "INACTIVE"
+        },
+        "1577959680": {
+            "adv.elaana.com": "INACTIVE",
+            "cdn.tracking.bannerflow.com": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE"
+        },
+        "1577959681": {
+            "counter.sexsuche.tv": "INACTIVE"
+        },
+        "1577959682": {
+            "mm.chitika.net": "INACTIVE",
+            "www.free-hardcoresex.org": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
