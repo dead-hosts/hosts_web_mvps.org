@@ -1,24 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577777197": {
-            "ad2.neodatagroup.com": "INACTIVE",
-            "ads.livescore.com": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE",
-            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
-            "internet.marsmediachannels.com": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE",
-            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
-            "tr.mobiadserv.com": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "www.interstats.nl": "INACTIVE",
-            "www.ipstat.com": "INACTIVE",
-            "www.mlclick.com": "INACTIVE"
-        },
-        "1577777198": {
-            "cdn.popwin.net": "INACTIVE",
-            "pxl.pmsrvr.com": "INACTIVE",
-            "report-ads-to.pubnation.com": "INACTIVE"
-        },
         "1577777879": {
             "ads.sports.fr": "INACTIVE",
             "ads.urlfan.com": "INACTIVE",
@@ -547,6 +528,25 @@
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE",
             "www.icentric.net": "INACTIVE"
+        },
+        "1577950036": {
+            "ad2.neodatagroup.com": "INACTIVE",
+            "ads.livescore.com": "INACTIVE",
+            "gw003.lphbs.com": "INACTIVE",
+            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
+            "internet.marsmediachannels.com": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE",
+            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
+            "tr.mobiadserv.com": "INACTIVE",
+            "webeffective.keynote.com": "INACTIVE",
+            "www.interstats.nl": "INACTIVE",
+            "www.ipstat.com": "INACTIVE",
+            "www.mlclick.com": "INACTIVE"
+        },
+        "1577950037": {
+            "cdn.popwin.net": "INACTIVE",
+            "pxl.pmsrvr.com": "INACTIVE",
+            "report-ads-to.pubnation.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
