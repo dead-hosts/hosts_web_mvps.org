@@ -1,22 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577778562": {
-            "ads.24.com": "INACTIVE",
-            "ads.xtargeting.com": "INACTIVE",
-            "ads.zamunda.net": "INACTIVE",
-            "ads2.zamunda.net": "INACTIVE",
-            "apibeta.zeti.com": "INACTIVE",
-            "secure.webresint.com": "INACTIVE",
-            "track.lativio.com": "INACTIVE",
-            "www.yourhitstats.com": "INACTIVE"
-        },
-        "1577778563": {
-            "banners.weselltraffic.com": "INACTIVE",
-            "clicks.weselltraffic.com": "INACTIVE",
-            "feeds.weselltraffic.com": "INACTIVE",
-            "gspro.adocean.pl": "INACTIVE",
-            "intactro.adocean.pl": "INACTIVE"
-        },
         "1577779248": {
             "cdn.optimatic.com": "INACTIVE",
             "cdn2.adsdk.com": "INACTIVE",
@@ -548,6 +531,23 @@
         "1577950716": {
             "ab.vendemore.com": "INACTIVE",
             "ads.urlfan.com": "INACTIVE"
+        },
+        "1577951402": {
+            "ads.24.com": "INACTIVE",
+            "ads.xtargeting.com": "INACTIVE",
+            "ads.zamunda.net": "INACTIVE",
+            "ads2.zamunda.net": "INACTIVE",
+            "apibeta.zeti.com": "INACTIVE",
+            "secure.webresint.com": "INACTIVE",
+            "track.lativio.com": "INACTIVE",
+            "www.yourhitstats.com": "INACTIVE"
+        },
+        "1577951403": {
+            "banners.weselltraffic.com": "INACTIVE",
+            "clicks.weselltraffic.com": "INACTIVE",
+            "feeds.weselltraffic.com": "INACTIVE",
+            "gspro.adocean.pl": "INACTIVE",
+            "intactro.adocean.pl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
