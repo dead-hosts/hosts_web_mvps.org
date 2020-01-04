@@ -1,27 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1577956210": {
-            "static.unister-adservices.com": "INACTIVE"
-        },
-        "1577956211": {
-            "ads.ad4max.com": "INACTIVE",
-            "ads.itmcash.com": "INACTIVE",
-            "exityield.advertise.com": "INACTIVE",
-            "www.ipcounter.de": "INACTIVE"
-        },
-        "1577956212": {
-            "adds.misiamoiatdom.com": "INACTIVE",
-            "adserver2.blueadvertise.com": "INACTIVE",
-            "cbpublishing.blueadvertise.com": "INACTIVE",
-            "cdxninteractive.blueadvertise.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE",
-            "creditburner.blueadvertise.com": "INACTIVE",
-            "my.blueadvertise.com": "INACTIVE",
-            "stat.ganbox.com": "INACTIVE",
-            "track.make-a-site.net": "INACTIVE"
-        },
         "1577956910": {
-            "234x120.adv.vz.ru": "INACTIVE",
             "beacon.clickequations.net": "INACTIVE",
             "js.clickequations.net": "INACTIVE",
             "tracking.bannerflow.com": "INACTIVE"
@@ -555,6 +534,26 @@
             "vom.sitescout.com": "INACTIVE",
             "wam-ads.sitescout.com": "INACTIVE",
             "www.yourdedicatedhost.com": "INACTIVE"
+        },
+        "1578129086": {
+            "counter.joins.com": "INACTIVE",
+            "static.unister-adservices.com": "INACTIVE"
+        },
+        "1578129087": {
+            "ads.ad4max.com": "INACTIVE",
+            "ads.itmcash.com": "INACTIVE",
+            "exityield.advertise.com": "INACTIVE",
+            "www.ipcounter.de": "INACTIVE"
+        },
+        "1578129088": {
+            "adds.misiamoiatdom.com": "INACTIVE",
+            "content.ipro.com": "INACTIVE",
+            "creativeby2.unicast.com": "INACTIVE",
+            "stat.ganbox.com": "INACTIVE",
+            "track.make-a-site.net": "INACTIVE"
+        },
+        "1578129089": {
+            "234x120.adv.vz.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
