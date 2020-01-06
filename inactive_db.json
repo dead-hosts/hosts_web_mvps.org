@@ -1,25 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578131848": {
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "banners.lativio.com": "INACTIVE",
-            "track1.breakmedia.com": "INACTIVE",
-            "www.adultlinksco.com": "INACTIVE"
-        },
-        "1578132530": {
-            "adserve.cpmba.se": "INACTIVE"
-        },
-        "1578132531": {
-            "a.thoughtleadr.com": "INACTIVE",
-            "adv.elaana.com": "INACTIVE",
-            "stats.snacktools.net": "INACTIVE",
-            "stats.vodpod.com": "INACTIVE"
-        },
-        "1578132532": {
-            "cdn.tracking.bannerflow.com": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE"
-        },
         "1578132533": {
             "counter.sexsuche.tv": "INACTIVE"
         },
@@ -550,6 +530,29 @@
         "1578304018": {
             "ad3.rambler.ru": "INACTIVE",
             "info-images.rambler.ru": "INACTIVE"
+        },
+        "1578304716": {
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE"
+        },
+        "1578304717": {
+            "banners.lativio.com": "INACTIVE",
+            "track1.breakmedia.com": "INACTIVE",
+            "www.adultlinksco.com": "INACTIVE"
+        },
+        "1578304718": {
+            "adserve.cpmba.se": "INACTIVE"
+        },
+        "1578304719": {
+            "a.thoughtleadr.com": "INACTIVE",
+            "adv.elaana.com": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE",
+            "stats.snacktools.net": "INACTIVE",
+            "stats.vodpod.com": "INACTIVE"
+        },
+        "1578304720": {
+            "ads.359group.com": "INACTIVE",
+            "cdn.tracking.bannerflow.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
