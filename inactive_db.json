@@ -1,35 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578129782": {
-            "nedstat.nl": "INACTIVE",
-            "www.99stats.com": "INACTIVE",
-            "www.nedstat.nl": "INACTIVE",
-            "www.spamnuker.com": "INACTIVE"
-        },
-        "1578129783": {
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.bg-mamma.com": "INACTIVE",
-            "be.nedstat.net": "INACTIVE",
-            "es.nedstat.net": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE",
-            "www.nedstat.co.uk": "INACTIVE",
-            "www.nedstat.com": "INACTIVE",
-            "www.secure-processingcenter.com": "INACTIVE",
-            "www.sitestat.com": "INACTIVE",
-            "www.zipitfast.com": "INACTIVE"
-        },
-        "1578129784": {
-            "ad.u.nuggad.net": "INACTIVE"
-        },
-        "1578130463": {
-            "ads.xxxbunker.com": "INACTIVE",
-            "it.bannerout.com": "INACTIVE",
-            "medienhaus.nuggad.net": "INACTIVE"
-        },
-        "1578130464": {
-            "aolmus.122.2o7.net": "INACTIVE"
-        },
         "1578130467": {
             "rmgroyalmailcom.112.2o7.net": "INACTIVE"
         },
@@ -554,6 +524,36 @@
             "js.clickequations.net": "INACTIVE",
             "ping1.unicast.com": "INACTIVE",
             "tracking.bannerflow.com": "INACTIVE"
+        },
+        "1578302627": {
+            "adv.starozagorci.com": "INACTIVE",
+            "www.99stats.com": "INACTIVE",
+            "www.spamnuker.com": "INACTIVE"
+        },
+        "1578302628": {
+            "ads.admaxasia.com": "INACTIVE",
+            "ads.bg-mamma.com": "INACTIVE",
+            "adv.consadbg.com": "INACTIVE",
+            "be.nedstat.net": "INACTIVE",
+            "es.nedstat.net": "INACTIVE",
+            "nedstat.nl": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE",
+            "www.nedstat.co.uk": "INACTIVE",
+            "www.nedstat.com": "INACTIVE",
+            "www.nedstat.nl": "INACTIVE",
+            "www.sitestat.com": "INACTIVE"
+        },
+        "1578302629": {
+            "ad.u.nuggad.net": "INACTIVE",
+            "ads.xxxbunker.com": "INACTIVE",
+            "it.bannerout.com": "INACTIVE",
+            "medienhaus.nuggad.net": "INACTIVE",
+            "www.secure-processingcenter.com": "INACTIVE",
+            "www.zipitfast.com": "INACTIVE"
+        },
+        "1578302630": {
+            "bhgdiabeticliving.112.2o7.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
