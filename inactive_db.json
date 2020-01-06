@@ -1,28 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578129087": {
-            "ads.itmcash.com": "INACTIVE",
-            "exityield.advertise.com": "INACTIVE"
-        },
-        "1578129088": {
-            "adds.misiamoiatdom.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE",
-            "creativeby2.unicast.com": "INACTIVE",
-            "stat.ganbox.com": "INACTIVE",
-            "track.make-a-site.net": "INACTIVE"
-        },
-        "1578129089": {
-            "234x120.adv.vz.ru": "INACTIVE"
-        },
-        "1578129781": {
-            "tracking.bannerflow.com": "INACTIVE"
-        },
         "1578129782": {
-            "beacon.clickequations.net": "INACTIVE",
-            "creativeby1.unicast.com": "INACTIVE",
-            "js.clickequations.net": "INACTIVE",
             "nedstat.nl": "INACTIVE",
-            "ping1.unicast.com": "INACTIVE",
             "www.99stats.com": "INACTIVE",
             "www.nedstat.nl": "INACTIVE",
             "www.spamnuker.com": "INACTIVE"
@@ -556,6 +535,25 @@
         "1578301246": {
             "ads.ad4max.com": "INACTIVE",
             "www.ipcounter.de": "INACTIVE"
+        },
+        "1578301933": {
+            "ads.itmcash.com": "INACTIVE",
+            "exityield.advertise.com": "INACTIVE"
+        },
+        "1578301934": {
+            "adds.misiamoiatdom.com": "INACTIVE",
+            "content.ipro.com": "INACTIVE",
+            "creativeby2.unicast.com": "INACTIVE",
+            "stat.ganbox.com": "INACTIVE",
+            "track.make-a-site.net": "INACTIVE"
+        },
+        "1578301935": {
+            "234x120.adv.vz.ru": "INACTIVE",
+            "beacon.clickequations.net": "INACTIVE",
+            "creativeby1.unicast.com": "INACTIVE",
+            "js.clickequations.net": "INACTIVE",
+            "ping1.unicast.com": "INACTIVE",
+            "tracking.bannerflow.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
