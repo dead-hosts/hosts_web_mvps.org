@@ -1,16 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578134057": {
-            "core.bluefly.com": "INACTIVE"
-        },
-        "1578134059": {
-            "becomegorgeous.us.intellitxt.com": "INACTIVE",
-            "beliefnet.us.intellitxt.com": "INACTIVE"
-        },
-        "1578135437": {
-            "realtime.deximedia.com": "INACTIVE",
-            "xml.quiveradnet.com": "INACTIVE"
-        },
         "1578135438": {
             "chip.ivwbox.de": "INACTIVE",
             "ciao.ivwbox.de": "INACTIVE",
@@ -563,6 +552,14 @@
         "1578305407": {
             "free-stats.i8.com": "INACTIVE",
             "site-stats.i8.com": "INACTIVE"
+        },
+        "1578307713": {
+            "core.bluefly.com": "INACTIVE",
+            "www.leadtrackgo.com": "INACTIVE"
+        },
+        "1578307719": {
+            "realtime.deximedia.com": "INACTIVE",
+            "xml.quiveradnet.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
