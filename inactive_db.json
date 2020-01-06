@@ -1,31 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578125655": {
-            "creative.xtendmedia.com": "INACTIVE",
-            "ds.keshet-i.com": "INACTIVE"
-        },
-        "1578126345": {
-            "ads.bnmedia.com": "INACTIVE",
-            "ads.iwangmedia.com": "INACTIVE",
-            "ads.monogram.sk": "INACTIVE",
-            "hitx.waudit.cz": "INACTIVE",
-            "piwik.redtube.com": "INACTIVE"
-        },
-        "1578126346": {
-            "ad.slutload.com": "INACTIVE",
-            "ads.asredas.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.redtube.com": "INACTIVE",
-            "adserver.weakgame.com": "INACTIVE",
-            "code.theads.me": "INACTIVE",
-            "jque.net": "INACTIVE",
-            "ox.furaffinity.net": "INACTIVE",
-            "pop.dnparking.com": "INACTIVE",
-            "stats.dnparking.com": "INACTIVE",
-            "t.cqq5id8n.com": "INACTIVE",
-            "vs.forbes.com": "INACTIVE",
-            "xpop.co": "INACTIVE"
-        },
         "1578126347": {
             "cdn.directtrk.com": "INACTIVE"
         },
@@ -555,6 +529,30 @@
             "openx.imoti.net": "INACTIVE",
             "pix.pulsemgr.com": "INACTIVE",
             "rot2.imoti.net": "INACTIVE"
+        },
+        "1578299164": {
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.iwangmedia.com": "INACTIVE",
+            "ads.monogram.sk": "INACTIVE",
+            "creative.xtendmedia.com": "INACTIVE",
+            "ds.keshet-i.com": "INACTIVE",
+            "hitx.waudit.cz": "INACTIVE",
+            "piwik.redtube.com": "INACTIVE",
+            "pop.dnparking.com": "INACTIVE",
+            "stats.dnparking.com": "INACTIVE",
+            "vs.forbes.com": "INACTIVE"
+        },
+        "1578299165": {
+            "ad.slutload.com": "INACTIVE",
+            "ads.asredas.com": "INACTIVE",
+            "ads.redtube.com": "INACTIVE",
+            "adserver.weakgame.com": "INACTIVE",
+            "code.theads.me": "INACTIVE",
+            "jque.net": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE",
+            "t.cqq5id8n.com": "INACTIVE",
+            "xpop.co": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
