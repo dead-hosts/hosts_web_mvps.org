@@ -1,20 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578132533": {
-            "counter.sexsuche.tv": "INACTIVE"
-        },
-        "1578132534": {
-            "mm.chitika.net": "INACTIVE",
-            "www.adszooks.com": "INACTIVE",
-            "www.free-hardcoresex.org": "INACTIVE"
-        },
         "1578134057": {
-            "aff.primaryads.com": "INACTIVE",
-            "core.bluefly.com": "INACTIVE",
-            "free-stats.i8.com": "INACTIVE",
-            "images.primaryads.com": "INACTIVE",
-            "site-stats.i8.com": "INACTIVE",
-            "www.theaffiliateprogram.com": "INACTIVE"
+            "core.bluefly.com": "INACTIVE"
         },
         "1578134059": {
             "becomegorgeous.us.intellitxt.com": "INACTIVE",
@@ -553,6 +540,29 @@
         "1578304720": {
             "ads.359group.com": "INACTIVE",
             "cdn.tracking.bannerflow.com": "INACTIVE"
+        },
+        "1578305404": {
+            "counter.sexsuche.tv": "INACTIVE"
+        },
+        "1578305405": {
+            "mm.chitika.net": "INACTIVE",
+            "www.free-hardcoresex.org": "INACTIVE"
+        },
+        "1578305406": {
+            "aff.primaryads.com": "INACTIVE",
+            "images.primaryads.com": "INACTIVE",
+            "www.adszooks.com": "INACTIVE",
+            "www.theaffiliateprogram.com": "INACTIVE",
+            "www.xclicks.net": "INACTIVE",
+            "x2.xclicks.net": "INACTIVE",
+            "x3.xclicks.net": "INACTIVE",
+            "x4.xclicks.net": "INACTIVE",
+            "x5.xclicks.net": "INACTIVE",
+            "x6.xclicks.net": "INACTIVE"
+        },
+        "1578305407": {
+            "free-stats.i8.com": "INACTIVE",
+            "site-stats.i8.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
