@@ -1,25 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578131157": {
-            "ads1.nexdra.com": "INACTIVE"
-        },
-        "1578131158": {
-            "ads.purefuck.com": "INACTIVE",
-            "cg-global.maxymiser.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE",
-            "static.meteorsolutions.com": "INACTIVE"
-        },
-        "1578131846": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.vimg.net": "INACTIVE",
-            "banners.easydns.com": "INACTIVE"
-        },
-        "1578131847": {
-            "ad3.rambler.ru": "INACTIVE",
-            "info-images.rambler.ru": "INACTIVE",
-            "pixel.parsely.com": "INACTIVE",
-            "seomatrix.webtrackingservices.com": "INACTIVE"
-        },
         "1578131848": {
             "ads.amateurmatch.com": "INACTIVE",
             "ads.datinggold.com": "INACTIVE",
@@ -549,6 +529,27 @@
             "metrics.nola.com": "INACTIVE",
             "srv2.admedit.me": "INACTIVE",
             "stats.style.com": "INACTIVE"
+        },
+        "1578304015": {
+            "ads1.nexdra.com": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE",
+            "static.meteorsolutions.com": "INACTIVE"
+        },
+        "1578304016": {
+            "ads.purefuck.com": "INACTIVE",
+            "astalavista.box.sk": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE"
+        },
+        "1578304017": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.vimg.net": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "pixel.parsely.com": "INACTIVE",
+            "seomatrix.webtrackingservices.com": "INACTIVE"
+        },
+        "1578304018": {
+            "ad3.rambler.ru": "INACTIVE",
+            "info-images.rambler.ru": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
