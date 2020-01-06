@@ -1,23 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578123575": {
-            "ads.sports.fr": "INACTIVE",
-            "banner.tonygpoker.com": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "creativos.ads.uigc.net": "INACTIVE",
-            "dy.testnet.nl": "INACTIVE",
-            "j.theadsnet.com": "INACTIVE",
-            "net.softonicads.com": "INACTIVE",
-            "netsr.softonicads.com": "INACTIVE",
-            "proxy.softonicads.com": "INACTIVE",
-            "srv2.twittercounter.com": "INACTIVE",
-            "t1.softonicads.com": "INACTIVE",
-            "web.softonic-analytics.net": "INACTIVE",
-            "www.unicast.com": "INACTIVE"
-        },
         "1578124263": {
             "ab.vendemore.com": "INACTIVE",
-            "ads.urlfan.com": "INACTIVE",
             "ads.xtargeting.com": "INACTIVE",
             "ads.zamunda.net": "INACTIVE",
             "ads2.zamunda.net": "INACTIVE",
@@ -551,6 +535,23 @@
             "sponsoredlinks.nationalgeographic.com": "INACTIVE",
             "tr.mobiadserv.com": "INACTIVE",
             "www.mlclick.com": "INACTIVE"
+        },
+        "1578296422": {
+            "ads.sports.fr": "INACTIVE",
+            "ads.urlfan.com": "INACTIVE",
+            "banner.tonygpoker.com": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "creativos.ads.uigc.net": "INACTIVE",
+            "dy.testnet.nl": "INACTIVE",
+            "gbjfc.rsvpgenius.com": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE",
+            "net.softonicads.com": "INACTIVE",
+            "netsr.softonicads.com": "INACTIVE",
+            "proxy.softonicads.com": "INACTIVE",
+            "srv2.twittercounter.com": "INACTIVE",
+            "t1.softonicads.com": "INACTIVE",
+            "web.softonic-analytics.net": "INACTIVE",
+            "www.unicast.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
