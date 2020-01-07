@@ -1,20 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578301246": {
-            "ads.ad4max.com": "INACTIVE",
-            "www.ipcounter.de": "INACTIVE"
-        },
-        "1578301933": {
-            "ads.itmcash.com": "INACTIVE",
-            "exityield.advertise.com": "INACTIVE"
-        },
-        "1578301934": {
-            "adds.misiamoiatdom.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE",
-            "creativeby2.unicast.com": "INACTIVE",
-            "stat.ganbox.com": "INACTIVE",
-            "track.make-a-site.net": "INACTIVE"
-        },
         "1578301935": {
             "234x120.adv.vz.ru": "INACTIVE",
             "beacon.clickequations.net": "INACTIVE",
@@ -565,6 +550,27 @@
         },
         "1578402092": {
             "static.unister-adservices.com": "INACTIVE"
+        },
+        "1578402872": {
+            "ads.ad4max.com": "INACTIVE",
+            "ads.itmcash.com": "INACTIVE",
+            "pc.adonweb.ru": "INACTIVE",
+            "www.ipcounter.de": "INACTIVE"
+        },
+        "1578402873": {
+            "adserver2.blueadvertise.com": "INACTIVE",
+            "cbpublishing.blueadvertise.com": "INACTIVE",
+            "cdxninteractive.blueadvertise.com": "INACTIVE",
+            "content.ipro.com": "INACTIVE",
+            "creativeby2.unicast.com": "INACTIVE",
+            "creditburner.blueadvertise.com": "INACTIVE",
+            "exityield.advertise.com": "INACTIVE",
+            "my.blueadvertise.com": "INACTIVE"
+        },
+        "1578402874": {
+            "adds.misiamoiatdom.com": "INACTIVE",
+            "stat.ganbox.com": "INACTIVE",
+            "track.make-a-site.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
