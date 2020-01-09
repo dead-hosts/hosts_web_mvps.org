@@ -1,25 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578394001": {
-            "ads.iafrica.com": "INACTIVE"
-        },
-        "1578395621": {
-            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "www.icentric.net": "INACTIVE",
-            "www.interstats.nl": "INACTIVE",
-            "www.ipstat.com": "INACTIVE"
-        },
         "1578395622": {
-            "ad2.neodatagroup.com": "INACTIVE",
-            "ads.livescore.com": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE",
-            "internet.marsmediachannels.com": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE",
-            "pxl.pmsrvr.com": "INACTIVE",
-            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
-            "tr.mobiadserv.com": "INACTIVE",
-            "www.mlclick.com": "INACTIVE"
+            "pxl.pmsrvr.com": "INACTIVE"
         },
         "1578396539": {
             "cdn.popwin.net": "INACTIVE",
@@ -576,6 +558,24 @@
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
+        },
+        "1578555006": {
+            "ads.iafrica.com": "INACTIVE",
+            "www.icentric.net": "INACTIVE",
+            "www.interstats.nl": "INACTIVE"
+        },
+        "1578555007": {
+            "ad2.neodatagroup.com": "INACTIVE",
+            "ads.livescore.com": "INACTIVE",
+            "gw003.lphbs.com": "INACTIVE",
+            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
+            "internet.marsmediachannels.com": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE",
+            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
+            "tr.mobiadserv.com": "INACTIVE",
+            "webeffective.keynote.com": "INACTIVE",
+            "www.ipstat.com": "INACTIVE",
+            "www.mlclick.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
