@@ -1,46 +1,12 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578399101": {
-            "logc111.xiti.com": "INACTIVE",
-            "logc15.xiti.com": "INACTIVE",
-            "logc16.xiti.com": "INACTIVE",
-            "logc19.xiti.com": "INACTIVE",
-            "logc7.xiti.com": "INACTIVE"
-        },
-        "1578399102": {
-            "adan.xtendmedia.com": "INACTIVE",
-            "ads.clicmanager.fr": "INACTIVE",
-            "ads.pubsqrd.com": "INACTIVE",
-            "ads.suite6ixty6ix.com": "INACTIVE",
-            "adserver.veruta.com": "INACTIVE",
-            "logc138.xiti.com": "INACTIVE",
-            "logc175.xiti.com": "INACTIVE",
-            "logc210.xiti.com": "INACTIVE",
-            "logc218.xiti.com": "INACTIVE",
-            "logs1285.xiti.com": "INACTIVE",
-            "logv15.xiti.com": "INACTIVE",
-            "openx.imoti.net": "INACTIVE",
-            "rot2.imoti.net": "INACTIVE"
-        },
-        "1578399924": {
-            "creative.xtendmedia.com": "INACTIVE",
-            "ds.keshet-i.com": "INACTIVE"
-        },
         "1578399925": {
             "ad.slutload.com": "INACTIVE",
             "ads.asredas.com": "INACTIVE",
-            "ads.bnmedia.com": "INACTIVE",
-            "ads.forbes.com": "INACTIVE",
-            "ads.iwangmedia.com": "INACTIVE",
-            "ads.monogram.sk": "INACTIVE",
             "ads.redtube.com": "INACTIVE",
             "adserver.weakgame.com": "INACTIVE",
-            "hitx.waudit.cz": "INACTIVE",
             "ox.furaffinity.net": "INACTIVE",
-            "piwik.redtube.com": "INACTIVE",
-            "pop.dnparking.com": "INACTIVE",
-            "stats.dnparking.com": "INACTIVE",
-            "vs.forbes.com": "INACTIVE"
+            "stats.dnparking.com": "INACTIVE"
         },
         "1578399926": {
             "code.theads.me": "INACTIVE",
@@ -580,6 +546,38 @@
         },
         "1578558029": {
             "hiq.fotolog.com": "INACTIVE"
+        },
+        "1578558714": {
+            "logc15.xiti.com": "INACTIVE",
+            "logc7.xiti.com": "INACTIVE"
+        },
+        "1578558715": {
+            "adan.xtendmedia.com": "INACTIVE",
+            "ads.clicmanager.fr": "INACTIVE",
+            "ads.pubsqrd.com": "INACTIVE",
+            "ads.suite6ixty6ix.com": "INACTIVE",
+            "adserver.veruta.com": "INACTIVE",
+            "creative.xtendmedia.com": "INACTIVE",
+            "ds.keshet-i.com": "INACTIVE",
+            "logc111.xiti.com": "INACTIVE",
+            "logc138.xiti.com": "INACTIVE",
+            "logc16.xiti.com": "INACTIVE",
+            "logc175.xiti.com": "INACTIVE",
+            "logc19.xiti.com": "INACTIVE",
+            "logc210.xiti.com": "INACTIVE",
+            "logc218.xiti.com": "INACTIVE",
+            "logs1285.xiti.com": "INACTIVE",
+            "logv15.xiti.com": "INACTIVE"
+        },
+        "1578558716": {
+            "ads.bnmedia.com": "INACTIVE",
+            "ads.forbes.com": "INACTIVE",
+            "ads.iwangmedia.com": "INACTIVE",
+            "ads.monogram.sk": "INACTIVE",
+            "hitx.waudit.cz": "INACTIVE",
+            "piwik.redtube.com": "INACTIVE",
+            "pop.dnparking.com": "INACTIVE",
+            "vs.forbes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
