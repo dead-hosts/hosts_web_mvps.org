@@ -1,28 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578402091": {
-            "moo.sitescout.com": "INACTIVE",
-            "www.yourdedicatedhost.com": "INACTIVE"
-        },
-        "1578402092": {
-            "static.unister-adservices.com": "INACTIVE"
-        },
-        "1578402872": {
-            "ads.ad4max.com": "INACTIVE",
-            "ads.itmcash.com": "INACTIVE",
-            "pc.adonweb.ru": "INACTIVE",
-            "www.ipcounter.de": "INACTIVE"
-        },
-        "1578402873": {
-            "adserver2.blueadvertise.com": "INACTIVE",
-            "cbpublishing.blueadvertise.com": "INACTIVE",
-            "cdxninteractive.blueadvertise.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE",
-            "creativeby2.unicast.com": "INACTIVE",
-            "creditburner.blueadvertise.com": "INACTIVE",
-            "exityield.advertise.com": "INACTIVE",
-            "my.blueadvertise.com": "INACTIVE"
-        },
         "1578402874": {
             "adds.misiamoiatdom.com": "INACTIVE",
             "stat.ganbox.com": "INACTIVE",
@@ -578,6 +555,27 @@
             "mf.sitescout.com": "INACTIVE",
             "vom.sitescout.com": "INACTIVE",
             "wam-ads.sitescout.com": "INACTIVE"
+        },
+        "1578561463": {
+            "counter.joins.com": "INACTIVE",
+            "moo.sitescout.com": "INACTIVE",
+            "static.unister-adservices.com": "INACTIVE",
+            "www.yourdedicatedhost.com": "INACTIVE"
+        },
+        "1578561464": {
+            "ads.ad4max.com": "INACTIVE",
+            "ads.itmcash.com": "INACTIVE",
+            "exityield.advertise.com": "INACTIVE",
+            "www.ipcounter.de": "INACTIVE"
+        },
+        "1578561465": {
+            "adserver2.blueadvertise.com": "INACTIVE",
+            "cbpublishing.blueadvertise.com": "INACTIVE",
+            "cdxninteractive.blueadvertise.com": "INACTIVE",
+            "content.ipro.com": "INACTIVE",
+            "creativeby2.unicast.com": "INACTIVE",
+            "creditburner.blueadvertise.com": "INACTIVE",
+            "my.blueadvertise.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
