@@ -1,39 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578408243": {
-            "realtime.deximedia.com": "INACTIVE",
-            "xml.quiveradnet.com": "INACTIVE"
-        },
-        "1578408245": {
-            "chip.ivwbox.de": "INACTIVE",
-            "ciao.ivwbox.de": "INACTIVE",
-            "ctix8.cheaptickets.com": "INACTIVE",
-            "daserste.ivwbox.de": "INACTIVE",
-            "faz.ivwbox.de": "INACTIVE",
-            "finatime.ivwbox.de": "INACTIVE",
-            "freecast.ivwbox.de": "INACTIVE",
-            "handbl.ivwbox.de": "INACTIVE",
-            "heute.ivwbox.de": "INACTIVE",
-            "mclient.ivwbox.de": "INACTIVE",
-            "morgpost.ivwbox.de": "INACTIVE",
-            "netzeitu.ivwbox.de": "INACTIVE",
-            "newsclic.ivwbox.de": "INACTIVE",
-            "qs.ivwbox.de": "INACTIVE",
-            "rtl.ivwbox.de": "INACTIVE",
-            "schuelvz.ivwbox.de": "INACTIVE",
-            "studivz.ivwbox.de": "INACTIVE",
-            "sueddeut.ivwbox.de": "INACTIVE",
-            "swr.ivwbox.de": "INACTIVE",
-            "www.ivwbox.de": "INACTIVE",
-            "yahoo.ivwbox.de": "INACTIVE",
-            "zdf.ivwbox.de": "INACTIVE",
-            "zeitonl.ivwbox.de": "INACTIVE"
-        },
         "1578408246": {
             "ads.seattletimes.com": "INACTIVE",
-            "oas.ad-vice.biz": "INACTIVE",
-            "openadstream-eu1.247realmedia.com": "INACTIVE",
-            "rusads.toysrus.com": "INACTIVE"
+            "oas.ad-vice.biz": "INACTIVE"
         },
         "1578408935": {
             "oas.deejay.it": "INACTIVE"
@@ -572,6 +541,39 @@
         },
         "1578565634": {
             "core.bluefly.com": "INACTIVE"
+        },
+        "1578566330": {
+            "realtime.deximedia.com": "INACTIVE",
+            "xml.quiveradnet.com": "INACTIVE"
+        },
+        "1578566331": {
+            "ctix8.cheaptickets.com": "INACTIVE"
+        },
+        "1578566332": {
+            "chip.ivwbox.de": "INACTIVE",
+            "ciao.ivwbox.de": "INACTIVE",
+            "daserste.ivwbox.de": "INACTIVE",
+            "faz.ivwbox.de": "INACTIVE",
+            "finatime.ivwbox.de": "INACTIVE",
+            "freecast.ivwbox.de": "INACTIVE",
+            "handbl.ivwbox.de": "INACTIVE",
+            "heute.ivwbox.de": "INACTIVE",
+            "mclient.ivwbox.de": "INACTIVE",
+            "morgpost.ivwbox.de": "INACTIVE",
+            "netzeitu.ivwbox.de": "INACTIVE",
+            "newsclic.ivwbox.de": "INACTIVE",
+            "openadstream-eu1.247realmedia.com": "INACTIVE",
+            "qs.ivwbox.de": "INACTIVE",
+            "rtl.ivwbox.de": "INACTIVE",
+            "rusads.toysrus.com": "INACTIVE",
+            "schuelvz.ivwbox.de": "INACTIVE",
+            "studivz.ivwbox.de": "INACTIVE",
+            "sueddeut.ivwbox.de": "INACTIVE",
+            "swr.ivwbox.de": "INACTIVE",
+            "www.ivwbox.de": "INACTIVE",
+            "yahoo.ivwbox.de": "INACTIVE",
+            "zdf.ivwbox.de": "INACTIVE",
+            "zeitonl.ivwbox.de": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
