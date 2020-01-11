@@ -1,26 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578555006": {
-            "www.interstats.nl": "INACTIVE"
-        },
-        "1578555007": {
-            "ad2.neodatagroup.com": "INACTIVE",
-            "ads.livescore.com": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE",
-            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
-            "internet.marsmediachannels.com": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE",
-            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
-            "tr.mobiadserv.com": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "www.ipstat.com": "INACTIVE",
-            "www.mlclick.com": "INACTIVE"
-        },
         "1578555691": {
-            "cdn.popwin.net": "INACTIVE",
-            "count.rbc.ru": "INACTIVE",
-            "pxl.pmsrvr.com": "INACTIVE",
-            "report-ads-to.pubnation.com": "INACTIVE"
+            "count.rbc.ru": "INACTIVE"
         },
         "1578555692": {
             "ads.sports.fr": "INACTIVE",
@@ -580,6 +561,26 @@
             "counter.goingup.com": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE",
             "www.icentric.net": "INACTIVE"
+        },
+        "1578727837": {
+            "www.interstats.nl": "INACTIVE",
+            "www.ipstat.com": "INACTIVE"
+        },
+        "1578727838": {
+            "ad2.neodatagroup.com": "INACTIVE",
+            "ads.livescore.com": "INACTIVE",
+            "cdn.popwin.net": "INACTIVE",
+            "gw003.lphbs.com": "INACTIVE",
+            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
+            "internet.marsmediachannels.com": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE",
+            "pxl.pmsrvr.com": "INACTIVE",
+            "report-ads-to.pubnation.com": "INACTIVE",
+            "sponsoredlinks.nationalgeographic.com": "INACTIVE",
+            "stats.jtvnw.net": "INACTIVE",
+            "tr.mobiadserv.com": "INACTIVE",
+            "webeffective.keynote.com": "INACTIVE",
+            "www.mlclick.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {

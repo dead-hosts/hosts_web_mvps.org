@@ -2072,7 +2072,7 @@
     "intermediads.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "internetsecurity.com": {
         "epoch": 1581811200.0,
@@ -2650,8 +2650,8 @@
         "state": "future"
     },
     "openstat.net": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "optimum-hits.com": {
