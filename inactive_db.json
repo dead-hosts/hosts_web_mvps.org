@@ -1,34 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578560093": {
-            "ads.betanews.com": "INACTIVE",
-            "adsrvmedia.adk2x.com": "INACTIVE",
-            "babanetwork.adk2x.com": "INACTIVE",
-            "clic2pub.adk2x.com": "INACTIVE",
-            "dft.cl.dynad.net": "INACTIVE",
-            "gotagy.adk2x.com": "INACTIVE",
-            "hlamedia.adk2x.com": "INACTIVE",
-            "m.usersonline.com": "INACTIVE",
-            "wmedia.adk2x.com": "INACTIVE",
-            "www7.securybrowse.com": "INACTIVE",
-            "yepdigital.adk2x.com": "INACTIVE"
-        },
-        "1578560094": {
-            "api.7segments.com": "INACTIVE",
-            "delivery1.topad.mobi": "INACTIVE",
-            "domains.googlesyndication.com": "INACTIVE"
-        },
-        "1578560775": {
-            "ad.db3nf.com": "INACTIVE",
-            "c7.adforgeinc.com": "INACTIVE"
-        },
-        "1578560776": {
-            "ads.mixbg.net": "INACTIVE",
-            "banners.directnic.com": "INACTIVE",
-            "dnads.directnic.com": "INACTIVE",
-            "images.parked.com": "INACTIVE",
-            "stats.directnic.com": "INACTIVE"
-        },
         "1578560777": {
             "ads.p.veruta.com": "INACTIVE",
             "ka.bar.need2find.com": "INACTIVE",
@@ -578,6 +549,35 @@
             "cs1.adxpansion.com": "INACTIVE",
             "dev.media.adxpansion.com": "INACTIVE",
             "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1578732651": {
+            "ads.betanews.com": "INACTIVE",
+            "dft.cl.dynad.net": "INACTIVE",
+            "m.usersonline.com": "INACTIVE"
+        },
+        "1578732652": {
+            "adsrvmedia.adk2x.com": "INACTIVE",
+            "babanetwork.adk2x.com": "INACTIVE",
+            "clic2pub.adk2x.com": "INACTIVE",
+            "delivery1.topad.mobi": "INACTIVE",
+            "domains.googlesyndication.com": "INACTIVE",
+            "gotagy.adk2x.com": "INACTIVE",
+            "hlamedia.adk2x.com": "INACTIVE",
+            "wmedia.adk2x.com": "INACTIVE",
+            "www7.securybrowse.com": "INACTIVE",
+            "yepdigital.adk2x.com": "INACTIVE"
+        },
+        "1578732653": {
+            "ad.db3nf.com": "INACTIVE",
+            "api.7segments.com": "INACTIVE",
+            "c7.adforgeinc.com": "INACTIVE"
+        },
+        "1578732654": {
+            "ads.mixbg.net": "INACTIVE",
+            "banners.directnic.com": "INACTIVE",
+            "dnads.directnic.com": "INACTIVE",
+            "images.parked.com": "INACTIVE",
+            "stats.directnic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
