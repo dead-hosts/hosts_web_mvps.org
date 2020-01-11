@@ -1,9 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578566330": {
-            "realtime.deximedia.com": "INACTIVE",
-            "xml.quiveradnet.com": "INACTIVE"
-        },
         "1578566331": {
             "ctix8.cheaptickets.com": "INACTIVE"
         },
@@ -567,6 +563,10 @@
         },
         "1578737508": {
             "core.bluefly.com": "INACTIVE"
+        },
+        "1578740280": {
+            "realtime.deximedia.com": "INACTIVE",
+            "xml.quiveradnet.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
