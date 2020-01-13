@@ -2187,7 +2187,7 @@
     "leadgenetwork.com": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "letzonke.com": {
         "epoch": 1597536000.0,
@@ -3582,7 +3582,7 @@
     "tororango.com": {
         "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "trackad.cz": {
         "epoch": 1597881600.0,
