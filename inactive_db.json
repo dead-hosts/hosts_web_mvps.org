@@ -1,38 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578734047": {
-            "beacon.clickequations.net": "INACTIVE",
-            "creativeby1.unicast.com": "INACTIVE",
-            "js.clickequations.net": "INACTIVE",
-            "tracking.bannerflow.com": "INACTIVE"
-        },
-        "1578734048": {
-            "ping1.unicast.com": "INACTIVE"
-        },
-        "1578734740": {
-            "nedstat.nl": "INACTIVE",
-            "www.99stats.com": "INACTIVE",
-            "www.spamnuker.com": "INACTIVE"
-        },
-        "1578734741": {
-            "ads.admaxasia.com": "INACTIVE",
-            "ads.bg-mamma.com": "INACTIVE",
-            "be.nedstat.net": "INACTIVE",
-            "es.nedstat.net": "INACTIVE",
-            "uk.nedstat.net": "INACTIVE",
-            "usa.nedstat.net": "INACTIVE",
-            "www.nedstat.co.uk": "INACTIVE",
-            "www.nedstat.com": "INACTIVE",
-            "www.nedstat.nl": "INACTIVE",
-            "www.secure-processingcenter.com": "INACTIVE",
-            "www.sitestat.com": "INACTIVE",
-            "www.zipitfast.com": "INACTIVE"
-        },
         "1578734742": {
-            "ad.u.nuggad.net": "INACTIVE",
             "ads.xxxbunker.com": "INACTIVE",
             "it.bannerout.com": "INACTIVE",
-            "medienhaus.nuggad.net": "INACTIVE",
             "stats2.luckymag.com": "INACTIVE"
         },
         "1578735436": {
@@ -576,6 +546,34 @@
             "adds.misiamoiatdom.com": "INACTIVE",
             "stat.ganbox.com": "INACTIVE",
             "track.make-a-site.net": "INACTIVE"
+        },
+        "1578907883": {
+            "beacon.clickequations.net": "INACTIVE",
+            "creativeby1.unicast.com": "INACTIVE",
+            "js.clickequations.net": "INACTIVE",
+            "ping1.unicast.com": "INACTIVE",
+            "tracking.bannerflow.com": "INACTIVE",
+            "www.99stats.com": "INACTIVE",
+            "www.spamnuker.com": "INACTIVE"
+        },
+        "1578907884": {
+            "ads.admaxasia.com": "INACTIVE",
+            "ads.bg-mamma.com": "INACTIVE",
+            "be.nedstat.net": "INACTIVE",
+            "es.nedstat.net": "INACTIVE",
+            "nedstat.nl": "INACTIVE",
+            "uk.nedstat.net": "INACTIVE",
+            "usa.nedstat.net": "INACTIVE",
+            "www.nedstat.co.uk": "INACTIVE",
+            "www.nedstat.com": "INACTIVE",
+            "www.nedstat.nl": "INACTIVE",
+            "www.sitestat.com": "INACTIVE"
+        },
+        "1578907885": {
+            "ad.u.nuggad.net": "INACTIVE",
+            "medienhaus.nuggad.net": "INACTIVE",
+            "www.secure-processingcenter.com": "INACTIVE",
+            "www.zipitfast.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
