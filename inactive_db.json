@@ -1,19 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578737507": {
-            "aff.primaryads.com": "INACTIVE",
-            "free-stats.i8.com": "INACTIVE",
-            "images.primaryads.com": "INACTIVE",
-            "site-stats.i8.com": "INACTIVE",
-            "www.theaffiliateprogram.com": "INACTIVE"
-        },
-        "1578737508": {
-            "core.bluefly.com": "INACTIVE"
-        },
-        "1578740280": {
-            "realtime.deximedia.com": "INACTIVE",
-            "xml.quiveradnet.com": "INACTIVE"
-        },
         "1578742845": {
             "chip.ivwbox.de": "INACTIVE",
             "ciao.ivwbox.de": "INACTIVE",
@@ -585,6 +571,20 @@
         },
         "1578912443": {
             "www.xclicks.net": "INACTIVE"
+        },
+        "1578914497": {
+            "aff.primaryads.com": "INACTIVE",
+            "images.primaryads.com": "INACTIVE",
+            "www.theaffiliateprogram.com": "INACTIVE"
+        },
+        "1578914498": {
+            "core.bluefly.com": "INACTIVE",
+            "free-stats.i8.com": "INACTIVE",
+            "site-stats.i8.com": "INACTIVE"
+        },
+        "1578914504": {
+            "realtime.deximedia.com": "INACTIVE",
+            "xml.quiveradnet.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
