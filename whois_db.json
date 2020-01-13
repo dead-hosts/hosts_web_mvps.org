@@ -2070,9 +2070,9 @@
         "state": "future"
     },
     "intermediads.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "internetsecurity.com": {
         "epoch": 1581811200.0,
@@ -2312,7 +2312,7 @@
     "mdctrail.com": {
         "epoch": 1578787200.0,
         "expiration_date": "12-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "mdnhinc.com": {
         "epoch": 1605657600.0,
