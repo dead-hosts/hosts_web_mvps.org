@@ -1,39 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578904444": {
-            "ads.asredas.com": "INACTIVE",
-            "code.theads.me": "INACTIVE",
-            "jque.net": "INACTIVE",
-            "ox.furaffinity.net": "INACTIVE",
-            "t.cqq5id8n.com": "INACTIVE"
-        },
-        "1578904445": {
-            "cdn.directtrk.com": "INACTIVE",
-            "xpop.co": "INACTIVE"
-        },
-        "1578905131": {
-            "creative.clicksor.com": "INACTIVE",
-            "oasis.411affiliates.ca": "INACTIVE"
-        },
-        "1578905132": {
-            "ad.trident.net": "INACTIVE",
-            "aj.600z.com": "INACTIVE",
-            "banneradvertising.adclickmedia.com": "INACTIVE",
-            "banners.sexsearch.com": "INACTIVE",
-            "mmm.vindy.com": "INACTIVE"
-        },
         "1578905133": {
             "ad3.hornymatches.com": "INACTIVE",
-            "adcdn.33universal.com": "INACTIVE",
-            "adv.0tub.com": "INACTIVE",
-            "cdn1.skinected.com": "INACTIVE",
-            "cdna.runadtag.com": "INACTIVE",
-            "cv.bsvideos.com": "INACTIVE",
-            "edge.ayboll.com": "INACTIVE",
-            "images.skenzo.com": "INACTIVE",
-            "img.skenzo.com": "INACTIVE",
-            "media.adxpansion.com": "INACTIVE",
-            "pics.skenzo.com": "INACTIVE",
             "rtb.metrigo.com": "INACTIVE"
         },
         "1578905134": {
@@ -589,6 +557,39 @@
             "pop.dnparking.com": "INACTIVE",
             "stats.dnparking.com": "INACTIVE",
             "vs.forbes.com": "INACTIVE"
+        },
+        "1579064146": {
+            "ads.asredas.com": "INACTIVE",
+            "ox.furaffinity.net": "INACTIVE"
+        },
+        "1579064147": {
+            "cdn.directtrk.com": "INACTIVE",
+            "code.theads.me": "INACTIVE",
+            "creative.clicksor.com": "INACTIVE",
+            "jque.net": "INACTIVE",
+            "oasis.411affiliates.ca": "INACTIVE",
+            "t.cqq5id8n.com": "INACTIVE",
+            "xpop.co": "INACTIVE"
+        },
+        "1579064148": {
+            "ad.trident.net": "INACTIVE",
+            "aj.600z.com": "INACTIVE",
+            "banneradvertising.adclickmedia.com": "INACTIVE",
+            "banners.sexsearch.com": "INACTIVE",
+            "mmm.vindy.com": "INACTIVE"
+        },
+        "1579064149": {
+            "adcdn.33universal.com": "INACTIVE",
+            "adv.0tub.com": "INACTIVE",
+            "cdn1.skinected.com": "INACTIVE",
+            "cdna.runadtag.com": "INACTIVE",
+            "cv.bsvideos.com": "INACTIVE",
+            "edge.ayboll.com": "INACTIVE",
+            "images.skenzo.com": "INACTIVE",
+            "img.skenzo.com": "INACTIVE",
+            "media.adxpansion.com": "INACTIVE",
+            "pics.skenzo.com": "INACTIVE",
+            "tracking.fathomseo.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
