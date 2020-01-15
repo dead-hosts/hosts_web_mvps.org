@@ -1,29 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578909267": {
-            "ads1.nexdra.com": "INACTIVE",
-            "static.meteorsolutions.com": "INACTIVE"
-        },
-        "1578909268": {
-            "ads.purefuck.com": "INACTIVE",
-            "astalavista.box.sk": "INACTIVE",
-            "cg-global.maxymiser.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE"
-        },
-        "1578909957": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.vimg.net": "INACTIVE",
-            "banners.easydns.com": "INACTIVE"
-        },
-        "1578909958": {
-            "pixel.parsely.com": "INACTIVE",
-            "seomatrix.webtrackingservices.com": "INACTIVE"
-        },
         "1578909959": {
-            "ad3.rambler.ru": "INACTIVE",
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "info-images.rambler.ru": "INACTIVE",
             "track1.breakmedia.com": "INACTIVE"
         },
         "1578909960": {
@@ -576,6 +553,31 @@
         },
         "1579074973": {
             "www.efficienttraffic.com": "INACTIVE"
+        },
+        "1579076492": {
+            "ads1.nexdra.com": "INACTIVE",
+            "static.meteorsolutions.com": "INACTIVE"
+        },
+        "1579076493": {
+            "ads.purefuck.com": "INACTIVE",
+            "astalavista.box.sk": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE"
+        },
+        "1579076494": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.vimg.net": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "pixel.parsely.com": "INACTIVE"
+        },
+        "1579076495": {
+            "ad3.rambler.ru": "INACTIVE",
+            "info-images.rambler.ru": "INACTIVE",
+            "seomatrix.webtrackingservices.com": "INACTIVE"
+        },
+        "1579076496": {
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
