@@ -1,47 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578905133": {
-            "ad3.hornymatches.com": "INACTIVE",
-            "rtb.metrigo.com": "INACTIVE"
-        },
-        "1578905134": {
-            "2912a.v.fwmrm.net": "INACTIVE",
-            "2915d.v.fwmrm.net": "INACTIVE",
-            "2915dc.v.fwmrm.net": "INACTIVE",
-            "bd0dc.v.fwmrm.net": "INACTIVE",
-            "www.tostadomedia.com": "INACTIVE"
-        },
-        "1578905820": {
-            "ads.pornerbros.com": "INACTIVE",
-            "ads.sxx.com": "INACTIVE",
-            "cs1.adxpansion.com": "INACTIVE",
-            "dev.media.adxpansion.com": "INACTIVE"
-        },
-        "1578905821": {
-            "ads.betanews.com": "INACTIVE",
-            "adsrvmedia.adk2x.com": "INACTIVE",
-            "babanetwork.adk2x.com": "INACTIVE",
-            "clic2pub.adk2x.com": "INACTIVE",
-            "counter.gemius.pl": "INACTIVE",
-            "dft.cl.dynad.net": "INACTIVE",
-            "gotagy.adk2x.com": "INACTIVE",
-            "hlamedia.adk2x.com": "INACTIVE",
-            "lt.hit.gemius.pl": "INACTIVE",
-            "m.usersonline.com": "INACTIVE",
-            "ua.cnt.gemius.pl": "INACTIVE",
-            "wmedia.adk2x.com": "INACTIVE"
-        },
-        "1578905822": {
-            "delivery1.topad.mobi": "INACTIVE",
-            "domains.googlesyndication.com": "INACTIVE",
-            "www7.securybrowse.com": "INACTIVE",
-            "yepdigital.adk2x.com": "INACTIVE"
-        },
-        "1578905823": {
-            "ad.db3nf.com": "INACTIVE",
-            "api.7segments.com": "INACTIVE",
-            "c7.adforgeinc.com": "INACTIVE"
-        },
         "1578906508": {
             "banners.directnic.com": "INACTIVE",
             "dnads.directnic.com": "INACTIVE",
@@ -590,6 +548,45 @@
             "media.adxpansion.com": "INACTIVE",
             "pics.skenzo.com": "INACTIVE",
             "tracking.fathomseo.com": "INACTIVE"
+        },
+        "1579065916": {
+            "2912a.v.fwmrm.net": "INACTIVE",
+            "2915d.v.fwmrm.net": "INACTIVE",
+            "2915dc.v.fwmrm.net": "INACTIVE",
+            "ad3.hornymatches.com": "INACTIVE",
+            "bd0dc.v.fwmrm.net": "INACTIVE",
+            "rtb.metrigo.com": "INACTIVE",
+            "www.tostadomedia.com": "INACTIVE"
+        },
+        "1579065917": {
+            "ads.pornerbros.com": "INACTIVE",
+            "ads.sxx.com": "INACTIVE",
+            "banners.germanfriendfinder.com": "INACTIVE",
+            "counter.gemius.pl": "INACTIVE",
+            "cs1.adxpansion.com": "INACTIVE",
+            "dev.media.adxpansion.com": "INACTIVE",
+            "ua.cnt.gemius.pl": "INACTIVE"
+        },
+        "1579065918": {
+            "ads.betanews.com": "INACTIVE",
+            "adsrvmedia.adk2x.com": "INACTIVE",
+            "babanetwork.adk2x.com": "INACTIVE",
+            "clic2pub.adk2x.com": "INACTIVE",
+            "dft.cl.dynad.net": "INACTIVE",
+            "gotagy.adk2x.com": "INACTIVE",
+            "hlamedia.adk2x.com": "INACTIVE",
+            "m.usersonline.com": "INACTIVE",
+            "wmedia.adk2x.com": "INACTIVE",
+            "www7.securybrowse.com": "INACTIVE",
+            "yepdigital.adk2x.com": "INACTIVE"
+        },
+        "1579065919": {
+            "ad.db3nf.com": "INACTIVE",
+            "api.7segments.com": "INACTIVE",
+            "banner.finzoom.ro": "INACTIVE",
+            "c7.adforgeinc.com": "INACTIVE",
+            "delivery1.topad.mobi": "INACTIVE",
+            "domains.googlesyndication.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
