@@ -1,22 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1578907885": {
-            "ad.u.nuggad.net": "INACTIVE",
-            "medienhaus.nuggad.net": "INACTIVE",
-            "www.secure-processingcenter.com": "INACTIVE",
-            "www.zipitfast.com": "INACTIVE"
-        },
-        "1578908569": {
-            "ads.xxxbunker.com": "INACTIVE",
-            "it.bannerout.com": "INACTIVE",
-            "stats2.luckymag.com": "INACTIVE"
-        },
-        "1578908570": {
-            "cnhibatesvilleheraldtribune.122.2o7.net": "INACTIVE"
-        },
-        "1578908572": {
-            "microsoftwlsearchcrm.112.2o7.net": "INACTIVE"
-        },
         "1578908575": {
             "metrics.csmonitor.com": "INACTIVE",
             "omni.csc.com": "INACTIVE"
@@ -579,6 +562,19 @@
             "www.nedstat.com": "INACTIVE",
             "www.nedstat.nl": "INACTIVE",
             "www.sitestat.com": "INACTIVE"
+        },
+        "1579073269": {
+            "ads.germanfriendfinder.com": "INACTIVE",
+            "www.secure-processingcenter.com": "INACTIVE",
+            "www.zipitfast.com": "INACTIVE"
+        },
+        "1579073270": {
+            "ad.u.nuggad.net": "INACTIVE",
+            "ads.xxxbunker.com": "INACTIVE",
+            "it.bannerout.com": "INACTIVE",
+            "medienhaus.nuggad.net": "INACTIVE",
+            "stats2.luckymag.com": "INACTIVE",
+            "www.firebanner.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
