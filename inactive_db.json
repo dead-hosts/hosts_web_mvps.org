@@ -1,28 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1579067878": {
-            "banners.thiswillshockyou.com": "INACTIVE",
-            "mf.sitescout.com": "INACTIVE",
-            "vom.sitescout.com": "INACTIVE",
-            "wam-ads.sitescout.com": "INACTIVE"
-        },
-        "1579069825": {
-            "ads.ad4max.com": "INACTIVE",
-            "moo.sitescout.com": "INACTIVE",
-            "static.unister-adservices.com": "INACTIVE",
-            "www.ipcounter.de": "INACTIVE",
-            "www.yourdedicatedhost.com": "INACTIVE"
-        },
         "1579069826": {
-            "ads.itmcash.com": "INACTIVE",
-            "adserver2.blueadvertise.com": "INACTIVE",
-            "cbpublishing.blueadvertise.com": "INACTIVE",
-            "cdxninteractive.blueadvertise.com": "INACTIVE",
-            "content.ipro.com": "INACTIVE",
-            "creativeby2.unicast.com": "INACTIVE",
-            "creditburner.blueadvertise.com": "INACTIVE",
-            "exityield.advertise.com": "INACTIVE",
-            "my.blueadvertise.com": "INACTIVE"
+            "content.ipro.com": "INACTIVE"
         },
         "1579069827": {
             "adds.misiamoiatdom.com": "INACTIVE",
@@ -589,6 +568,31 @@
             "utm.zwinky.com": "INACTIVE",
             "utm2.smileycentral.com": "INACTIVE",
             "utmtrk2.smileycentral.com": "INACTIVE"
+        },
+        "1579252687": {
+            "banners.thiswillshockyou.com": "INACTIVE",
+            "mf.sitescout.com": "INACTIVE",
+            "vom.sitescout.com": "INACTIVE",
+            "wam-ads.sitescout.com": "INACTIVE"
+        },
+        "1579252688": {
+            "ad.velmedia.net": "INACTIVE",
+            "ads.ad4max.com": "INACTIVE",
+            "ads.itmcash.com": "INACTIVE",
+            "moo.sitescout.com": "INACTIVE",
+            "static.unister-adservices.com": "INACTIVE",
+            "www.ipcounter.de": "INACTIVE",
+            "www.velmedia.net": "INACTIVE",
+            "www.yourdedicatedhost.com": "INACTIVE"
+        },
+        "1579252689": {
+            "adserver2.blueadvertise.com": "INACTIVE",
+            "cbpublishing.blueadvertise.com": "INACTIVE",
+            "cdxninteractive.blueadvertise.com": "INACTIVE",
+            "creativeby2.unicast.com": "INACTIVE",
+            "creditburner.blueadvertise.com": "INACTIVE",
+            "exityield.advertise.com": "INACTIVE",
+            "my.blueadvertise.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
