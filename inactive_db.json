@@ -600,6 +600,13 @@
         },
         "1579445185": {
             "counter.joins.com": "INACTIVE"
+        },
+        "1579446319": {
+            "adserver2.blueadvertise.com": "INACTIVE",
+            "cbpublishing.blueadvertise.com": "INACTIVE",
+            "cdxninteractive.blueadvertise.com": "INACTIVE",
+            "creditburner.blueadvertise.com": "INACTIVE",
+            "my.blueadvertise.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
