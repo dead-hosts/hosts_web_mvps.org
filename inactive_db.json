@@ -1,48 +1,6 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1579257637": {
-            "realtime.deximedia.com": "INACTIVE",
-            "xml.quiveradnet.com": "INACTIVE"
-        },
-        "1579258337": {
-            "chip.ivwbox.de": "INACTIVE",
-            "ciao.ivwbox.de": "INACTIVE",
-            "ctix8.cheaptickets.com": "INACTIVE",
-            "daserste.ivwbox.de": "INACTIVE",
-            "faz.ivwbox.de": "INACTIVE",
-            "finatime.ivwbox.de": "INACTIVE",
-            "freecast.ivwbox.de": "INACTIVE",
-            "handbl.ivwbox.de": "INACTIVE",
-            "heute.ivwbox.de": "INACTIVE",
-            "mclient.ivwbox.de": "INACTIVE"
-        },
-        "1579258338": {
-            "ads.nwsource.com": "INACTIVE",
-            "ads.seattletimes.com": "INACTIVE",
-            "imagec17.247realmedia.com": "INACTIVE",
-            "morgpost.ivwbox.de": "INACTIVE",
-            "netzeitu.ivwbox.de": "INACTIVE",
-            "newsclic.ivwbox.de": "INACTIVE",
-            "oas.ad-vice.biz": "INACTIVE",
-            "oasc17.247realmedia.com": "INACTIVE",
-            "openadstream-eu1.247realmedia.com": "INACTIVE",
-            "qs.ivwbox.de": "INACTIVE",
-            "rtl.ivwbox.de": "INACTIVE",
-            "rusads.toysrus.com": "INACTIVE",
-            "schuelvz.ivwbox.de": "INACTIVE",
-            "studivz.ivwbox.de": "INACTIVE",
-            "sueddeut.ivwbox.de": "INACTIVE",
-            "swr.ivwbox.de": "INACTIVE",
-            "www.ivwbox.de": "INACTIVE",
-            "yahoo.ivwbox.de": "INACTIVE",
-            "zdf.ivwbox.de": "INACTIVE",
-            "zeitonl.ivwbox.de": "INACTIVE"
-        },
         "1579258339": {
-            "oas.deejay.it": "INACTIVE",
-            "oascentral.mochila.com": "INACTIVE",
-            "oascentral.nephrologynews.com": "INACTIVE",
-            "oascentral.recroom.com": "INACTIVE",
             "track.ad4mmo.com": "INACTIVE"
         },
         "1579258340": {
@@ -580,6 +538,52 @@
         "1579418832": {
             "core.bluefly.com": "INACTIVE",
             "www.leadtrackgo.com": "INACTIVE"
+        },
+        "1579419945": {
+            "network.adsmarket.com": "INACTIVE",
+            "realtime.deximedia.com": "INACTIVE",
+            "xml.quiveradnet.com": "INACTIVE"
+        },
+        "1579419947": {
+            "chip.ivwbox.de": "INACTIVE",
+            "ciao.ivwbox.de": "INACTIVE",
+            "ctix8.cheaptickets.com": "INACTIVE",
+            "daserste.ivwbox.de": "INACTIVE",
+            "faz.ivwbox.de": "INACTIVE",
+            "finatime.ivwbox.de": "INACTIVE",
+            "freecast.ivwbox.de": "INACTIVE",
+            "handbl.ivwbox.de": "INACTIVE",
+            "heute.ivwbox.de": "INACTIVE",
+            "imagec17.247realmedia.com": "INACTIVE",
+            "mclient.ivwbox.de": "INACTIVE",
+            "morgpost.ivwbox.de": "INACTIVE",
+            "netzeitu.ivwbox.de": "INACTIVE",
+            "newsclic.ivwbox.de": "INACTIVE",
+            "oasc17.247realmedia.com": "INACTIVE",
+            "openadstream-eu1.247realmedia.com": "INACTIVE",
+            "qs.ivwbox.de": "INACTIVE",
+            "rtl.ivwbox.de": "INACTIVE",
+            "schuelvz.ivwbox.de": "INACTIVE",
+            "studivz.ivwbox.de": "INACTIVE",
+            "sueddeut.ivwbox.de": "INACTIVE",
+            "swr.ivwbox.de": "INACTIVE",
+            "www.ivwbox.de": "INACTIVE",
+            "yahoo.ivwbox.de": "INACTIVE",
+            "zdf.ivwbox.de": "INACTIVE",
+            "zeitonl.ivwbox.de": "INACTIVE"
+        },
+        "1579419948": {
+            "ads.nwsource.com": "INACTIVE",
+            "ads.seattletimes.com": "INACTIVE",
+            "oas.ad-vice.biz": "INACTIVE",
+            "oas.deejay.it": "INACTIVE",
+            "oascentral.mochila.com": "INACTIVE",
+            "oascentral.nephrologynews.com": "INACTIVE",
+            "oascentral.recroom.com": "INACTIVE",
+            "rusads.toysrus.com": "INACTIVE"
+        },
+        "1579419949": {
+            "oascentral.stripes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
