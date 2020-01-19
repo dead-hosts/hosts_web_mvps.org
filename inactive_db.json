@@ -1,23 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1579255507": {
-            "ads.tarrobads.com": "INACTIVE"
-        },
-        "1579256222": {
-            "ad3.rambler.ru": "INACTIVE",
-            "pixel.parsely.com": "INACTIVE",
-            "seomatrix.webtrackingservices.com": "INACTIVE"
-        },
-        "1579256223": {
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "banners.lativio.com": "INACTIVE",
-            "info-images.rambler.ru": "INACTIVE",
-            "track1.breakmedia.com": "INACTIVE"
-        },
-        "1579256224": {
-            "adserve.cpmba.se": "INACTIVE"
-        },
         "1579256225": {
             "stats.snacktools.net": "INACTIVE"
         },
@@ -589,6 +571,22 @@
         },
         "1579415027": {
             "ads.vimg.net": "INACTIVE"
+        },
+        "1579416293": {
+            "ads.tarrobads.com": "INACTIVE",
+            "pixel.parsely.com": "INACTIVE",
+            "seomatrix.webtrackingservices.com": "INACTIVE"
+        },
+        "1579416294": {
+            "ad3.rambler.ru": "INACTIVE",
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE",
+            "info-images.rambler.ru": "INACTIVE",
+            "track1.breakmedia.com": "INACTIVE"
+        },
+        "1579416295": {
+            "adserve.cpmba.se": "INACTIVE",
+            "banners.lativio.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
