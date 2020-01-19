@@ -1,23 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1579334310": {
-            "ads.sports.fr": "INACTIVE",
-            "banner.tonygpoker.com": "INACTIVE",
-            "creativos.ads.uigc.net": "INACTIVE",
-            "dy.testnet.nl": "INACTIVE",
-            "j.theadsnet.com": "INACTIVE",
-            "net.softonicads.com": "INACTIVE",
-            "netsr.softonicads.com": "INACTIVE",
-            "proxy.softonicads.com": "INACTIVE",
-            "srv2.twittercounter.com": "INACTIVE",
-            "t1.softonicads.com": "INACTIVE",
-            "web.softonic-analytics.net": "INACTIVE",
-            "www.unicast.com": "INACTIVE"
-        },
         "1579335691": {
-            "ab.vendemore.com": "INACTIVE",
             "ads.24.com": "INACTIVE",
-            "ads.urlfan.com": "INACTIVE",
             "ads.xtargeting.com": "INACTIVE",
             "ads.zamunda.net": "INACTIVE",
             "ads2.zamunda.net": "INACTIVE",
@@ -35,7 +19,6 @@
             "intactro.adocean.pl": "INACTIVE",
             "rmd.atdmt.com": "INACTIVE",
             "sana.newsinc.com": "INACTIVE",
-            "secure.webresint.com": "INACTIVE",
             "spd.atdmt.com": "INACTIVE",
             "spe.atdmt.com": "INACTIVE",
             "static.adtaily.com": "INACTIVE",
@@ -584,6 +567,25 @@
             "count.rbc.ru": "INACTIVE",
             "pxl.pmsrvr.com": "INACTIVE",
             "report-ads-to.pubnation.com": "INACTIVE"
+        },
+        "1579436390": {
+            "ab.vendemore.com": "INACTIVE",
+            "ads.sports.fr": "INACTIVE",
+            "ads.urlfan.com": "INACTIVE",
+            "banner.tonygpoker.com": "INACTIVE",
+            "creativos.ads.uigc.net": "INACTIVE",
+            "dy.testnet.nl": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE",
+            "net.softonicads.com": "INACTIVE",
+            "netsr.softonicads.com": "INACTIVE",
+            "proxy.softonicads.com": "INACTIVE",
+            "srv2.twittercounter.com": "INACTIVE",
+            "t1.softonicads.com": "INACTIVE",
+            "web.softonic-analytics.net": "INACTIVE",
+            "www.unicast.com": "INACTIVE"
+        },
+        "1579436391": {
+            "secure.webresint.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
