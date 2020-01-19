@@ -1,32 +1,9 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
         "1579335691": {
-            "ads.24.com": "INACTIVE",
-            "ads.xtargeting.com": "INACTIVE",
-            "ads.zamunda.net": "INACTIVE",
-            "ads2.zamunda.net": "INACTIVE",
             "aka.accortech.com": "INACTIVE",
-            "apibeta.zeti.com": "INACTIVE",
-            "banners.weselltraffic.com": "INACTIVE",
-            "cdn.optimatic.com": "INACTIVE",
-            "cdn2.adsdk.com": "INACTIVE",
-            "clicks.weselltraffic.com": "INACTIVE",
             "content-ssl.yieldmanager.com": "INACTIVE",
-            "edge.aperture.displaymarketplace.com": "INACTIVE",
-            "fast.twc.demdex.net": "INACTIVE",
-            "feeds.weselltraffic.com": "INACTIVE",
-            "gspro.adocean.pl": "INACTIVE",
-            "intactro.adocean.pl": "INACTIVE",
-            "rmd.atdmt.com": "INACTIVE",
-            "sana.newsinc.com": "INACTIVE",
-            "spd.atdmt.com": "INACTIVE",
-            "spe.atdmt.com": "INACTIVE",
-            "static.adtaily.com": "INACTIVE",
-            "tiads.essence.com": "INACTIVE",
-            "track.lativio.com": "INACTIVE",
-            "traktr.news.com.au": "INACTIVE",
-            "vid.atdmt.com": "INACTIVE",
-            "www.yourhitstats.com": "INACTIVE"
+            "traktr.news.com.au": "INACTIVE"
         },
         "1579335692": {
             "a.company-target.com": "INACTIVE",
@@ -586,6 +563,33 @@
         },
         "1579436391": {
             "secure.webresint.com": "INACTIVE"
+        },
+        "1579437975": {
+            "ads.24.com": "INACTIVE",
+            "ads.xtargeting.com": "INACTIVE",
+            "ads.zamunda.net": "INACTIVE",
+            "ads2.zamunda.net": "INACTIVE",
+            "apibeta.zeti.com": "INACTIVE",
+            "track.lativio.com": "INACTIVE",
+            "www.yourhitstats.com": "INACTIVE"
+        },
+        "1579437976": {
+            "banners.weselltraffic.com": "INACTIVE",
+            "cdn.optimatic.com": "INACTIVE",
+            "cdn2.adsdk.com": "INACTIVE",
+            "clicks.weselltraffic.com": "INACTIVE",
+            "edge.aperture.displaymarketplace.com": "INACTIVE",
+            "fast.twc.demdex.net": "INACTIVE",
+            "feeds.weselltraffic.com": "INACTIVE",
+            "gspro.adocean.pl": "INACTIVE",
+            "intactro.adocean.pl": "INACTIVE",
+            "rmd.atdmt.com": "INACTIVE",
+            "sana.newsinc.com": "INACTIVE",
+            "spd.atdmt.com": "INACTIVE",
+            "spe.atdmt.com": "INACTIVE",
+            "static.adtaily.com": "INACTIVE",
+            "tiads.essence.com": "INACTIVE",
+            "vid.atdmt.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
