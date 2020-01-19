@@ -1,24 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1579254814": {
-            "srv2.admedit.me": "INACTIVE"
-        },
-        "1579255505": {
-            "ads1.nexdra.com": "INACTIVE",
-            "www.efficienttraffic.com": "INACTIVE"
-        },
-        "1579255506": {
-            "ads.purefuck.com": "INACTIVE",
-            "cg-global.maxymiser.com": "INACTIVE",
-            "openads.hiphopsite.com": "INACTIVE",
-            "static.meteorsolutions.com": "INACTIVE"
-        },
         "1579255507": {
-            "ads.canalblog.com": "INACTIVE",
-            "ads.tarrobads.com": "INACTIVE",
-            "ads.vimg.net": "INACTIVE",
-            "astalavista.box.sk": "INACTIVE",
-            "banners.easydns.com": "INACTIVE"
+            "ads.tarrobads.com": "INACTIVE"
         },
         "1579256222": {
             "ad3.rambler.ru": "INACTIVE",
@@ -586,6 +569,26 @@
             "a.bizarremag.com": "INACTIVE",
             "b.computerworlduk.com": "INACTIVE",
             "stats.style.com": "INACTIVE"
+        },
+        "1579415023": {
+            "srv2.admedit.me": "INACTIVE"
+        },
+        "1579415024": {
+            "www.efficienttraffic.com": "INACTIVE"
+        },
+        "1579415025": {
+            "ads1.nexdra.com": "INACTIVE",
+            "cg-global.maxymiser.com": "INACTIVE",
+            "openads.hiphopsite.com": "INACTIVE",
+            "static.meteorsolutions.com": "INACTIVE"
+        },
+        "1579415026": {
+            "ads.purefuck.com": "INACTIVE",
+            "astalavista.box.sk": "INACTIVE",
+            "banners.easydns.com": "INACTIVE"
+        },
+        "1579415027": {
+            "ads.vimg.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
