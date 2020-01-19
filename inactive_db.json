@@ -26,9 +26,6 @@
             "tr.mobiadserv.com": "INACTIVE",
             "web.softonic-analytics.net": "INACTIVE",
             "webeffective.keynote.com": "INACTIVE",
-            "www.intelli-tracker.com": "INACTIVE",
-            "www.interstats.nl": "INACTIVE",
-            "www.ipstat.com": "INACTIVE",
             "www.mlclick.com": "INACTIVE",
             "www.unicast.com": "INACTIVE"
         },
@@ -578,6 +575,11 @@
             "stats.inist.fr": "INACTIVE",
             "top.easy.lv": "INACTIVE",
             "www.top100.ro": "INACTIVE"
+        },
+        "1579432605": {
+            "www.intelli-tracker.com": "INACTIVE",
+            "www.interstats.nl": "INACTIVE",
+            "www.ipstat.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
