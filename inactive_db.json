@@ -1,32 +1,8 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1579256225": {
-            "stats.snacktools.net": "INACTIVE"
-        },
-        "1579256938": {
-            "a.thoughtleadr.com": "INACTIVE",
-            "adv.elaana.com": "INACTIVE",
-            "cdn.tracking.bannerflow.com": "INACTIVE",
-            "mycounter.tinycounter.com": "INACTIVE",
-            "stats.vodpod.com": "INACTIVE"
-        },
-        "1579256939": {
-            "counter.sexsuche.tv": "INACTIVE"
-        },
-        "1579256940": {
-            "mm.chitika.net": "INACTIVE",
-            "www.adszooks.com": "INACTIVE",
-            "www.free-hardcoresex.org": "INACTIVE",
-            "x2.xclicks.net": "INACTIVE",
-            "x3.xclicks.net": "INACTIVE",
-            "x4.xclicks.net": "INACTIVE",
-            "x5.xclicks.net": "INACTIVE",
-            "x6.xclicks.net": "INACTIVE"
-        },
         "1579256941": {
             "aff.primaryads.com": "INACTIVE",
-            "images.primaryads.com": "INACTIVE",
-            "www.xclicks.net": "INACTIVE"
+            "images.primaryads.com": "INACTIVE"
         },
         "1579257629": {
             "www.theaffiliateprogram.com": "INACTIVE"
@@ -587,6 +563,30 @@
         "1579416295": {
             "adserve.cpmba.se": "INACTIVE",
             "banners.lativio.com": "INACTIVE"
+        },
+        "1579417552": {
+            "a.thoughtleadr.com": "INACTIVE",
+            "adv.elaana.com": "INACTIVE",
+            "mycounter.tinycounter.com": "INACTIVE",
+            "stats.snacktools.net": "INACTIVE",
+            "stats.vodpod.com": "INACTIVE"
+        },
+        "1579417553": {
+            "cdn.tracking.bannerflow.com": "INACTIVE"
+        },
+        "1579417554": {
+            "counter.sexsuche.tv": "INACTIVE",
+            "mm.chitika.net": "INACTIVE"
+        },
+        "1579417555": {
+            "www.adszooks.com": "INACTIVE",
+            "www.free-hardcoresex.org": "INACTIVE",
+            "www.xclicks.net": "INACTIVE",
+            "x2.xclicks.net": "INACTIVE",
+            "x3.xclicks.net": "INACTIVE",
+            "x4.xclicks.net": "INACTIVE",
+            "x5.xclicks.net": "INACTIVE",
+            "x6.xclicks.net": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
