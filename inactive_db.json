@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1579395421": {
-            "gbjfc.rsvpgenius.com": "INACTIVE"
-        },
         "1579400253": {
             "spin.spinbox.net": "INACTIVE"
         },
@@ -365,35 +362,11 @@
             "top.easy.lv": "INACTIVE",
             "www.top100.ro": "INACTIVE"
         },
-        "1579434498": {
-            "ads.livescore.com": "INACTIVE",
-            "gw003.lphbs.com": "INACTIVE",
-            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
-            "internet.marsmediachannels.com": "INACTIVE",
-            "ms.ligatus.com": "INACTIVE",
-            "stats.jtvnw.net": "INACTIVE",
-            "tr.mobiadserv.com": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "www.mlclick.com": "INACTIVE"
-        },
-        "1579434499": {
-            "count.rbc.ru": "INACTIVE",
-            "report-ads-to.pubnation.com": "INACTIVE"
-        },
         "1579436390": {
             "ab.vendemore.com": "INACTIVE",
-            "ads.sports.fr": "INACTIVE",
             "ads.urlfan.com": "INACTIVE",
-            "banner.tonygpoker.com": "INACTIVE",
             "creativos.ads.uigc.net": "INACTIVE",
-            "dy.testnet.nl": "INACTIVE",
-            "j.theadsnet.com": "INACTIVE",
-            "net.softonicads.com": "INACTIVE",
-            "netsr.softonicads.com": "INACTIVE",
-            "proxy.softonicads.com": "INACTIVE",
             "srv2.twittercounter.com": "INACTIVE",
-            "t1.softonicads.com": "INACTIVE",
-            "web.softonic-analytics.net": "INACTIVE",
             "www.unicast.com": "INACTIVE"
         },
         "1579436391": {
@@ -631,6 +604,31 @@
             "www.intelli-tracker.com": "INACTIVE",
             "www.interstats.nl": "INACTIVE",
             "www.ipstat.com": "INACTIVE"
+        },
+        "1579523246": {
+            "ads.livescore.com": "INACTIVE",
+            "ads.sports.fr": "INACTIVE",
+            "count.rbc.ru": "INACTIVE",
+            "gbjfc.rsvpgenius.com": "INACTIVE",
+            "gw003.lphbs.com": "INACTIVE",
+            "indianapolis.hosted.xms.keynote.com": "INACTIVE",
+            "internet.marsmediachannels.com": "INACTIVE",
+            "ms.ligatus.com": "INACTIVE",
+            "net.softonicads.com": "INACTIVE",
+            "netsr.softonicads.com": "INACTIVE",
+            "proxy.softonicads.com": "INACTIVE",
+            "report-ads-to.pubnation.com": "INACTIVE",
+            "stats.jtvnw.net": "INACTIVE",
+            "t1.softonicads.com": "INACTIVE",
+            "tr.mobiadserv.com": "INACTIVE",
+            "web.softonic-analytics.net": "INACTIVE",
+            "webeffective.keynote.com": "INACTIVE",
+            "www.mlclick.com": "INACTIVE"
+        },
+        "1579523247": {
+            "banner.tonygpoker.com": "INACTIVE",
+            "dy.testnet.nl": "INACTIVE",
+            "j.theadsnet.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
