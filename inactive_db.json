@@ -1,29 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1579417554": {
-            "mm.chitika.net": "INACTIVE"
-        },
-        "1579417555": {
-            "www.adszooks.com": "INACTIVE",
-            "www.free-hardcoresex.org": "INACTIVE",
-            "www.xclicks.net": "INACTIVE",
-            "x2.xclicks.net": "INACTIVE",
-            "x3.xclicks.net": "INACTIVE",
-            "x4.xclicks.net": "INACTIVE",
-            "x5.xclicks.net": "INACTIVE",
-            "x6.xclicks.net": "INACTIVE"
-        },
-        "1579418831": {
-            "aff.primaryads.com": "INACTIVE",
-            "free-stats.i8.com": "INACTIVE",
-            "images.primaryads.com": "INACTIVE",
-            "site-stats.i8.com": "INACTIVE",
-            "www.theaffiliateprogram.com": "INACTIVE"
-        },
-        "1579418832": {
-            "core.bluefly.com": "INACTIVE",
-            "www.leadtrackgo.com": "INACTIVE"
-        },
         "1579419945": {
             "network.adsmarket.com": "INACTIVE",
             "realtime.deximedia.com": "INACTIVE",
@@ -593,6 +569,28 @@
         },
         "1579541767": {
             "counter.sexsuche.tv": "INACTIVE"
+        },
+        "1579543278": {
+            "mm.chitika.net": "INACTIVE",
+            "www.adszooks.com": "INACTIVE",
+            "www.free-hardcoresex.org": "INACTIVE",
+            "x2.xclicks.net": "INACTIVE",
+            "x3.xclicks.net": "INACTIVE",
+            "x4.xclicks.net": "INACTIVE",
+            "x5.xclicks.net": "INACTIVE",
+            "x6.xclicks.net": "INACTIVE"
+        },
+        "1579543279": {
+            "aff.primaryads.com": "INACTIVE",
+            "images.primaryads.com": "INACTIVE",
+            "www.theaffiliateprogram.com": "INACTIVE",
+            "www.xclicks.net": "INACTIVE"
+        },
+        "1579543280": {
+            "core.bluefly.com": "INACTIVE",
+            "free-stats.i8.com": "INACTIVE",
+            "site-stats.i8.com": "INACTIVE",
+            "www.leadtrackgo.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
