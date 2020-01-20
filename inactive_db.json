@@ -1,27 +1,7 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1579415026": {
-            "astalavista.box.sk": "INACTIVE",
-            "banners.easydns.com": "INACTIVE"
-        },
-        "1579415027": {
-            "ads.vimg.net": "INACTIVE"
-        },
-        "1579416293": {
-            "ads.tarrobads.com": "INACTIVE",
-            "pixel.parsely.com": "INACTIVE",
-            "seomatrix.webtrackingservices.com": "INACTIVE"
-        },
-        "1579416294": {
-            "ad3.rambler.ru": "INACTIVE",
-            "ads.amateurmatch.com": "INACTIVE",
-            "ads.datinggold.com": "INACTIVE",
-            "info-images.rambler.ru": "INACTIVE",
-            "track1.breakmedia.com": "INACTIVE"
-        },
         "1579416295": {
-            "adserve.cpmba.se": "INACTIVE",
-            "banners.lativio.com": "INACTIVE"
+            "adserve.cpmba.se": "INACTIVE"
         },
         "1579417552": {
             "a.thoughtleadr.com": "INACTIVE",
@@ -149,9 +129,6 @@
             "stats.inist.fr": "INACTIVE",
             "top.easy.lv": "INACTIVE",
             "www.top100.ro": "INACTIVE"
-        },
-        "1579449626": {
-            "ads.canalblog.com": "INACTIVE"
         },
         "1579516531": {
             "assets.adtaily.com": "INACTIVE",
@@ -592,6 +569,27 @@
         },
         "1579538810": {
             "ads.purefuck.com": "INACTIVE"
+        },
+        "1579540201": {
+            "astalavista.box.sk": "INACTIVE"
+        },
+        "1579540202": {
+            "ads.canalblog.com": "INACTIVE",
+            "ads.tarrobads.com": "INACTIVE",
+            "ads.vimg.net": "INACTIVE",
+            "banners.easydns.com": "INACTIVE",
+            "pixel.parsely.com": "INACTIVE"
+        },
+        "1579540203": {
+            "ad3.rambler.ru": "INACTIVE",
+            "info-images.rambler.ru": "INACTIVE",
+            "seomatrix.webtrackingservices.com": "INACTIVE"
+        },
+        "1579540204": {
+            "ads.amateurmatch.com": "INACTIVE",
+            "ads.datinggold.com": "INACTIVE",
+            "banners.lativio.com": "INACTIVE",
+            "track1.breakmedia.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
