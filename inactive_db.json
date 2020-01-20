@@ -1,8 +1,5 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
-        "1579400253": {
-            "spin.spinbox.net": "INACTIVE"
-        },
         "1579402588": {
             "cdn.yldbt.com": "INACTIVE"
         },
@@ -362,33 +359,11 @@
             "top.easy.lv": "INACTIVE",
             "www.top100.ro": "INACTIVE"
         },
-        "1579436390": {
-            "ab.vendemore.com": "INACTIVE",
-            "ads.urlfan.com": "INACTIVE",
-            "creativos.ads.uigc.net": "INACTIVE",
-            "srv2.twittercounter.com": "INACTIVE",
-            "www.unicast.com": "INACTIVE"
-        },
-        "1579436391": {
-            "secure.webresint.com": "INACTIVE"
-        },
-        "1579437975": {
-            "ads.24.com": "INACTIVE",
-            "ads.xtargeting.com": "INACTIVE",
-            "ads.zamunda.net": "INACTIVE",
-            "ads2.zamunda.net": "INACTIVE",
-            "apibeta.zeti.com": "INACTIVE",
-            "track.lativio.com": "INACTIVE",
-            "www.yourhitstats.com": "INACTIVE"
-        },
         "1579437976": {
-            "banners.weselltraffic.com": "INACTIVE",
             "cdn.optimatic.com": "INACTIVE",
             "cdn2.adsdk.com": "INACTIVE",
-            "clicks.weselltraffic.com": "INACTIVE",
             "edge.aperture.displaymarketplace.com": "INACTIVE",
             "fast.twc.demdex.net": "INACTIVE",
-            "feeds.weselltraffic.com": "INACTIVE",
             "gspro.adocean.pl": "INACTIVE",
             "intactro.adocean.pl": "INACTIVE",
             "rmd.atdmt.com": "INACTIVE",
@@ -629,6 +604,26 @@
             "banner.tonygpoker.com": "INACTIVE",
             "dy.testnet.nl": "INACTIVE",
             "j.theadsnet.com": "INACTIVE"
+        },
+        "1579524798": {
+            "ab.vendemore.com": "INACTIVE",
+            "ads.24.com": "INACTIVE",
+            "ads.urlfan.com": "INACTIVE",
+            "ads.xtargeting.com": "INACTIVE",
+            "ads.zamunda.net": "INACTIVE",
+            "ads2.zamunda.net": "INACTIVE",
+            "apibeta.zeti.com": "INACTIVE",
+            "creativos.ads.uigc.net": "INACTIVE",
+            "secure.webresint.com": "INACTIVE",
+            "srv2.twittercounter.com": "INACTIVE",
+            "track.lativio.com": "INACTIVE",
+            "www.unicast.com": "INACTIVE",
+            "www.yourhitstats.com": "INACTIVE"
+        },
+        "1579524799": {
+            "banners.weselltraffic.com": "INACTIVE",
+            "clicks.weselltraffic.com": "INACTIVE",
+            "feeds.weselltraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
