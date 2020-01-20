@@ -325,30 +325,16 @@
         "1579420677": {
             "ad.cmfu.com": "INACTIVE",
             "ad1.emediate.dk": "INACTIVE",
-            "ads.afa.net": "INACTIVE",
-            "ads.baz.ch": "INACTIVE",
             "ads.gorillavid.in": "INACTIVE",
             "ads.iafrica.com": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "assets.adtaily.com": "INACTIVE",
             "cc12797.counter.hackers.lv": "INACTIVE",
             "cc9905.counter.hackers.lv": "INACTIVE",
             "count.dba.dk": "INACTIVE",
             "counter.goingup.com": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE",
-            "intext.billboard.cz": "INACTIVE",
             "log.feedjit.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
             "openx.diena.lv": "INACTIVE",
             "prm.europacash.com": "INACTIVE",
-            "show.adzpower.com": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE",
-            "www.blogcatalog.com": "INACTIVE",
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE",
@@ -626,6 +612,25 @@
         },
         "1579449626": {
             "ads.canalblog.com": "INACTIVE"
+        },
+        "1579516531": {
+            "assets.adtaily.com": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE"
+        },
+        "1579516532": {
+            "ads.afa.net": "INACTIVE",
+            "ads.baz.ch": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "counter.bigli.ru": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "intext.billboard.cz": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "show.adzpower.com": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE",
+            "www.blogcatalog.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
