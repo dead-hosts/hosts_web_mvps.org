@@ -572,9 +572,6 @@
         "1579776244": {
             "openx.diena.lv": "INACTIVE"
         },
-        "1579804868": {
-            "count.dba.dk": "INACTIVE"
-        },
         "1579863111": {
             "ad.cmfu.com": "INACTIVE",
             "ads.afa.net": "INACTIVE",
@@ -594,6 +591,9 @@
             "www.blogcatalog.com": "INACTIVE",
             "www.cnstats.com": "INACTIVE",
             "www.contextpanel.com": "INACTIVE"
+        },
+        "1579895067": {
+            "count.dba.dk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
