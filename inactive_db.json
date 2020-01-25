@@ -574,9 +574,6 @@
             "assets.adtaily.com": "INACTIVE",
             "intext.billboard.cz": "INACTIVE"
         },
-        "1579895067": {
-            "count.dba.dk": "INACTIVE"
-        },
         "1579899064": {
             "openx.diena.lv": "INACTIVE"
         },
@@ -601,6 +598,9 @@
         "1579968065": {
             "promo.begun.ru": "INACTIVE",
             "referal.begun.ru": "INACTIVE"
+        },
+        "1579984558": {
+            "count.dba.dk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
