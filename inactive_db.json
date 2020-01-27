@@ -574,9 +574,6 @@
             "assets.adtaily.com": "INACTIVE",
             "intext.billboard.cz": "INACTIVE"
         },
-        "1580012308": {
-            "openx.diena.lv": "INACTIVE"
-        },
         "1580040473": {
             "ad.cmfu.com": "INACTIVE",
             "ads.afa.net": "INACTIVE",
@@ -601,6 +598,9 @@
         },
         "1580075848": {
             "yeskyafp.allyes.com": "INACTIVE"
+        },
+        "1580118147": {
+            "openx.diena.lv": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
