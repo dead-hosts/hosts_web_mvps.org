@@ -562,9 +562,6 @@
             "assets.adtaily.com": "INACTIVE",
             "intext.billboard.cz": "INACTIVE"
         },
-        "1580160729": {
-            "count.dba.dk": "INACTIVE"
-        },
         "1580210444": {
             "ad1.emediate.dk": "INACTIVE",
             "ad1.emediate.se": "INACTIVE",
@@ -607,6 +604,9 @@
         },
         "1580229399": {
             "ads.china.com": "INACTIVE"
+        },
+        "1580248512": {
+            "count.dba.dk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
