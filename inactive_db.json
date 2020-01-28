@@ -9,8 +9,6 @@
             "cdn.popwin.net": "INACTIVE",
             "pxl.pmsrvr.com": "INACTIVE",
             "sponsoredlinks.nationalgeographic.com": "INACTIVE",
-            "www.intelli-tracker.com": "INACTIVE",
-            "www.interstats.nl": "INACTIVE",
             "www.ipstat.com": "INACTIVE"
         },
         "1579523246": {
@@ -601,6 +599,10 @@
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE",
             "www.icentric.net": "INACTIVE"
+        },
+        "1580214393": {
+            "www.intelli-tracker.com": "INACTIVE",
+            "www.interstats.nl": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
