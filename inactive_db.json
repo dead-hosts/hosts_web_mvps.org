@@ -571,9 +571,6 @@
             "www.intelli-tracker.com": "INACTIVE",
             "www.interstats.nl": "INACTIVE"
         },
-        "1580248512": {
-            "count.dba.dk": "INACTIVE"
-        },
         "1580278432": {
             "profiling.avandor.com": "INACTIVE"
         },
@@ -617,6 +614,9 @@
         },
         "1580332671": {
             "webtracker.apicasystem.com": "INACTIVE"
+        },
+        "1580336176": {
+            "count.dba.dk": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
