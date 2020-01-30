@@ -571,18 +571,9 @@
             "www.intelli-tracker.com": "INACTIVE",
             "www.interstats.nl": "INACTIVE"
         },
-        "1580299564": {
-            "openx.diena.lv": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
         "1580299565": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
             "ads.gorillavid.in": "INACTIVE",
-            "counter.goingup.com": "INACTIVE",
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE"
+            "counter.goingup.com": "INACTIVE"
         },
         "1580305403": {
             "ad.cmfu.com": "INACTIVE",
@@ -621,6 +612,17 @@
         },
         "1580382089": {
             "imp.double.net": "INACTIVE"
+        },
+        "1580386754": {
+            "openx.diena.lv": "INACTIVE"
+        },
+        "1580386755": {
+            "ad1.emediate.dk": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "log.feedjit.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE",
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
