@@ -575,29 +575,6 @@
             "ads.gorillavid.in": "INACTIVE",
             "counter.goingup.com": "INACTIVE"
         },
-        "1580769013": {
-            "ad.cmfu.com": "INACTIVE",
-            "ads.afa.net": "INACTIVE",
-            "ads.static.adhood.com": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "app.pubserver.adhood.com": "INACTIVE",
-            "app.winwords.adhood.com": "INACTIVE",
-            "counter.bigli.ru": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "show.adzpower.com": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE",
-            "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE"
-        },
-        "1580769014": {
-            "count.dba.dk": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE"
-        },
         "1580772976": {
             "ad1.emediate.dk": "INACTIVE",
             "ad1.emediate.se": "INACTIVE",
@@ -623,6 +600,24 @@
         },
         "1580800416": {
             "ad.adition.net": "INACTIVE"
+        },
+        "1580857203": {
+            "ad.cmfu.com": "INACTIVE",
+            "ads.afa.net": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
+            "counter.bigli.ru": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "show.adzpower.com": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE",
+            "www.cnstats.com": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
