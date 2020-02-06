@@ -578,24 +578,6 @@
         "1580792756": {
             "log.feedjit.com": "INACTIVE"
         },
-        "1580857203": {
-            "ad.cmfu.com": "INACTIVE",
-            "ads.afa.net": "INACTIVE",
-            "amazing-offers.co.il": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
-            "counter.bigli.ru": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "show.adzpower.com": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE",
-            "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE"
-        },
         "1580861062": {
             "ad1.emediate.dk": "INACTIVE",
             "ad1.emediate.se": "INACTIVE",
@@ -621,6 +603,26 @@
         },
         "1580928062": {
             "track.did-it.com": "INACTIVE"
+        },
+        "1580949785": {
+            "ads.afa.net": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
+            "show.adzpower.com": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE"
+        },
+        "1580949786": {
+            "ad.cmfu.com": "INACTIVE",
+            "amazing-offers.co.il": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
+            "counter.bigli.ru": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE",
+            "www.cnstats.com": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
