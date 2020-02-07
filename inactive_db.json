@@ -592,8 +592,7 @@
             "txads.buzzcity.com": "INACTIVE",
             "www.azmsoft.com": "INACTIVE",
             "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE"
+            "www.contextpanel.com": "INACTIVE"
         },
         "1580953845": {
             "ad1.emediate.dk": "INACTIVE",
@@ -617,6 +616,10 @@
         },
         "1581032369": {
             "log.feedjit.com": "INACTIVE"
+        },
+        "1581036290": {
+            "ivitrine.buscape.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
