@@ -575,14 +575,6 @@
             "ads.gorillavid.in": "INACTIVE",
             "counter.goingup.com": "INACTIVE"
         },
-        "1581132703": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
-        "1581136318": {
-            "imp.double.net": "INACTIVE"
-        },
         "1581139843": {
             "prm.europacash.com": "INACTIVE"
         },
@@ -622,6 +614,11 @@
             "count.dba.dk": "INACTIVE",
             "www.cnstats.com": "INACTIVE",
             "www.contextpanel.com": "INACTIVE"
+        },
+        "1581222907": {
+            "ad1.emediate.dk": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
