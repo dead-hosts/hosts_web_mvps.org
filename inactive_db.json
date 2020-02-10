@@ -571,10 +571,6 @@
             "www.intelli-tracker.com": "INACTIVE",
             "www.interstats.nl": "INACTIVE"
         },
-        "1581284876": {
-            "ads.gorillavid.in": "INACTIVE",
-            "counter.goingup.com": "INACTIVE"
-        },
         "1581300464": {
             "log.feedjit.com": "INACTIVE"
         },
@@ -617,6 +613,10 @@
         },
         "1581346447": {
             "profiling.avandor.com": "INACTIVE"
+        },
+        "1581373519": {
+            "ads.gorillavid.in": "INACTIVE",
+            "counter.goingup.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
