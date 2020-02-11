@@ -571,10 +571,6 @@
             "www.intelli-tracker.com": "INACTIVE",
             "www.interstats.nl": "INACTIVE"
         },
-        "1581342513": {
-            "cdn.clic2pub.com": "INACTIVE",
-            "publicidad.adlead.com": "INACTIVE"
-        },
         "1581346447": {
             "profiling.avandor.com": "INACTIVE"
         },
@@ -621,6 +617,9 @@
         "1581420538": {
             "www.advertlets.com": "INACTIVE",
             "www.banner-exchange.nl": "INACTIVE"
+        },
+        "1581431974": {
+            "cdn.clic2pub.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
