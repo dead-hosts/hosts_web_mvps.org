@@ -571,11 +571,6 @@
             "www.intelli-tracker.com": "INACTIVE",
             "www.interstats.nl": "INACTIVE"
         },
-        "1581665871": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
         "1581669719": {
             "counter.goingup.com": "INACTIVE",
             "prm.europacash.com": "INACTIVE"
@@ -615,6 +610,14 @@
             "www.azmsoft.com": "INACTIVE",
             "www.cnstats.com": "INACTIVE",
             "www.contextpanel.com": "INACTIVE"
+        },
+        "1581755748": {
+            "publicidad.adlead.com": "INACTIVE"
+        },
+        "1581755749": {
+            "ad1.emediate.dk": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
