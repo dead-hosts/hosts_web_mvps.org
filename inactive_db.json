@@ -571,12 +571,6 @@
             "www.intelli-tracker.com": "INACTIVE",
             "www.interstats.nl": "INACTIVE"
         },
-        "1581744203": {
-            "log.feedjit.com": "INACTIVE"
-        },
-        "1581748048": {
-            "www.ebannertraffic.com": "INACTIVE"
-        },
         "1581751848": {
             "ad.cmfu.com": "INACTIVE",
             "ads.afa.net": "INACTIVE",
@@ -617,6 +611,10 @@
         },
         "1581832864": {
             "www.advertlets.com": "INACTIVE"
+        },
+        "1581836599": {
+            "log.feedjit.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
