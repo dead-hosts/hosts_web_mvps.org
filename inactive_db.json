@@ -575,10 +575,6 @@
             "ads.gorillavid.in": "INACTIVE",
             "counter.goingup.com": "INACTIVE"
         },
-        "1581925983": {
-            "log.feedjit.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE"
-        },
         "1581929776": {
             "ads.afa.net": "INACTIVE",
             "engage2.advanstar.com": "INACTIVE",
@@ -617,6 +613,10 @@
         },
         "1582000397": {
             "publicidad.adlead.com": "INACTIVE"
+        },
+        "1582015944": {
+            "log.feedjit.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
