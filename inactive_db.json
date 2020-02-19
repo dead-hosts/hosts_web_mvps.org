@@ -575,10 +575,6 @@
             "ads.gorillavid.in": "INACTIVE",
             "counter.goingup.com": "INACTIVE"
         },
-        "1582015944": {
-            "log.feedjit.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE"
-        },
         "1582019577": {
             "ad.cmfu.com": "INACTIVE",
             "ads.afa.net": "INACTIVE",
@@ -609,6 +605,13 @@
         },
         "1582062270": {
             "ad.adition.net": "INACTIVE"
+        },
+        "1582104514": {
+            "www.advertlets.com": "INACTIVE"
+        },
+        "1582104515": {
+            "log.feedjit.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
