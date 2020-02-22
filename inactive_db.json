@@ -574,10 +574,6 @@
         "1582244268": {
             "ads.gorillavid.in": "INACTIVE"
         },
-        "1582280359": {
-            "log.feedjit.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE"
-        },
         "1582283698": {
             "ads.afa.net": "INACTIVE",
             "amazing-offers.co.il": "INACTIVE",
@@ -620,6 +616,10 @@
         },
         "1582361290": {
             "www.bannerexchange.co.nz": "INACTIVE"
+        },
+        "1582368637": {
+            "log.feedjit.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
