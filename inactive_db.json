@@ -574,9 +574,6 @@
         "1582244268": {
             "ads.gorillavid.in": "INACTIVE"
         },
-        "1582293635": {
-            "prm.europacash.com": "INACTIVE"
-        },
         "1582307647": {
             "servedby.adcombination.com": "INACTIVE"
         },
@@ -620,6 +617,9 @@
             "ad1.emediate.dk": "INACTIVE",
             "ad1.emediate.se": "INACTIVE",
             "www.ellads.com": "INACTIVE"
+        },
+        "1582380849": {
+            "prm.europacash.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
