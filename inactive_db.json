@@ -577,10 +577,6 @@
         "1582426089": {
             "counter.goingup.com": "INACTIVE"
         },
-        "1582548511": {
-            "log.feedjit.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE"
-        },
         "1582552613": {
             "ads.afa.net": "INACTIVE",
             "amazing-offers.co.il": "INACTIVE",
@@ -620,6 +616,10 @@
         },
         "1582597566": {
             "track.acclaimnetwork.com": "INACTIVE"
+        },
+        "1582637146": {
+            "log.feedjit.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
