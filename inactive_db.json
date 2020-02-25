@@ -577,12 +577,6 @@
         "1582426089": {
             "counter.goingup.com": "INACTIVE"
         },
-        "1582556237": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
-            "track.did-it.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
         "1582560459": {
             "prm.europacash.com": "INACTIVE"
         },
@@ -618,6 +612,11 @@
             "www.azmsoft.com": "INACTIVE",
             "www.cnstats.com": "INACTIVE",
             "www.contextpanel.com": "INACTIVE"
+        },
+        "1582644764": {
+            "ad1.emediate.dk": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
