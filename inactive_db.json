@@ -577,45 +577,33 @@
         "1582426089": {
             "counter.goingup.com": "INACTIVE"
         },
-        "1582560459": {
-            "prm.europacash.com": "INACTIVE"
-        },
-        "1582572640": {
-            "publicidad.adlead.com": "INACTIVE"
-        },
-        "1582576949": {
-            "servedby.adcombination.com": "INACTIVE"
-        },
-        "1582589350": {
-            "api-cache.adsnative.com": "INACTIVE"
-        },
-        "1582597566": {
-            "track.acclaimnetwork.com": "INACTIVE"
-        },
         "1582637146": {
-            "log.feedjit.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE"
+            "log.feedjit.com": "INACTIVE"
         },
-        "1582641019": {
-            "ad.cmfu.com": "INACTIVE",
+        "1582791353": {
             "ads.afa.net": "INACTIVE",
+            "api-cache.adsnative.com": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
+            "servedby.adcombination.com": "INACTIVE",
+            "show.adzpower.com": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE"
+        },
+        "1582791354": {
+            "ad.cmfu.com": "INACTIVE",
+            "ad1.emediate.dk": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
             "amazing-offers.co.il": "INACTIVE",
             "count.dba.dk": "INACTIVE",
             "counter.bigli.ru": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE",
             "go.idnes.bbelements.com": "INACTIVE",
             "logw349.ati-host.net": "INACTIVE",
-            "show.adzpower.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
             "stats.break.com": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE",
             "txads.buzzcity.com": "INACTIVE",
             "www.azmsoft.com": "INACTIVE",
             "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE"
-        },
-        "1582644764": {
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
         }
     },
