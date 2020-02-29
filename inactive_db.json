@@ -577,38 +577,35 @@
         "1582426089": {
             "counter.goingup.com": "INACTIVE"
         },
-        "1582791353": {
-            "ads.afa.net": "INACTIVE",
-            "api-cache.adsnative.com": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE",
-            "servedby.adcombination.com": "INACTIVE",
-            "show.adzpower.com": "INACTIVE",
-            "titan.advertserve.com": "INACTIVE"
-        },
         "1582791354": {
-            "ad.cmfu.com": "INACTIVE",
-            "ad1.emediate.dk": "INACTIVE",
-            "ad1.emediate.se": "INACTIVE",
+            "prm.europacash.com": "INACTIVE"
+        },
+        "1582794848": {
+            "log.feedjit.com": "INACTIVE"
+        },
+        "1582964522": {
+            "ads.afa.net": "INACTIVE",
             "amazing-offers.co.il": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
+            "api-cache.adsnative.com": "INACTIVE",
             "counter.bigli.ru": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
             "go.idnes.bbelements.com": "INACTIVE",
             "logw349.ati-host.net": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
+            "servedby.adcombination.com": "INACTIVE",
+            "show.adzpower.com": "INACTIVE",
+            "titan.advertserve.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
+        },
+        "1582964523": {
+            "ad.cmfu.com": "INACTIVE",
+            "ad1.emediate.se": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
             "stats.break.com": "INACTIVE",
             "txads.buzzcity.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE",
             "www.cnstats.com": "INACTIVE",
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
-        },
-        "1582794847": {
-            "publicidad.adlead.com": "INACTIVE",
-            "www.advertlets.com": "INACTIVE"
-        },
-        "1582794848": {
-            "log.feedjit.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
