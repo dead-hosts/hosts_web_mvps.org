@@ -574,10 +574,6 @@
         "1583015977": {
             "hapjes-maken.eu": "INACTIVE"
         },
-        "1583056714": {
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE"
-        },
         "1583068754": {
             "www.advertlets.com": "INACTIVE"
         },
@@ -610,6 +606,10 @@
             "count.dba.dk": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
+        },
+        "1583146632": {
+            "log.feedjit.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
