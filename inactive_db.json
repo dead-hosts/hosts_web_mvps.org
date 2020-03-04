@@ -570,10 +570,6 @@
             "www.intelli-tracker.com": "INACTIVE",
             "www.interstats.nl": "INACTIVE"
         },
-        "1583218800": {
-            "static.clickpapa.com": "INACTIVE",
-            "www.clickpapa.com": "INACTIVE"
-        },
         "1583223073": {
             "counter.goingup.com": "INACTIVE"
         },
@@ -614,6 +610,10 @@
         },
         "1583275904": {
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1583308702": {
+            "static.clickpapa.com": "INACTIVE",
+            "www.clickpapa.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
