@@ -570,9 +570,6 @@
             "www.intelli-tracker.com": "INACTIVE",
             "www.interstats.nl": "INACTIVE"
         },
-        "1583223073": {
-            "counter.goingup.com": "INACTIVE"
-        },
         "1583231441": {
             "ads.afa.net": "INACTIVE",
             "amazing-offers.co.il": "INACTIVE",
@@ -614,6 +611,14 @@
         "1583308702": {
             "static.clickpapa.com": "INACTIVE",
             "www.clickpapa.com": "INACTIVE"
+        },
+        "1583312385": {
+            "p.ato.mx": "INACTIVE",
+            "s.adframesrc.com": "INACTIVE",
+            "s.ato.mx": "INACTIVE"
+        },
+        "1583312386": {
+            "counter.goingup.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
