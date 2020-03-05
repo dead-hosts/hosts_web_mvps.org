@@ -590,12 +590,9 @@
         },
         "1583321646": {
             "ad.cmfu.com": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
             "txads.buzzcity.com": "INACTIVE",
             "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
+            "www.contextpanel.com": "INACTIVE"
         },
         "1583325879": {
             "ads.gorillavid.in": "INACTIVE",
@@ -631,6 +628,13 @@
         },
         "1583403549": {
             "dotnet.endai.com": "INACTIVE"
+        },
+        "1583408237": {
+            "count.dba.dk": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
+        },
+        "1583408238": {
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
