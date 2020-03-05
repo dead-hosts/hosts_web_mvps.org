@@ -578,10 +578,6 @@
         "1583231442": {
             "ad1.emediate.se": "INACTIVE"
         },
-        "1583308702": {
-            "static.clickpapa.com": "INACTIVE",
-            "www.clickpapa.com": "INACTIVE"
-        },
         "1583312385": {
             "p.ato.mx": "INACTIVE",
             "s.adframesrc.com": "INACTIVE",
@@ -629,6 +625,10 @@
         },
         "1583383786": {
             "www.advertlets.com": "INACTIVE"
+        },
+        "1583395827": {
+            "static.clickpapa.com": "INACTIVE",
+            "www.clickpapa.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
