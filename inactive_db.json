@@ -578,12 +578,6 @@
         "1583231442": {
             "ad1.emediate.se": "INACTIVE"
         },
-        "1583271744": {
-            "hapjes-maken.eu": "INACTIVE"
-        },
-        "1583275904": {
-            "hitwastedgarden.com": "INACTIVE"
-        },
         "1583308702": {
             "static.clickpapa.com": "INACTIVE",
             "www.clickpapa.com": "INACTIVE"
@@ -628,6 +622,10 @@
         },
         "1583367479": {
             "show.adzpower.com": "INACTIVE"
+        },
+        "1583375896": {
+            "hapjes-maken.eu": "INACTIVE",
+            "hitwastedgarden.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
