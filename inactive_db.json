@@ -578,13 +578,6 @@
         "1583231442": {
             "ad1.emediate.se": "INACTIVE"
         },
-        "1583408237": {
-            "count.dba.dk": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE"
-        },
-        "1583408238": {
-            "www.ellads.com": "INACTIVE"
-        },
         "1583412496": {
             "ad.cmfu.com": "INACTIVE",
             "ads.afa.net": "INACTIVE",
@@ -630,6 +623,13 @@
         },
         "1583493605": {
             "counter.goingup.com": "INACTIVE"
+        },
+        "1583497887": {
+            "count.dba.dk": "INACTIVE"
+        },
+        "1583497888": {
+            "www.ebannertraffic.com": "INACTIVE",
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
