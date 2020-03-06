@@ -581,9 +581,6 @@
         "1583420798": {
             "cloud.getpopunder.com": "INACTIVE"
         },
-        "1583425287": {
-            "s.adframesrc.com": "INACTIVE"
-        },
         "1583425289": {
             "ads.gorillavid.in": "INACTIVE"
         },
@@ -630,6 +627,12 @@
         },
         "1583502093": {
             "log.feedjit.com": "INACTIVE"
+        },
+        "1583516407": {
+            "bokee.allyes.com": "INACTIVE",
+            "eastmoney.allyes.com": "INACTIVE",
+            "tom.allyes.com": "INACTIVE",
+            "yeskyafp.allyes.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
