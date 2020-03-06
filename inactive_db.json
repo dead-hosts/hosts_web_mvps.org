@@ -578,24 +578,6 @@
         "1583231442": {
             "ad1.emediate.se": "INACTIVE"
         },
-        "1583412496": {
-            "ad.cmfu.com": "INACTIVE",
-            "ads.afa.net": "INACTIVE",
-            "api-cache.adsnative.com": "INACTIVE",
-            "counter.bigli.ru": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE",
-            "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE"
-        },
-        "1583412497": {
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE"
-        },
         "1583420798": {
             "cloud.getpopunder.com": "INACTIVE"
         },
@@ -630,6 +612,24 @@
         "1583497888": {
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
+        },
+        "1583502092": {
+            "ad.cmfu.com": "INACTIVE",
+            "ads.afa.net": "INACTIVE",
+            "api-cache.adsnative.com": "INACTIVE",
+            "counter.bigli.ru": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE",
+            "www.cnstats.com": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE"
+        },
+        "1583502093": {
+            "log.feedjit.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
