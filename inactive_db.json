@@ -582,12 +582,6 @@
             "hitwastedgarden.com": "INACTIVE",
             "stats.hosting24.com": "INACTIVE"
         },
-        "1583486474": {
-            "p.ato.mx": "INACTIVE",
-            "s.ato.mx": "INACTIVE",
-            "static.clickpapa.com": "INACTIVE",
-            "www.clickpapa.com": "INACTIVE"
-        },
         "1583493605": {
             "counter.goingup.com": "INACTIVE"
         },
@@ -634,6 +628,15 @@
         },
         "1583551777": {
             "hapjes-maken.eu": "INACTIVE"
+        },
+        "1583573474": {
+            "ad.adition.net": "INACTIVE",
+            "p.ato.mx": "INACTIVE",
+            "s.ato.mx": "INACTIVE"
+        },
+        "1583573475": {
+            "static.clickpapa.com": "INACTIVE",
+            "www.clickpapa.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
