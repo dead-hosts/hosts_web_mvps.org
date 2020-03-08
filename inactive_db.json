@@ -581,19 +581,6 @@
         "1583466707": {
             "stats.hosting24.com": "INACTIVE"
         },
-        "1583590471": {
-            "api-cache.adsnative.com": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE"
-        },
-        "1583590472": {
-            "ads.afa.net": "INACTIVE",
-            "counter.bigli.ru": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE"
-        },
         "1583664728": {
             "p.ato.mx": "INACTIVE",
             "s.ato.mx": "INACTIVE"
@@ -617,6 +604,17 @@
             "ads.gorillavid.in": "INACTIVE",
             "hapjes-maken.eu": "INACTIVE",
             "hitwastedgarden.com": "INACTIVE"
+        },
+        "1583680907": {
+            "ads.afa.net": "INACTIVE",
+            "api-cache.adsnative.com": "INACTIVE",
+            "counter.bigli.ru": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
