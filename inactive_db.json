@@ -578,10 +578,6 @@
         "1583231442": {
             "ad1.emediate.se": "INACTIVE"
         },
-        "1583664729": {
-            "cloud.getpopunder.com": "INACTIVE",
-            "counter.goingup.com": "INACTIVE"
-        },
         "1583668899": {
             "ads.gorillavid.in": "INACTIVE",
             "hapjes-maken.eu": "INACTIVE",
@@ -616,6 +612,10 @@
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
+        },
+        "1583757939": {
+            "cloud.getpopunder.com": "INACTIVE",
+            "counter.goingup.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
