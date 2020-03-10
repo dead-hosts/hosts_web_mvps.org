@@ -578,19 +578,6 @@
         "1583231442": {
             "ad1.emediate.se": "INACTIVE"
         },
-        "1583753917": {
-            "ad.cmfu.com": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
-            "static.clickpapa.com": "INACTIVE",
-            "track.did-it.com": "INACTIVE",
-            "www.clickpapa.com": "INACTIVE",
-            "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
         "1583757939": {
             "cloud.getpopunder.com": "INACTIVE",
             "counter.goingup.com": "INACTIVE"
@@ -629,6 +616,19 @@
             "eastmoney.allyes.com": "INACTIVE",
             "sroomafp.allyes.com": "INACTIVE",
             "yeskyafp.allyes.com": "INACTIVE"
+        },
+        "1583842145": {
+            "ad.cmfu.com": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
+            "log.feedjit.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "static.clickpapa.com": "INACTIVE",
+            "track.did-it.com": "INACTIVE",
+            "www.clickpapa.com": "INACTIVE",
+            "www.cnstats.com": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE",
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
