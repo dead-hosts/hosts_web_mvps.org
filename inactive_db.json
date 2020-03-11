@@ -584,20 +584,6 @@
         "1583854537": {
             "reed-cw.grapeshot.co.uk": "INACTIVE"
         },
-        "1583858717": {
-            "ads.afa.net": "INACTIVE",
-            "api-cache.adsnative.com": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE",
-            "www.advertlets.com": "INACTIVE"
-        },
-        "1583858718": {
-            "counter.bigli.ru": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE"
-        },
         "1583866507": {
             "ads.gorillavid.in": "INACTIVE"
         },
@@ -634,6 +620,18 @@
         },
         "1583937729": {
             "counter.goingup.com": "INACTIVE"
+        },
+        "1583945693": {
+            "ads.afa.net": "INACTIVE",
+            "api-cache.adsnative.com": "INACTIVE",
+            "counter.bigli.ru": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE",
+            "www.advertlets.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
