@@ -581,9 +581,6 @@
         "1583803754": {
             "stats.hosting24.com": "INACTIVE"
         },
-        "1583846368": {
-            "counter.goingup.com": "INACTIVE"
-        },
         "1583854537": {
             "reed-cw.grapeshot.co.uk": "INACTIVE"
         },
@@ -631,6 +628,12 @@
         },
         "1583934013": {
             "cloud.getpopunder.com": "INACTIVE"
+        },
+        "1583937728": {
+            "app.pubserver.adhood.com": "INACTIVE"
+        },
+        "1583937729": {
+            "counter.goingup.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
