@@ -584,19 +584,6 @@
         "1583890355": {
             "hitwastedgarden.com": "INACTIVE"
         },
-        "1583930091": {
-            "ad.cmfu.com": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
-            "static.clickpapa.com": "INACTIVE",
-            "track.did-it.com": "INACTIVE",
-            "www.clickpapa.com": "INACTIVE",
-            "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
         "1583934013": {
             "cloud.getpopunder.com": "INACTIVE"
         },
@@ -629,6 +616,21 @@
         },
         "1583984195": {
             "hapjes-maken.eu": "INACTIVE"
+        },
+        "1584020186": {
+            "ad.cmfu.com": "INACTIVE",
+            "static.clickpapa.com": "INACTIVE",
+            "www.clickpapa.com": "INACTIVE"
+        },
+        "1584020187": {
+            "count.dba.dk": "INACTIVE",
+            "log.feedjit.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "track.did-it.com": "INACTIVE",
+            "www.cnstats.com": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE",
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
