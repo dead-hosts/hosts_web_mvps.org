@@ -584,21 +584,6 @@
         "1583890355": {
             "hitwastedgarden.com": "INACTIVE"
         },
-        "1583945693": {
-            "ads.afa.net": "INACTIVE",
-            "api-cache.adsnative.com": "INACTIVE",
-            "counter.bigli.ru": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.advertlets.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE"
-        },
-        "1583949458": {
-            "www.cybereps.com": "INACTIVE"
-        },
         "1583965045": {
             "ads.gorillavid.in": "INACTIVE"
         },
@@ -629,6 +614,20 @@
         "1584027930": {
             "cloud.getpopunder.com": "INACTIVE",
             "counter.goingup.com": "INACTIVE"
+        },
+        "1584036413": {
+            "ads.afa.net": "INACTIVE",
+            "api-cache.adsnative.com": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "www.advertlets.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
+        },
+        "1584036414": {
+            "counter.bigli.ru": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
