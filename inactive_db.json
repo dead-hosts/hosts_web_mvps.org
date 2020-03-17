@@ -588,20 +588,6 @@
             "counter.goingup.com": "INACTIVE",
             "hapjes-maken.eu": "INACTIVE"
         },
-        "1584395749": {
-            "api-cache.adsnative.com": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE"
-        },
-        "1584395750": {
-            "ads.afa.net": "INACTIVE",
-            "counter.bigli.ru": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.advertlets.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE"
-        },
         "1584429825": {
             "ads.gorillavid.in": "INACTIVE"
         },
@@ -626,6 +612,20 @@
         },
         "1584471184": {
             "cloud.getpopunder.com": "INACTIVE"
+        },
+        "1584482849": {
+            "ads.afa.net": "INACTIVE",
+            "api-cache.adsnative.com": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "www.advertlets.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
+        },
+        "1584482850": {
+            "counter.bigli.ru": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
