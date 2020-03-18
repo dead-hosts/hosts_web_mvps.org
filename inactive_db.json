@@ -584,12 +584,6 @@
         "1584040562": {
             "hitwastedgarden.com": "INACTIVE"
         },
-        "1584451957": {
-            "adv.gratuito.st": "INACTIVE"
-        },
-        "1584471184": {
-            "cloud.getpopunder.com": "INACTIVE"
-        },
         "1584482849": {
             "ads.afa.net": "INACTIVE",
             "api-cache.adsnative.com": "INACTIVE",
@@ -635,6 +629,10 @@
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
+        },
+        "1584560576": {
+            "adv.gratuito.st": "INACTIVE",
+            "cloud.getpopunder.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
