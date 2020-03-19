@@ -581,24 +581,6 @@
         "1583803754": {
             "stats.hosting24.com": "INACTIVE"
         },
-        "1584544949": {
-            "bokee.allyes.com": "INACTIVE"
-        },
-        "1584552886": {
-            "static.clickpapa.com": "INACTIVE"
-        },
-        "1584552887": {
-            "ad.cmfu.com": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
-            "track.did-it.com": "INACTIVE",
-            "www.clickpapa.com": "INACTIVE",
-            "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
         "1584560576": {
             "adv.gratuito.st": "INACTIVE",
             "cloud.getpopunder.com": "INACTIVE"
@@ -626,6 +608,21 @@
         },
         "1584607094": {
             "ads.gorillavid.in": "INACTIVE"
+        },
+        "1584644848": {
+            "ad.cmfu.com": "INACTIVE",
+            "static.clickpapa.com": "INACTIVE",
+            "www.clickpapa.com": "INACTIVE",
+            "www.cnstats.com": "INACTIVE"
+        },
+        "1584644849": {
+            "count.dba.dk": "INACTIVE",
+            "log.feedjit.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "track.did-it.com": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE",
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
