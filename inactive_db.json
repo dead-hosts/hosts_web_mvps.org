@@ -584,12 +584,6 @@
         "1584580570": {
             "hitwastedgarden.com": "INACTIVE"
         },
-        "1584952831": {
-            "hapjes-maken.eu": "INACTIVE"
-        },
-        "1585002604": {
-            "cloud.getpopunder.com": "INACTIVE"
-        },
         "1585019109": {
             "ads.afa.net": "INACTIVE",
             "api-cache.adsnative.com": "INACTIVE",
@@ -627,6 +621,10 @@
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
+        },
+        "1585090522": {
+            "cloud.getpopunder.com": "INACTIVE",
+            "hapjes-maken.eu": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
