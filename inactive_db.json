@@ -581,10 +581,6 @@
         "1583803754": {
             "stats.hosting24.com": "INACTIVE"
         },
-        "1585166964": {
-            "ads.gorillavid.in": "INACTIVE",
-            "counter.goingup.com": "INACTIVE"
-        },
         "1585175191": {
             "ad.cmfu.com": "INACTIVE",
             "count.dba.dk": "INACTIVE",
@@ -624,6 +620,10 @@
         },
         "1585247608": {
             "ad.adition.net": "INACTIVE"
+        },
+        "1585255930": {
+            "ads.gorillavid.in": "INACTIVE",
+            "counter.goingup.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
