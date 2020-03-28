@@ -582,41 +582,11 @@
             "ads.gorillavid.in": "INACTIVE",
             "counter.goingup.com": "INACTIVE"
         },
-        "1585264108": {
-            "ad.cmfu.com": "INACTIVE",
-            "static.clickpapa.com": "INACTIVE",
-            "www.clickpapa.com": "INACTIVE",
-            "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE"
-        },
-        "1585264109": {
-            "count.dba.dk": "INACTIVE",
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
-            "track.did-it.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE",
-            "www.ellads.com": "INACTIVE"
-        },
         "1585268128": {
             "cloud.getpopunder.com": "INACTIVE"
         },
         "1585272070": {
             "adv.gratuito.st": "INACTIVE"
-        },
-        "1585284021": {
-            "ads.afa.net": "INACTIVE",
-            "api-cache.adsnative.com": "INACTIVE",
-            "counter.bigli.ru": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.advertlets.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE"
-        },
-        "1585287974": {
-            "www.adcomplete.com": "INACTIVE"
         },
         "1585295913": {
             "hapjes-maken.eu": "INACTIVE"
@@ -632,6 +602,31 @@
         },
         "1585333642": {
             "publicidad.adlead.com": "INACTIVE"
+        },
+        "1585393725": {
+            "ads.afa.net": "INACTIVE",
+            "api-cache.adsnative.com": "INACTIVE",
+            "counter.bigli.ru": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "www.advertlets.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
+        },
+        "1585393726": {
+            "ad.cmfu.com": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
+            "log.feedjit.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "static.clickpapa.com": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "track.did-it.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE",
+            "www.clickpapa.com": "INACTIVE",
+            "www.cnstats.com": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE",
+            "www.ellads.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
