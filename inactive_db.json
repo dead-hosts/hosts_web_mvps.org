@@ -578,12 +578,6 @@
         "1583231442": {
             "ad1.emediate.se": "INACTIVE"
         },
-        "1585272070": {
-            "adv.gratuito.st": "INACTIVE"
-        },
-        "1585295913": {
-            "hapjes-maken.eu": "INACTIVE"
-        },
         "1585299906": {
             "hitwastedgarden.com": "INACTIVE"
         },
@@ -630,6 +624,10 @@
         },
         "1585406126": {
             "rek.adtotal.pl": "INACTIVE"
+        },
+        "1585414136": {
+            "adv.gratuito.st": "INACTIVE",
+            "hapjes-maken.eu": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
