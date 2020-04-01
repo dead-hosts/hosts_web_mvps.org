@@ -582,9 +582,6 @@
             "hitwastedgarden.com": "INACTIVE",
             "stats.hosting24.com": "INACTIVE"
         },
-        "1585663543": {
-            "cloud.getpopunder.com": "INACTIVE"
-        },
         "1585686598": {
             "m.fr.a2dfp.net": "INACTIVE"
         },
@@ -628,6 +625,9 @@
             "www.cnstats.com": "INACTIVE",
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE"
+        },
+        "1585752904": {
+            "cloud.getpopunder.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
