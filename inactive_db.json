@@ -582,30 +582,6 @@
             "hitwastedgarden.com": "INACTIVE",
             "stats.hosting24.com": "INACTIVE"
         },
-        "1585659533": {
-            "ads.afa.net": "INACTIVE",
-            "api-cache.adsnative.com": "INACTIVE",
-            "counter.bigli.ru": "INACTIVE",
-            "engage2.advanstar.com": "INACTIVE",
-            "go.idnes.bbelements.com": "INACTIVE",
-            "logw349.ati-host.net": "INACTIVE",
-            "www.advertlets.com": "INACTIVE",
-            "www.azmsoft.com": "INACTIVE"
-        },
-        "1585659534": {
-            "ad.cmfu.com": "INACTIVE",
-            "count.dba.dk": "INACTIVE",
-            "log.feedjit.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE",
-            "static.clickpapa.com": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "track.did-it.com": "INACTIVE",
-            "txads.buzzcity.com": "INACTIVE",
-            "www.clickpapa.com": "INACTIVE",
-            "www.cnstats.com": "INACTIVE",
-            "www.contextpanel.com": "INACTIVE",
-            "www.ebannertraffic.com": "INACTIVE"
-        },
         "1585663543": {
             "cloud.getpopunder.com": "INACTIVE"
         },
@@ -628,6 +604,30 @@
         },
         "1585725274": {
             "hapjes-maken.eu": "INACTIVE"
+        },
+        "1585749297": {
+            "ads.afa.net": "INACTIVE",
+            "api-cache.adsnative.com": "INACTIVE",
+            "counter.bigli.ru": "INACTIVE",
+            "engage2.advanstar.com": "INACTIVE",
+            "go.idnes.bbelements.com": "INACTIVE",
+            "logw349.ati-host.net": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "txads.buzzcity.com": "INACTIVE",
+            "www.advertlets.com": "INACTIVE",
+            "www.azmsoft.com": "INACTIVE"
+        },
+        "1585749298": {
+            "ad.cmfu.com": "INACTIVE",
+            "count.dba.dk": "INACTIVE",
+            "log.feedjit.com": "INACTIVE",
+            "prm.europacash.com": "INACTIVE",
+            "static.clickpapa.com": "INACTIVE",
+            "track.did-it.com": "INACTIVE",
+            "www.clickpapa.com": "INACTIVE",
+            "www.cnstats.com": "INACTIVE",
+            "www.contextpanel.com": "INACTIVE",
+            "www.ebannertraffic.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
