@@ -582,11 +582,29 @@
             "hitwastedgarden.com": "INACTIVE",
             "stats.hosting24.com": "INACTIVE"
         },
-        "1586171669": {
+        "1586176383": {
+            "cloud.getpopunder.com": "INACTIVE",
+            "counter.goingup.com": "INACTIVE",
+            "log.feedjit.com": "INACTIVE"
+        },
+        "1586180771": {
+            "engine.adspynet.com": "INACTIVE"
+        },
+        "1586204209": {
+            "ad.adition.net": "INACTIVE"
+        },
+        "1586207992": {
+            "ads.gorillavid.in": "INACTIVE",
+            "hapjes-maken.eu": "INACTIVE"
+        },
+        "1586223758": {
+            "publicidad.adlead.com": "INACTIVE"
+        },
+        "1586261357": {
             "api-cache.adsnative.com": "INACTIVE",
             "m.fr.a2dfp.net": "INACTIVE"
         },
-        "1586171670": {
+        "1586261358": {
             "ad.cmfu.com": "INACTIVE",
             "ads.afa.net": "INACTIVE",
             "count.dba.dk": "INACTIVE",
@@ -605,24 +623,6 @@
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
-        },
-        "1586176383": {
-            "cloud.getpopunder.com": "INACTIVE",
-            "counter.goingup.com": "INACTIVE",
-            "log.feedjit.com": "INACTIVE"
-        },
-        "1586180771": {
-            "engine.adspynet.com": "INACTIVE"
-        },
-        "1586204209": {
-            "ad.adition.net": "INACTIVE"
-        },
-        "1586207992": {
-            "ads.gorillavid.in": "INACTIVE",
-            "hapjes-maken.eu": "INACTIVE"
-        },
-        "1586223758": {
-            "publicidad.adlead.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
