@@ -591,9 +591,6 @@
         "1586580137": {
             "cloud.getpopunder.com": "INACTIVE"
         },
-        "1586610794": {
-            "media.affiliatelounge.com": "INACTIVE"
-        },
         "1586615065": {
             "log.feedjit.com": "INACTIVE"
         },
@@ -639,6 +636,9 @@
         },
         "1586694916": {
             "bokee.allyes.com": "INACTIVE"
+        },
+        "1586699219": {
+            "media.affiliatelounge.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
