@@ -594,12 +594,6 @@
         "1586659751": {
             "counter.goingup.com": "INACTIVE"
         },
-        "1586668679": {
-            "bn-01.adtomafusion.com": "INACTIVE"
-        },
-        "1586668680": {
-            "ads.eccentrix.com": "INACTIVE"
-        },
         "1586690444": {
             "tracking.dsmmadvantage.com": "INACTIVE"
         },
@@ -651,6 +645,9 @@
         },
         "1586754346": {
             "ad.adition.net": "INACTIVE"
+        },
+        "1586758703": {
+            "bn-01.adtomafusion.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
