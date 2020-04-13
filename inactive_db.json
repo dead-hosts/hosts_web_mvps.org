@@ -594,9 +594,6 @@
         "1586659751": {
             "counter.goingup.com": "INACTIVE"
         },
-        "1586703867": {
-            "track.double.net": "INACTIVE"
-        },
         "1586708166": {
             "ads.afa.net": "INACTIVE",
             "api-cache.adsnative.com": "INACTIVE",
@@ -642,6 +639,10 @@
         },
         "1586789171": {
             "media.affiliatelounge.com": "INACTIVE"
+        },
+        "1586793835": {
+            "track.double.net": "INACTIVE",
+            "tracking.dsmmadvantage.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
