@@ -588,14 +588,8 @@
         "1586449175": {
             "hapjes-maken.eu": "INACTIVE"
         },
-        "1586580137": {
-            "cloud.getpopunder.com": "INACTIVE"
-        },
         "1586659751": {
             "counter.goingup.com": "INACTIVE"
-        },
-        "1586721947": {
-            "log.feedjit.com": "INACTIVE"
         },
         "1586754346": {
             "ad.adition.net": "INACTIVE"
@@ -642,6 +636,10 @@
         },
         "1586820600": {
             "advertising.ezanga.com": "INACTIVE"
+        },
+        "1586825213": {
+            "cloud.getpopunder.com": "INACTIVE",
+            "log.feedjit.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
