@@ -591,11 +591,6 @@
         "1586659751": {
             "counter.goingup.com": "INACTIVE"
         },
-        "1586802612": {
-            "imp.double.net": "INACTIVE",
-            "ivitrine.buscape.com": "INACTIVE",
-            "prm.europacash.com": "INACTIVE"
-        },
         "1586820600": {
             "advertising.ezanga.com": "INACTIVE"
         },
@@ -639,6 +634,10 @@
             "www.contextpanel.com": "INACTIVE",
             "www.ebannertraffic.com": "INACTIVE",
             "www.ellads.com": "INACTIVE"
+        },
+        "1586892432": {
+            "imp.double.net": "INACTIVE",
+            "prm.europacash.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
