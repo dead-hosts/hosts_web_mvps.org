@@ -592,8 +592,7 @@
             "counter.goingup.com": "INACTIVE"
         },
         "1586825213": {
-            "cloud.getpopunder.com": "INACTIVE",
-            "log.feedjit.com": "INACTIVE"
+            "cloud.getpopunder.com": "INACTIVE"
         },
         "1586846913": {
             "bn-01.adtomafusion.com": "INACTIVE"
@@ -644,6 +643,9 @@
         },
         "1586914875": {
             "advertising.ezanga.com": "INACTIVE"
+        },
+        "1586928201": {
+            "log.feedjit.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
