@@ -594,9 +594,6 @@
         "1586825213": {
             "cloud.getpopunder.com": "INACTIVE"
         },
-        "1586878944": {
-            "media.affiliatelounge.com": "INACTIVE"
-        },
         "1586883370": {
             "track.double.net": "INACTIVE",
             "tracking.dsmmadvantage.com": "INACTIVE"
@@ -645,6 +642,9 @@
         },
         "1586945849": {
             "c.adfirmative.com": "INACTIVE"
+        },
+        "1586968208": {
+            "media.affiliatelounge.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
