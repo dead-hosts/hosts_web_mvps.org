@@ -594,12 +594,6 @@
         "1586825213": {
             "cloud.getpopunder.com": "INACTIVE"
         },
-        "1586928201": {
-            "log.feedjit.com": "INACTIVE"
-        },
-        "1586936941": {
-            "bn-01.adtomafusion.com": "INACTIVE"
-        },
         "1586945849": {
             "c.adfirmative.com": "INACTIVE"
         },
@@ -647,6 +641,12 @@
         },
         "1587005467": {
             "advertising.ezanga.com": "INACTIVE"
+        },
+        "1587028039": {
+            "bn-01.adtomafusion.com": "INACTIVE"
+        },
+        "1587028040": {
+            "log.feedjit.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
