@@ -594,9 +594,6 @@
         "1586825213": {
             "cloud.getpopunder.com": "INACTIVE"
         },
-        "1586914875": {
-            "advertising.ezanga.com": "INACTIVE"
-        },
         "1586928201": {
             "log.feedjit.com": "INACTIVE"
         },
@@ -647,6 +644,9 @@
         },
         "1587000755": {
             "ad.adition.net": "INACTIVE"
+        },
+        "1587005467": {
+            "advertising.ezanga.com": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
