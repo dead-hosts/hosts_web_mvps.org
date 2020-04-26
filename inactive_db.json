@@ -17,8 +17,8 @@
         "ads.gorillavid.in": {
             "included_at_epoch": 1586445494.0,
             "included_at_iso": "2020-04-09T15:18:14",
-            "last_retested_at_epoch": 1586445494.0,
-            "last_retested_at_iso": "2020-04-09T15:18:14",
+            "last_retested_at_epoch": 1587919570.584135,
+            "last_retested_at_iso": "2020-04-26T16:46:10.584135",
             "status": "INACTIVE"
         },
         "advertising.ezanga.com": {
@@ -33,6 +33,13 @@
             "included_at_iso": "2020-04-17T21:02:00",
             "last_retested_at_epoch": 1587917511.777289,
             "last_retested_at_iso": "2020-04-26T16:11:51.777289",
+            "status": "INACTIVE"
+        },
+        "bokee.allyes.com": {
+            "included_at_epoch": 1587919569.763478,
+            "included_at_iso": "2020-04-26T16:46:09.763478",
+            "last_retested_at_epoch": 1587919569.763478,
+            "last_retested_at_iso": "2020-04-26T16:46:09.763478",
             "status": "INACTIVE"
         },
         "cloud.getpopunder.com": {
@@ -87,15 +94,15 @@
         "hapjes-maken.eu": {
             "included_at_epoch": 1586449175.0,
             "included_at_iso": "2020-04-09T16:19:35",
-            "last_retested_at_epoch": 1586449175.0,
-            "last_retested_at_iso": "2020-04-09T16:19:35",
+            "last_retested_at_epoch": 1587919570.626457,
+            "last_retested_at_iso": "2020-04-26T16:46:10.626457",
             "status": "INACTIVE"
         },
         "hitwastedgarden.com": {
             "included_at_epoch": 1586077217.0,
             "included_at_iso": "2020-04-05T09:00:17",
-            "last_retested_at_epoch": 1586077217.0,
-            "last_retested_at_iso": "2020-04-05T09:00:17",
+            "last_retested_at_epoch": 1587919570.684411,
+            "last_retested_at_iso": "2020-04-26T16:46:10.684411",
             "status": "INACTIVE"
         },
         "log.feedjit.com": {
@@ -150,8 +157,8 @@
         "stats.hosting24.com": {
             "included_at_epoch": 1586077217.0,
             "included_at_iso": "2020-04-05T09:00:17",
-            "last_retested_at_epoch": 1586077217.0,
-            "last_retested_at_iso": "2020-04-05T09:00:17",
+            "last_retested_at_epoch": 1587919570.718043,
+            "last_retested_at_iso": "2020-04-26T16:46:10.718043",
             "status": "INACTIVE"
         },
         "track.did-it.com": {
