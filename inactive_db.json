@@ -252,6 +252,20 @@
             "last_retested_at_iso": "2020-04-26T17:48:54.349838",
             "status": "INACTIVE"
         },
+        "www.intelli-tracker.com": {
+            "included_at_epoch": 1587925252.608361,
+            "included_at_iso": "2020-04-26T18:20:52.608361",
+            "last_retested_at_epoch": 1587925252.608361,
+            "last_retested_at_iso": "2020-04-26T18:20:52.608361",
+            "status": "INACTIVE"
+        },
+        "www.interstats.nl": {
+            "included_at_epoch": 1587925252.62097,
+            "included_at_iso": "2020-04-26T18:20:52.620970",
+            "last_retested_at_epoch": 1587925252.62097,
+            "last_retested_at_iso": "2020-04-26T18:20:52.620970",
+            "status": "INACTIVE"
+        },
         "yeskyafp.allyes.com": {
             "included_at_epoch": 1587921627.844588,
             "included_at_iso": "2020-04-26T17:20:27.844588",
