@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
+        "ad.adition.net": {
+            "included_at_epoch": 1587921627.55554,
+            "included_at_iso": "2020-04-26T17:20:27.555540",
+            "last_retested_at_epoch": 1587921627.55554,
+            "last_retested_at_iso": "2020-04-26T17:20:27.555540",
+            "status": "INACTIVE"
+        },
         "ad.cmfu.com": {
             "included_at_epoch": 1587157321.0,
             "included_at_iso": "2020-04-17T21:02:01",
@@ -161,6 +168,13 @@
             "last_retested_at_iso": "2020-04-26T16:46:10.718043",
             "status": "INACTIVE"
         },
+        "tom.allyes.com": {
+            "included_at_epoch": 1587921627.832748,
+            "included_at_iso": "2020-04-26T17:20:27.832748",
+            "last_retested_at_epoch": 1587921627.832748,
+            "last_retested_at_iso": "2020-04-26T17:20:27.832748",
+            "status": "INACTIVE"
+        },
         "track.did-it.com": {
             "included_at_epoch": 1587157321.0,
             "included_at_iso": "2020-04-17T21:02:01",
@@ -215,6 +229,20 @@
             "included_at_iso": "2020-04-17T21:02:01",
             "last_retested_at_epoch": 1587917512.683087,
             "last_retested_at_iso": "2020-04-26T16:11:52.683087",
+            "status": "INACTIVE"
+        },
+        "www.free-toplisten.at": {
+            "included_at_epoch": 1587921628.51233,
+            "included_at_iso": "2020-04-26T17:20:28.512330",
+            "last_retested_at_epoch": 1587921628.51233,
+            "last_retested_at_iso": "2020-04-26T17:20:28.512330",
+            "status": "INACTIVE"
+        },
+        "yeskyafp.allyes.com": {
+            "included_at_epoch": 1587921627.844588,
+            "included_at_iso": "2020-04-26T17:20:27.844588",
+            "last_retested_at_epoch": 1587921627.844588,
+            "last_retested_at_iso": "2020-04-26T17:20:27.844588",
             "status": "INACTIVE"
         }
     },
