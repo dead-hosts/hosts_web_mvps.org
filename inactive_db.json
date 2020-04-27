@@ -251,6 +251,13 @@
             "last_retested_at_epoch": 1587925252.62097,
             "last_retested_at_iso": "2020-04-26T18:20:52.620970",
             "status": "INACTIVE"
+        },
+        "yeskyafp.allyes.com": {
+            "included_at_epoch": 1588031179.585546,
+            "included_at_iso": "2020-04-27T23:46:19.585546",
+            "last_retested_at_epoch": 1588031179.585546,
+            "last_retested_at_iso": "2020-04-27T23:46:19.585546",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/hosts.list": {
