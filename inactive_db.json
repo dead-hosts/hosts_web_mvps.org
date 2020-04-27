@@ -24,8 +24,8 @@
         "ads.iafrica.com": {
             "included_at_epoch": 1587923334.332492,
             "included_at_iso": "2020-04-26T17:48:54.332492",
-            "last_retested_at_epoch": 1587923334.332492,
-            "last_retested_at_iso": "2020-04-26T17:48:54.332492",
+            "last_retested_at_epoch": 1588014626.946305,
+            "last_retested_at_iso": "2020-04-27T19:10:26.946305",
             "status": "INACTIVE"
         },
         "advertising.ezanga.com": {
@@ -115,15 +115,15 @@
         "hapjes-maken.eu": {
             "included_at_epoch": 1586449175.0,
             "included_at_iso": "2020-04-09T16:19:35",
-            "last_retested_at_epoch": 1587919570.626457,
-            "last_retested_at_iso": "2020-04-26T16:46:10.626457",
+            "last_retested_at_epoch": 1588014626.799852,
+            "last_retested_at_iso": "2020-04-27T19:10:26.799852",
             "status": "INACTIVE"
         },
         "hitwastedgarden.com": {
             "included_at_epoch": 1586077217.0,
             "included_at_iso": "2020-04-05T09:00:17",
-            "last_retested_at_epoch": 1587919570.684411,
-            "last_retested_at_iso": "2020-04-26T16:46:10.684411",
+            "last_retested_at_epoch": 1588014626.872423,
+            "last_retested_at_iso": "2020-04-27T19:10:26.872423",
             "status": "INACTIVE"
         },
         "log.feedjit.com": {
@@ -171,8 +171,8 @@
         "stats.hosting24.com": {
             "included_at_epoch": 1586077217.0,
             "included_at_iso": "2020-04-05T09:00:17",
-            "last_retested_at_epoch": 1587919570.718043,
-            "last_retested_at_iso": "2020-04-26T16:46:10.718043",
+            "last_retested_at_epoch": 1588014626.897135,
+            "last_retested_at_iso": "2020-04-27T19:10:26.897135",
             "status": "INACTIVE"
         },
         "track.did-it.com": {
@@ -234,8 +234,8 @@
         "www.icentric.net": {
             "included_at_epoch": 1587923334.349838,
             "included_at_iso": "2020-04-26T17:48:54.349838",
-            "last_retested_at_epoch": 1587923334.349838,
-            "last_retested_at_iso": "2020-04-26T17:48:54.349838",
+            "last_retested_at_epoch": 1588014626.965765,
+            "last_retested_at_iso": "2020-04-27T19:10:26.965765",
             "status": "INACTIVE"
         },
         "www.intelli-tracker.com": {
