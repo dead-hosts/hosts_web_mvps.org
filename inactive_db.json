@@ -24,8 +24,8 @@
         "ads.gorillavid.in": {
             "included_at_epoch": 1586445494.0,
             "included_at_iso": "2020-04-09T15:18:14",
-            "last_retested_at_epoch": 1588010449.337088,
-            "last_retested_at_iso": "2020-04-27T18:00:49.337088",
+            "last_retested_at_epoch": 1588101156.503116,
+            "last_retested_at_iso": "2020-04-28T19:12:36.503116",
             "status": "INACTIVE"
         },
         "ads.iafrica.com": {
@@ -47,13 +47,6 @@
             "included_at_iso": "2020-04-17T21:02:00",
             "last_retested_at_epoch": 1588096922.621822,
             "last_retested_at_iso": "2020-04-28T18:02:02.621822",
-            "status": "INACTIVE"
-        },
-        "bokee.allyes.com": {
-            "included_at_epoch": 1587919569.763478,
-            "included_at_iso": "2020-04-26T16:46:09.763478",
-            "last_retested_at_epoch": 1588010448.388972,
-            "last_retested_at_iso": "2020-04-27T18:00:48.388972",
             "status": "INACTIVE"
         },
         "cloud.getpopunder.com": {
@@ -87,8 +80,8 @@
         "counter.goingup.com": {
             "included_at_epoch": 1587112094.0,
             "included_at_iso": "2020-04-17T08:28:14",
-            "last_retested_at_epoch": 1588010449.307896,
-            "last_retested_at_iso": "2020-04-27T18:00:49.307896",
+            "last_retested_at_epoch": 1588101156.474676,
+            "last_retested_at_iso": "2020-04-28T19:12:36.474676",
             "status": "INACTIVE"
         },
         "dserver.hw.net": {
@@ -96,6 +89,13 @@
             "included_at_iso": "2020-04-28T08:37:57.124744",
             "last_retested_at_epoch": 1588063077.124744,
             "last_retested_at_iso": "2020-04-28T08:37:57.124744",
+            "status": "INACTIVE"
+        },
+        "eastmoney.allyes.com": {
+            "included_at_epoch": 1588101155.671542,
+            "included_at_iso": "2020-04-28T19:12:35.671542",
+            "last_retested_at_epoch": 1588101155.671542,
+            "last_retested_at_iso": "2020-04-28T19:12:35.671542",
             "status": "INACTIVE"
         },
         "engage2.advanstar.com": {
@@ -122,8 +122,8 @@
         "hapjes-maken.eu": {
             "included_at_epoch": 1586449175.0,
             "included_at_iso": "2020-04-09T16:19:35",
-            "last_retested_at_epoch": 1588014626.799852,
-            "last_retested_at_iso": "2020-04-27T19:10:26.799852",
+            "last_retested_at_epoch": 1588101156.544378,
+            "last_retested_at_iso": "2020-04-28T19:12:36.544378",
             "status": "INACTIVE"
         },
         "hitwastedgarden.com": {
