@@ -217,6 +217,13 @@
             "last_retested_at_iso": "2020-04-27T16:51:09.241752",
             "status": "INACTIVE"
         },
+        "www.ad-z.de": {
+            "included_at_epoch": 1588067266.492191,
+            "included_at_iso": "2020-04-28T09:47:46.492191",
+            "last_retested_at_epoch": 1588067266.492191,
+            "last_retested_at_iso": "2020-04-28T09:47:46.492191",
+            "status": "INACTIVE"
+        },
         "www.advertlets.com": {
             "included_at_epoch": 1587157320.0,
             "included_at_iso": "2020-04-17T21:02:00",
