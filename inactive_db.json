@@ -1,5 +1,12 @@
 {
     "/home/travis/build/dead-hosts/hosts_web_mvps.org/domains.list": {
+        "ad.adition.net": {
+            "included_at_epoch": 1588046954.25574,
+            "included_at_iso": "2020-04-28T04:09:14.255740",
+            "last_retested_at_epoch": 1588046954.25574,
+            "last_retested_at_iso": "2020-04-28T04:09:14.255740",
+            "status": "INACTIVE"
+        },
         "ad.cmfu.com": {
             "included_at_epoch": 1587157321.0,
             "included_at_iso": "2020-04-17T21:02:01",
