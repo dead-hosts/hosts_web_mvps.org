@@ -63,6 +63,13 @@
             "last_retested_at_iso": "2020-04-27T18:00:49.240470",
             "status": "INACTIVE"
         },
+        "content.adspynet.com": {
+            "included_at_epoch": 1588059007.602349,
+            "included_at_iso": "2020-04-28T07:30:07.602349",
+            "last_retested_at_epoch": 1588059007.602349,
+            "last_retested_at_iso": "2020-04-28T07:30:07.602349",
+            "status": "INACTIVE"
+        },
         "count.dba.dk": {
             "included_at_epoch": 1587157321.0,
             "included_at_iso": "2020-04-17T21:02:01",
