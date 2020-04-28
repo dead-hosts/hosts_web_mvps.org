@@ -147,6 +147,13 @@
             "last_retested_at_iso": "2020-04-27T16:51:09.664565",
             "status": "INACTIVE"
         },
+        "sroomafp.allyes.com": {
+            "included_at_epoch": 1588043221.115539,
+            "included_at_iso": "2020-04-28T03:07:01.115539",
+            "last_retested_at_epoch": 1588043221.115539,
+            "last_retested_at_iso": "2020-04-28T03:07:01.115539",
+            "status": "INACTIVE"
+        },
         "static.clickpapa.com": {
             "included_at_epoch": 1587157321.0,
             "included_at_iso": "2020-04-17T21:02:01",
@@ -166,6 +173,13 @@
             "included_at_iso": "2020-04-05T09:00:17",
             "last_retested_at_epoch": 1588014626.897135,
             "last_retested_at_iso": "2020-04-27T19:10:26.897135",
+            "status": "INACTIVE"
+        },
+        "tom.allyes.com": {
+            "included_at_epoch": 1588043221.103126,
+            "included_at_iso": "2020-04-28T03:07:01.103126",
+            "last_retested_at_epoch": 1588043221.103126,
+            "last_retested_at_iso": "2020-04-28T03:07:01.103126",
             "status": "INACTIVE"
         },
         "track.did-it.com": {
@@ -194,6 +208,13 @@
             "included_at_iso": "2020-04-17T21:02:00",
             "last_retested_at_epoch": 1588006269.03665,
             "last_retested_at_iso": "2020-04-27T16:51:09.036650",
+            "status": "INACTIVE"
+        },
+        "www.banner-exchange.nl": {
+            "included_at_epoch": 1588043221.216029,
+            "included_at_iso": "2020-04-28T03:07:01.216029",
+            "last_retested_at_epoch": 1588043221.216029,
+            "last_retested_at_iso": "2020-04-28T03:07:01.216029",
             "status": "INACTIVE"
         },
         "www.clickpapa.com": {
