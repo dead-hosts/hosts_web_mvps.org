@@ -119,6 +119,13 @@
             "last_retested_at_iso": "2020-04-27T16:51:08.698929",
             "status": "INACTIVE"
         },
+        "engine.adspynet.com": {
+            "included_at_epoch": 1588092716.077532,
+            "included_at_iso": "2020-04-28T16:51:56.077532",
+            "last_retested_at_epoch": 1588092716.077532,
+            "last_retested_at_iso": "2020-04-28T16:51:56.077532",
+            "status": "INACTIVE"
+        },
         "go.idnes.bbelements.com": {
             "included_at_epoch": 1587157320.0,
             "included_at_iso": "2020-04-17T21:02:00",
