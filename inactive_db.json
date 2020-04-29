@@ -3,8 +3,8 @@
         "ad.adition.net": {
             "included_at_epoch": 1588046954.25574,
             "included_at_iso": "2020-04-28T04:09:14.255740",
-            "last_retested_at_epoch": 1588046954.25574,
-            "last_retested_at_iso": "2020-04-28T04:09:14.255740",
+            "last_retested_at_epoch": 1588133962.663037,
+            "last_retested_at_iso": "2020-04-29T04:19:22.663037",
             "status": "INACTIVE"
         },
         "ad.cmfu.com": {
@@ -175,13 +175,6 @@
             "last_retested_at_iso": "2020-04-28T18:02:03.586961",
             "status": "INACTIVE"
         },
-        "sroomafp.allyes.com": {
-            "included_at_epoch": 1588043221.115539,
-            "included_at_iso": "2020-04-28T03:07:01.115539",
-            "last_retested_at_epoch": 1588043221.115539,
-            "last_retested_at_iso": "2020-04-28T03:07:01.115539",
-            "status": "INACTIVE"
-        },
         "static.clickpapa.com": {
             "included_at_epoch": 1587157321.0,
             "included_at_iso": "2020-04-17T21:02:01",
@@ -206,8 +199,8 @@
         "tom.allyes.com": {
             "included_at_epoch": 1588043221.103126,
             "included_at_iso": "2020-04-28T03:07:01.103126",
-            "last_retested_at_epoch": 1588043221.103126,
-            "last_retested_at_iso": "2020-04-28T03:07:01.103126",
+            "last_retested_at_epoch": 1588133962.942287,
+            "last_retested_at_iso": "2020-04-29T04:19:22.942287",
             "status": "INACTIVE"
         },
         "track.did-it.com": {
@@ -243,13 +236,6 @@
             "included_at_iso": "2020-04-17T21:02:00",
             "last_retested_at_epoch": 1588096922.925446,
             "last_retested_at_iso": "2020-04-28T18:02:02.925446",
-            "status": "INACTIVE"
-        },
-        "www.banner-exchange.nl": {
-            "included_at_epoch": 1588043221.216029,
-            "included_at_iso": "2020-04-28T03:07:01.216029",
-            "last_retested_at_epoch": 1588043221.216029,
-            "last_retested_at_iso": "2020-04-28T03:07:01.216029",
             "status": "INACTIVE"
         },
         "www.clickpapa.com": {
