@@ -175,6 +175,13 @@
             "last_retested_at_iso": "2020-04-28T18:02:03.586961",
             "status": "INACTIVE"
         },
+        "sroomafp.allyes.com": {
+            "included_at_epoch": 1588145646.580339,
+            "included_at_iso": "2020-04-29T07:34:06.580339",
+            "last_retested_at_epoch": 1588145646.580339,
+            "last_retested_at_iso": "2020-04-29T07:34:06.580339",
+            "status": "INACTIVE"
+        },
         "static.clickpapa.com": {
             "included_at_epoch": 1587157321.0,
             "included_at_iso": "2020-04-17T21:02:01",
