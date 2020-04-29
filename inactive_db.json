@@ -21,6 +21,13 @@
             "last_retested_at_iso": "2020-04-28T18:02:02.778081",
             "status": "INACTIVE"
         },
+        "ads.china.com": {
+            "included_at_epoch": 1588121805.90048,
+            "included_at_iso": "2020-04-29T00:56:45.900480",
+            "last_retested_at_epoch": 1588121805.90048,
+            "last_retested_at_iso": "2020-04-29T00:56:45.900480",
+            "status": "INACTIVE"
+        },
         "ads.gorillavid.in": {
             "included_at_epoch": 1586445494.0,
             "included_at_iso": "2020-04-09T15:18:14",
@@ -292,13 +299,6 @@
             "included_at_iso": "2020-04-26T18:20:52.620970",
             "last_retested_at_epoch": 1587925252.62097,
             "last_retested_at_iso": "2020-04-26T18:20:52.620970",
-            "status": "INACTIVE"
-        },
-        "yeskyafp.allyes.com": {
-            "included_at_epoch": 1588031179.585546,
-            "included_at_iso": "2020-04-27T23:46:19.585546",
-            "last_retested_at_epoch": 1588031179.585546,
-            "last_retested_at_iso": "2020-04-27T23:46:19.585546",
             "status": "INACTIVE"
         }
     },
