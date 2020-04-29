@@ -14,6 +14,13 @@
             "last_retested_at_iso": "2020-04-28T18:02:03.240885",
             "status": "INACTIVE"
         },
+        "adnetwork.buzzlogic.com": {
+            "included_at_epoch": 1588175034.326557,
+            "included_at_iso": "2020-04-29T15:43:54.326557",
+            "last_retested_at_epoch": 1588175034.326557,
+            "last_retested_at_iso": "2020-04-29T15:43:54.326557",
+            "status": "INACTIVE"
+        },
         "ads.afa.net": {
             "included_at_epoch": 1587157320.0,
             "included_at_iso": "2020-04-17T21:02:00",
@@ -68,6 +75,13 @@
             "included_at_iso": "2020-04-18T09:29:41",
             "last_retested_at_epoch": 1588096923.81488,
             "last_retested_at_iso": "2020-04-28T18:02:03.814880",
+            "status": "INACTIVE"
+        },
+        "count.daem0n.com": {
+            "included_at_epoch": 1588175034.500479,
+            "included_at_iso": "2020-04-29T15:43:54.500479",
+            "last_retested_at_epoch": 1588175034.500479,
+            "last_retested_at_iso": "2020-04-29T15:43:54.500479",
             "status": "INACTIVE"
         },
         "count.dba.dk": {
