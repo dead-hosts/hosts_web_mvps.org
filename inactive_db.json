@@ -31,8 +31,8 @@
         "ads.gorillavid.in": {
             "included_at_epoch": 1586445494.0,
             "included_at_iso": "2020-04-09T15:18:14",
-            "last_retested_at_epoch": 1588101156.503116,
-            "last_retested_at_iso": "2020-04-28T19:12:36.503116",
+            "last_retested_at_epoch": 1588252293.603579,
+            "last_retested_at_iso": "2020-04-30T13:11:33.603579",
             "status": "INACTIVE"
         },
         "ads.iafrica.com": {
@@ -45,8 +45,8 @@
         "advertising.ezanga.com": {
             "included_at_epoch": 1587184417.0,
             "included_at_iso": "2020-04-18T04:33:37",
-            "last_retested_at_epoch": 1588096923.634898,
-            "last_retested_at_iso": "2020-04-28T18:02:03.634898",
+            "last_retested_at_epoch": 1588252293.331706,
+            "last_retested_at_iso": "2020-04-30T13:11:33.331706",
             "status": "INACTIVE"
         },
         "api-cache.adsnative.com": {
@@ -56,11 +56,18 @@
             "last_retested_at_iso": "2020-04-30T12:10:24.137752",
             "status": "INACTIVE"
         },
+        "bokee.allyes.com": {
+            "included_at_epoch": 1588252292.747624,
+            "included_at_iso": "2020-04-30T13:11:32.747624",
+            "last_retested_at_epoch": 1588252292.747624,
+            "last_retested_at_iso": "2020-04-30T13:11:32.747624",
+            "status": "INACTIVE"
+        },
         "cloud.getpopunder.com": {
             "included_at_epoch": 1587202181.0,
             "included_at_iso": "2020-04-18T09:29:41",
-            "last_retested_at_epoch": 1588096923.81488,
-            "last_retested_at_iso": "2020-04-28T18:02:03.814880",
+            "last_retested_at_epoch": 1588252293.51915,
+            "last_retested_at_iso": "2020-04-30T13:11:33.519150",
             "status": "INACTIVE"
         },
         "count.daem0n.com": {
@@ -87,8 +94,8 @@
         "counter.goingup.com": {
             "included_at_epoch": 1587112094.0,
             "included_at_iso": "2020-04-17T08:28:14",
-            "last_retested_at_epoch": 1588101156.474676,
-            "last_retested_at_iso": "2020-04-28T19:12:36.474676",
+            "last_retested_at_epoch": 1588252293.573974,
+            "last_retested_at_iso": "2020-04-30T13:11:33.573974",
             "status": "INACTIVE"
         },
         "eastmoney.allyes.com": {
@@ -129,8 +136,8 @@
         "log.feedjit.com": {
             "included_at_epoch": 1587212185.0,
             "included_at_iso": "2020-04-18T12:16:25",
-            "last_retested_at_epoch": 1588096923.688503,
-            "last_retested_at_iso": "2020-04-28T18:02:03.688503",
+            "last_retested_at_epoch": 1588252293.368884,
+            "last_retested_at_iso": "2020-04-30T13:11:33.368884",
             "status": "INACTIVE"
         },
         "logw349.ati-host.net": {
