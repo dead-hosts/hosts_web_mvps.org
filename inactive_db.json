@@ -252,6 +252,13 @@
             "last_retested_at_iso": "2020-04-30T12:10:25.078640",
             "status": "INACTIVE"
         },
+        "www.free-toplisten.at": {
+            "included_at_epoch": 1588289306.558667,
+            "included_at_iso": "2020-04-30T23:28:26.558667",
+            "last_retested_at_epoch": 1588289306.558667,
+            "last_retested_at_iso": "2020-04-30T23:28:26.558667",
+            "status": "INACTIVE"
+        },
         "www.icentric.net": {
             "included_at_epoch": 1587923334.349838,
             "included_at_iso": "2020-04-26T17:48:54.349838",
