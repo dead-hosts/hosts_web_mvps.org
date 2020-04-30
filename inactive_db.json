@@ -38,8 +38,8 @@
         "ads.iafrica.com": {
             "included_at_epoch": 1587923334.332492,
             "included_at_iso": "2020-04-26T17:48:54.332492",
-            "last_retested_at_epoch": 1588109791.346261,
-            "last_retested_at_iso": "2020-04-28T21:36:31.346261",
+            "last_retested_at_epoch": 1588259805.984399,
+            "last_retested_at_iso": "2020-04-30T15:16:45.984399",
             "status": "INACTIVE"
         },
         "advertising.ezanga.com": {
@@ -54,6 +54,13 @@
             "included_at_iso": "2020-04-17T21:02:00",
             "last_retested_at_epoch": 1588248624.137752,
             "last_retested_at_iso": "2020-04-30T12:10:24.137752",
+            "status": "INACTIVE"
+        },
+        "banners.ffsbg.com": {
+            "included_at_epoch": 1588259805.605166,
+            "included_at_iso": "2020-04-30T15:16:45.605166",
+            "last_retested_at_epoch": 1588259805.605166,
+            "last_retested_at_iso": "2020-04-30T15:16:45.605166",
             "status": "INACTIVE"
         },
         "bokee.allyes.com": {
@@ -185,8 +192,8 @@
         "stats.hosting24.com": {
             "included_at_epoch": 1586077217.0,
             "included_at_iso": "2020-04-05T09:00:17",
-            "last_retested_at_epoch": 1588109791.295509,
-            "last_retested_at_iso": "2020-04-28T21:36:31.295509",
+            "last_retested_at_epoch": 1588259805.932401,
+            "last_retested_at_iso": "2020-04-30T15:16:45.932401",
             "status": "INACTIVE"
         },
         "tom.allyes.com": {
@@ -250,13 +257,6 @@
             "included_at_iso": "2020-04-17T21:02:01",
             "last_retested_at_epoch": 1588248625.07864,
             "last_retested_at_iso": "2020-04-30T12:10:25.078640",
-            "status": "INACTIVE"
-        },
-        "www.free-toplisten.at": {
-            "included_at_epoch": 1588170519.054892,
-            "included_at_iso": "2020-04-29T14:28:39.054892",
-            "last_retested_at_epoch": 1588170519.054892,
-            "last_retested_at_iso": "2020-04-29T14:28:39.054892",
             "status": "INACTIVE"
         },
         "www.icentric.net": {
