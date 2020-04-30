@@ -122,15 +122,15 @@
         "hapjes-maken.eu": {
             "included_at_epoch": 1586449175.0,
             "included_at_iso": "2020-04-09T16:19:35",
-            "last_retested_at_epoch": 1588101156.544378,
-            "last_retested_at_iso": "2020-04-28T19:12:36.544378",
+            "last_retested_at_epoch": 1588255925.78693,
+            "last_retested_at_iso": "2020-04-30T14:12:05.786930",
             "status": "INACTIVE"
         },
         "hitwastedgarden.com": {
             "included_at_epoch": 1586077217.0,
             "included_at_iso": "2020-04-05T09:00:17",
-            "last_retested_at_epoch": 1588105396.17721,
-            "last_retested_at_iso": "2020-04-28T20:23:16.177210",
+            "last_retested_at_epoch": 1588255925.850801,
+            "last_retested_at_iso": "2020-04-30T14:12:05.850801",
             "status": "INACTIVE"
         },
         "log.feedjit.com": {
@@ -159,6 +159,13 @@
             "included_at_iso": "2020-04-17T22:23:49",
             "last_retested_at_epoch": 1588248625.13851,
             "last_retested_at_iso": "2020-04-30T12:10:25.138510",
+            "status": "INACTIVE"
+        },
+        "sroomafp.allyes.com": {
+            "included_at_epoch": 1588255924.979412,
+            "included_at_iso": "2020-04-30T14:12:04.979412",
+            "last_retested_at_epoch": 1588255924.979412,
+            "last_retested_at_iso": "2020-04-30T14:12:04.979412",
             "status": "INACTIVE"
         },
         "static.clickpapa.com": {
@@ -271,6 +278,13 @@
             "included_at_iso": "2020-04-26T18:20:52.620970",
             "last_retested_at_epoch": 1587925252.62097,
             "last_retested_at_iso": "2020-04-26T18:20:52.620970",
+            "status": "INACTIVE"
+        },
+        "yeskyafp.allyes.com": {
+            "included_at_epoch": 1588255924.992707,
+            "included_at_iso": "2020-04-30T14:12:04.992707",
+            "last_retested_at_epoch": 1588255924.992707,
+            "last_retested_at_iso": "2020-04-30T14:12:04.992707",
             "status": "INACTIVE"
         }
     },
