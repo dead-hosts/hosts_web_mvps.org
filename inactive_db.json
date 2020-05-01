@@ -70,6 +70,13 @@
             "last_retested_at_iso": "2020-04-30T13:11:33.519150",
             "status": "INACTIVE"
         },
+        "cntr.adrime.com": {
+            "included_at_epoch": 1588323965.044732,
+            "included_at_iso": "2020-05-01T09:06:05.044732",
+            "last_retested_at_epoch": 1588323965.044732,
+            "last_retested_at_iso": "2020-05-01T09:06:05.044732",
+            "status": "INACTIVE"
+        },
         "count.dba.dk": {
             "included_at_epoch": 1587157321.0,
             "included_at_iso": "2020-04-17T21:02:01",
@@ -124,6 +131,13 @@
             "included_at_iso": "2020-04-05T09:00:17",
             "last_retested_at_epoch": 1588255925.850801,
             "last_retested_at_iso": "2020-04-30T14:12:05.850801",
+            "status": "INACTIVE"
+        },
+        "images.adrime.com": {
+            "included_at_epoch": 1588323965.060807,
+            "included_at_iso": "2020-05-01T09:06:05.060807",
+            "last_retested_at_epoch": 1588323965.060807,
+            "last_retested_at_iso": "2020-05-01T09:06:05.060807",
             "status": "INACTIVE"
         },
         "it.erosadv.com": {
