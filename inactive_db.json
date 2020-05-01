@@ -24,8 +24,8 @@
         "ads.gorillavid.in": {
             "included_at_epoch": 1586445494.0,
             "included_at_iso": "2020-04-09T15:18:14",
-            "last_retested_at_epoch": 1588252293.603579,
-            "last_retested_at_iso": "2020-04-30T13:11:33.603579",
+            "last_retested_at_epoch": 1588343306.480646,
+            "last_retested_at_iso": "2020-05-01T14:28:26.480646",
             "status": "INACTIVE"
         },
         "ads.iafrica.com": {
@@ -171,8 +171,8 @@
         "sroomafp.allyes.com": {
             "included_at_epoch": 1588255924.979412,
             "included_at_iso": "2020-04-30T14:12:04.979412",
-            "last_retested_at_epoch": 1588255924.979412,
-            "last_retested_at_iso": "2020-04-30T14:12:04.979412",
+            "last_retested_at_epoch": 1588343305.684183,
+            "last_retested_at_iso": "2020-05-01T14:28:25.684183",
             "status": "INACTIVE"
         },
         "static.clickpapa.com": {
@@ -292,13 +292,6 @@
             "included_at_iso": "2020-05-01T11:20:05.699377",
             "last_retested_at_epoch": 1588332005.699377,
             "last_retested_at_iso": "2020-05-01T11:20:05.699377",
-            "status": "INACTIVE"
-        },
-        "yeskyafp.allyes.com": {
-            "included_at_epoch": 1588255924.992707,
-            "included_at_iso": "2020-04-30T14:12:04.992707",
-            "last_retested_at_epoch": 1588255924.992707,
-            "last_retested_at_iso": "2020-04-30T14:12:04.992707",
             "status": "INACTIVE"
         }
     },
