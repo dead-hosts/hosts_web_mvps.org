@@ -283,15 +283,22 @@
         "www.intelli-tracker.com": {
             "included_at_epoch": 1587925252.608361,
             "included_at_iso": "2020-04-26T18:20:52.608361",
-            "last_retested_at_epoch": 1587925252.608361,
-            "last_retested_at_iso": "2020-04-26T18:20:52.608361",
+            "last_retested_at_epoch": 1588332005.6508,
+            "last_retested_at_iso": "2020-05-01T11:20:05.650800",
             "status": "INACTIVE"
         },
         "www.interstats.nl": {
             "included_at_epoch": 1587925252.62097,
             "included_at_iso": "2020-04-26T18:20:52.620970",
-            "last_retested_at_epoch": 1587925252.62097,
-            "last_retested_at_iso": "2020-04-26T18:20:52.620970",
+            "last_retested_at_epoch": 1588332005.664543,
+            "last_retested_at_iso": "2020-05-01T11:20:05.664543",
+            "status": "INACTIVE"
+        },
+        "www.ipstat.com": {
+            "included_at_epoch": 1588332005.699377,
+            "included_at_iso": "2020-05-01T11:20:05.699377",
+            "last_retested_at_epoch": 1588332005.699377,
+            "last_retested_at_iso": "2020-05-01T11:20:05.699377",
             "status": "INACTIVE"
         },
         "yeskyafp.allyes.com": {
