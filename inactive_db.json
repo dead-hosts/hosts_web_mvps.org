@@ -73,8 +73,8 @@
         "ad.cmfu.com": {
             "included_at_epoch": 1587157321.0,
             "included_at_iso": "2020-04-17T21:02:01",
-            "last_retested_at_epoch": 1588687146.936834,
-            "last_retested_at_iso": "2020-05-05T13:59:06.936834",
+            "last_retested_at_epoch": 1588860178.635892,
+            "last_retested_at_iso": "2020-05-07T14:02:58.635892",
             "status": "INACTIVE"
         },
         "ad.db3nf.com": {
@@ -206,8 +206,8 @@
         "ads.afa.net": {
             "included_at_epoch": 1587157320.0,
             "included_at_iso": "2020-04-17T21:02:00",
-            "last_retested_at_epoch": 1588687146.453481,
-            "last_retested_at_iso": "2020-05-05T13:59:06.453481",
+            "last_retested_at_epoch": 1588860178.160227,
+            "last_retested_at_iso": "2020-05-07T14:02:58.160227",
             "status": "INACTIVE"
         },
         "ads.amateurmatch.com": {
@@ -745,8 +745,8 @@
         "bokee.allyes.com": {
             "included_at_epoch": 1588513813.367374,
             "included_at_iso": "2020-05-03T13:50:13.367374",
-            "last_retested_at_epoch": 1588687146.502394,
-            "last_retested_at_iso": "2020-05-05T13:59:06.502394",
+            "last_retested_at_epoch": 1588860178.227386,
+            "last_retested_at_iso": "2020-05-07T14:02:58.227386",
             "status": "INACTIVE"
         },
         "bwp.mp3.com": {
@@ -1071,13 +1071,6 @@
             "last_retested_at_iso": "2020-05-05T14:34:56.849081",
             "status": "INACTIVE"
         },
-        "eastmoney.allyes.com": {
-            "included_at_epoch": 1588101155.671542,
-            "included_at_iso": "2020-04-28T19:12:35.671542",
-            "last_retested_at_epoch": 1588687146.520812,
-            "last_retested_at_iso": "2020-05-05T13:59:06.520812",
-            "status": "INACTIVE"
-        },
         "edge.ayboll.com": {
             "included_at_epoch": 1588360942.815452,
             "included_at_iso": "2020-05-01T19:22:22.815452",
@@ -1253,6 +1246,13 @@
             "last_retested_at_iso": "2020-05-05T16:01:43.334622",
             "status": "INACTIVE"
         },
+        "it.erosadv.com": {
+            "included_at_epoch": 1588860178.887391,
+            "included_at_iso": "2020-05-07T14:02:58.887391",
+            "last_retested_at_epoch": 1588860178.887391,
+            "last_retested_at_iso": "2020-05-07T14:02:58.887391",
+            "status": "INACTIVE"
+        },
         "j.theadsnet.com": {
             "included_at_epoch": 1588351290.685008,
             "included_at_iso": "2020-05-01T16:41:30.685008",
@@ -1312,8 +1312,8 @@
         "logw349.ati-host.net": {
             "included_at_epoch": 1587157320.0,
             "included_at_iso": "2020-04-17T21:02:00",
-            "last_retested_at_epoch": 1588687146.62234,
-            "last_retested_at_iso": "2020-05-05T13:59:06.622340",
+            "last_retested_at_epoch": 1588860178.330326,
+            "last_retested_at_iso": "2020-05-07T14:02:58.330326",
             "status": "INACTIVE"
         },
         "m.fr.a2dfp.net": {
@@ -1718,8 +1718,8 @@
         "stats.break.com": {
             "included_at_epoch": 1587157320.0,
             "included_at_iso": "2020-04-17T21:02:00",
-            "last_retested_at_epoch": 1588687146.803877,
-            "last_retested_at_iso": "2020-05-05T13:59:06.803877",
+            "last_retested_at_epoch": 1588860178.504446,
+            "last_retested_at_iso": "2020-05-07T14:02:58.504446",
             "status": "INACTIVE"
         },
         "stats.grubstreet.com": {
@@ -1816,8 +1816,8 @@
         "tom.allyes.com": {
             "included_at_epoch": 1588043221.103126,
             "included_at_iso": "2020-04-28T03:07:01.103126",
-            "last_retested_at_epoch": 1588687146.537992,
-            "last_retested_at_iso": "2020-05-05T13:59:06.537992",
+            "last_retested_at_epoch": 1588860178.244224,
+            "last_retested_at_iso": "2020-05-07T14:02:58.244224",
             "status": "INACTIVE"
         },
         "tr.mobiadserv.com": {
@@ -1928,8 +1928,8 @@
         "txads.buzzcity.com": {
             "included_at_epoch": 1587157320.0,
             "included_at_iso": "2020-04-17T21:02:00",
-            "last_retested_at_epoch": 1588687146.843262,
-            "last_retested_at_iso": "2020-05-05T13:59:06.843262",
+            "last_retested_at_epoch": 1588860178.545663,
+            "last_retested_at_iso": "2020-05-07T14:02:58.545663",
             "status": "INACTIVE"
         },
         "vast.optimatic.com": {
@@ -1991,8 +1991,8 @@
         "www.advertlets.com": {
             "included_at_epoch": 1587157320.0,
             "included_at_iso": "2020-04-17T21:02:00",
-            "last_retested_at_epoch": 1588687146.40838,
-            "last_retested_at_iso": "2020-05-05T13:59:06.408380",
+            "last_retested_at_epoch": 1588860178.116946,
+            "last_retested_at_iso": "2020-05-07T14:02:58.116946",
             "status": "INACTIVE"
         },
         "www.affiliatefuel.com": {
@@ -2012,8 +2012,8 @@
         "www.azmsoft.com": {
             "included_at_epoch": 1587157320.0,
             "included_at_iso": "2020-04-17T21:02:00",
-            "last_retested_at_epoch": 1588687146.664092,
-            "last_retested_at_iso": "2020-05-05T13:59:06.664092",
+            "last_retested_at_epoch": 1588860178.372519,
+            "last_retested_at_iso": "2020-05-07T14:02:58.372519",
             "status": "INACTIVE"
         },
         "www.cecash.com": {
@@ -2210,6 +2210,13 @@
             "included_at_iso": "2020-05-01T22:58:32.998654",
             "last_retested_at_epoch": 1588696775.544605,
             "last_retested_at_iso": "2020-05-05T16:39:35.544605",
+            "status": "INACTIVE"
+        },
+        "yeskyafp.allyes.com": {
+            "included_at_epoch": 1588860178.261086,
+            "included_at_iso": "2020-05-07T14:02:58.261086",
+            "last_retested_at_epoch": 1588860178.261086,
+            "last_retested_at_iso": "2020-05-07T14:02:58.261086",
             "status": "INACTIVE"
         },
         "zm1.zeroredirect5.com": {
