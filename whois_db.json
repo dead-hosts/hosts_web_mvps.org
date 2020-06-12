@@ -1897,7 +1897,7 @@
     "hipersushiads.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hit-now.com": {
         "epoch": 1602115200.0,
@@ -2332,7 +2332,7 @@
     "megapopads.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "meiluziai.info": {
         "epoch": 1611619200.0,
@@ -3020,8 +3020,8 @@
         "state": "future"
     },
     "realtimeads.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "realtracker.com": {
