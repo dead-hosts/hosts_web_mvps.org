@@ -52,8 +52,8 @@
         "a.softconsultgroup.com": {
             "included_at_epoch": 1591973942.765401,
             "included_at_iso": "2020-06-12T14:59:02.765401",
-            "last_retested_at_epoch": 1594140568.268101,
-            "last_retested_at_iso": "2020-07-07T16:49:28.268101",
+            "last_retested_at_epoch": 1594317530.182041,
+            "last_retested_at_iso": "2020-07-09T17:58:50.182041",
             "status": "INACTIVE"
         },
         "a.thoughtleadr.com": {
@@ -395,8 +395,8 @@
         "advertising.seenews.com": {
             "included_at_epoch": 1591973942.648815,
             "included_at_iso": "2020-06-12T14:59:02.648815",
-            "last_retested_at_epoch": 1594140568.287843,
-            "last_retested_at_iso": "2020-07-07T16:49:28.287843",
+            "last_retested_at_epoch": 1594317530.142828,
+            "last_retested_at_iso": "2020-07-09T17:58:50.142828",
             "status": "INACTIVE"
         },
         "adview.ppro.de": {
@@ -710,8 +710,8 @@
         "counter.goingup.com": {
             "included_at_epoch": 1592144662.439883,
             "included_at_iso": "2020-06-14T14:24:22.439883",
-            "last_retested_at_epoch": 1594140568.208188,
-            "last_retested_at_iso": "2020-07-07T16:49:28.208188",
+            "last_retested_at_epoch": 1594317530.12221,
+            "last_retested_at_iso": "2020-07-09T17:58:50.122210",
             "status": "INACTIVE"
         },
         "counter.sexsuche.tv": {
@@ -1088,8 +1088,8 @@
         "metrics.howstuffworks.com": {
             "included_at_epoch": 1591981798.33528,
             "included_at_iso": "2020-06-12T17:09:58.335280",
-            "last_retested_at_epoch": 1594140568.24839,
-            "last_retested_at_iso": "2020-07-07T16:49:28.248390",
+            "last_retested_at_epoch": 1594317530.162581,
+            "last_retested_at_iso": "2020-07-09T17:58:50.162581",
             "status": "INACTIVE"
         },
         "mm.chitika.net": {
@@ -1816,8 +1816,8 @@
         "www.winaproduct.com": {
             "included_at_epoch": 1593697493.128283,
             "included_at_iso": "2020-07-02T13:44:53.128283",
-            "last_retested_at_epoch": 1594140545.881198,
-            "last_retested_at_iso": "2020-07-07T16:49:05.881198",
+            "last_retested_at_epoch": 1594317524.627943,
+            "last_retested_at_iso": "2020-07-09T17:58:44.627943",
             "status": "INACTIVE"
         },
         "www.wtp101.com": {
