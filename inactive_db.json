@@ -1078,6 +1078,13 @@
             "last_retested_at_iso": "2020-07-09T16:23:20.952590",
             "status": "INACTIVE"
         },
+        "krs.ymxpb.com": {
+            "included_at_epoch": 1594384560.129937,
+            "included_at_iso": "2020-07-10T12:36:00.129937",
+            "last_retested_at_epoch": 1594384560.129937,
+            "last_retested_at_iso": "2020-07-10T12:36:00.129937",
+            "status": "INACTIVE"
+        },
         "livetracker.voanews.eu": {
             "included_at_epoch": 1593531229.785134,
             "included_at_iso": "2020-06-30T15:33:49.785134",
