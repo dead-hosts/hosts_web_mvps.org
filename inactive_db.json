@@ -147,6 +147,13 @@
             "last_retested_at_iso": "2020-07-09T16:41:31.975109",
             "status": "INACTIVE"
         },
+        "ads.adone.com": {
+            "included_at_epoch": 1594381297.596587,
+            "included_at_iso": "2020-07-10T11:41:37.596587",
+            "last_retested_at_epoch": 1594381297.596587,
+            "last_retested_at_iso": "2020-07-10T11:41:37.596587",
+            "status": "INACTIVE"
+        },
         "ads.amateurmatch.com": {
             "included_at_epoch": 1593537850.037131,
             "included_at_iso": "2020-06-30T17:24:10.037131",
@@ -1559,6 +1566,13 @@
             "included_at_iso": "2020-06-30T15:33:51.309981",
             "last_retested_at_epoch": 1594308201.990468,
             "last_retested_at_iso": "2020-07-09T15:23:21.990468",
+            "status": "INACTIVE"
+        },
+        "title.mximg.com": {
+            "included_at_epoch": 1594381298.976416,
+            "included_at_iso": "2020-07-10T11:41:38.976416",
+            "last_retested_at_epoch": 1594381298.976416,
+            "last_retested_at_iso": "2020-07-10T11:41:38.976416",
             "status": "INACTIVE"
         },
         "tom.allyes.com": {
