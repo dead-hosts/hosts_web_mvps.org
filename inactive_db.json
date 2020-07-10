@@ -70,6 +70,13 @@
             "last_retested_at_iso": "2020-07-09T15:23:20.327951",
             "status": "INACTIVE"
         },
+        "ad.adition.net": {
+            "included_at_epoch": 1594376879.295927,
+            "included_at_iso": "2020-07-10T10:27:59.295927",
+            "last_retested_at_epoch": 1594376879.295927,
+            "last_retested_at_iso": "2020-07-10T10:27:59.295927",
+            "status": "INACTIVE"
+        },
         "ad.caradisiac-publicite.com": {
             "included_at_epoch": 1592324956.508178,
             "included_at_iso": "2020-06-16T16:29:16.508178",
@@ -341,6 +348,13 @@
             "included_at_iso": "2020-07-09T14:36:46.665417",
             "last_retested_at_epoch": 1594305406.665417,
             "last_retested_at_iso": "2020-07-09T14:36:46.665417",
+            "status": "INACTIVE"
+        },
+        "ads4.kompasads.com": {
+            "included_at_epoch": 1594376880.36994,
+            "included_at_iso": "2020-07-10T10:28:00.369940",
+            "last_retested_at_epoch": 1594376880.36994,
+            "last_retested_at_iso": "2020-07-10T10:28:00.369940",
             "status": "INACTIVE"
         },
         "ads6.kompasads.com": {
@@ -789,6 +803,13 @@
             "included_at_iso": "2020-06-30T17:24:03.807985",
             "last_retested_at_epoch": 1594314738.646385,
             "last_retested_at_iso": "2020-07-09T17:12:18.646385",
+            "status": "INACTIVE"
+        },
+        "dc.sify.com": {
+            "included_at_epoch": 1594376881.178707,
+            "included_at_iso": "2020-07-10T10:28:01.178707",
+            "last_retested_at_epoch": 1594376881.178707,
+            "last_retested_at_iso": "2020-07-10T10:28:01.178707",
             "status": "INACTIVE"
         },
         "dc.widespace.com": {
