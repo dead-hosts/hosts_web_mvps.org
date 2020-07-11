@@ -301,6 +301,13 @@
             "last_retested_at_iso": "2020-07-11T15:12:16.222304",
             "status": "INACTIVE"
         },
+        "ads.tradeads.eu": {
+            "included_at_epoch": 1594507706.204964,
+            "included_at_iso": "2020-07-11T22:48:26.204964",
+            "last_retested_at_epoch": 1594507706.204964,
+            "last_retested_at_iso": "2020-07-11T22:48:26.204964",
+            "status": "INACTIVE"
+        },
         "ads.urlfan.com": {
             "included_at_epoch": 1593531229.678817,
             "included_at_iso": "2020-06-30T15:33:49.678817",
@@ -1335,6 +1342,13 @@
             "included_at_iso": "2020-07-05T15:48:10.736376",
             "last_retested_at_epoch": 1594482364.472729,
             "last_retested_at_iso": "2020-07-11T15:46:04.472729",
+            "status": "INACTIVE"
+        },
+        "spin.spinbox.net": {
+            "included_at_epoch": 1594507706.927519,
+            "included_at_iso": "2020-07-11T22:48:26.927519",
+            "last_retested_at_epoch": 1594507706.927519,
+            "last_retested_at_iso": "2020-07-11T22:48:26.927519",
             "status": "INACTIVE"
         },
         "sroomafp.allyes.com": {
