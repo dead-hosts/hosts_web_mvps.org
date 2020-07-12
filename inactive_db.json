@@ -1071,6 +1071,13 @@
             "last_retested_at_iso": "2020-07-11T15:46:02.491727",
             "status": "INACTIVE"
         },
+        "members.commissionmonster.com": {
+            "included_at_epoch": 1594513043.369576,
+            "included_at_iso": "2020-07-12T00:17:23.369576",
+            "last_retested_at_epoch": 1594513043.369576,
+            "last_retested_at_iso": "2020-07-12T00:17:23.369576",
+            "status": "INACTIVE"
+        },
         "metrics.bestbuy.com": {
             "included_at_epoch": 1593537842.884554,
             "included_at_iso": "2020-06-30T17:24:02.884554",
@@ -1517,6 +1524,13 @@
             "included_at_iso": "2020-06-30T16:03:05.914383",
             "last_retested_at_epoch": 1594481350.207407,
             "last_retested_at_iso": "2020-07-11T15:29:10.207407",
+            "status": "INACTIVE"
+        },
+        "tally.upsideout.com": {
+            "included_at_epoch": 1594513044.852653,
+            "included_at_iso": "2020-07-12T00:17:24.852653",
+            "last_retested_at_epoch": 1594513044.852653,
+            "last_retested_at_iso": "2020-07-12T00:17:24.852653",
             "status": "INACTIVE"
         },
         "tealium.hs.llnwd.net": {
