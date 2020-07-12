@@ -1288,6 +1288,20 @@
             "last_retested_at_iso": "2020-07-11T17:07:36.949877",
             "status": "INACTIVE"
         },
+        "sdc.flysas.com": {
+            "included_at_epoch": 1594514091.510976,
+            "included_at_iso": "2020-07-12T00:34:51.510976",
+            "last_retested_at_epoch": 1594514091.510976,
+            "last_retested_at_iso": "2020-07-12T00:34:51.510976",
+            "status": "INACTIVE"
+        },
+        "sdc.vml.com": {
+            "included_at_epoch": 1594514101.397791,
+            "included_at_iso": "2020-07-12T00:35:01.397791",
+            "last_retested_at_epoch": 1594514101.397791,
+            "last_retested_at_iso": "2020-07-12T00:35:01.397791",
+            "status": "INACTIVE"
+        },
         "sdc8prod1.wiley.com": {
             "included_at_epoch": 1592491747.998684,
             "included_at_iso": "2020-06-18T14:49:07.998684",
