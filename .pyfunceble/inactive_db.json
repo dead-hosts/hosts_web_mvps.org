@@ -402,8 +402,8 @@
         "affiliates.upforitnetworks.com": {
             "included_at_epoch": 1594919257.319396,
             "included_at_iso": "2020-07-16T17:07:37.319396",
-            "last_retested_at_epoch": 1595167628.423669,
-            "last_retested_at_iso": "2020-07-19T14:07:08.423669",
+            "last_retested_at_epoch": 1595264929.254105,
+            "last_retested_at_iso": "2020-07-20T17:08:49.254105",
             "status": "INACTIVE"
         },
         "afflow.amazonpresent.info": {
@@ -1116,8 +1116,8 @@
         "network.adsmarket.com": {
             "included_at_epoch": 1593539350.915532,
             "included_at_iso": "2020-06-30T17:49:10.915532",
-            "last_retested_at_epoch": 1595167627.04217,
-            "last_retested_at_iso": "2020-07-19T14:07:07.042170",
+            "last_retested_at_epoch": 1595264928.008391,
+            "last_retested_at_iso": "2020-07-20T17:08:48.008391",
             "status": "INACTIVE"
         },
         "ntracking.optimatic.com": {
@@ -1291,8 +1291,8 @@
         "realtime.deximedia.com": {
             "included_at_epoch": 1593539351.179034,
             "included_at_iso": "2020-06-30T17:49:11.179034",
-            "last_retested_at_epoch": 1595167627.310944,
-            "last_retested_at_iso": "2020-07-19T14:07:07.310944",
+            "last_retested_at_epoch": 1595264928.250144,
+            "last_retested_at_iso": "2020-07-20T17:08:48.250144",
             "status": "INACTIVE"
         },
         "results.cafefind.net": {
@@ -1452,8 +1452,8 @@
         "stat.upforitnetworks.com": {
             "included_at_epoch": 1594820631.827539,
             "included_at_iso": "2020-07-15T13:43:51.827539",
-            "last_retested_at_epoch": 1595167628.444311,
-            "last_retested_at_iso": "2020-07-19T14:07:08.444311",
+            "last_retested_at_epoch": 1595264929.281744,
+            "last_retested_at_iso": "2020-07-20T17:08:49.281744",
             "status": "INACTIVE"
         },
         "stat001.mylivepage.com": {
@@ -1907,8 +1907,8 @@
         "www.winaproduct.com": {
             "included_at_epoch": 1593697493.128283,
             "included_at_iso": "2020-07-02T13:44:53.128283",
-            "last_retested_at_epoch": 1595167630.503116,
-            "last_retested_at_iso": "2020-07-19T14:07:10.503116",
+            "last_retested_at_epoch": 1595264931.169743,
+            "last_retested_at_iso": "2020-07-20T17:08:51.169743",
             "status": "INACTIVE"
         },
         "www.wtp101.com": {
@@ -1942,15 +1942,15 @@
         "xml.plusfind.net": {
             "included_at_epoch": 1593539351.22526,
             "included_at_iso": "2020-06-30T17:49:11.225260",
-            "last_retested_at_epoch": 1595167627.340281,
-            "last_retested_at_iso": "2020-07-19T14:07:07.340281",
+            "last_retested_at_epoch": 1595264928.293973,
+            "last_retested_at_iso": "2020-07-20T17:08:48.293973",
             "status": "INACTIVE"
         },
         "xml.quiveradnet.com": {
             "included_at_epoch": 1593539351.255284,
             "included_at_iso": "2020-06-30T17:49:11.255284",
-            "last_retested_at_epoch": 1595167627.377327,
-            "last_retested_at_iso": "2020-07-19T14:07:07.377327",
+            "last_retested_at_epoch": 1595264928.321454,
+            "last_retested_at_iso": "2020-07-20T17:08:48.321454",
             "status": "INACTIVE"
         },
         "zealotnetworks-d.openx.net": {
