@@ -70,13 +70,6 @@
             "last_retested_at_iso": "2020-07-22T15:06:26.568452",
             "status": "INACTIVE"
         },
-        "ad.adition.net": {
-            "included_at_epoch": 1595429143.165023,
-            "included_at_iso": "2020-07-22T14:45:43.165023",
-            "last_retested_at_epoch": 1595429143.165023,
-            "last_retested_at_iso": "2020-07-22T14:45:43.165023",
-            "status": "INACTIVE"
-        },
         "ad.caradisiac-publicite.com": {
             "included_at_epoch": 1594819423.018408,
             "included_at_iso": "2020-07-15T13:23:43.018408",
@@ -255,8 +248,8 @@
         "ads.phillyadclub.com": {
             "included_at_epoch": 1594808912.532788,
             "included_at_iso": "2020-07-15T10:28:32.532788",
-            "last_retested_at_epoch": 1595429144.838871,
-            "last_retested_at_iso": "2020-07-22T14:45:44.838871",
+            "last_retested_at_epoch": 1595602002.892299,
+            "last_retested_at_iso": "2020-07-24T14:46:42.892299",
             "status": "INACTIVE"
         },
         "ads.pornerbros.com": {
@@ -355,6 +348,13 @@
             "included_at_iso": "2020-06-30T16:53:56.456012",
             "last_retested_at_epoch": 1595432787.855917,
             "last_retested_at_iso": "2020-07-22T15:46:27.855917",
+            "status": "INACTIVE"
+        },
+        "ads5.kompasads.com": {
+            "included_at_epoch": 1595602002.325476,
+            "included_at_iso": "2020-07-24T14:46:42.325476",
+            "last_retested_at_epoch": 1595602002.325476,
+            "last_retested_at_iso": "2020-07-24T14:46:42.325476",
             "status": "INACTIVE"
         },
         "adserv.roundrockmedia.com": {
@@ -850,8 +850,8 @@
         "eastmoney.allyes.com": {
             "included_at_epoch": 1595429143.409635,
             "included_at_iso": "2020-07-22T14:45:43.409635",
-            "last_retested_at_epoch": 1595429143.409635,
-            "last_retested_at_iso": "2020-07-22T14:45:43.409635",
+            "last_retested_at_epoch": 1595602001.339703,
+            "last_retested_at_iso": "2020-07-24T14:46:41.339703",
             "status": "INACTIVE"
         },
         "edge.ayboll.com": {
@@ -997,8 +997,8 @@
         "i.xx.openx.com": {
             "included_at_epoch": 1595429144.722969,
             "included_at_iso": "2020-07-22T14:45:44.722969",
-            "last_retested_at_epoch": 1595429144.722969,
-            "last_retested_at_iso": "2020-07-22T14:45:44.722969",
+            "last_retested_at_epoch": 1595602002.770514,
+            "last_retested_at_iso": "2020-07-24T14:46:42.770514",
             "status": "INACTIVE"
         },
         "iau.adsiduous.com": {
@@ -1109,8 +1109,8 @@
         "metric-agent.i10c.net": {
             "included_at_epoch": 1595429144.174603,
             "included_at_iso": "2020-07-22T14:45:44.174603",
-            "last_retested_at_epoch": 1595429144.174603,
-            "last_retested_at_iso": "2020-07-22T14:45:44.174603",
+            "last_retested_at_epoch": 1595602002.166652,
+            "last_retested_at_iso": "2020-07-24T14:46:42.166652",
             "status": "INACTIVE"
         },
         "metrics.bestbuy.com": {
@@ -1442,6 +1442,13 @@
             "last_retested_at_iso": "2020-07-22T16:03:49.632760",
             "status": "INACTIVE"
         },
+        "sroomafp.allyes.com": {
+            "included_at_epoch": 1595602001.32314,
+            "included_at_iso": "2020-07-24T14:46:41.323140",
+            "last_retested_at_epoch": 1595602001.32314,
+            "last_retested_at_iso": "2020-07-24T14:46:41.323140",
+            "status": "INACTIVE"
+        },
         "srv2.admedit.me": {
             "included_at_epoch": 1593537844.663077,
             "included_at_iso": "2020-06-30T17:24:04.663077",
@@ -1641,8 +1648,8 @@
         "tom.allyes.com": {
             "included_at_epoch": 1595256229.884089,
             "included_at_iso": "2020-07-20T14:43:49.884089",
-            "last_retested_at_epoch": 1595429143.425729,
-            "last_retested_at_iso": "2020-07-22T14:45:43.425729",
+            "last_retested_at_epoch": 1595602001.357605,
+            "last_retested_at_iso": "2020-07-24T14:46:41.357605",
             "status": "INACTIVE"
         },
         "track.lativio.com": {
@@ -1879,8 +1886,8 @@
         "www.nowstat.com": {
             "included_at_epoch": 1594478225.971669,
             "included_at_iso": "2020-07-11T14:37:05.971669",
-            "last_retested_at_epoch": 1595429144.632595,
-            "last_retested_at_iso": "2020-07-22T14:45:44.632595",
+            "last_retested_at_epoch": 1595602002.673815,
+            "last_retested_at_iso": "2020-07-24T14:46:42.673815",
             "status": "INACTIVE"
         },
         "www.sendori.com": {
