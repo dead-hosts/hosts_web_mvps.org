@@ -745,8 +745,8 @@
         "state": "future"
     },
     "areasnap.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "ariboo.com": {
@@ -1517,7 +1517,7 @@
     "errorception.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ertya.com": {
         "epoch": 1615852800.0,
