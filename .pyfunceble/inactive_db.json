@@ -399,13 +399,6 @@
             "last_retested_at_iso": "2020-07-30T15:09:11.294860",
             "status": "INACTIVE"
         },
-        "beacon.tunecore.com": {
-            "included_at_epoch": 1593791823.147078,
-            "included_at_iso": "2020-07-03T15:57:03.147078",
-            "last_retested_at_epoch": 1596122775.864185,
-            "last_retested_at_iso": "2020-07-30T15:26:15.864185",
-            "status": "INACTIVE"
-        },
         "bf.mocda1.com": {
             "included_at_epoch": 1596122776.059184,
             "included_at_iso": "2020-07-30T15:26:16.059184",
@@ -418,13 +411,6 @@
             "included_at_iso": "2020-07-20T16:47:01.941939",
             "last_retested_at_epoch": 1596126436.935599,
             "last_retested_at_iso": "2020-07-30T16:27:16.935599",
-            "status": "INACTIVE"
-        },
-        "bokee.allyes.com": {
-            "included_at_epoch": 1595774885.482153,
-            "included_at_iso": "2020-07-26T14:48:05.482153",
-            "last_retested_at_epoch": 1596120674.176012,
-            "last_retested_at_iso": "2020-07-30T14:51:14.176012",
             "status": "INACTIVE"
         },
         "cache.btrll.com": {
@@ -668,8 +654,8 @@
         "eastmoney.allyes.com": {
             "included_at_epoch": 1596120674.162221,
             "included_at_iso": "2020-07-30T14:51:14.162221",
-            "last_retested_at_epoch": 1596120674.162221,
-            "last_retested_at_iso": "2020-07-30T14:51:14.162221",
+            "last_retested_at_epoch": 1596293529.928345,
+            "last_retested_at_iso": "2020-08-01T14:52:09.928345",
             "status": "INACTIVE"
         },
         "edge.ayboll.com": {
@@ -728,25 +714,11 @@
             "last_retested_at_iso": "2020-07-30T15:09:10.966777",
             "status": "INACTIVE"
         },
-        "fips.uimserv.net": {
-            "included_at_epoch": 1593790254.127398,
-            "included_at_iso": "2020-07-03T15:30:54.127398",
-            "last_retested_at_epoch": 1596126436.470983,
-            "last_retested_at_iso": "2020-07-30T16:27:16.470983",
-            "status": "INACTIVE"
-        },
         "funnyordie-d.openx.net": {
             "included_at_epoch": 1594917359.792284,
             "included_at_iso": "2020-07-16T16:35:59.792284",
             "last_retested_at_epoch": 1596126436.33116,
             "last_retested_at_iso": "2020-07-30T16:27:16.331160",
-            "status": "INACTIVE"
-        },
-        "gbjfc.rsvpgenius.com": {
-            "included_at_epoch": 1595947792.484673,
-            "included_at_iso": "2020-07-28T14:49:52.484673",
-            "last_retested_at_epoch": 1596120676.010273,
-            "last_retested_at_iso": "2020-07-30T14:51:16.010273",
             "status": "INACTIVE"
         },
         "geo.widdit.com": {
@@ -801,8 +773,8 @@
         "ias.avidmedia.net": {
             "included_at_epoch": 1595774885.654907,
             "included_at_iso": "2020-07-26T14:48:05.654907",
-            "last_retested_at_epoch": 1596120674.265819,
-            "last_retested_at_iso": "2020-07-30T14:51:14.265819",
+            "last_retested_at_epoch": 1596293530.047201,
+            "last_retested_at_iso": "2020-08-01T14:52:10.047201",
             "status": "INACTIVE"
         },
         "iau.adsiduous.com": {
@@ -885,8 +857,8 @@
         "marketing.doubleclickindustries.com": {
             "included_at_epoch": 1595947791.186701,
             "included_at_iso": "2020-07-28T14:49:51.186701",
-            "last_retested_at_epoch": 1596120674.609316,
-            "last_retested_at_iso": "2020-07-30T14:51:14.609316",
+            "last_retested_at_epoch": 1596293530.345216,
+            "last_retested_at_iso": "2020-08-01T14:52:10.345216",
             "status": "INACTIVE"
         },
         "mb.datingadzone.com": {
@@ -1391,6 +1363,13 @@
             "included_at_iso": "2020-07-16T16:36:00.175485",
             "last_retested_at_epoch": 1596126436.73759,
             "last_retested_at_iso": "2020-07-30T16:27:16.737590",
+            "status": "INACTIVE"
+        },
+        "tom.allyes.com": {
+            "included_at_epoch": 1596293529.944607,
+            "included_at_iso": "2020-08-01T14:52:09.944607",
+            "last_retested_at_epoch": 1596293529.944607,
+            "last_retested_at_iso": "2020-08-01T14:52:09.944607",
             "status": "INACTIVE"
         },
         "track.leadin.com": {
