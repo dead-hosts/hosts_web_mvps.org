@@ -1624,6 +1624,13 @@
             "last_retested_at_iso": "2020-08-03T15:35:28.167382",
             "status": "INACTIVE"
         },
+        "www.adtraff.ru": {
+            "included_at_epoch": 1596544309.921468,
+            "included_at_iso": "2020-08-04T12:31:49.921468",
+            "last_retested_at_epoch": 1596544309.921468,
+            "last_retested_at_iso": "2020-08-04T12:31:49.921468",
+            "status": "INACTIVE"
+        },
         "www.axill.com": {
             "included_at_epoch": 1594481349.954368,
             "included_at_iso": "2020-07-11T15:29:09.954368",
