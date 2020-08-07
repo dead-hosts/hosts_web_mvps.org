@@ -1035,9 +1035,9 @@
         "state": "future"
     },
     "cashcownetworks.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
-        "state": "past"
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
     },
     "cashengines.com": {
         "epoch": 1597536000.0,
@@ -2697,7 +2697,7 @@
     "ozertesa.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "pagefair.com": {
         "epoch": 1623369600.0,
