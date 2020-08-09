@@ -252,13 +252,6 @@
             "last_retested_at_iso": "2020-08-07T15:50:28.113431",
             "status": "INACTIVE"
         },
-        "ads.tdcanadatrust.com": {
-            "included_at_epoch": 1594480336.222304,
-            "included_at_iso": "2020-07-11T15:12:16.222304",
-            "last_retested_at_epoch": 1596820825.402538,
-            "last_retested_at_iso": "2020-08-07T17:20:25.402538",
-            "status": "INACTIVE"
-        },
         "ads.tradeads.eu": {
             "included_at_epoch": 1596294670.805695,
             "included_at_iso": "2020-08-01T15:11:10.805695",
@@ -294,13 +287,6 @@
             "last_retested_at_iso": "2020-08-07T16:07:39.700059",
             "status": "INACTIVE"
         },
-        "ads5.kompasads.com": {
-            "included_at_epoch": 1596813363.28889,
-            "included_at_iso": "2020-08-07T15:16:03.288890",
-            "last_retested_at_epoch": 1596813363.28889,
-            "last_retested_at_iso": "2020-08-07T15:16:03.288890",
-            "status": "INACTIVE"
-        },
         "adsys.adk2x.com": {
             "included_at_epoch": 1596121750.275565,
             "included_at_iso": "2020-07-30T15:09:10.275565",
@@ -327,13 +313,6 @@
             "included_at_iso": "2020-07-30T15:26:20.476161",
             "last_retested_at_epoch": 1596815427.785436,
             "last_retested_at_iso": "2020-08-07T15:50:27.785436",
-            "status": "INACTIVE"
-        },
-        "aff.naughtyconnect.com": {
-            "included_at_epoch": 1594482367.873535,
-            "included_at_iso": "2020-07-11T15:46:07.873535",
-            "last_retested_at_epoch": 1596820824.852405,
-            "last_retested_at_iso": "2020-08-07T17:20:24.852405",
             "status": "INACTIVE"
         },
         "affiliates.upforitnetworks.com": {
@@ -658,13 +637,6 @@
             "last_retested_at_iso": "2020-08-07T17:20:25.480499",
             "status": "INACTIVE"
         },
-        "dis.sv.us.criteo.com": {
-            "included_at_epoch": 1594481352.101575,
-            "included_at_iso": "2020-07-11T15:29:12.101575",
-            "last_retested_at_epoch": 1596820824.872063,
-            "last_retested_at_iso": "2020-08-07T17:20:24.872063",
-            "status": "INACTIVE"
-        },
         "downloadappguide.com": {
             "included_at_epoch": 1595777074.721657,
             "included_at_iso": "2020-07-26T15:24:34.721657",
@@ -691,13 +663,6 @@
             "included_at_iso": "2020-08-07T16:36:29.613803",
             "last_retested_at_epoch": 1596818189.613803,
             "last_retested_at_iso": "2020-08-07T16:36:29.613803",
-            "status": "INACTIVE"
-        },
-        "eastmoney.allyes.com": {
-            "included_at_epoch": 1596813362.312125,
-            "included_at_iso": "2020-08-07T15:16:02.312125",
-            "last_retested_at_epoch": 1596813362.312125,
-            "last_retested_at_iso": "2020-08-07T15:16:02.312125",
             "status": "INACTIVE"
         },
         "edge.ayboll.com": {
@@ -808,8 +773,8 @@
         "ias.avidmedia.net": {
             "included_at_epoch": 1595774885.654907,
             "included_at_iso": "2020-07-26T14:48:05.654907",
-            "last_retested_at_epoch": 1596813362.403628,
-            "last_retested_at_iso": "2020-08-07T15:16:02.403628",
+            "last_retested_at_epoch": 1596985755.711438,
+            "last_retested_at_iso": "2020-08-09T15:09:15.711438",
             "status": "INACTIVE"
         },
         "iau.adsiduous.com": {
@@ -906,8 +871,8 @@
         "marketing.doubleclickindustries.com": {
             "included_at_epoch": 1595947791.186701,
             "included_at_iso": "2020-07-28T14:49:51.186701",
-            "last_retested_at_epoch": 1596813362.728699,
-            "last_retested_at_iso": "2020-08-07T15:16:02.728699",
+            "last_retested_at_epoch": 1596985756.051072,
+            "last_retested_at_iso": "2020-08-09T15:09:16.051072",
             "status": "INACTIVE"
         },
         "mb.datingadzone.com": {
@@ -1431,8 +1396,8 @@
         "tom.allyes.com": {
             "included_at_epoch": 1596813362.329,
             "included_at_iso": "2020-08-07T15:16:02.329000",
-            "last_retested_at_epoch": 1596813362.329,
-            "last_retested_at_iso": "2020-08-07T15:16:02.329000",
+            "last_retested_at_epoch": 1596985755.609447,
+            "last_retested_at_iso": "2020-08-09T15:09:15.609447",
             "status": "INACTIVE"
         },
         "track.leadin.com": {
@@ -1568,13 +1533,6 @@
             "last_retested_at_iso": "2020-08-07T15:33:16.567181",
             "status": "INACTIVE"
         },
-        "www.axill.com": {
-            "included_at_epoch": 1594481349.954368,
-            "included_at_iso": "2020-07-11T15:29:09.954368",
-            "last_retested_at_epoch": 1596815423.638559,
-            "last_retested_at_iso": "2020-08-07T15:50:23.638559",
-            "status": "INACTIVE"
-        },
         "www.bitspresentdownload.com": {
             "included_at_epoch": 1596468928.624867,
             "included_at_iso": "2020-08-03T15:35:28.624867",
@@ -1594,6 +1552,13 @@
             "included_at_iso": "2020-07-26T15:24:30.579933",
             "last_retested_at_epoch": 1596814396.838675,
             "last_retested_at_iso": "2020-08-07T15:33:16.838675",
+            "status": "INACTIVE"
+        },
+        "www.cybereps.com": {
+            "included_at_epoch": 1596985755.972289,
+            "included_at_iso": "2020-08-09T15:09:15.972289",
+            "last_retested_at_epoch": 1596985755.972289,
+            "last_retested_at_iso": "2020-08-09T15:09:15.972289",
             "status": "INACTIVE"
         },
         "www.free-choices.com": {
@@ -1643,20 +1608,6 @@
             "included_at_iso": "2020-07-30T15:09:10.414951",
             "last_retested_at_epoch": 1596814396.698658,
             "last_retested_at_iso": "2020-08-07T15:33:16.698658",
-            "status": "INACTIVE"
-        },
-        "www.nowstat.com": {
-            "included_at_epoch": 1594478225.971669,
-            "included_at_iso": "2020-07-11T14:37:05.971669",
-            "last_retested_at_epoch": 1596820825.029524,
-            "last_retested_at_iso": "2020-08-07T17:20:25.029524",
-            "status": "INACTIVE"
-        },
-        "www.popadvert.com": {
-            "included_at_epoch": 1596639780.650451,
-            "included_at_iso": "2020-08-05T15:03:00.650451",
-            "last_retested_at_epoch": 1596813363.846466,
-            "last_retested_at_iso": "2020-08-07T15:16:03.846466",
             "status": "INACTIVE"
         },
         "www.reduxmediia.com": {
