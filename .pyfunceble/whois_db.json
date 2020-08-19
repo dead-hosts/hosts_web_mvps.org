@@ -1570,9 +1570,9 @@
         "state": "future"
     },
     "fastdownload10.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "fastnclick.com": {
         "epoch": 1598227200.0,
@@ -2392,7 +2392,7 @@
     "morehitserver.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "mouads.com": {
         "epoch": 1600646400.0,
