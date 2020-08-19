@@ -35,6 +35,13 @@
             "last_retested_at_iso": "2020-08-17T17:05:19.533193",
             "status": "INACTIVE"
         },
+        "ad.adition.net": {
+            "included_at_epoch": 1597850228.062726,
+            "included_at_iso": "2020-08-19T15:17:08.062726",
+            "last_retested_at_epoch": 1597850228.062726,
+            "last_retested_at_iso": "2020-08-19T15:17:08.062726",
+            "status": "INACTIVE"
+        },
         "ad.db3nf.com": {
             "included_at_epoch": 1596123804.839435,
             "included_at_iso": "2020-07-30T15:43:24.839435",
@@ -96,6 +103,13 @@
             "included_at_iso": "2020-07-30T15:26:17.652660",
             "last_retested_at_epoch": 1597680392.007587,
             "last_retested_at_iso": "2020-08-17T16:06:32.007587",
+            "status": "INACTIVE"
+        },
+        "ads.autoscout24.com": {
+            "included_at_epoch": 1597850228.326806,
+            "included_at_iso": "2020-08-19T15:17:08.326806",
+            "last_retested_at_epoch": 1597850228.326806,
+            "last_retested_at_iso": "2020-08-19T15:17:08.326806",
             "status": "INACTIVE"
         },
         "ads.bnmedia.com": {
@@ -257,6 +271,13 @@
             "included_at_iso": "2020-07-30T15:43:26.940486",
             "last_retested_at_epoch": 1597681847.057487,
             "last_retested_at_iso": "2020-08-17T16:30:47.057487",
+            "status": "INACTIVE"
+        },
+        "ads3.kompasads.com": {
+            "included_at_epoch": 1597850229.194024,
+            "included_at_iso": "2020-08-19T15:17:09.194024",
+            "last_retested_at_epoch": 1597850229.194024,
+            "last_retested_at_iso": "2020-08-19T15:17:09.194024",
             "status": "INACTIVE"
         },
         "adsys.adk2x.com": {
@@ -651,18 +672,11 @@
             "last_retested_at_iso": "2020-08-17T15:44:12.018974",
             "status": "INACTIVE"
         },
-        "i.xx.openx.com": {
-            "included_at_epoch": 1595429144.722969,
-            "included_at_iso": "2020-07-22T14:45:44.722969",
-            "last_retested_at_epoch": 1597684836.927992,
-            "last_retested_at_iso": "2020-08-17T17:20:36.927992",
-            "status": "INACTIVE"
-        },
         "ias.avidmedia.net": {
             "included_at_epoch": 1595774885.654907,
             "included_at_iso": "2020-07-26T14:48:05.654907",
-            "last_retested_at_epoch": 1597676577.671052,
-            "last_retested_at_iso": "2020-08-17T15:02:57.671052",
+            "last_retested_at_epoch": 1597850228.355622,
+            "last_retested_at_iso": "2020-08-19T15:17:08.355622",
             "status": "INACTIVE"
         },
         "iau.adsiduous.com": {
@@ -773,8 +787,8 @@
         "marketing.doubleclickindustries.com": {
             "included_at_epoch": 1595947791.186701,
             "included_at_iso": "2020-07-28T14:49:51.186701",
-            "last_retested_at_epoch": 1597676578.005936,
-            "last_retested_at_iso": "2020-08-17T15:02:58.005936",
+            "last_retested_at_epoch": 1597850228.66132,
+            "last_retested_at_iso": "2020-08-19T15:17:08.661320",
             "status": "INACTIVE"
         },
         "mb.datingadzone.com": {
@@ -789,13 +803,6 @@
             "included_at_iso": "2020-07-30T15:26:19.615576",
             "last_retested_at_epoch": 1597680394.010358,
             "last_retested_at_iso": "2020-08-17T16:06:34.010358",
-            "status": "INACTIVE"
-        },
-        "metric-agent.i10c.net": {
-            "included_at_epoch": 1595429144.174603,
-            "included_at_iso": "2020-07-22T14:45:44.174603",
-            "last_retested_at_epoch": 1597684836.862368,
-            "last_retested_at_iso": "2020-08-17T17:20:36.862368",
             "status": "INACTIVE"
         },
         "metrics.seenon.com": {
@@ -1286,13 +1293,6 @@
             "included_at_iso": "2020-07-26T15:24:30.579933",
             "last_retested_at_epoch": 1597679052.342825,
             "last_retested_at_iso": "2020-08-17T15:44:12.342825",
-            "status": "INACTIVE"
-        },
-        "www.cybereps.com": {
-            "included_at_epoch": 1597676577.930601,
-            "included_at_iso": "2020-08-17T15:02:57.930601",
-            "last_retested_at_epoch": 1597676577.930601,
-            "last_retested_at_iso": "2020-08-17T15:02:57.930601",
             "status": "INACTIVE"
         },
         "www.free-choices.com": {
