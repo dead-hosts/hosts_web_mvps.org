@@ -101,8 +101,8 @@
         "ads.autoscout24.com": {
             "included_at_epoch": 1597850228.326806,
             "included_at_iso": "2020-08-19T15:17:08.326806",
-            "last_retested_at_epoch": 1598022386.479742,
-            "last_retested_at_iso": "2020-08-21T15:06:26.479742",
+            "last_retested_at_epoch": 1598195277.438795,
+            "last_retested_at_iso": "2020-08-23T15:07:57.438795",
             "status": "INACTIVE"
         },
         "ads.bnmedia.com": {
@@ -266,6 +266,13 @@
             "last_retested_at_iso": "2020-08-21T16:16:47.567917",
             "status": "INACTIVE"
         },
+        "adsrich.qq.com": {
+            "included_at_epoch": 1598195278.996432,
+            "included_at_iso": "2020-08-23T15:07:58.996432",
+            "last_retested_at_epoch": 1598195278.996432,
+            "last_retested_at_iso": "2020-08-23T15:07:58.996432",
+            "status": "INACTIVE"
+        },
         "adsys.adk2x.com": {
             "included_at_epoch": 1596121750.275565,
             "included_at_iso": "2020-07-30T15:09:10.275565",
@@ -290,8 +297,8 @@
         "advertpro.sitepoint.com": {
             "included_at_epoch": 1597504602.727075,
             "included_at_iso": "2020-08-15T15:16:42.727075",
-            "last_retested_at_epoch": 1598022388.276249,
-            "last_retested_at_iso": "2020-08-21T15:06:28.276249",
+            "last_retested_at_epoch": 1598195279.206532,
+            "last_retested_at_iso": "2020-08-23T15:07:59.206532",
             "status": "INACTIVE"
         },
         "adview.ppro.de": {
@@ -652,10 +659,10 @@
             "status": "INACTIVE"
         },
         "ias.avidmedia.net": {
-            "included_at_epoch": 1595774885.654907,
-            "included_at_iso": "2020-07-26T14:48:05.654907",
-            "last_retested_at_epoch": 1598022386.507247,
-            "last_retested_at_iso": "2020-08-21T15:06:26.507247",
+            "included_at_epoch": 1598195277.468273,
+            "included_at_iso": "2020-08-23T15:07:57.468273",
+            "last_retested_at_epoch": 1598195277.468273,
+            "last_retested_at_iso": "2020-08-23T15:07:57.468273",
             "status": "INACTIVE"
         },
         "iau.adsiduous.com": {
@@ -738,15 +745,8 @@
         "marketing.doubleclickindustries.com": {
             "included_at_epoch": 1595947791.186701,
             "included_at_iso": "2020-07-28T14:49:51.186701",
-            "last_retested_at_epoch": 1598022386.827782,
-            "last_retested_at_iso": "2020-08-21T15:06:26.827782",
-            "status": "INACTIVE"
-        },
-        "mb.datingadzone.com": {
-            "included_at_epoch": 1595774885.887481,
-            "included_at_iso": "2020-07-26T14:48:05.887481",
-            "last_retested_at_epoch": 1598029560.250371,
-            "last_retested_at_iso": "2020-08-21T17:06:00.250371",
+            "last_retested_at_epoch": 1598195277.787747,
+            "last_retested_at_iso": "2020-08-23T15:07:57.787747",
             "status": "INACTIVE"
         },
         "media.adxpansion.com": {
@@ -978,13 +978,6 @@
             "included_at_iso": "2020-07-30T15:09:10.729194",
             "last_retested_at_epoch": 1598023413.25101,
             "last_retested_at_iso": "2020-08-21T15:23:33.251010",
-            "status": "INACTIVE"
-        },
-        "sroomafp.allyes.com": {
-            "included_at_epoch": 1598022386.398231,
-            "included_at_iso": "2020-08-21T15:06:26.398231",
-            "last_retested_at_epoch": 1598022386.398231,
-            "last_retested_at_iso": "2020-08-21T15:06:26.398231",
             "status": "INACTIVE"
         },
         "srv2.admedit.me": {
@@ -1291,8 +1284,8 @@
         "www.splem.net": {
             "included_at_epoch": 1597851591.178594,
             "included_at_iso": "2020-08-19T15:39:51.178594",
-            "last_retested_at_epoch": 1598022388.344867,
-            "last_retested_at_iso": "2020-08-21T15:06:28.344867",
+            "last_retested_at_epoch": 1598195279.268292,
+            "last_retested_at_iso": "2020-08-23T15:07:59.268292",
             "status": "INACTIVE"
         },
         "www.tostadomedia.com": {
