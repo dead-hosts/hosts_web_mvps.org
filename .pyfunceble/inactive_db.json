@@ -101,8 +101,8 @@
         "ads.autoscout24.com": {
             "included_at_epoch": 1597850228.326806,
             "included_at_iso": "2020-08-19T15:17:08.326806",
-            "last_retested_at_epoch": 1598195277.438795,
-            "last_retested_at_iso": "2020-08-23T15:07:57.438795",
+            "last_retested_at_epoch": 1598368171.367875,
+            "last_retested_at_iso": "2020-08-25T15:09:31.367875",
             "status": "INACTIVE"
         },
         "ads.bnmedia.com": {
@@ -217,6 +217,13 @@
             "last_retested_at_iso": "2020-08-23T16:49:14.869516",
             "status": "INACTIVE"
         },
+        "ads.sagabg.net": {
+            "included_at_epoch": 1598368173.323614,
+            "included_at_iso": "2020-08-25T15:09:33.323614",
+            "last_retested_at_epoch": 1598368173.323614,
+            "last_retested_at_iso": "2020-08-25T15:09:33.323614",
+            "status": "INACTIVE"
+        },
         "ads.skinected.com": {
             "included_at_epoch": 1596121749.302366,
             "included_at_iso": "2020-07-30T15:09:09.302366",
@@ -273,11 +280,11 @@
             "last_retested_at_iso": "2020-08-23T16:32:05.469319",
             "status": "INACTIVE"
         },
-        "adsrich.qq.com": {
-            "included_at_epoch": 1598195278.996432,
-            "included_at_iso": "2020-08-23T15:07:58.996432",
-            "last_retested_at_epoch": 1598195278.996432,
-            "last_retested_at_iso": "2020-08-23T15:07:58.996432",
+        "ads5.kompasads.com": {
+            "included_at_epoch": 1598368172.390233,
+            "included_at_iso": "2020-08-25T15:09:32.390233",
+            "last_retested_at_epoch": 1598368172.390233,
+            "last_retested_at_iso": "2020-08-25T15:09:32.390233",
             "status": "INACTIVE"
         },
         "adsys.adk2x.com": {
@@ -668,8 +675,8 @@
         "ias.avidmedia.net": {
             "included_at_epoch": 1598195277.468273,
             "included_at_iso": "2020-08-23T15:07:57.468273",
-            "last_retested_at_epoch": 1598195277.468273,
-            "last_retested_at_iso": "2020-08-23T15:07:57.468273",
+            "last_retested_at_epoch": 1598368171.398404,
+            "last_retested_at_iso": "2020-08-25T15:09:31.398404",
             "status": "INACTIVE"
         },
         "iau.adsiduous.com": {
@@ -743,10 +750,10 @@
             "status": "INACTIVE"
         },
         "marketing.doubleclickindustries.com": {
-            "included_at_epoch": 1595947791.186701,
-            "included_at_iso": "2020-07-28T14:49:51.186701",
-            "last_retested_at_epoch": 1598195277.787747,
-            "last_retested_at_iso": "2020-08-23T15:07:57.787747",
+            "included_at_epoch": 1598368171.763515,
+            "included_at_iso": "2020-08-25T15:09:31.763515",
+            "last_retested_at_epoch": 1598368171.763515,
+            "last_retested_at_iso": "2020-08-25T15:09:31.763515",
             "status": "INACTIVE"
         },
         "media.adxpansion.com": {
@@ -1092,6 +1099,13 @@
             "last_retested_at_iso": "2020-08-23T16:32:07.597962",
             "status": "INACTIVE"
         },
+        "tom.allyes.com": {
+            "included_at_epoch": 1598368171.268458,
+            "included_at_iso": "2020-08-25T15:09:31.268458",
+            "last_retested_at_epoch": 1598368171.268458,
+            "last_retested_at_iso": "2020-08-25T15:09:31.268458",
+            "status": "INACTIVE"
+        },
         "track.eyeviewads.com": {
             "included_at_epoch": 1597851593.44333,
             "included_at_iso": "2020-08-19T15:39:53.443330",
@@ -1237,6 +1251,13 @@
             "included_at_iso": "2020-08-15T15:52:44.420921",
             "last_retested_at_epoch": 1598199181.970341,
             "last_retested_at_iso": "2020-08-23T16:13:01.970341",
+            "status": "INACTIVE"
+        },
+        "www.hittracker.org": {
+            "included_at_epoch": 1598368172.172169,
+            "included_at_iso": "2020-08-25T15:09:32.172169",
+            "last_retested_at_epoch": 1598368172.172169,
+            "last_retested_at_iso": "2020-08-25T15:09:32.172169",
             "status": "INACTIVE"
         },
         "www.hostedbanners.com": {
