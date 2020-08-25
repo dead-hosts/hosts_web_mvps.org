@@ -958,6 +958,7 @@
 0.0.0.0 ads.yldmgrimg.net
 0.0.0.0 ads.ynot.com
 0.0.0.0 ads.zdnet.com
+0.0.0.0 ads.zedo.com
 0.0.0.0 ads.zeusclicks.com
 0.0.0.0 ads.ztod.com
 0.0.0.0 adsapi.chartbeat.com
@@ -1964,6 +1965,7 @@
 0.0.0.0 bruceclay.112.2o7.net
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.yandex.ru
+0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 btcom.112.2o7.net
 0.0.0.0 btn.clickability.com
 0.0.0.0 btn.counter.weather.ca
@@ -2009,6 +2011,7 @@
 0.0.0.0 c1.smartclick.net
 0.0.0.0 c1.statcounter.com
 0.0.0.0 c1.xxxcounter.com
+0.0.0.0 c1.zedo.com
 0.0.0.0 c2.amazingcounters.com
 0.0.0.0 c2.gostats.com
 0.0.0.0 c2.outster.com
@@ -2017,6 +2020,7 @@
 0.0.0.0 c2.statcounter.com
 0.0.0.0 c2.tentaculos.net
 0.0.0.0 c2.xxxcounter.com
+0.0.0.0 c2.zedo.com
 0.0.0.0 c2c738.r.axf8.net
 0.0.0.0 c03.adsummos.net
 0.0.0.0 c3.amazingcounters.com
@@ -2024,6 +2028,7 @@
 0.0.0.0 c3.outster.com
 0.0.0.0 c3.statcounter.com
 0.0.0.0 c3.xxxcounter.com
+0.0.0.0 c3.zedo.com
 0.0.0.0 c04.adsummos.net
 0.0.0.0 c4.amazingcounters.com
 0.0.0.0 c4.gostats.com
@@ -2031,18 +2036,23 @@
 0.0.0.0 c4.iwon.com
 0.0.0.0 c4.mysearch.com
 0.0.0.0 c4.statcounter.com
+0.0.0.0 c4.zedo.com
 0.0.0.0 c4dl.com
 0.0.0.0 c4tracking01.com
 0.0.0.0 c5.amazingcounters.com
 0.0.0.0 c5.statcounter.com
+0.0.0.0 c5.zedo.com
 0.0.0.0 c6.amazingcounters.com
 0.0.0.0 c6.edgesuite.net
 0.0.0.0 c6.statcounter.com
+0.0.0.0 c6.zedo.com
 0.0.0.0 c7.adforgeinc.com
 0.0.0.0 c7.amazingcounters.com
 0.0.0.0 c7.statcounter.com
+0.0.0.0 c7.zedo.com
 0.0.0.0 c8.amazingcounters.com
 0.0.0.0 c8.statcounter.com
+0.0.0.0 c8.zedo.com
 0.0.0.0 c9.amazingcounters.com
 0.0.0.0 c10.statcounter.com
 0.0.0.0 c11.statcounter.com
@@ -2613,8 +2623,8 @@
 0.0.0.0 codicefl.shinystat.com
 0.0.0.0 codiceisp.shinystat.com
 0.0.0.0 coedmagazine.us.intellitxt.com
-0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
 0.0.0.0 col.eum-appdynamics.com
 0.0.0.0 col.mobileads.msn.com
 0.0.0.0 collect.rewardstyle.com
@@ -2893,15 +2903,19 @@
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1zatounuylvwg.cloudfront.net
+0.0.0.0 d2.zedo.com
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2vig74li2resi.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
+0.0.0.0 d3.zedo.com
 0.0.0.0 d3fd89.r.axf8.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d6y5.ads.pof.com
+0.0.0.0 d7.zedo.com
+0.0.0.0 d8.zedo.com
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9d0e0.r.axf8.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
@@ -3564,8 +3578,8 @@
 0.0.0.0 freeimghost.trafflow.com
 0.0.0.0 freelogs.com
 0.0.0.0 freeonlineusers.com
-0.0.0.0 free-stats.com
 0.0.0.0 freestats.com
+0.0.0.0 free-stats.com
 0.0.0.0 freewarehome.us.intellitxt.com
 0.0.0.0 freewarepalm.uk.intellitxt.com
 0.0.0.0 friendtest.us.intellitxt.com
@@ -3592,6 +3606,7 @@
 0.0.0.0 g.blogads.com
 0.0.0.0 g.promosrv.com
 0.0.0.0 g.websponsors.com
+0.0.0.0 g.zedo.com
 0.0.0.0 gaae.hit.gemius.pl
 0.0.0.0 gaat.hit.gemius.pl
 0.0.0.0 gaba.hit.gemius.pl
@@ -3864,6 +3879,7 @@
 0.0.0.0 guj.122.2o7.net
 0.0.0.0 gulli.de.intellitxt.com
 0.0.0.0 guru3d.us.intellitxt.com
+0.0.0.0 gw.zedo.com
 0.0.0.0 gwa.lphbs.com
 0.0.0.0 gwb.lphbs.com
 0.0.0.0 gwc.lphbs.com
@@ -3876,6 +3892,7 @@
 0.0.0.0 h.online-metrix.net
 0.0.0.0 h.spill.com
 0.0.0.0 h.verticalscope.com
+0.0.0.0 h.zedo.com
 0.0.0.0 hackedgadgets.us.intellitxt.com
 0.0.0.0 hairboutique.us.intellitxt.com
 0.0.0.0 hallmarkibmcom.112.2o7.net
@@ -4249,6 +4266,7 @@
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 info.telstra.com
 0.0.0.0 infopackets.us.intellitxt.com
+0.0.0.0 informer.yandex.ru
 0.0.0.0 infos-du-net.fr.intellitxt.com
 0.0.0.0 infoworldmediagroup.112.2o7.net
 0.0.0.0 infrastrategy.122.2o7.net
@@ -4481,6 +4499,14 @@
 0.0.0.0 kwserver.adhispanic.com
 0.0.0.0 l1.cdn.qnsr.com
 0.0.0.0 l1.qsstats.com
+0.0.0.0 l1.zedo.com
+0.0.0.0 l2.zedo.com
+0.0.0.0 l3.zedo.com
+0.0.0.0 l4.zedo.com
+0.0.0.0 l5.zedo.com
+0.0.0.0 l6.zedo.com
+0.0.0.0 l7.zedo.com
+0.0.0.0 l8.zedo.com
 0.0.0.0 l.adxcore.com
 0.0.0.0 l.betrad.com
 0.0.0.0 l.linkpulse.com
@@ -4813,6 +4839,7 @@
 0.0.0.0 mbox9e.offermatica.com
 0.0.0.0 mbox12.offermatica.com
 0.0.0.0 mbox.offermatica.intuit.com
+0.0.0.0 mc.yandex.ru
 0.0.0.0 mcafee-home.7eer.net
 0.0.0.0 mcclatchy.112.2o7.net
 0.0.0.0 mct.rkdms.com
@@ -5241,6 +5268,7 @@
 0.0.0.0 multioptik.com
 0.0.0.0 multiply.112.2o7.net
 0.0.0.0 multiply.crwdcntrl.net
+0.0.0.0 multipops.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 muscleandfitnesshers.us.intellitxt.com
 0.0.0.0 music.ign.us.intellitxt.com
@@ -6088,6 +6116,7 @@
 0.0.0.0 quinstreet.us.intellitxt.com
 0.0.0.0 qwestfull.112.2o7.net
 0.0.0.0 r1.literotica.com
+0.0.0.0 r1.zedo.com
 0.0.0.0 r1-t.trackedlink.net
 0.0.0.0 r.4at1.com
 0.0.0.0 r.254a.com
@@ -6286,6 +6315,7 @@
 0.0.0.0 rsgde.adocean.pl
 0.0.0.0 rt3.infolinks.com
 0.0.0.0 rt.globalmailer.com
+0.0.0.0 rt.udmserve.net
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb3.doubleverify.com
@@ -6648,6 +6678,7 @@
 0.0.0.0 service2.predictad.com
 0.0.0.0 service.clicksvenue.com
 0.0.0.0 service.maxymiser.net
+0.0.0.0 service.multi-pops.com
 0.0.0.0 service.persianstat.com
 0.0.0.0 service.urchin.com
 0.0.0.0 serviceo.comcast.net
@@ -6656,6 +6687,7 @@
 0.0.0.0 services.webspectator.com
 0.0.0.0 services.x-traceur.com
 0.0.0.0 serving.xxxwebtraffic.com
+0.0.0.0 serw.myroitracking.com
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 sevenoneintermedia.112.2o7.net
 0.0.0.0 sextracker.com
@@ -6686,6 +6718,7 @@
 0.0.0.0 siemens.d1.sc.omtrdc.net
 0.0.0.0 siliconera.us.intellitxt.com
 0.0.0.0 silveragesoftware.com
+0.0.0.0 simg.zedo.com
 0.0.0.0 s-imp.rmp.rakuten.com
 0.0.0.0 simplehitcounter.com
 0.0.0.0 sin1.g.adnxs.com
@@ -6831,6 +6864,9 @@
 0.0.0.0 srv.uk.znaptag.com
 0.0.0.0 srvpub.com
 0.0.0.0 srv-us.znaptag.com
+0.0.0.0 ss1.zedo.com
+0.0.0.0 ss2.zedo.com
+0.0.0.0 ss7.zedo.com
 0.0.0.0 ss.mtree.com
 0.0.0.0 ssdc.icelandair.com
 0.0.0.0 ssl3.adhost.com
@@ -7468,6 +7504,7 @@
 0.0.0.0 tps30.doubleverify.com
 0.0.0.0 tr-1.agilone.com
 0.0.0.0 tr1.frosmo.com
+0.0.0.0 tr1.myroitracking.com
 0.0.0.0 tr.2.cqcounter.com
 0.0.0.0 tr.buzzlogic.com
 0.0.0.0 tr.de.adlink.net
@@ -7520,6 +7557,7 @@
 0.0.0.0 track.special-promotions.online
 0.0.0.0 track.ultragaming.biz
 0.0.0.0 track.untd.com
+0.0.0.0 track.visitorpath.com
 0.0.0.0 track.webgains.com
 0.0.0.0 track.written.com
 0.0.0.0 track.yieldsoftware.com
@@ -8134,6 +8172,7 @@
 0.0.0.0 www1.addfreestats.com
 0.0.0.0 www1.iwon.com
 0.0.0.0 www1.mpnrs.com
+0.0.0.0 www1.multipops.com
 0.0.0.0 www1.nuseek.com
 0.0.0.0 www1.pip-pip-pop.com
 0.0.0.0 www1.pollg.com
@@ -8151,6 +8190,7 @@
 0.0.0.0 www2.game-advertising-online.com
 0.0.0.0 www2.hitslink.com
 0.0.0.0 www2.mousestats.com
+0.0.0.0 www2.multipops.com
 0.0.0.0 www2.nuseek.com
 0.0.0.0 www2.sellhealth.com
 0.0.0.0 www2.smartadserver.com
@@ -8472,8 +8512,8 @@
 0.0.0.0 www.epicgameads.com
 0.0.0.0 www.errornuker.com
 0.0.0.0 www.etahub.com
-0.0.0.0 www.e-traffic.com
 0.0.0.0 www.etraffic.com
+0.0.0.0 www.e-traffic.com
 0.0.0.0 www.europerank.com
 0.0.0.0 www.everestjs.net
 0.0.0.0 www.evidencenuker.com
@@ -8569,6 +8609,7 @@
 0.0.0.0 www.incentaclick.com
 0.0.0.0 www.incentivenetworks2.com
 0.0.0.0 www.ineedhits.com
+0.0.0.0 www.infinityads.com
 0.0.0.0 www.infotelsrl.com
 0.0.0.0 www.insightexpress.com
 0.0.0.0 www.inskinad.com
@@ -8650,11 +8691,13 @@
 0.0.0.0 www.msgtag.com
 0.0.0.0 www.ms-mvp.org
 0.0.0.0 www.mtree.com
+0.0.0.0 www.multipops.com
 0.0.0.0 www.mvav.com
 0.0.0.0 www.myaffiliateprogram.com
 0.0.0.0 www.mycpvlife.com
 0.0.0.0 www.mylottoadserv.com
 0.0.0.0 www.mypagerank.net
+0.0.0.0 www.myroitracking.com
 0.0.0.0 www.mysearch.com
 0.0.0.0 www.mystat.pl
 0.0.0.0 www.mytotalsearch.com
@@ -8822,6 +8865,7 @@
 0.0.0.0 www.stats.net
 0.0.0.0 www.statsforever.com
 0.0.0.0 www.steamtraffic.com
+0.0.0.0 www.stickylogic.com
 0.0.0.0 www.storygize.net
 0.0.0.0 www.streamate.com
 0.0.0.0 www.streamatelive.com
@@ -8946,6 +8990,7 @@
 0.0.0.0 www.xpays.com
 0.0.0.0 www.xstat.pl
 0.0.0.0 www.xxxbannerswap.com
+0.0.0.0 www.xxxwebtraffic.com
 0.0.0.0 www.xy7track.com
 0.0.0.0 www.xyfex.com
 0.0.0.0 www.xyztraffic.com
@@ -8954,10 +8999,12 @@
 0.0.0.0 www.youho.com
 0.0.0.0 www.yourhitstats.com
 0.0.0.0 www.yourlustmedia.com
+0.0.0.0 www.yourstats.net
 0.0.0.0 www.ypmadserver.com
 0.0.0.0 www.yrals.com
 0.0.0.0 www.ytdownloader.com
 0.0.0.0 www.yvmads.com
+0.0.0.0 www.zedo.com
 0.0.0.0 www.zergnet.com
 0.0.0.0 www.zipitfast.com
 0.0.0.0 www.zoomovies.org
@@ -8971,6 +9018,7 @@
 0.0.0.0 x.clickcertain.com
 0.0.0.0 x.fidelity-media.com
 0.0.0.0 x.imwx.com
+0.0.0.0 xads.zedo.com
 0.0.0.0 xapi.juicyads.com
 0.0.0.0 xblasterads1.com
 0.0.0.0 xbox360.ign.us.intellitxt.com
@@ -9009,9 +9057,11 @@
 0.0.0.0 y1.extreme-dm.com
 0.0.0.0 y.cdn.adblade.com
 0.0.0.0 y.extreme-dm.com
+0.0.0.0 yads.zedo.com
 0.0.0.0 yahoo.effectivemeasure.net
 0.0.0.0 yahoo.nuggad.net
 0.0.0.0 yamaha.122.2o7.net
+0.0.0.0 yandexadexchange.net
 0.0.0.0 yardbarker.tags.crwdcntrl.net
 0.0.0.0 yatrk.xyz
 0.0.0.0 ybex.com
@@ -9035,6 +9085,7 @@
 0.0.0.0 yllix.com
 0.0.0.0 ym.adnxs.com
 0.0.0.0 yoda.cybereps.com
+0.0.0.0 yourstats.net
 0.0.0.0 yourtango.us.intellitxt.com
 0.0.0.0 yrkdsp.112.2o7.net
 0.0.0.0 yukoyuko.112.2o7.net
@@ -9060,6 +9111,7 @@
 0.0.0.0 zdbb.netshelter.net
 0.0.0.0 zdnet.be.intellitxt.com
 0.0.0.0 ze1.zeroredirect1.com
+0.0.0.0 zedo.com
 0.0.0.0 zeit01.webtrekk.net
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 zeldalily.us.intellitxt.com
@@ -9223,6 +9275,7 @@
 0.0.0.0 3241.hittail.com
 0.0.0.0 3415.hittail.com
 0.0.0.0 3463.hittail.com
+0.0.0.0 3650.tm.zedo.com
 0.0.0.0 3918.hittail.com
 0.0.0.0 3933.hittail.com
 0.0.0.0 3957.hittail.com
