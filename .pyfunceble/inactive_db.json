@@ -414,10 +414,10 @@
             "status": "INACTIVE"
         },
         "beacon.tunecore.com": {
-            "included_at_epoch": 1596295692.770853,
-            "included_at_iso": "2020-08-01T15:28:12.770853",
-            "last_retested_at_epoch": 1598542997.869819,
-            "last_retested_at_iso": "2020-08-27T15:43:17.869819",
+            "included_at_epoch": 1598716185.67845,
+            "included_at_iso": "2020-08-29T15:49:45.678450",
+            "last_retested_at_epoch": 1598716185.67845,
+            "last_retested_at_iso": "2020-08-29T15:49:45.678450",
             "status": "INACTIVE"
         },
         "bf.mocda1.com": {
