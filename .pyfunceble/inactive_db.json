@@ -588,6 +588,13 @@
             "last_retested_at_iso": "2020-08-27T16:11:34.039776",
             "status": "INACTIVE"
         },
+        "d.dc121677.com": {
+            "included_at_epoch": 1598888196.065406,
+            "included_at_iso": "2020-08-31T15:36:36.065406",
+            "last_retested_at_epoch": 1598888196.065406,
+            "last_retested_at_iso": "2020-08-31T15:36:36.065406",
+            "status": "INACTIVE"
+        },
         "d.lumatag.co.uk": {
             "included_at_epoch": 1598542997.255274,
             "included_at_iso": "2020-08-27T15:43:17.255274",
@@ -887,6 +894,13 @@
             "included_at_iso": "2020-08-21T16:16:46.677044",
             "last_retested_at_epoch": 1598545808.536422,
             "last_retested_at_iso": "2020-08-27T16:30:08.536422",
+            "status": "INACTIVE"
+        },
+        "pagead.topobiavi.com": {
+            "included_at_epoch": 1598888197.54946,
+            "included_at_iso": "2020-08-31T15:36:37.549460",
+            "last_retested_at_epoch": 1598888197.54946,
+            "last_retested_at_iso": "2020-08-31T15:36:37.549460",
             "status": "INACTIVE"
         },
         "pix.pulsemgr.com": {
