@@ -98,6 +98,13 @@
             "last_retested_at_iso": "2020-08-27T16:30:10.014210",
             "status": "INACTIVE"
         },
+        "ads.adtrustmedia.com": {
+            "included_at_epoch": 1598892349.340806,
+            "included_at_iso": "2020-08-31T16:45:49.340806",
+            "last_retested_at_epoch": 1598892349.340806,
+            "last_retested_at_iso": "2020-08-31T16:45:49.340806",
+            "status": "INACTIVE"
+        },
         "ads.advertisespace.com": {
             "included_at_epoch": 1598715148.160559,
             "included_at_iso": "2020-08-29T15:32:28.160559",
