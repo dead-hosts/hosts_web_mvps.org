@@ -658,6 +658,13 @@
             "last_retested_at_iso": "2020-08-29T16:24:12.323953",
             "status": "INACTIVE"
         },
+        "e-ads.eqads.com": {
+            "included_at_epoch": 1598891126.242323,
+            "included_at_iso": "2020-08-31T16:25:26.242323",
+            "last_retested_at_epoch": 1598891126.242323,
+            "last_retested_at_iso": "2020-08-31T16:25:26.242323",
+            "status": "INACTIVE"
+        },
         "edge.ayboll.com": {
             "included_at_epoch": 1596815426.873351,
             "included_at_iso": "2020-08-07T15:50:26.873351",
@@ -782,13 +789,6 @@
             "included_at_iso": "2020-08-29T16:24:12.342814",
             "last_retested_at_epoch": 1598718252.342814,
             "last_retested_at_iso": "2020-08-29T16:24:12.342814",
-            "status": "INACTIVE"
-        },
-        "logc400.xiti.com": {
-            "included_at_epoch": 1596470761.928386,
-            "included_at_iso": "2020-08-03T16:06:01.928386",
-            "last_retested_at_epoch": 1598544690.710956,
-            "last_retested_at_iso": "2020-08-27T16:11:30.710956",
             "status": "INACTIVE"
         },
         "m.usersonline.com": {
