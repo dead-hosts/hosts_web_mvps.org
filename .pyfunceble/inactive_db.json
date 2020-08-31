@@ -385,13 +385,6 @@
             "last_retested_at_iso": "2020-08-27T16:30:11.130827",
             "status": "INACTIVE"
         },
-        "b.ensighten.com": {
-            "included_at_epoch": 1596468927.280123,
-            "included_at_iso": "2020-08-03T15:35:27.280123",
-            "last_retested_at_epoch": 1598542995.187732,
-            "last_retested_at_iso": "2020-08-27T15:43:15.187732",
-            "status": "INACTIVE"
-        },
         "banners.easydns.com": {
             "included_at_epoch": 1598546867.777482,
             "included_at_iso": "2020-08-27T16:47:47.777482",
@@ -1265,13 +1258,6 @@
             "included_at_iso": "2020-08-09T16:08:40.366881",
             "last_retested_at_epoch": 1598544691.143395,
             "last_retested_at_iso": "2020-08-27T16:11:31.143395",
-            "status": "INACTIVE"
-        },
-        "www.bitspresentdownload.com": {
-            "included_at_epoch": 1596468928.624867,
-            "included_at_iso": "2020-08-03T15:35:28.624867",
-            "last_retested_at_epoch": 1598542996.603912,
-            "last_retested_at_iso": "2020-08-27T15:43:16.603912",
             "status": "INACTIVE"
         },
         "www.free-choices.com": {
