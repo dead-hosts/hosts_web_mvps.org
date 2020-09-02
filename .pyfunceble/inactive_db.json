@@ -70,6 +70,13 @@
             "last_retested_at_iso": "2020-08-27T16:11:34.304018",
             "status": "INACTIVE"
         },
+        "adbetnet.advertserve.com": {
+            "included_at_epoch": 1599061654.935281,
+            "included_at_iso": "2020-09-02T15:47:34.935281",
+            "last_retested_at_epoch": 1599061654.935281,
+            "last_retested_at_iso": "2020-09-02T15:47:34.935281",
+            "status": "INACTIVE"
+        },
         "adcdn.33universal.com": {
             "included_at_epoch": 1598544694.007175,
             "included_at_iso": "2020-08-27T16:11:34.007175",
