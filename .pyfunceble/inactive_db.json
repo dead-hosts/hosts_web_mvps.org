@@ -581,6 +581,13 @@
             "last_retested_at_iso": "2020-08-27T17:04:50.969066",
             "status": "INACTIVE"
         },
+        "cpatrack.leadn.com": {
+            "included_at_epoch": 1599062868.173942,
+            "included_at_iso": "2020-09-02T16:07:48.173942",
+            "last_retested_at_epoch": 1599062868.173942,
+            "last_retested_at_iso": "2020-09-02T16:07:48.173942",
+            "status": "INACTIVE"
+        },
         "creative.clicksor.com": {
             "included_at_epoch": 1598544692.828397,
             "included_at_iso": "2020-08-27T16:11:32.828397",
@@ -936,13 +943,6 @@
             "included_at_iso": "2020-08-27T15:43:18.015592",
             "last_retested_at_epoch": 1598542998.015592,
             "last_retested_at_iso": "2020-08-27T15:43:18.015592",
-            "status": "INACTIVE"
-        },
-        "pix.silverpush.co": {
-            "included_at_epoch": 1596641561.996401,
-            "included_at_iso": "2020-08-05T15:32:41.996401",
-            "last_retested_at_epoch": 1598542995.099581,
-            "last_retested_at_iso": "2020-08-27T15:43:15.099581",
             "status": "INACTIVE"
         },
         "pixel.adadvisor.net": {
