@@ -1036,6 +1036,13 @@
             "last_retested_at_iso": "2020-08-29T16:06:52.073619",
             "status": "INACTIVE"
         },
+        "sdc.dn.no": {
+            "included_at_epoch": 1599064204.012446,
+            "included_at_iso": "2020-09-02T16:30:04.012446",
+            "last_retested_at_epoch": 1599064204.012446,
+            "last_retested_at_iso": "2020-09-02T16:30:04.012446",
+            "status": "INACTIVE"
+        },
         "search.brainfox.com": {
             "included_at_epoch": 1598372456.9533,
             "included_at_iso": "2020-08-25T16:20:56.953300",
