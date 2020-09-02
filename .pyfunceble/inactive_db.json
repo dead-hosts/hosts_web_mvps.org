@@ -112,6 +112,13 @@
             "last_retested_at_iso": "2020-08-27T16:47:49.408599",
             "status": "INACTIVE"
         },
+        "ads.ask.com": {
+            "included_at_epoch": 1599059587.252735,
+            "included_at_iso": "2020-09-02T15:13:07.252735",
+            "last_retested_at_epoch": 1599059587.252735,
+            "last_retested_at_iso": "2020-09-02T15:13:07.252735",
+            "status": "INACTIVE"
+        },
         "ads.asredas.com": {
             "included_at_epoch": 1598544691.977944,
             "included_at_iso": "2020-08-27T16:11:31.977944",
@@ -558,13 +565,6 @@
             "included_at_iso": "2020-08-27T17:04:50.969066",
             "last_retested_at_epoch": 1598547890.969066,
             "last_retested_at_iso": "2020-08-27T17:04:50.969066",
-            "status": "INACTIVE"
-        },
-        "cpatrack.leadn.com": {
-            "included_at_epoch": 1596473521.651866,
-            "included_at_iso": "2020-08-03T16:52:01.651866",
-            "last_retested_at_epoch": 1598545812.439997,
-            "last_retested_at_iso": "2020-08-27T16:30:12.439997",
             "status": "INACTIVE"
         },
         "creative.clicksor.com": {
