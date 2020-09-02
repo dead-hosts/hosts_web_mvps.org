@@ -392,6 +392,13 @@
             "last_retested_at_iso": "2020-08-27T16:30:11.130827",
             "status": "INACTIVE"
         },
+        "b.ensighten.com": {
+            "included_at_epoch": 1599060620.320956,
+            "included_at_iso": "2020-09-02T15:30:20.320956",
+            "last_retested_at_epoch": 1599060620.320956,
+            "last_retested_at_iso": "2020-09-02T15:30:20.320956",
+            "status": "INACTIVE"
+        },
         "banners.easydns.com": {
             "included_at_epoch": 1598546867.777482,
             "included_at_iso": "2020-08-27T16:47:47.777482",
@@ -630,6 +637,13 @@
             "last_retested_at_iso": "2020-08-27T15:43:16.324028",
             "status": "INACTIVE"
         },
+        "dclk.haaretz.com": {
+            "included_at_epoch": 1599060622.918262,
+            "included_at_iso": "2020-09-02T15:30:22.918262",
+            "last_retested_at_epoch": 1599060622.918262,
+            "last_retested_at_iso": "2020-09-02T15:30:22.918262",
+            "status": "INACTIVE"
+        },
         "dft.cl.dynad.net": {
             "included_at_epoch": 1598544695.768672,
             "included_at_iso": "2020-08-27T16:11:35.768672",
@@ -791,6 +805,13 @@
             "last_retested_at_iso": "2020-08-29T16:24:12.342814",
             "status": "INACTIVE"
         },
+        "logc400.xiti.com": {
+            "included_at_epoch": 1599060622.271609,
+            "included_at_iso": "2020-09-02T15:30:22.271609",
+            "last_retested_at_epoch": 1599060622.271609,
+            "last_retested_at_iso": "2020-09-02T15:30:22.271609",
+            "status": "INACTIVE"
+        },
         "m.usersonline.com": {
             "included_at_epoch": 1598544695.616539,
             "included_at_iso": "2020-08-27T16:11:35.616539",
@@ -859,6 +880,13 @@
             "included_at_iso": "2020-08-27T17:04:59.094615",
             "last_retested_at_epoch": 1598547899.094615,
             "last_retested_at_iso": "2020-08-27T17:04:59.094615",
+            "status": "INACTIVE"
+        },
+        "notify.nuviad.com": {
+            "included_at_epoch": 1599060621.181062,
+            "included_at_iso": "2020-09-02T15:30:21.181062",
+            "last_retested_at_epoch": 1599060621.181062,
+            "last_retested_at_iso": "2020-09-02T15:30:21.181062",
             "status": "INACTIVE"
         },
         "ntracking.optimatic.com": {
@@ -1258,6 +1286,13 @@
             "included_at_iso": "2020-08-09T16:08:40.366881",
             "last_retested_at_epoch": 1598544691.143395,
             "last_retested_at_iso": "2020-08-27T16:11:31.143395",
+            "status": "INACTIVE"
+        },
+        "www.bitspresentdownload.com": {
+            "included_at_epoch": 1599060621.130254,
+            "included_at_iso": "2020-09-02T15:30:21.130254",
+            "last_retested_at_epoch": 1599060621.130254,
+            "last_retested_at_iso": "2020-09-02T15:30:21.130254",
             "status": "INACTIVE"
         },
         "www.free-choices.com": {
