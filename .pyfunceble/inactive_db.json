@@ -1134,6 +1134,13 @@
             "last_retested_at_iso": "2020-08-27T15:43:17.342063",
             "status": "INACTIVE"
         },
+        "stats.ircfast.com": {
+            "included_at_epoch": 1599236725.276585,
+            "included_at_iso": "2020-09-04T16:25:25.276585",
+            "last_retested_at_epoch": 1599236725.276585,
+            "last_retested_at_iso": "2020-09-04T16:25:25.276585",
+            "status": "INACTIVE"
+        },
         "stats.snacktools.net": {
             "included_at_epoch": 1598547889.077085,
             "included_at_iso": "2020-08-27T17:04:49.077085",
