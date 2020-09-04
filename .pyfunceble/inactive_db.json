@@ -959,6 +959,13 @@
             "last_retested_at_iso": "2020-08-27T15:43:18.015592",
             "status": "INACTIVE"
         },
+        "pix.silverpush.co": {
+            "included_at_epoch": 1599233607.566953,
+            "included_at_iso": "2020-09-04T15:33:27.566953",
+            "last_retested_at_epoch": 1599233607.566953,
+            "last_retested_at_iso": "2020-09-04T15:33:27.566953",
+            "status": "INACTIVE"
+        },
         "pixel.adadvisor.net": {
             "included_at_epoch": 1598545808.61652,
             "included_at_iso": "2020-08-27T16:30:08.616520",
