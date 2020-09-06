@@ -728,11 +728,25 @@
             "last_retested_at_iso": "2020-08-27T16:30:09.058252",
             "status": "INACTIVE"
         },
+        "feeds.wise-click.com": {
+            "included_at_epoch": 1599409353.089958,
+            "included_at_iso": "2020-09-06T16:22:33.089958",
+            "last_retested_at_epoch": 1599409353.089958,
+            "last_retested_at_iso": "2020-09-06T16:22:33.089958",
+            "status": "INACTIVE"
+        },
         "files.native.ad": {
             "included_at_epoch": 1598542996.84575,
             "included_at_iso": "2020-08-27T15:43:16.845750",
             "last_retested_at_epoch": 1598542996.84575,
             "last_retested_at_iso": "2020-08-27T15:43:16.845750",
+            "status": "INACTIVE"
+        },
+        "filter.eclickz.com": {
+            "included_at_epoch": 1599409354.046951,
+            "included_at_iso": "2020-09-06T16:22:34.046951",
+            "last_retested_at_epoch": 1599409354.046951,
+            "last_retested_at_iso": "2020-09-06T16:22:34.046951",
             "status": "INACTIVE"
         },
         "geo.widdit.com": {
@@ -1069,6 +1083,13 @@
             "included_at_iso": "2020-08-25T16:20:56.953300",
             "last_retested_at_epoch": 1598544694.350304,
             "last_retested_at_iso": "2020-08-27T16:11:34.350304",
+            "status": "INACTIVE"
+        },
+        "search.eclickz.com": {
+            "included_at_epoch": 1599409354.106842,
+            "included_at_iso": "2020-09-06T16:22:34.106842",
+            "last_retested_at_epoch": 1599409354.106842,
+            "last_retested_at_iso": "2020-09-06T16:22:34.106842",
             "status": "INACTIVE"
         },
         "secure.adwebster.com": {
