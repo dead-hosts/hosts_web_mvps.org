@@ -861,20 +861,6 @@
             "last_retested_at_iso": "2020-08-27T16:47:44.132842",
             "status": "INACTIVE"
         },
-        "metrics.windowsitpro.com": {
-            "included_at_epoch": 1596818196.782195,
-            "included_at_iso": "2020-08-07T16:36:36.782195",
-            "last_retested_at_epoch": 1598546864.460951,
-            "last_retested_at_iso": "2020-08-27T16:47:44.460951",
-            "status": "INACTIVE"
-        },
-        "metrics.winsupersite.com": {
-            "included_at_epoch": 1596818196.804815,
-            "included_at_iso": "2020-08-07T16:36:36.804815",
-            "last_retested_at_epoch": 1598546864.484557,
-            "last_retested_at_iso": "2020-08-27T16:47:44.484557",
-            "status": "INACTIVE"
-        },
         "mm.chitika.net": {
             "included_at_epoch": 1598547891.706878,
             "included_at_iso": "2020-08-27T17:04:51.706878",
@@ -978,6 +964,13 @@
             "included_at_iso": "2020-08-27T16:47:48.351489",
             "last_retested_at_epoch": 1598546868.351489,
             "last_retested_at_iso": "2020-08-27T16:47:48.351489",
+            "status": "INACTIVE"
+        },
+        "pqwaker.altervista.org": {
+            "included_at_epoch": 1599405295.031096,
+            "included_at_iso": "2020-09-06T15:14:55.031096",
+            "last_retested_at_epoch": 1599405295.031096,
+            "last_retested_at_iso": "2020-09-06T15:14:55.031096",
             "status": "INACTIVE"
         },
         "px.splittag.com": {
@@ -1321,13 +1314,6 @@
             "included_at_iso": "2020-08-27T16:11:31.998697",
             "last_retested_at_epoch": 1598544691.998697,
             "last_retested_at_iso": "2020-08-27T16:11:31.998697",
-            "status": "INACTIVE"
-        },
-        "www.full-edition.info": {
-            "included_at_epoch": 1596818198.937496,
-            "included_at_iso": "2020-08-07T16:36:38.937496",
-            "last_retested_at_epoch": 1598546866.949936,
-            "last_retested_at_iso": "2020-08-27T16:47:46.949936",
             "status": "INACTIVE"
         },
         "www.fulltraffic.net": {
