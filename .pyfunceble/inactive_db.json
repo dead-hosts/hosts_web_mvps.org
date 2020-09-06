@@ -889,6 +889,20 @@
             "last_retested_at_iso": "2020-08-27T16:47:44.132842",
             "status": "INACTIVE"
         },
+        "metrics.windowsitpro.com": {
+            "included_at_epoch": 1599410389.534259,
+            "included_at_iso": "2020-09-06T16:39:49.534259",
+            "last_retested_at_epoch": 1599410389.534259,
+            "last_retested_at_iso": "2020-09-06T16:39:49.534259",
+            "status": "INACTIVE"
+        },
+        "metrics.winsupersite.com": {
+            "included_at_epoch": 1599410389.515695,
+            "included_at_iso": "2020-09-06T16:39:49.515695",
+            "last_retested_at_epoch": 1599410389.515695,
+            "last_retested_at_iso": "2020-09-06T16:39:49.515695",
+            "status": "INACTIVE"
+        },
         "mm.chitika.net": {
             "included_at_epoch": 1598547891.706878,
             "included_at_iso": "2020-08-27T17:04:51.706878",
@@ -1097,6 +1111,13 @@
             "included_at_iso": "2020-08-27T15:43:17.707077",
             "last_retested_at_epoch": 1598542997.707077,
             "last_retested_at_iso": "2020-08-27T15:43:17.707077",
+            "status": "INACTIVE"
+        },
+        "secure.marketengines.com": {
+            "included_at_epoch": 1599410396.382632,
+            "included_at_iso": "2020-09-06T16:39:56.382632",
+            "last_retested_at_epoch": 1599410396.382632,
+            "last_retested_at_iso": "2020-09-06T16:39:56.382632",
             "status": "INACTIVE"
         },
         "serve.getpopunder.com": {
@@ -1337,13 +1358,6 @@
             "last_retested_at_iso": "2020-08-27T16:47:46.898961",
             "status": "INACTIVE"
         },
-        "www.axill.com": {
-            "included_at_epoch": 1596989320.366881,
-            "included_at_iso": "2020-08-09T16:08:40.366881",
-            "last_retested_at_epoch": 1598544691.143395,
-            "last_retested_at_iso": "2020-08-27T16:11:31.143395",
-            "status": "INACTIVE"
-        },
         "www.bitspresentdownload.com": {
             "included_at_epoch": 1599060621.130254,
             "included_at_iso": "2020-09-02T15:30:21.130254",
@@ -1356,6 +1370,13 @@
             "included_at_iso": "2020-08-27T16:11:31.998697",
             "last_retested_at_epoch": 1598544691.998697,
             "last_retested_at_iso": "2020-08-27T16:11:31.998697",
+            "status": "INACTIVE"
+        },
+        "www.full-edition.info": {
+            "included_at_epoch": 1599410391.523616,
+            "included_at_iso": "2020-09-06T16:39:51.523616",
+            "last_retested_at_epoch": 1599410391.523616,
+            "last_retested_at_iso": "2020-09-06T16:39:51.523616",
             "status": "INACTIVE"
         },
         "www.fulltraffic.net": {
