@@ -882,13 +882,6 @@
             "last_retested_at_iso": "2020-08-27T16:11:33.830647",
             "status": "INACTIVE"
         },
-        "metrics.seenon.com": {
-            "included_at_epoch": 1596991390.618332,
-            "included_at_iso": "2020-08-09T16:43:10.618332",
-            "last_retested_at_epoch": 1598546864.132842,
-            "last_retested_at_iso": "2020-08-27T16:47:44.132842",
-            "status": "INACTIVE"
-        },
         "metrics.windowsitpro.com": {
             "included_at_epoch": 1599410389.534259,
             "included_at_iso": "2020-09-06T16:39:49.534259",
@@ -1090,6 +1083,13 @@
             "included_at_iso": "2020-09-02T16:30:04.012446",
             "last_retested_at_epoch": 1599064204.012446,
             "last_retested_at_iso": "2020-09-02T16:30:04.012446",
+            "status": "INACTIVE"
+        },
+        "sdc.vml.com": {
+            "included_at_epoch": 1599411353.179725,
+            "included_at_iso": "2020-09-06T16:55:53.179725",
+            "last_retested_at_epoch": 1599411353.179725,
+            "last_retested_at_iso": "2020-09-06T16:55:53.179725",
             "status": "INACTIVE"
         },
         "search.brainfox.com": {
