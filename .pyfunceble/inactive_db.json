@@ -189,6 +189,13 @@
             "last_retested_at_iso": "2020-08-27T15:43:17.576771",
             "status": "INACTIVE"
         },
+        "ads.i-am-bored.com": {
+            "included_at_epoch": 1599408318.393733,
+            "included_at_iso": "2020-09-06T16:05:18.393733",
+            "last_retested_at_epoch": 1599408318.393733,
+            "last_retested_at_iso": "2020-09-06T16:05:18.393733",
+            "status": "INACTIVE"
+        },
         "ads.iwangmedia.com": {
             "included_at_epoch": 1598544691.663972,
             "included_at_iso": "2020-08-27T16:11:31.663972",
@@ -705,6 +712,13 @@
             "included_at_iso": "2020-08-31T16:25:26.242323",
             "last_retested_at_epoch": 1598891126.242323,
             "last_retested_at_iso": "2020-08-31T16:25:26.242323",
+            "status": "INACTIVE"
+        },
+        "edge.ayboll.com": {
+            "included_at_epoch": 1599408318.677353,
+            "included_at_iso": "2020-09-06T16:05:18.677353",
+            "last_retested_at_epoch": 1599408318.677353,
+            "last_retested_at_iso": "2020-09-06T16:05:18.677353",
             "status": "INACTIVE"
         },
         "feed.peakclick.com": {
@@ -1274,6 +1288,13 @@
             "last_retested_at_iso": "2020-08-29T15:32:26.258896",
             "status": "INACTIVE"
         },
+        "wp1.cor-natty.com": {
+            "included_at_epoch": 1599408317.466076,
+            "included_at_iso": "2020-09-06T16:05:17.466076",
+            "last_retested_at_epoch": 1599408317.466076,
+            "last_retested_at_iso": "2020-09-06T16:05:17.466076",
+            "status": "INACTIVE"
+        },
         "ww62.hsn.com": {
             "included_at_epoch": 1598547893.579657,
             "included_at_iso": "2020-08-27T17:04:53.579657",
@@ -1377,6 +1398,13 @@
             "included_at_iso": "2020-08-19T15:39:51.178594",
             "last_retested_at_epoch": 1598541000.061099,
             "last_retested_at_iso": "2020-08-27T15:10:00.061099",
+            "status": "INACTIVE"
+        },
+        "www.tostadomedia.com": {
+            "included_at_epoch": 1599408319.158462,
+            "included_at_iso": "2020-09-06T16:05:19.158462",
+            "last_retested_at_epoch": 1599408319.158462,
+            "last_retested_at_iso": "2020-09-06T16:05:19.158462",
             "status": "INACTIVE"
         },
         "www.wtp101.com": {
