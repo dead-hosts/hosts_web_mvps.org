@@ -896,6 +896,13 @@
             "last_retested_at_iso": "2020-08-27T16:11:33.830647",
             "status": "INACTIVE"
         },
+        "metrics.seenon.com": {
+            "included_at_epoch": 1599582431.339421,
+            "included_at_iso": "2020-09-08T16:27:11.339421",
+            "last_retested_at_epoch": 1599582431.339421,
+            "last_retested_at_iso": "2020-09-08T16:27:11.339421",
+            "status": "INACTIVE"
+        },
         "metrics.windowsitpro.com": {
             "included_at_epoch": 1599410389.534259,
             "included_at_iso": "2020-09-06T16:39:49.534259",
@@ -1176,13 +1183,6 @@
             "last_retested_at_iso": "2020-08-27T15:43:14.398195",
             "status": "INACTIVE"
         },
-        "static.exosrv.com": {
-            "included_at_epoch": 1597162110.394293,
-            "included_at_iso": "2020-08-11T16:08:30.394293",
-            "last_retested_at_epoch": 1598545809.008105,
-            "last_retested_at_iso": "2020-08-27T16:30:09.008105",
-            "status": "INACTIVE"
-        },
         "static.proximic.com": {
             "included_at_epoch": 1598542997.342063,
             "included_at_iso": "2020-08-27T15:43:17.342063",
@@ -1426,6 +1426,13 @@
             "included_at_iso": "2020-08-27T15:43:16.259309",
             "last_retested_at_epoch": 1598542996.259309,
             "last_retested_at_iso": "2020-08-27T15:43:16.259309",
+            "status": "INACTIVE"
+        },
+        "www.mlinktracker.com": {
+            "included_at_epoch": 1599582434.424701,
+            "included_at_iso": "2020-09-08T16:27:14.424701",
+            "last_retested_at_epoch": 1599582434.424701,
+            "last_retested_at_iso": "2020-09-08T16:27:14.424701",
             "status": "INACTIVE"
         },
         "www.reduxmediia.com": {
