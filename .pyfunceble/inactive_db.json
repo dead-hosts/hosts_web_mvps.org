@@ -616,6 +616,13 @@
             "last_retested_at_iso": "2020-08-27T16:11:32.828397",
             "status": "INACTIVE"
         },
+        "creatives.ancoraplatform.com": {
+            "included_at_epoch": 1599579309.479533,
+            "included_at_iso": "2020-09-08T15:35:09.479533",
+            "last_retested_at_epoch": 1599579309.479533,
+            "last_retested_at_iso": "2020-09-08T15:35:09.479533",
+            "status": "INACTIVE"
+        },
         "cv.bsvideos.com": {
             "included_at_epoch": 1598544694.039776,
             "included_at_iso": "2020-08-27T16:11:34.039776",
@@ -824,6 +831,13 @@
             "included_at_iso": "2020-08-27T15:43:13.585574",
             "last_retested_at_epoch": 1598542993.585574,
             "last_retested_at_iso": "2020-08-27T15:43:13.585574",
+            "status": "INACTIVE"
+        },
+        "imgad3.3conline.com": {
+            "included_at_epoch": 1599579307.371249,
+            "included_at_iso": "2020-09-08T15:35:07.371249",
+            "last_retested_at_epoch": 1599579307.371249,
+            "last_retested_at_iso": "2020-09-08T15:35:07.371249",
             "status": "INACTIVE"
         },
         "it.bannerout.com": {
@@ -1356,6 +1370,13 @@
             "included_at_iso": "2020-08-21T16:34:06.308370",
             "last_retested_at_epoch": 1598546866.898961,
             "last_retested_at_iso": "2020-08-27T16:47:46.898961",
+            "status": "INACTIVE"
+        },
+        "www.axill.com": {
+            "included_at_epoch": 1599579311.058044,
+            "included_at_iso": "2020-09-08T15:35:11.058044",
+            "last_retested_at_epoch": 1599579311.058044,
+            "last_retested_at_iso": "2020-09-08T15:35:11.058044",
             "status": "INACTIVE"
         },
         "www.bitspresentdownload.com": {
