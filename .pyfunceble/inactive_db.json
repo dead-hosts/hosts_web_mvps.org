@@ -1078,6 +1078,13 @@
             "last_retested_at_iso": "2020-08-27T16:11:34.370186",
             "status": "INACTIVE"
         },
+        "rmedia.adonnetwork.com": {
+            "included_at_epoch": 1599753093.154409,
+            "included_at_iso": "2020-09-10T15:51:33.154409",
+            "last_retested_at_epoch": 1599753093.154409,
+            "last_retested_at_iso": "2020-09-10T15:51:33.154409",
+            "status": "INACTIVE"
+        },
         "rpt.footlocker.com": {
             "included_at_epoch": 1598547893.543024,
             "included_at_iso": "2020-08-27T17:04:53.543024",
