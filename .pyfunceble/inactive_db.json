@@ -315,6 +315,13 @@
             "last_retested_at_iso": "2020-09-04T15:14:17.220180",
             "status": "INACTIVE"
         },
+        "ads4.kompasads.com": {
+            "included_at_epoch": 1599751012.002981,
+            "included_at_iso": "2020-09-10T15:16:52.002981",
+            "last_retested_at_epoch": 1599751012.002981,
+            "last_retested_at_iso": "2020-09-10T15:16:52.002981",
+            "status": "INACTIVE"
+        },
         "ads5.kompasads.com": {
             "included_at_epoch": 1599232457.238134,
             "included_at_iso": "2020-09-04T15:14:17.238134",
@@ -756,6 +763,13 @@
             "last_retested_at_iso": "2020-09-06T16:22:34.046951",
             "status": "INACTIVE"
         },
+        "gbjfc.rsvpgenius.com": {
+            "included_at_epoch": 1599751012.657507,
+            "included_at_iso": "2020-09-10T15:16:52.657507",
+            "last_retested_at_epoch": 1599751012.657507,
+            "last_retested_at_iso": "2020-09-10T15:16:52.657507",
+            "status": "INACTIVE"
+        },
         "geo.widdit.com": {
             "included_at_epoch": 1598544691.317204,
             "included_at_iso": "2020-08-27T16:11:31.317204",
@@ -987,6 +1001,13 @@
             "last_retested_at_iso": "2020-08-31T15:36:37.549460",
             "status": "INACTIVE"
         },
+        "pei-ads.playboy.com": {
+            "included_at_epoch": 1599751012.470135,
+            "included_at_iso": "2020-09-10T15:16:52.470135",
+            "last_retested_at_epoch": 1599751012.470135,
+            "last_retested_at_iso": "2020-09-10T15:16:52.470135",
+            "status": "INACTIVE"
+        },
         "pix.pulsemgr.com": {
             "included_at_epoch": 1598542998.015592,
             "included_at_iso": "2020-08-27T15:43:18.015592",
@@ -1216,6 +1237,13 @@
             "included_at_iso": "2020-08-27T15:43:16.643577",
             "last_retested_at_epoch": 1598542996.643577,
             "last_retested_at_iso": "2020-08-27T15:43:16.643577",
+            "status": "INACTIVE"
+        },
+        "t.bbtrack.net": {
+            "included_at_epoch": 1599751011.358928,
+            "included_at_iso": "2020-09-10T15:16:51.358928",
+            "last_retested_at_epoch": 1599751011.358928,
+            "last_retested_at_iso": "2020-09-10T15:16:51.358928",
             "status": "INACTIVE"
         },
         "t.nrelate.com": {
