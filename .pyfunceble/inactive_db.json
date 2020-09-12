@@ -371,13 +371,6 @@
             "last_retested_at_iso": "2020-08-27T17:04:49.692284",
             "status": "INACTIVE"
         },
-        "advertpro.sitepoint.com": {
-            "included_at_epoch": 1597504602.727075,
-            "included_at_iso": "2020-08-15T15:16:42.727075",
-            "last_retested_at_epoch": 1598541000.000365,
-            "last_retested_at_iso": "2020-08-27T15:10:00.000365",
-            "status": "INACTIVE"
-        },
         "adview.ppro.de": {
             "included_at_epoch": 1598544694.650972,
             "included_at_iso": "2020-08-27T16:11:34.650972",
@@ -691,6 +684,13 @@
             "included_at_iso": "2020-08-27T15:43:17.255274",
             "last_retested_at_epoch": 1598542997.255274,
             "last_retested_at_iso": "2020-08-27T15:43:17.255274",
+            "status": "INACTIVE"
+        },
+        "d1.playboy.com": {
+            "included_at_epoch": 1599924645.707635,
+            "included_at_iso": "2020-09-12T15:30:45.707635",
+            "last_retested_at_epoch": 1599924645.707635,
+            "last_retested_at_iso": "2020-09-12T15:30:45.707635",
             "status": "INACTIVE"
         },
         "data.apn.co.nz": {
