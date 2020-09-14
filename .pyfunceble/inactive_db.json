@@ -1190,13 +1190,6 @@
             "last_retested_at_iso": "2020-08-27T15:43:16.364781",
             "status": "INACTIVE"
         },
-        "s.mobclix.com": {
-            "included_at_epoch": 1597679051.260906,
-            "included_at_iso": "2020-08-17T15:44:11.260906",
-            "last_retested_at_epoch": 1598542995.221987,
-            "last_retested_at_iso": "2020-08-27T15:43:15.221987",
-            "status": "INACTIVE"
-        },
         "scambiobanner.altervista.org": {
             "included_at_epoch": 1598717212.073619,
             "included_at_iso": "2020-08-29T16:06:52.073619",
