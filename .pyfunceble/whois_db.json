@@ -213,7 +213,8 @@
     "adclickservice.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "adcomplete.com": {
         "epoch": 1608249600.0,
@@ -1121,8 +1122,9 @@
         "state": "future"
     },
     "clickedyclick.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clicksagent.com": {
@@ -2000,8 +2002,9 @@
         "state": "future"
     },
     "ibmvideo.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "id3103.com": {
@@ -3673,8 +3676,9 @@
         "state": "future"
     },
     "trafficg.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "traktum.com": {
