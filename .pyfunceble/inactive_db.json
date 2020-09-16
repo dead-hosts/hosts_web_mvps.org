@@ -322,13 +322,6 @@
             "last_retested_at_iso": "2020-09-14T15:19:01.915884",
             "status": "INACTIVE"
         },
-        "ads2.mynet.com": {
-            "included_at_epoch": 1597681850.149575,
-            "included_at_iso": "2020-08-17T16:30:50.149575",
-            "last_retested_at_epoch": 1598545812.190464,
-            "last_retested_at_iso": "2020-08-27T16:30:12.190464",
-            "status": "INACTIVE"
-        },
         "ads2.vasmg.com": {
             "included_at_epoch": 1598545809.366538,
             "included_at_iso": "2020-08-27T16:30:09.366538",
@@ -719,6 +712,13 @@
             "included_at_iso": "2020-08-27T16:47:48.825057",
             "last_retested_at_epoch": 1598546868.825057,
             "last_retested_at_iso": "2020-08-27T16:47:48.825057",
+            "status": "INACTIVE"
+        },
+        "dc.bizjournals.com": {
+            "included_at_epoch": 1600269609.111162,
+            "included_at_iso": "2020-09-16T15:20:09.111162",
+            "last_retested_at_epoch": 1600269609.111162,
+            "last_retested_at_iso": "2020-09-16T15:20:09.111162",
             "status": "INACTIVE"
         },
         "dc.widespace.com": {
