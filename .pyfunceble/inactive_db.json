@@ -1036,6 +1036,13 @@
             "last_retested_at_iso": "2020-09-10T16:09:22.452421",
             "status": "INACTIVE"
         },
+        "myfukbuddy.com": {
+            "included_at_epoch": 1600271667.644621,
+            "included_at_iso": "2020-09-16T15:54:27.644621",
+            "last_retested_at_epoch": 1600271667.644621,
+            "last_retested_at_iso": "2020-09-16T15:54:27.644621",
+            "status": "INACTIVE"
+        },
         "network.adsmarket.com": {
             "included_at_epoch": 1598547899.094615,
             "included_at_iso": "2020-08-27T17:04:59.094615",
