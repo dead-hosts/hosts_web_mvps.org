@@ -322,6 +322,13 @@
             "last_retested_at_iso": "2020-09-14T15:19:01.915884",
             "status": "INACTIVE"
         },
+        "ads2.mynet.com": {
+            "included_at_epoch": 1600272708.220522,
+            "included_at_iso": "2020-09-16T16:11:48.220522",
+            "last_retested_at_epoch": 1600272708.220522,
+            "last_retested_at_iso": "2020-09-16T16:11:48.220522",
+            "status": "INACTIVE"
+        },
         "ads2.vasmg.com": {
             "included_at_epoch": 1598545809.366538,
             "included_at_iso": "2020-08-27T16:30:09.366538",
@@ -1281,13 +1288,6 @@
             "last_retested_at_iso": "2020-08-27T15:43:16.776023",
             "status": "INACTIVE"
         },
-        "stage.traffiliate.com": {
-            "included_at_epoch": 1597851594.183839,
-            "included_at_iso": "2020-08-19T15:39:54.183839",
-            "last_retested_at_epoch": 1598542995.742312,
-            "last_retested_at_iso": "2020-08-27T15:43:15.742312",
-            "status": "INACTIVE"
-        },
         "stat.ganbox.com": {
             "included_at_epoch": 1598545811.166035,
             "included_at_iso": "2020-08-27T16:30:11.166035",
@@ -1405,13 +1405,6 @@
             "included_at_iso": "2020-09-14T15:19:00.734645",
             "last_retested_at_epoch": 1600096740.734645,
             "last_retested_at_iso": "2020-09-14T15:19:00.734645",
-            "status": "INACTIVE"
-        },
-        "track.eyeviewads.com": {
-            "included_at_epoch": 1597851593.44333,
-            "included_at_iso": "2020-08-19T15:39:53.443330",
-            "last_retested_at_epoch": 1598542995.011264,
-            "last_retested_at_iso": "2020-08-27T15:43:15.011264",
             "status": "INACTIVE"
         },
         "track.leadin.com": {
@@ -1615,13 +1608,6 @@
             "included_at_iso": "2020-09-12T15:18:00.492926",
             "last_retested_at_epoch": 1599923880.492926,
             "last_retested_at_iso": "2020-09-12T15:18:00.492926",
-            "status": "INACTIVE"
-        },
-        "www.splem.net": {
-            "included_at_epoch": 1597851591.178594,
-            "included_at_iso": "2020-08-19T15:39:51.178594",
-            "last_retested_at_epoch": 1598541000.061099,
-            "last_retested_at_iso": "2020-08-27T15:10:00.061099",
             "status": "INACTIVE"
         },
         "www.tostadomedia.com": {
