@@ -280,6 +280,13 @@
             "last_retested_at_iso": "2020-08-27T15:43:15.116146",
             "status": "INACTIVE"
         },
+        "ads.sportsblog.com": {
+            "included_at_epoch": 1600273748.75336,
+            "included_at_iso": "2020-09-16T16:29:08.753360",
+            "last_retested_at_epoch": 1600273748.75336,
+            "last_retested_at_iso": "2020-09-16T16:29:08.753360",
+            "status": "INACTIVE"
+        },
         "ads.sxx.com": {
             "included_at_epoch": 1598544694.936348,
             "included_at_iso": "2020-08-27T16:11:34.936348",
@@ -607,6 +614,13 @@
             "included_at_iso": "2020-08-27T17:04:50.437512",
             "last_retested_at_epoch": 1598547890.437512,
             "last_retested_at_iso": "2020-08-27T17:04:50.437512",
+            "status": "INACTIVE"
+        },
+        "clicks3.traffictrader.net": {
+            "included_at_epoch": 1600273753.702479,
+            "included_at_iso": "2020-09-16T16:29:13.702479",
+            "last_retested_at_epoch": 1600273753.702479,
+            "last_retested_at_iso": "2020-09-16T16:29:13.702479",
             "status": "INACTIVE"
         },
         "code.impresionesweb.com": {
