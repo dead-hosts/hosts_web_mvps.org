@@ -1106,13 +1106,6 @@
             "last_retested_at_iso": "2020-08-27T16:11:32.254748",
             "status": "INACTIVE"
         },
-        "p.ebdr2.com": {
-            "included_at_epoch": 1598026606.677044,
-            "included_at_iso": "2020-08-21T16:16:46.677044",
-            "last_retested_at_epoch": 1598545808.536422,
-            "last_retested_at_iso": "2020-08-27T16:30:08.536422",
-            "status": "INACTIVE"
-        },
         "pagead.topobiavi.com": {
             "included_at_epoch": 1598888197.54946,
             "included_at_iso": "2020-08-31T15:36:37.549460",
