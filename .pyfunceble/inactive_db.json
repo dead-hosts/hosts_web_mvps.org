@@ -1309,6 +1309,13 @@
             "last_retested_at_iso": "2020-08-27T15:43:16.776023",
             "status": "INACTIVE"
         },
+        "stage.traffiliate.com": {
+            "included_at_epoch": 1600443584.61638,
+            "included_at_iso": "2020-09-18T15:39:44.616380",
+            "last_retested_at_epoch": 1600443584.61638,
+            "last_retested_at_iso": "2020-09-18T15:39:44.616380",
+            "status": "INACTIVE"
+        },
         "stat.ganbox.com": {
             "included_at_epoch": 1598545811.166035,
             "included_at_iso": "2020-08-27T16:30:11.166035",
@@ -1435,6 +1442,13 @@
             "last_retested_at_iso": "2020-09-14T15:19:00.734645",
             "status": "INACTIVE"
         },
+        "track.eyeviewads.com": {
+            "included_at_epoch": 1600443584.133445,
+            "included_at_iso": "2020-09-18T15:39:44.133445",
+            "last_retested_at_epoch": 1600443584.133445,
+            "last_retested_at_iso": "2020-09-18T15:39:44.133445",
+            "status": "INACTIVE"
+        },
         "track.leadin.com": {
             "included_at_epoch": 1599923880.511883,
             "included_at_iso": "2020-09-12T15:18:00.511883",
@@ -1524,13 +1538,6 @@
             "included_at_iso": "2020-08-27T17:04:53.579657",
             "last_retested_at_epoch": 1598547893.579657,
             "last_retested_at_iso": "2020-08-27T17:04:53.579657",
-            "status": "INACTIVE"
-        },
-        "www.adnigma.com": {
-            "included_at_epoch": 1598023412.811643,
-            "included_at_iso": "2020-08-21T15:23:32.811643",
-            "last_retested_at_epoch": 1598542996.133418,
-            "last_retested_at_iso": "2020-08-27T15:43:16.133418",
             "status": "INACTIVE"
         },
         "www.albiondrugs.com": {
