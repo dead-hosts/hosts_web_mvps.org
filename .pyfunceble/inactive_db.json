@@ -364,6 +364,13 @@
             "last_retested_at_iso": "2020-09-04T15:14:17.238134",
             "status": "INACTIVE"
         },
+        "ads6.kompasads.com": {
+            "included_at_epoch": 1600442529.155058,
+            "included_at_iso": "2020-09-18T15:22:09.155058",
+            "last_retested_at_epoch": 1600442529.155058,
+            "last_retested_at_iso": "2020-09-18T15:22:09.155058",
+            "status": "INACTIVE"
+        },
         "adserver2.blueadvertise.com": {
             "included_at_epoch": 1599754162.383273,
             "included_at_iso": "2020-09-10T16:09:22.383273",
@@ -1412,6 +1419,13 @@
             "included_at_iso": "2020-08-23T16:32:07.597962",
             "last_retested_at_epoch": 1598545811.449374,
             "last_retested_at_iso": "2020-08-27T16:30:11.449374",
+            "status": "INACTIVE"
+        },
+        "tom.allyes.com": {
+            "included_at_epoch": 1600442528.483763,
+            "included_at_iso": "2020-09-18T15:22:08.483763",
+            "last_retested_at_epoch": 1600442528.483763,
+            "last_retested_at_iso": "2020-09-18T15:22:08.483763",
             "status": "INACTIVE"
         },
         "tr.buzzlogic.com": {
