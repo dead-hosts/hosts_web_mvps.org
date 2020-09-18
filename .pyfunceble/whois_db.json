@@ -1836,8 +1836,9 @@
         "state": "future"
     },
     "gostats.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gostats.ro": {
@@ -3265,7 +3266,8 @@
     "sedoparking.com": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "seekbang.com": {
         "epoch": 1618963200.0,
