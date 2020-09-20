@@ -609,13 +609,6 @@
             "last_retested_at_iso": "2020-09-12T15:18:08.757023",
             "status": "INACTIVE"
         },
-        "clicks11.geoads.com": {
-            "included_at_epoch": 1598199179.557699,
-            "included_at_iso": "2020-08-23T16:12:59.557699",
-            "last_retested_at_epoch": 1598542997.922177,
-            "last_retested_at_iso": "2020-08-27T15:43:17.922177",
-            "status": "INACTIVE"
-        },
         "clicks2.traffictrader.net": {
             "included_at_epoch": 1598547890.437512,
             "included_at_iso": "2020-08-27T17:04:50.437512",
@@ -796,13 +789,6 @@
             "included_at_iso": "2020-09-14T15:36:27.222598",
             "last_retested_at_epoch": 1600097787.222598,
             "last_retested_at_iso": "2020-09-14T15:36:27.222598",
-            "status": "INACTIVE"
-        },
-        "downloadappguide.com": {
-            "included_at_epoch": 1598199181.533123,
-            "included_at_iso": "2020-08-23T16:13:01.533123",
-            "last_retested_at_epoch": 1598544692.225602,
-            "last_retested_at_iso": "2020-08-27T16:11:32.225602",
             "status": "INACTIVE"
         },
         "ds.eyeblaster.com": {
@@ -1545,6 +1531,13 @@
             "included_at_iso": "2020-08-27T17:04:53.579657",
             "last_retested_at_epoch": 1598547893.579657,
             "last_retested_at_iso": "2020-08-27T17:04:53.579657",
+            "status": "INACTIVE"
+        },
+        "www.albiondrugs.com": {
+            "included_at_epoch": 1600619459.949612,
+            "included_at_iso": "2020-09-20T16:30:59.949612",
+            "last_retested_at_epoch": 1600619459.949612,
+            "last_retested_at_iso": "2020-09-20T16:30:59.949612",
             "status": "INACTIVE"
         },
         "www.axill.com": {
