@@ -1099,6 +1099,13 @@
             "last_retested_at_iso": "2020-08-27T16:11:32.254748",
             "status": "INACTIVE"
         },
+        "p.ebdr2.com": {
+            "included_at_epoch": 1600617392.964917,
+            "included_at_iso": "2020-09-20T15:56:32.964917",
+            "last_retested_at_epoch": 1600617392.964917,
+            "last_retested_at_iso": "2020-09-20T15:56:32.964917",
+            "status": "INACTIVE"
+        },
         "pagead.topobiavi.com": {
             "included_at_epoch": 1598888197.54946,
             "included_at_iso": "2020-08-31T15:36:37.549460",
@@ -1279,6 +1286,13 @@
             "included_at_iso": "2020-08-27T15:43:16.578348",
             "last_retested_at_epoch": 1598542996.578348,
             "last_retested_at_iso": "2020-08-27T15:43:16.578348",
+            "status": "INACTIVE"
+        },
+        "spads.yamx.com": {
+            "included_at_epoch": 1600617391.160929,
+            "included_at_iso": "2020-09-20T15:56:31.160929",
+            "last_retested_at_epoch": 1600617391.160929,
+            "last_retested_at_iso": "2020-09-20T15:56:31.160929",
             "status": "INACTIVE"
         },
         "spin.spinbox.net": {
