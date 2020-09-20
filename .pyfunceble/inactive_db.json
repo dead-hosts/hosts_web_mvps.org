@@ -903,13 +903,6 @@
             "last_retested_at_iso": "2020-08-27T15:43:16.059368",
             "status": "INACTIVE"
         },
-        "ias.avidmedia.net": {
-            "included_at_epoch": 1598195277.468273,
-            "included_at_iso": "2020-08-23T15:07:57.468273",
-            "last_retested_at_epoch": 1598540998.290408,
-            "last_retested_at_iso": "2020-08-27T15:09:58.290408",
-            "status": "INACTIVE"
-        },
         "iau.adsiduous.com": {
             "included_at_epoch": 1598542996.501457,
             "included_at_iso": "2020-08-27T15:43:16.501457",
@@ -1288,6 +1281,13 @@
             "last_retested_at_iso": "2020-08-27T15:43:16.578348",
             "status": "INACTIVE"
         },
+        "spin.spinbox.net": {
+            "included_at_epoch": 1600616364.991883,
+            "included_at_iso": "2020-09-20T15:39:24.991883",
+            "last_retested_at_epoch": 1600616364.991883,
+            "last_retested_at_iso": "2020-09-20T15:39:24.991883",
+            "status": "INACTIVE"
+        },
         "srv2.admedit.me": {
             "included_at_epoch": 1598546864.878365,
             "included_at_iso": "2020-08-27T16:47:44.878365",
@@ -1552,6 +1552,13 @@
             "included_at_iso": "2020-09-14T15:53:36.063303",
             "last_retested_at_epoch": 1600098816.063303,
             "last_retested_at_iso": "2020-09-14T15:53:36.063303",
+            "status": "INACTIVE"
+        },
+        "www.chucklefunhead.com": {
+            "included_at_epoch": 1600616366.890794,
+            "included_at_iso": "2020-09-20T15:39:26.890794",
+            "last_retested_at_epoch": 1600616366.890794,
+            "last_retested_at_iso": "2020-09-20T15:39:26.890794",
             "status": "INACTIVE"
         },
         "www.free-choices.com": {
