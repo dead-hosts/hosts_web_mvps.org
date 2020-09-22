@@ -819,6 +819,13 @@
             "last_retested_at_iso": "2020-09-14T15:36:27.222598",
             "status": "INACTIVE"
         },
+        "downloadappguide.com": {
+            "included_at_epoch": 1600790292.14565,
+            "included_at_iso": "2020-09-22T15:58:12.145650",
+            "last_retested_at_epoch": 1600790292.14565,
+            "last_retested_at_iso": "2020-09-22T15:58:12.145650",
+            "status": "INACTIVE"
+        },
         "ds.eyeblaster.com": {
             "included_at_epoch": 1598546857.284829,
             "included_at_iso": "2020-08-27T16:47:37.284829",
@@ -1608,6 +1615,13 @@
             "included_at_iso": "2020-09-20T15:39:26.890794",
             "last_retested_at_epoch": 1600616366.890794,
             "last_retested_at_iso": "2020-09-20T15:39:26.890794",
+            "status": "INACTIVE"
+        },
+        "www.digiaquascr.com": {
+            "included_at_epoch": 1600790294.678704,
+            "included_at_iso": "2020-09-22T15:58:14.678704",
+            "last_retested_at_epoch": 1600790294.678704,
+            "last_retested_at_iso": "2020-09-22T15:58:14.678704",
             "status": "INACTIVE"
         },
         "www.free-choices.com": {
