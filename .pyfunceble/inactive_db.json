@@ -56,6 +56,13 @@
             "last_retested_at_iso": "2020-08-27T15:43:14.575361",
             "status": "INACTIVE"
         },
+        "ad.adition.net": {
+            "included_at_epoch": 1600788202.111227,
+            "included_at_iso": "2020-09-22T15:23:22.111227",
+            "last_retested_at_epoch": 1600788202.111227,
+            "last_retested_at_iso": "2020-09-22T15:23:22.111227",
+            "status": "INACTIVE"
+        },
         "ad.db3nf.com": {
             "included_at_epoch": 1598545807.314778,
             "included_at_iso": "2020-08-27T16:30:07.314778",
@@ -68,6 +75,13 @@
             "included_at_iso": "2020-08-27T16:30:12.999554",
             "last_retested_at_epoch": 1598545812.999554,
             "last_retested_at_iso": "2020-08-27T16:30:12.999554",
+            "status": "INACTIVE"
+        },
+        "ad.netgoo.com": {
+            "included_at_epoch": 1600788203.078448,
+            "included_at_iso": "2020-09-22T15:23:23.078448",
+            "last_retested_at_epoch": 1600788203.078448,
+            "last_retested_at_iso": "2020-09-22T15:23:23.078448",
             "status": "INACTIVE"
         },
         "ad.trident.net": {
@@ -511,6 +525,13 @@
             "last_retested_at_iso": "2020-08-27T15:43:18.046833",
             "status": "INACTIVE"
         },
+        "bokee.allyes.com": {
+            "included_at_epoch": 1600788202.242203,
+            "included_at_iso": "2020-09-22T15:23:22.242203",
+            "last_retested_at_epoch": 1600788202.242203,
+            "last_retested_at_iso": "2020-09-22T15:23:22.242203",
+            "status": "INACTIVE"
+        },
         "cache.btrll.com": {
             "included_at_epoch": 1598542997.503768,
             "included_at_iso": "2020-08-27T15:43:17.503768",
@@ -810,6 +831,13 @@
             "included_at_iso": "2020-08-31T16:25:26.242323",
             "last_retested_at_epoch": 1598891126.242323,
             "last_retested_at_iso": "2020-08-31T16:25:26.242323",
+            "status": "INACTIVE"
+        },
+        "eastmoney.allyes.com": {
+            "included_at_epoch": 1600788202.256707,
+            "included_at_iso": "2020-09-22T15:23:22.256707",
+            "last_retested_at_epoch": 1600788202.256707,
+            "last_retested_at_iso": "2020-09-22T15:23:22.256707",
             "status": "INACTIVE"
         },
         "edge.ayboll.com": {
@@ -1482,6 +1510,13 @@
             "included_at_iso": "2020-08-27T15:43:15.538761",
             "last_retested_at_epoch": 1598542995.538761,
             "last_retested_at_iso": "2020-08-27T15:43:15.538761",
+            "status": "INACTIVE"
+        },
+        "utrack.hexun.com": {
+            "included_at_epoch": 1600788202.745968,
+            "included_at_iso": "2020-09-22T15:23:22.745968",
+            "last_retested_at_epoch": 1600788202.745968,
+            "last_retested_at_iso": "2020-09-22T15:23:22.745968",
             "status": "INACTIVE"
         },
         "vast.optimatic.com": {
