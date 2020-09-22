@@ -119,6 +119,13 @@
             "last_retested_at_iso": "2020-08-27T16:30:11.186735",
             "status": "INACTIVE"
         },
+        "adg.bzgint.com": {
+            "included_at_epoch": 1600789256.621721,
+            "included_at_iso": "2020-09-22T15:40:56.621721",
+            "last_retested_at_epoch": 1600789256.621721,
+            "last_retested_at_iso": "2020-09-22T15:40:56.621721",
+            "status": "INACTIVE"
+        },
         "adnetwork.buzzlogic.com": {
             "included_at_epoch": 1600096740.717548,
             "included_at_iso": "2020-09-14T15:19:00.717548",
@@ -278,13 +285,6 @@
             "included_at_iso": "2020-08-27T16:47:48.595005",
             "last_retested_at_epoch": 1598546868.595005,
             "last_retested_at_iso": "2020-08-27T16:47:48.595005",
-            "status": "INACTIVE"
-        },
-        "ads.sagabg.net": {
-            "included_at_epoch": 1598368173.323614,
-            "included_at_iso": "2020-08-25T15:09:33.323614",
-            "last_retested_at_epoch": 1598540999.931851,
-            "last_retested_at_iso": "2020-08-27T15:09:59.931851",
             "status": "INACTIVE"
         },
         "ads.skinected.com": {
@@ -630,6 +630,13 @@
             "last_retested_at_iso": "2020-09-12T15:18:08.757023",
             "status": "INACTIVE"
         },
+        "clicks11.geoads.com": {
+            "included_at_epoch": 1600789257.159471,
+            "included_at_iso": "2020-09-22T15:40:57.159471",
+            "last_retested_at_epoch": 1600789257.159471,
+            "last_retested_at_iso": "2020-09-22T15:40:57.159471",
+            "status": "INACTIVE"
+        },
         "clicks2.traffictrader.net": {
             "included_at_epoch": 1598547890.437512,
             "included_at_iso": "2020-08-27T17:04:50.437512",
@@ -959,6 +966,13 @@
             "last_retested_at_iso": "2020-08-27T15:43:15.686383",
             "status": "INACTIVE"
         },
+        "imgad1.3conline.com": {
+            "included_at_epoch": 1600789254.255271,
+            "included_at_iso": "2020-09-22T15:40:54.255271",
+            "last_retested_at_epoch": 1600789254.255271,
+            "last_retested_at_iso": "2020-09-22T15:40:54.255271",
+            "status": "INACTIVE"
+        },
         "imgad2.3conline.com": {
             "included_at_epoch": 1598542993.585574,
             "included_at_iso": "2020-08-27T15:43:13.585574",
@@ -1013,13 +1027,6 @@
             "included_at_iso": "2020-08-27T16:11:35.616539",
             "last_retested_at_epoch": 1598544695.616539,
             "last_retested_at_iso": "2020-08-27T16:11:35.616539",
-            "status": "INACTIVE"
-        },
-        "marketing.doubleclickindustries.com": {
-            "included_at_epoch": 1598368171.763515,
-            "included_at_iso": "2020-08-25T15:09:31.763515",
-            "last_retested_at_epoch": 1598540998.598161,
-            "last_retested_at_iso": "2020-08-27T15:09:58.598161",
             "status": "INACTIVE"
         },
         "media.adxpansion.com": {
@@ -1624,11 +1631,11 @@
             "last_retested_at_iso": "2020-09-14T15:53:35.378049",
             "status": "INACTIVE"
         },
-        "www.hittracker.org": {
-            "included_at_epoch": 1598368172.172169,
-            "included_at_iso": "2020-08-25T15:09:32.172169",
-            "last_retested_at_epoch": 1598540998.969227,
-            "last_retested_at_iso": "2020-08-27T15:09:58.969227",
+        "www.globe7.com": {
+            "included_at_epoch": 1600789257.724756,
+            "included_at_iso": "2020-09-22T15:40:57.724756",
+            "last_retested_at_epoch": 1600789257.724756,
+            "last_retested_at_iso": "2020-09-22T15:40:57.724756",
             "status": "INACTIVE"
         },
         "www.hostedbanners.com": {
