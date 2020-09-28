@@ -5509,6 +5509,13 @@
             "last_retested_at_iso": "2020-09-26T15:25:53.327455",
             "status": "ACTIVE"
         },
+        "ads.advertisespace.com": {
+            "included_at_epoch": 1601306527.348331,
+            "included_at_iso": "2020-09-28T15:22:07.348331",
+            "last_retested_at_epoch": 1601306527.348331,
+            "last_retested_at_iso": "2020-09-28T15:22:07.348331",
+            "status": "INACTIVE"
+        },
         "ads.adviva.net": {
             "included_at_epoch": 1601135016.421018,
             "included_at_iso": "2020-09-26T15:43:36.421018",
@@ -14847,6 +14854,13 @@
             "last_retested_at_iso": "2020-09-26T15:43:22.854824",
             "status": "ACTIVE"
         },
+        "beacon.tunecore.com": {
+            "included_at_epoch": 1601306527.548975,
+            "included_at_iso": "2020-09-28T15:22:07.548975",
+            "last_retested_at_epoch": 1601306527.548975,
+            "last_retested_at_iso": "2020-09-28T15:22:07.548975",
+            "status": "INACTIVE"
+        },
         "beacon.walmart.ca": {
             "included_at_epoch": 1601135001.615659,
             "included_at_iso": "2020-09-26T15:43:21.615659",
@@ -19368,6 +19382,13 @@
             "last_retested_at_epoch": 1601138600.606312,
             "last_retested_at_iso": "2020-09-26T16:43:20.606312",
             "status": "ACTIVE"
+        },
+        "click.cheapstuff.com": {
+            "included_at_epoch": 1601306527.696524,
+            "included_at_iso": "2020-09-28T15:22:07.696524",
+            "last_retested_at_epoch": 1601306527.696524,
+            "last_retested_at_iso": "2020-09-28T15:22:07.696524",
+            "status": "INACTIVE"
         },
         "click.clktraker.com": {
             "included_at_epoch": 1601135046.853616,
