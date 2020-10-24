@@ -30,8 +30,9 @@
         "state": "future"
     },
     "123go.com": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "123stat.com": {
@@ -2465,8 +2466,9 @@
         "state": "future"
     },
     "mtree.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "multioptik.com": {
@@ -3203,8 +3205,9 @@
         "state": "future"
     },
     "s4le.net": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "samtrack1.com": {
