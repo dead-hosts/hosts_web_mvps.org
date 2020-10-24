@@ -917,8 +917,9 @@
         "state": "future"
     },
     "blobar.org": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "blockmetrics.com": {
@@ -1061,8 +1062,9 @@
         "state": "future"
     },
     "cd-ads.com": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cdnmedia.xyz": {
@@ -3281,8 +3283,9 @@
         "state": "future"
     },
     "secureredirect101.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sedoparking.com": {
@@ -3789,8 +3792,9 @@
         "state": "future"
     },
     "uppyads.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "uptodatecontent.net": {
@@ -3839,8 +3843,9 @@
         "state": "future"
     },
     "videe.tv": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "video-pomp.com": {
@@ -4096,8 +4101,9 @@
         "state": "future"
     },
     "zdbb.net": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zedo.com": {
