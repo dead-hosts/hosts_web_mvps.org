@@ -5510,11 +5510,11 @@
             "status": "ACTIVE"
         },
         "ads.advertisespace.com": {
-            "included_at_epoch": 1601306527.348331,
-            "included_at_iso": "2020-09-28T15:22:07.348331",
-            "last_retested_at_epoch": 1601306527.348331,
-            "last_retested_at_iso": "2020-09-28T15:22:07.348331",
-            "status": "INACTIVE"
+            "included_at_epoch": 1603732476.665755,
+            "included_at_iso": "2020-10-26T17:14:36.665755",
+            "last_retested_at_epoch": 1603732476.665755,
+            "last_retested_at_iso": "2020-10-26T17:14:36.665755",
+            "status": "ACTIVE"
         },
         "ads.adviva.net": {
             "included_at_epoch": 1603558889.67733,
@@ -14855,10 +14855,10 @@
             "status": "ACTIVE"
         },
         "beacon.tunecore.com": {
-            "included_at_epoch": 1601306527.548975,
-            "included_at_iso": "2020-09-28T15:22:07.548975",
-            "last_retested_at_epoch": 1601306527.548975,
-            "last_retested_at_iso": "2020-09-28T15:22:07.548975",
+            "included_at_epoch": 1603732476.881375,
+            "included_at_iso": "2020-10-26T17:14:36.881375",
+            "last_retested_at_epoch": 1603732476.881375,
+            "last_retested_at_iso": "2020-10-26T17:14:36.881375",
             "status": "INACTIVE"
         },
         "beacon.walmart.ca": {
@@ -19384,10 +19384,10 @@
             "status": "ACTIVE"
         },
         "click.cheapstuff.com": {
-            "included_at_epoch": 1601306527.696524,
-            "included_at_iso": "2020-09-28T15:22:07.696524",
-            "last_retested_at_epoch": 1601306527.696524,
-            "last_retested_at_iso": "2020-09-28T15:22:07.696524",
+            "included_at_epoch": 1603732477.017037,
+            "included_at_iso": "2020-10-26T17:14:37.017037",
+            "last_retested_at_epoch": 1603732477.017037,
+            "last_retested_at_iso": "2020-10-26T17:14:37.017037",
             "status": "INACTIVE"
         },
         "click.clktraker.com": {
