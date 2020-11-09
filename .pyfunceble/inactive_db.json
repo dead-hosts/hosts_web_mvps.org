@@ -2282,13 +2282,6 @@
             "last_retested_at_iso": "2020-10-24T17:01:31.592062",
             "status": "ACTIVE"
         },
-        "a1.admaster.net": {
-            "included_at_epoch": 1602516687.092352,
-            "included_at_iso": "2020-10-12T15:31:27.092352",
-            "last_retested_at_epoch": 1602516687.092352,
-            "last_retested_at_iso": "2020-10-12T15:31:27.092352",
-            "status": "INACTIVE"
-        },
         "a1.seadform.net": {
             "included_at_epoch": 1603557449.750332,
             "included_at_iso": "2020-10-24T16:37:29.750332",
@@ -5034,10 +5027,10 @@
             "status": "ACTIVE"
         },
         "adnetwork.buzzlogic.com": {
-            "included_at_epoch": 1602516687.539298,
-            "included_at_iso": "2020-10-12T15:31:27.539298",
-            "last_retested_at_epoch": 1602516687.539298,
-            "last_retested_at_iso": "2020-10-12T15:31:27.539298",
+            "included_at_epoch": 1604940045.513919,
+            "included_at_iso": "2020-11-09T16:40:45.513919",
+            "last_retested_at_epoch": 1604940045.513919,
+            "last_retested_at_iso": "2020-11-09T16:40:45.513919",
             "status": "INACTIVE"
         },
         "ado.pro-market.net": {
@@ -8548,11 +8541,11 @@
             "status": "INACTIVE"
         },
         "ads1.omdadget.com": {
-            "included_at_epoch": 1602516687.679203,
-            "included_at_iso": "2020-10-12T15:31:27.679203",
-            "last_retested_at_epoch": 1602516687.679203,
-            "last_retested_at_iso": "2020-10-12T15:31:27.679203",
-            "status": "INACTIVE"
+            "included_at_epoch": 1604940045.650116,
+            "included_at_iso": "2020-11-09T16:40:45.650116",
+            "last_retested_at_epoch": 1604940045.650116,
+            "last_retested_at_iso": "2020-11-09T16:40:45.650116",
+            "status": "ACTIVE"
         },
         "ads1.speedbit.com": {
             "included_at_epoch": 1603561729.397487,
@@ -22541,10 +22534,10 @@
             "status": "ACTIVE"
         },
         "d1.playboy.com": {
-            "included_at_epoch": 1602516687.956383,
-            "included_at_iso": "2020-10-12T15:31:27.956383",
-            "last_retested_at_epoch": 1602516687.956383,
-            "last_retested_at_iso": "2020-10-12T15:31:27.956383",
+            "included_at_epoch": 1604940045.933301,
+            "included_at_iso": "2020-11-09T16:40:45.933301",
+            "last_retested_at_epoch": 1604940045.933301,
+            "last_retested_at_iso": "2020-11-09T16:40:45.933301",
             "status": "INACTIVE"
         },
         "d169bbxks24g2u.cloudfront.net": {
@@ -31450,13 +31443,6 @@
             "last_retested_at_epoch": 1603561788.578434,
             "last_retested_at_iso": "2020-10-24T17:49:48.578434",
             "status": "ACTIVE"
-        },
-        "img.admaster.net": {
-            "included_at_epoch": 1602516687.257005,
-            "included_at_iso": "2020-10-12T15:31:27.257005",
-            "last_retested_at_epoch": 1602516687.257005,
-            "last_retested_at_iso": "2020-10-12T15:31:27.257005",
-            "status": "INACTIVE"
         },
         "img.adplan-ds.com": {
             "included_at_epoch": 1603555082.795731,
@@ -52088,10 +52074,10 @@
             "status": "ACTIVE"
         },
         "stir.semilo.com": {
-            "included_at_epoch": 1602516687.817756,
-            "included_at_iso": "2020-10-12T15:31:27.817756",
-            "last_retested_at_epoch": 1602516687.817756,
-            "last_retested_at_iso": "2020-10-12T15:31:27.817756",
+            "included_at_epoch": 1604940045.789739,
+            "included_at_iso": "2020-11-09T16:40:45.789739",
+            "last_retested_at_epoch": 1604940045.789739,
+            "last_retested_at_iso": "2020-11-09T16:40:45.789739",
             "status": "INACTIVE"
         },
         "stockgroup.us.intellitxt.com": {
@@ -55014,10 +55000,10 @@
             "status": "ACTIVE"
         },
         "tr.buzzlogic.com": {
-            "included_at_epoch": 1602516687.395336,
-            "included_at_iso": "2020-10-12T15:31:27.395336",
-            "last_retested_at_epoch": 1602516687.395336,
-            "last_retested_at_iso": "2020-10-12T15:31:27.395336",
+            "included_at_epoch": 1604940045.320965,
+            "included_at_iso": "2020-11-09T16:40:45.320965",
+            "last_retested_at_epoch": 1604940045.320965,
+            "last_retested_at_iso": "2020-11-09T16:40:45.320965",
             "status": "INACTIVE"
         },
         "tr.de.adlink.net": {
