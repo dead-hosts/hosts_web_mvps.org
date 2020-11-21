@@ -1443,8 +1443,9 @@
         "state": "future"
     },
     "dvdhentai.net": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635638400.0,
+        "expiration_date": "31-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "eadsrv.com": {
@@ -2019,8 +2020,9 @@
         "state": "future"
     },
     "hostingprod.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hot2015rewards.com": {
@@ -2643,8 +2645,9 @@
         "state": "future"
     },
     "ntkrnlpa.info": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "ntlligent.info": {
@@ -2694,8 +2697,9 @@
         "state": "future"
     },
     "onclkds.com": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "one.ru": {
@@ -2716,7 +2720,8 @@
     "onlinadverts.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "opendownloadmanager.com": {
         "epoch": 1613520000.0,
@@ -3657,8 +3662,9 @@
         "state": "future"
     },
     "tmserver-1.com": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635638400.0,
+        "expiration_date": "31-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tns-counter.ru": {
@@ -3979,8 +3985,9 @@
         "state": "future"
     },
     "webclients.net": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "webconnect.net": {
