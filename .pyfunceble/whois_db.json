@@ -715,8 +715,9 @@
         "state": "future"
     },
     "am15.net": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "amateurdevils.com": {
@@ -1150,8 +1151,9 @@
         "state": "future"
     },
     "clicksagent.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clicksor.com": {
@@ -1217,8 +1219,9 @@
         "state": "future"
     },
     "codeads.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coin-hive.com": {
@@ -1444,8 +1447,9 @@
         "state": "future"
     },
     "easyadservice.com": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "easyhitcounters.com": {
@@ -2222,8 +2226,9 @@
         "state": "future"
     },
     "keywordmax.com": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kvors.com": {
@@ -2386,10 +2391,10 @@
         "state": "future"
     },
     "medleyads.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "megapopads.com": {
         "epoch": 1623456000.0,
@@ -2618,8 +2623,9 @@
         "state": "future"
     },
     "nsrecord.org": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "ntkrnlpa.info": {
@@ -2643,8 +2649,9 @@
         "state": "future"
     },
     "o-oe.com": {
-        "epoch": 1605052800.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oamtrk.com": {
@@ -2815,8 +2822,9 @@
         "state": "future"
     },
     "peakclick.com": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "peerfly.com": {
