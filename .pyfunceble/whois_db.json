@@ -636,8 +636,9 @@
         "state": "future"
     },
     "adve.net": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "advertising.com": {
