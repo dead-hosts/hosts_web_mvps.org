@@ -133,8 +133,9 @@
         "state": "future"
     },
     "abcstats.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aboutwebservices.com": {
@@ -1262,8 +1263,9 @@
         "state": "future"
     },
     "connectionzone.com": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "connexionsafe.com": {
@@ -2869,8 +2871,9 @@
         "state": "future"
     },
     "pgssl.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pharmacyrxone.com": {
@@ -3082,7 +3085,8 @@
     "qualityporn.biz": {
         "epoch": 1607990400.0,
         "expiration_date": "15-dec-2020",
-        "state": "future"
+        "server": "whois.nic.biz",
+        "state": "past"
     },
     "quantserve.com": {
         "epoch": 1655683200.0,
@@ -3250,8 +3254,9 @@
         "state": "future"
     },
     "rtrgt2.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rubanners.com": {
