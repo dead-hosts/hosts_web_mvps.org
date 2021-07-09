@@ -1,15 +1,17 @@
-{
-    "abs_source": "/home/runner/work/hosts_web_mvps.org/hosts_web_mvps.org/origin.list",
-    "checker_type": "AVAILABILITY",
-    "destination": "origin.list",
-    "hash": "f1cb0778607a12a0eee457e2f1e9e052da311bec3a2576d976750966",
-    "line_number": 9973,
-    "output_dir": "/home/runner/work/hosts_web_mvps.org/hosts_web_mvps.org/output/origin.list",
-    "previous_hash": "f1cb0778607a12a0eee457e2f1e9e052da311bec3a2576d976750966",
-    "rel_source": "origin.list",
-    "session_id": "7c530517d1bf32ecb62e068f",
-    "source": "origin.list",
-    "subject": "origin.list",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/hosts_web_mvps.org/hosts_web_mvps.org/origin.list",
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "f1cb0778607a12a0eee457e2f1e9e052da311bec3a2576d976750966",
+        "line_number": 9973,
+        "output_dir": "/home/runner/work/hosts_web_mvps.org/hosts_web_mvps.org/output/origin.list",
+        "previous_hash": "f1cb0778607a12a0eee457e2f1e9e052da311bec3a2576d976750966",
+        "rel_source": "origin.list",
+        "session_id": "7c530517d1bf32ecb62e068f",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
