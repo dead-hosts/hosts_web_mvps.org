@@ -1,12 +1,14 @@
 {
     "counter": {
+        "Dynadot16 LLC": 1,
         "RegistryGate GmbH ( https://nic.at/registrar/228 )": 1,
         "TLD Registrar Solutions Ltd.": 1,
-        "total": 2
+        "total": 3
     },
     "percentage": {
-        "RegistryGate GmbH ( https://nic.at/registrar/228 )": 50.0,
-        "TLD Registrar Solutions Ltd.": 50.0,
+        "Dynadot16 LLC": 33.333333333333336,
+        "RegistryGate GmbH ( https://nic.at/registrar/228 )": 33.333333333333336,
+        "TLD Registrar Solutions Ltd.": 33.333333333333336,
         "total": 100.0
     }
 }
