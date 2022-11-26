@@ -1,14 +1,16 @@
 {
     "counter": {
+        "Dynadot16 LLC": 1,
         "GoDaddy.com, LLC": 1,
         "Realtime Register B.V.": 1,
         "World4You Internet Services GmbH ( https://nic.at/registrar/61 )": 1,
-        "total": 3
+        "total": 4
     },
     "percentage": {
-        "GoDaddy.com, LLC": 33.333333333333336,
-        "Realtime Register B.V.": 33.333333333333336,
-        "World4You Internet Services GmbH ( https://nic.at/registrar/61 )": 33.333333333333336,
+        "Dynadot16 LLC": 25.0,
+        "GoDaddy.com, LLC": 25.0,
+        "Realtime Register B.V.": 25.0,
+        "World4You Internet Services GmbH ( https://nic.at/registrar/61 )": 25.0,
         "total": 100.0
     }
 }
