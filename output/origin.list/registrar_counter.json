@@ -1,10 +1,12 @@
 {
     "counter": {
+        "GoDaddy.com, LLC": 1,
         "World4You Internet Services GmbH ( https://nic.at/registrar/61 )": 1,
-        "total": 1
+        "total": 2
     },
     "percentage": {
-        "World4You Internet Services GmbH ( https://nic.at/registrar/61 )": 100.0,
+        "GoDaddy.com, LLC": 50.0,
+        "World4You Internet Services GmbH ( https://nic.at/registrar/61 )": 50.0,
         "total": 100.0
     }
 }
