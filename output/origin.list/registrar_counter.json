@@ -1,12 +1,14 @@
 {
     "counter": {
         "GoDaddy.com, LLC": 1,
+        "Realtime Register B.V.": 1,
         "World4You Internet Services GmbH ( https://nic.at/registrar/61 )": 1,
-        "total": 2
+        "total": 3
     },
     "percentage": {
-        "GoDaddy.com, LLC": 50.0,
-        "World4You Internet Services GmbH ( https://nic.at/registrar/61 )": 50.0,
+        "GoDaddy.com, LLC": 33.333333333333336,
+        "Realtime Register B.V.": 33.333333333333336,
+        "World4You Internet Services GmbH ( https://nic.at/registrar/61 )": 33.333333333333336,
         "total": 100.0
     }
 }
